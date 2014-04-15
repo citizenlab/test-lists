@@ -1,0 +1,957 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://alsaha.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://angryarab.blogspot.com"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://answering-islam.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://arabic.cnn.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://arabic.peopledaily.com.cn"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://arabsex2.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://beurgay.free.fr"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogs.albawaba.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://debate.domini.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gaymiddleeast.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://international.daralhayat.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://jeeran.com/blogs/"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://jsad.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://libyan-national-activities.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://members.aol.com/alnour/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://onearabworld.blog.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://rajaa.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://sijill.tripod.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://tibsty.com/index.php"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://translate.sakhr.com/Sakhr/eLogin.aspx"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aawsat.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.abtallibya.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.afp.com/afpcom/ar"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ahewar.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.akhbar-libya.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.akhbar-libyaonline.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.al-bab.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alalam.ir"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alarab.co.uk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alarabiya.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.albawaba.com/ar/countries/libya"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.alcoholreviews.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.alfa-online.net/Arabic/index.htm?"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alfajraljadeedeng.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.algathafi.tv"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.alhesbah.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.allahsassurance.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.almanaralink.com/new/"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.almanaralink.com/new/index.php"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://www.almisbar.com/salam_trans_a.html"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.alnaddy.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alquds.co.uk"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.alsakifah.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alsatoor.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.alt-libya.org"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.alzawag.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.amin.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.anhri.net/libya/"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.arabfaces.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.arabhumanrights.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.arabicbible.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.arabland.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.arabmail.de"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.arabo.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.araboo.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.arabsdir.com"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://www.arabsgate.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.arabvista.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.atf.org.jo"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.avoda.org.il"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.ayna.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.azzaman.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.baath-party.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.bahai-faith.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.bahai.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.banatal3arab.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk/arabic/"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.blogmisr.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.bulkwines.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.buqnah.net"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.coptic.net/EncyclopediaCoptica/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.cpj.org/index.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.crin.org"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.dolcefood.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.drinkoftheweek.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.duke.org"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.ebhth.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.elaph.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.euromedrights.net/pages/2/page/language/3"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.eyoon.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.ezawaj.com"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.fredericks.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.freearabvoice.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.freedomhouse.org/template.cfm?page=1"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://www.gawab.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gayarab.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gaylebanon.info"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gaymiddleeast.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gaytelaviv.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.glas.org"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.godhatesfags.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.google.ae"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.google.com.sa"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.goslingsrum.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.haaretz.co.il"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.hadash.org.il"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.haqiqa.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.haya.org"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.heretical.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrea.org/ar/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrria.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.idf.il"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.ikhwan.net/vb/"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.ikhwanweb.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.islammemo.cc"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.islamonline.net/Arabic/index.shtml"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.israel.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.jadal.org/?page_id=5"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.jockey.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.justadultsites.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.justice4libya.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.kelma.org/kelmaghreb.htm"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.knesset.gov.il"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.ladybwear.com"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.lasenza.com/eng/index.cfm"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.lcu-libya.co.uk"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.lhrs.ch"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libya-al-mostakbal.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libya-alhora.com/forum/index.php"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.libya-almostakbal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.libya-alyoum.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.libya-watanona.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libya-watch.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libya4ever.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.libyadaily.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.libyaeye.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libyaforum.org"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.libyaimal.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libyamazigh.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libyana.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libyana.org/discussion/index.php"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libyanboyscout.com/muntada/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libyancenter.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libyanconstitutionalunion.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libyanfsl.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.libyanhumanrights.com"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.light-of-life.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.likud.org.il"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mahjoob.com"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://www.maktoob.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.maktoobblog.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.martinlutherking.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.mengos.net/arabic/default.asp"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.meretz.org.il"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.metransparent.net/spip.php?page=sommaire&lang=ar"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.mfa.gov.il"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.middle-east-online.com/libya"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.milta1980.co.uk"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.mixed-drink.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.modawanati.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.multaqa.org/arabic.php"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.naseej.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.netarabic.com/vb/"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.nextdrink.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.nicks.com.au/index.aspx?"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.onehanesplace.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.pi-libya.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.raddadi.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.radiosawa.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.refugees.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rezgar.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rnw.nl"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.ru4arab.ru/marry.htm"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.sami4.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.search.arabs-online.com"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.secretsinlace.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.secularislam.org"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.sendbad.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.taqrir.org"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://www.tarjem.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.tawalt.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tawhed.ws"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.the-good-way.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.thebirdman.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.thegrace.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.thekoran.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.thenewlibya.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.thissitedoesnotexist.co.il"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.tibsty.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.toystore.co.il"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.transparency-libya.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.us-israel.org"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.winebid.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.worldwidewine.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.x6x6.com/mdwnat/"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.yandy.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.zawadj.net"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.zawajfriends.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.zmag.org/Zmag/articles/ShalomLyb2.html"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "https://www.cia.gov/cia/publications/factbook/geos/ly.html"
+    }
+]

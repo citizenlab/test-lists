@@ -1,0 +1,1037 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://articles.chicagotribune.com/2012-11-01/news/sns-rt-us-china-environmentbre8a01l0-20121101_1_china-struggles-px-plant-local-government"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://big5.falundafa.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://bigthink.com/blogs"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://bigthink.com/blogs/the-way-of-ai-weiwei"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://biweekly.hrichina.org"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blog.sina.com.cn"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blog.sina.com.cn/twocold"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.wsj.com/chinarealtime/"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://bosco.foreignpolicy.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://china.nrdc.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://chinadigitaltimes.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://chinadigitaltimes.net/chinese/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://chinalawandpolicy.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://cht.civic-exchange.org/wp/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cmp.hku.hk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cn.nytimes.com"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://cn.yahoo.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cnpolitics.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cpj.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cpj.org/asia/"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://csis.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://csis.org/region/china"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://download.cnet.com/free-vpn/3000-7240_4-75445860.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://duihua.org/wp/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://en.rsf.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://en.wikipedia.org/wiki/Main_Page"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://fcchk.org"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://gb.falundafa.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://globalvoicesonline.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://globalvoicesonline.org/-/world/east-asia/china/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ifeng.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mashable.com/follow/topics/arab-spring/"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://news.nationalgeographic.com/news/energy/2012/10/121026-east-china-sea-dispute/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ntdtv.org"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://openvpn.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://personaldemocracy.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://project2049.net"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://renren.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://research.jmsc.hku.hk/social/obs.py/sinaweibo/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rsf-chinese.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://savetibet.us"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://seeingredinchina.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://shanghaiist.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tealeafnation.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://thediplomat.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://tibet.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://uhrp.org"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://ultrasurf.us"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://us.dongtaiwang.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://uyghuramerican.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://weblog.savetibet.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://wqw2010.blogspot.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.64memo.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ajc.org/site/c.ijiti2phkog/b.685761/k.cb97/home.htm"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aljazeera.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.americanprogress.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.americanprogress.org/issues/china/view/"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.americanprogress.org/tag/china-leadership-transition/view/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.amnesty.org.hk/chi/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.appledaily.com.tw"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.barackobama.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk/zhongwen/simp/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.boxun.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.bp.com/sectiongenericarticle.do?categoryid=9008847&contentid=7016486"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.brookings.edu"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.brookings.edu/research/topics/china"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.caixin.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.cfr.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.chinaaid.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.chinaaid.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.chinesepen.org/english/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.chinesepen.org/index.shtml"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.chrdnet.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.civic-exchange.org/wp/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.clb.org.hk/en/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.clb.org.hk/schi/"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.clearwisdom.net"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.dalailama.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.dalailamaworld.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.danwei.com"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.dit-inc.us"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.douban.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.economist.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.economist.com/topics/arab-spring"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.epochtimes.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.eurasianet.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.facebook.com/pages/%e5%a4%a9%e5%ae%89%e9%96%80%e6%af%8d%e8%a6%aa-tiananmen-mothers/52119319766"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.falundafa.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.fccchina.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.fidh.org/-china,227-"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.fidh.org/-english-"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.fordfoundation.org"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.fordfoundation.org/regions/china/grant-making"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.fordfoundation.org/regions/china/grant-making/zh-cn"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.fordfoundation.org/regions/china/zh-cn"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.foreignaffairs.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.foreignaffairs.com/regions/asia"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.foreignpolicy.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.freedomhouse.org/country/china"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ft.com/home/uk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.globalnetworkinitiative.org"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.globalwitness.org"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.globalwitness.org/zh-hans"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.google.cn"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.google.com.hk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.guardian.co.uk/technology/series/battle-for-the-internet"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.gyalwarinpoche.com"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.howtobypassinternetcensorship.org"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.howtobypassinternetcensorship.org/zh.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "Http://www.hrichina.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrichina.org/cn/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrichina.org/hk/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.org/asia/china"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.org/zh-hans"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.huaxiabao.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.huffingtonpost.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.infzm.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.iri.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.jbi-humanrights.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.kaixin001.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.liaowangxizang.net/drupal-6.3/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.minghui.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mingpao.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.mittromney.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.newamerica.net"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.nrdc.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ntdtv.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ohchr.org/ch/countries/asiaregion/pages/cnindex.aspx"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ohchr.org/en/countries/asiaregion/pages/cnindex.aspx"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ohchr.org/en/newsevents/pages/media.aspx?ismediapage=true&langid=e"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ohchr.org/en/pages/welcomepage.aspx"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.opensocietyfoundations.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.peacehall.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.pen-international.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.phayul.com"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.qq.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.renyurenquan.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rfa.org/cantonese/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rfa.org/english/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rfa.org/mandarin/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rfa.org/tibetan/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rfa.org/uyghur/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rferl.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.savetibet.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.scmp.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.scribd.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.smhric.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.sohu.com"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.spotify.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.tacticaltech.org"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.taobao.com/index_global.php"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ted.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ted.com/talks/michael_anti_behind_the_great_firewall_of_china.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tiananmenmother.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.tianya.cn"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.tibetnetwork.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.tpprc.org"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.tudou.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.ubuntu.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.upi.com/top_news/world-news/2012/11/04/japan-pm-seeks-calm-talks-over-islands/upi-94291352050130/"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.ushahidi.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.uyghurcongress.org/cn/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.uyghurcongress.org/en/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.voachinese.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.voatibetan.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.voatibetanenglish.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.vot.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.washingtonpost.com"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.weibo.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.whatsonningbo.com/health1523.html"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.whitehouse.gov"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.wpfc.org"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.wto.org/english/thewto_e/countries_e/china_e.htm"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.youku.com"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.zccw.info"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www2.ohchr.org/english/bodies/cat/cats41.htm"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www2.ohchr.org/english/bodies/cat/docs/co/cat-c-chn-co4_ch.pdf"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zh.globalvoicesonline.org/hans/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zh.globalvoicesonline.org/hans/category/world/east-asia/china/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zh.globalvoicesonline.org/hant/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zh.globalvoicesonline.org/hant/category/world/east-asia/china/"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://zh.wikipedia.org/wiki/wikipedia:%e9%a6%96%e9%a1%b5"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "https://citizenlab.org"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "https://mail.google.com/mail"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "https://s3.amazonaws.com/0ubz-2q11-gi9y/en.html"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "https://s3.amazonaws.com/0ubz-2q11-gi9y/zh.html"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "https://securityinabox.org"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "https://securityinabox.org/zh"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://tibetaction.net"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "https://trac.torproject.org/projects/tor/wiki"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "https://twitter.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "https://twitter.com/aiww"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://twitter.com/chrdnet"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://twitter.com/weiquanwang"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.amnesty.org.hk/html/"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "https://www.dropbox.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.eff.org"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "https://www.google.com"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "https://www.martus.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.privacyinternational.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.studentsforafreetibet.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.studentsforafreetibet.org/tib/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.studentsforafreetibet.org/zh/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "https://www.torproject.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "https://www.tumblr.com"
+    }
+]

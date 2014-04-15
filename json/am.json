@@ -1,0 +1,417 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http:// www.payqar.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://a1plus.wordpress.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://adl.hayway.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ap.rau.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ara-ashjian.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://aramazd.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://azad-hye.blogspot.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://beeline.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://civilnet.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ditord.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://epress.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://foi.am/en/"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gayarmenia.aglany.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gayarmenia.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://genats-lehayim.blogspot.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://hhk.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://iararat.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://kornelij.livejournal.com/tag/blog"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://lragir.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://markgrigorian.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://panarmenian.net"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://pigh.livejournal.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://pinkarmenia.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://qbhima.blogspot.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://queeringyerevan.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://reporter.am"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://stopxenophobia.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://times.am"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://torrents.gisher.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://trans-armenia.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://unzipped.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://webtv.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.168.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.1in.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.7or.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.a1plus.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aaainc.org"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.adc.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aiprg.net"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.amiab.am"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.anc.am/en/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.anca.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aravot.am"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.arf.am"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.arfd.am"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.arfd.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.arka.am/eng/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.armenialiberty.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.armenianow.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.armeniansingles.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.armeniapedia.org"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.arminco.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.arminfo.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.armtimes.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.armtoday.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.azadinform.az"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.azatutyun.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.azatutyun.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.azg.am"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.bhk.am"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.bionet.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.chi.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cilicia.com/armo_life-log.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.csi.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.day.az"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.fastnet.am"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.freenet.am"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.galasla.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.givemeinfo.am/en/"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.gnc.am"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.hayary.org"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.hayastan.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.haytube.com"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.health.am"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.heritage.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.hetq.am"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hra.am"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.hraparak.am"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.hunchak.org.au"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.hyesingles.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.jewish.am"
+    }, 
+    {
+        "category_code": null, 
+        "category_description": null, 
+        "url": "http://www.jnews.am"
+    }
+]

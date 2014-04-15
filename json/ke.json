@@ -1,0 +1,322 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://chamachamwananchi.wordpress.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://en.wikipedia.org/wiki/LGBT_rights_in_Kenya"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://galck.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gaykenya.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gaylifekenya.blogspot.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gukira.wordpress.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://islamkenya.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://jihad-e-informacion.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://jukwaa.proboards.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://kenvironews.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://kenyaglobe.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://kenyanporn.blogspot.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://kenyantg.blogspot.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://kenyaraha.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://kenyauptodate.blogspot.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://nap-k.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://new-democrats.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://nipate.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://nudekenya.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://sdpkenya.blogspot.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://sukumakenya.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://sw.globalvoicesonline.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://thegaykenyan.blogspot.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://vitukali.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://vitukokenya.com"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://womenontherun.se/node/42"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.acronymfinder.com/Kenya-African-Democratic-Development-Union-%28political-party%3B-Kenya%29-%28KADDU%29.html"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.afrakenya.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.aljazeera.net/news/archive/archive?ArchiveId=1089516"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk/swahili/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.bungelamwananchi.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.cmd-kenya.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.cmd-kenya.org/party.php?ppid=3&partyname=Kenya%20African%20Democratic%20Development%20Union"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.cmd-kenya.org/party.php?ppid=33&partyname=People%27s%20Party%20Of%20Kenya"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.democraticpartyofkenya.co.ke/History-of-Democratic-Party/history-of-the-dp.html"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ehealth.or.ke/facilities/facility.aspx?fas=13187"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.eisa.org.za"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.epapercatalog.com/epaper/taifaleo-epaper.php"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.org/africa/kenya"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.icrh.org/geography/kenya"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.ishtarmsm.org"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.kenya4.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.kenyasexparadise.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.khrc.or.ke"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.knchr.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.marsgroupkenya.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.minoritywomeninaction.co.ke"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.mzalendo.com"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.nairobinights.co.cc"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.nation.co.ke"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.odm.co.ke"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.rickross.com/groups/mungiki.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.standardmedia.co.ke"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.theeastafrican.co.ke"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.tikenya.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.time.com/time/world/article/0,8599,2057966,00.html"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.transgenderkenya.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.uchaguzi.co.ke"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.wikileaks.org/wiki/The_looting_of_Kenya_under_President_Moi"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.wrapkenya.or.ke"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "https://www.bkms-system.net/bkwebanon/report/clientInfo?cin=111KACC33&language=eng"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "https://www.facebook.com/people/Al-Amin-Kimathi/1557151493"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "https://www.facebook.com/people/William-Ruto/1487501217"
+    }
+]

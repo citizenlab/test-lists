@@ -1,0 +1,492 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://abhazia-sochi.blogspot.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://cluborlov.com/apsny/"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://cominf.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://community-dpr.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://cyxymu.livejournal.com/280294.html"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://data.electionportal.ge"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://eng.kavkaz-uzel.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://forum.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://forum.ge/?showforum=29"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gaytbilisi.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://gazeta.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ick.ge"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://identoba.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://info9.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://lenta.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://lgbt.ge"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://loveplanet.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://maestro.ge"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://mamuli.net/portal/ge/forum/forum_topics.asp?FID=70"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://netgazeti.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://odnoklassniki.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://osgenocide.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://osinform.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://palitratv.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pirweli.com.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://presa.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rustavi2.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://saakant-bichi.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://solomonternaleli.wordpress.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://southosetia.euro.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://thewayofgeorgia.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tribuna.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tv9.ge"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://twitter.com/b_ivanishvili"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.abkhazeti.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.abkhazia.dot.ge"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.abkhazia.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.abkhaziagov.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.abkhaziya.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.apsny.ge"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.apsnypress.info"
+    }, 
+    {
+        "category_code": "SFTWR", 
+        "category_description": "Software downloads", 
+        "url": "http://www.avoe.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.azrebi.ge"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.bestcracks.net"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.binmahfouz.info/en_index.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.civil.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.conservators.ge"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.crack.ms"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.cracks.vg"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.dailymotion.com/tag/jihad"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.damochka.ru"
+    }, 
+    {
+        "category_code": "SFTWR", 
+        "category_description": "Software downloads", 
+        "url": "http://www.download.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ertoba.net/echo1/sppro/bpg/default.asp"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.expert.ru/printissues/expert/2003/45/45ex-editrl/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.expert.ru/tags/countries/georgia/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.facebook.com/merabishvili.vano"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.facebook.com/officialbidzinaivanishvili"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.facebook.com/officialgeorgiandream"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.facebook.com/saakashvilimikheil"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.fast.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.for.ge"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.gamebookers.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.georgiandream.ge"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.gol.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.gyla.ge"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.hackzone.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.intercasino.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.iveroni.com.ge"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kafkas.org.tr"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.labour.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.liberali.ge"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.link.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.livestream.com/tv9ge"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.mfaabkhazia.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.mid.ru"
+    }, 
+    {
+        "category_code": "VOIP", 
+        "category_description": "VOIP", 
+        "url": "http://www.myphone.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ncp.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ndp.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.netgazeti.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.newsgeorgia.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.newsgeorgia.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.osradio.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.regnum.ru/news/georgia/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.republicans.ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rian.ru"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.s0ftpj.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.scribd.com/tv9ge"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.svobodnaya-gruzia.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.tabula.ge"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.torrents.ge"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.unm.ge"
+    }, 
+    {
+        "category_code": "VOIP", 
+        "category_description": "VOIP", 
+        "url": "http://www.voip.ge"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.willhill.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.youtube.com/channel/ucjcuyyg0yl6sgtfxftmtmvq"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.youtube.com/user/ivanishviliofficial"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.youtube.com/user/tv9ge"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "https://www.rapidshare.com"
+    }
+]

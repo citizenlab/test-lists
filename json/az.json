@@ -1,0 +1,72 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://azerireport.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://azeritoday.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://imgur.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://imgur.com/a/cylkb#0"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://kavkaz.tv"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://par-anoia.net/releases.html"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://par-anoia.net/releases.html#dmx"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://watchtower.org"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.jw.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kavkazcenter.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kavkazcenter.info"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.onetwotrip.az"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.onetwotrip.com"
+    }
+]

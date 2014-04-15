@@ -1,0 +1,1082 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://2012.votolimpio.info"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://alasc.wordpress.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://alekboyd.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://angelucho.wordpress.com/2009/06/19/%C2%A1muerte-a-chavez/"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://anthropologica.tumblr.com/archive"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://atacada.wordpress.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://blog.descargasgay.com"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://bloggeras.wordpress.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://buscador.infoguia.net"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://caracaschronicles.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://caracasgringo.wordpress.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://caracasundercover.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://chavilarism.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://citizenfeathers.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://clandestino-venezuela.es.tl"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://clubcritica.spaces.live.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://constitutional-reform-venezuela.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://cuentosintrascendentes.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://daniel-venezuela.blogspot.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://depravario.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://devilsexcrement.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://dolarbb.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://downfaller-plateado.blogspot.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://es.catholic.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://esdata.info"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://etnoecomerida.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://exdiablo.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://filosofiasinsolucion.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://freevenezuela.wordpress.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://fuerzasolidaria.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://globovision.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://hayuncamino.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://indigenista.org"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://laliebrelibre.com.ve/w/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://lasarmasdecoronel.blogspot.co.uk"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://movimientoecologicodevenezuela.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://ogil.wordpress.com"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://oilwars.blogspot.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://orvex.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://pmbcomments.blogspot.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://porlaconciencia.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://prensadesolidaridad.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://queacido.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://reforma-constitucional-venezuela.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://revistas.luz.edu.ve/index.php/rcs"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://runrun.es"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://samurai-bolivariano.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://sinmordaza.org/nuevo/"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://socialdemencia.blogspot.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://sociedadcivilvenezuela.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://soloenvenezuela.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://superhuevoblog.blogspot.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://tlc-no.blogspot.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://tlc.ticoblogger.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://todosenred.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://twitter-venezuela.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://urru.org"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://venepoetics.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://venezuela-centro.axxs.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://venezuela-centro.axxs.org/54"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://venezuela-usa.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://venezuela.elmilitante.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://venezuela.indymedia.org/es/index.shtml"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://venezuelareal.zoomblog.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://votojoven.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://vzlanpolitics.blogspot.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.11abril.com/index.asp"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.11abril.com/index/especiales/chavezthefilm.asp"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.abn.info.ve"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.accsi.org.ve"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.acsol.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ainfos.ca"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.alternativabolivariana.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.analitica.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aporrea.org"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.avhi.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.bilaterals.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.biodiversidadla.org"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.caiv.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.caiv.org/index.php?seccion=Home"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.camino-del-diamante.org/centros2.php?cod=1"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.caracasktc.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.caracasqueer.blogspot.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.cecodap.org.ve"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.cedema.org/index.php?ver=mostrar&pais=1&nombrepais=Venezuela"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.cedice.org.ve"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ciudadaniaactiva.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cne.gov.ve"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.codigovenezuela.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.complotmagazine.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.conive.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.conocereisdeverdad.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.controlciudadano.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.controlobrero.org"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.criptored.upm.es"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.defiendetufe.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.derechos.org.ve"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.derechos.org/nizkor/venezuela/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.descifrado.com/index.php?id=11"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dialogo-americas.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.diegoarria.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.diploos.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dolarcotizacionhoy.com.ar/dolar-permuta/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dollar.nu"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dollar.nu/paralelo.php"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dollarparalelovenezuela.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.ecoportal.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.el-nacional.com/www/site/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.elchiguirebipolar.com"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.elhacker.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.elluchador.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.elsiglo.com.ve"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.eltiempo.com.ve"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.eluniversal.com/index.shtml"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.embarazada.com/default.asp?EmbCountry=Venezuela"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.entrerayas.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.eraecologica.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.escritores.org/index.php"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.fedecamaras.org.ve"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.feminicidio.cl"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.fncancer.org.ve/site/p_contenido.php?id="
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.fondoindigena.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.foros.com.ve"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.freerctv.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.freevenezuela.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.frentepatriotico.com"
+    }, 
+    {
+        "category_code": "GAME", 
+        "category_description": "Gaming", 
+        "url": "http://www.fukgamez.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.fundacionculturaurbana.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.fundacionreflejosdevenezuela.com"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.fundamujer.org.ve"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.fundepro.com.ve"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.futuropresente.com.ve"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.globovision.com/index.php"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gumilla.org"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.hack-box.info"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.hackemate.com.ar"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.hispabyte.net/index.php"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.humanrightsfoundation.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.iglesia.net"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.iglesiasobrelaroca.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.indigenacampesino.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.infociudadano.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ipys.org.ve"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.isis.cl"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.jotaceve.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.juventudcatolica.org/jovenesguatemala.htm"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.lafuerzajoven.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.lapatilla.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.lapatriagrande.net"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.latinamericanstudies.org/guatemala-rev.htm"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.latinascontracancer.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.magazinedelpan.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.manosfueradevenezuela.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.marthacolmenares.com"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.mujereshoy.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.nmidigital.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.nodo50.org/tortuga/"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.noticiacristiana.com/news/portada.php"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.noticias24.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.noticierodigital.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.nuevaprensa.com.ve"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.orinoco.org/apg/loindex.asp?lang=es"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ovprisiones.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.partidounnuevotiempo.org/cms/"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.pasca.org"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.pdv.com/lexico/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.periodismodepaz.org"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.plafam.org.ve"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.prosalud.org.ve"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.psuv.org.ve"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.quelacreo.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.radionexx.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.radiounidad.net"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.raza-mexicana.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rctvlibre.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rebelion.org/seccion.php?id=19"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.redapoyo.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.redindigena.info"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.revistafuturos.info"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.rosario.catholic.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.runrun.es"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.saber.ula.ve/gigesex/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.scielo.org.ve/scielo.php"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.servindi.org"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.sexoinfo.org"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.sgiv.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.signosbajolaluna.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.soberania.org"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.solovenezolanas.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.sumate.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.talcualdigital.com/index.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.telesurtv.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.televen.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.thehrf.org"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.tierra-viva.org"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.tierramerica.info"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.todosida.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.tribuna-popular.org"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.uic.org.ve"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.unesco.org/delegates/venezuela/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.unicef.org/venezuela/spanish/"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.unidadvenezuela.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.vcrisis.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.veneblogs.com"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.veneconomia.com/site/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.veneconomia.com/site/index.asp?idim=2"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.venelogia.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.venezuelaawareness.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.venezuelaladies.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.venezuelanchamber.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.venezuelanet.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.veninos.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.voluntadpopular.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.webarticulista.net"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.youtorrent.com/tag/dolar-paralelo-venezuela"
+    }
+]

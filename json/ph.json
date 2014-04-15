@@ -1,0 +1,787 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://2010presidentiables.wordpress.com/reproductive-health-bill-5043/sws-survey-overwhelming-support-for-rh-bill-5043/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://anakpawis.blogspot.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://angtagalnaman.blogspot.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://bangsa.wordpress.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://blacknwhitemovement.blogspot.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://blog.wyzemoro.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://clearblogs.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://clearblogs.com/sam"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cmfr-phil.blogspot.com"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://codengo.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://empressmaruja.wordpress.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://filipinofriendfinder.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://gibo.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://goodbyegloria.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://greenphils.com"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://groups.google.com/group/soc.culture.filipino/topics?lnk=sg"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://groups.yahoo.com/group/angladlad/"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://groups.yahoo.com/group/Patriots_of_the_Philippines/"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://groups.yahoo.com/group/ProgressiveTimes/"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://home.casema.nl"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://home.casema.nl/ndf/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://hrw.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://hrw.org/doc?t=asia&c=philip"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://hrw.org/reports/2007/philippines0607/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://inquirer.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://jlozada.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://kilosbayan.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://magdaloparasapagbabago.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mbaceron.agalaw.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mindanao.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://mnlf.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://myerap.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://news.bbc.co.uk/2/hi/asia-pacific/1695576.stm"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://noynoyaquino.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://npcparty.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://onevoice.org.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://philippinecollegian.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://philippinecommentary.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://philippinesfreepress.wordpress.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://pinoyhr.net"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://pinoyscandalo.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rgcruz.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://stopthekillings.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://tan.org.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tonyocruz.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://verafiles.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://web.amnesty.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://web.amnesty.org/library/eng-phl/reports"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://wiki.answers.com/Q/What_is_the_Reproductive_Health_Bill_in_the_Philippines"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.abante.com.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.abs-cbnnews.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.akbayan.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.angkapatiran.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.angladlad.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.arkibongbayan.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.asiamedia.ucla.edu"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.asiamedia.ucla.edu/article.asp?parentid=22739"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.bangsamoro.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.bangsamoro.info"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.blacknwhite-movement.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bulatlat.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.cebuanas.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.cfr.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.cfr.org/publication/9235/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cmfr-phil.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.congress.gov.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cpj.org/attacks05/pages05/intro05.html"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.crisisgroup.org/home/index.cfm?id=2861"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.defendsison.be"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.dfa.gov.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.dnd.gov.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ellentordesillas.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.erap.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.facebook.com/giboteodoro?_fb_noscript=1"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.filipinaheart.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.filipinaporn.org"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.filipinasexlinks.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.filipinosex.org"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.fireflybrigade.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.freewebs.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.freewebs.com/mccpilipinas/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.geocities.com/angladlad/"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.geocities.com/HotSprings/Spa/3115/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.globalvoicesonline.org/-/world/east-asia/philippines/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gmanews.tv"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.haribon.org.ph"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.humantrafficking.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.humantrafficking.org/countries/philippines"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.joey3live.com/?tag=zte-nbn-scandal"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.josemariasison.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.liberalparty.ph"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.loveme.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.loveme.com/women/philippines/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.luisteodoro.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.luwaran.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.malaya.com.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.mannyvillar.com.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.mannyvillar.net"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.maranao.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mindanews.com"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.missbikiniphilippines.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.moroland.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.nacionalistaparty.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.nenepimentel.org"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.neo-angono.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.newsbreak.com.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.newsstand.blogs.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.nujp.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.op.gov.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.pcij.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.petitiononline.com/no2gma/petition.html"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.philippineporn.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.philippinerevolution.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.philonline.com.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.philstar.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.pilipino.org.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.pinglacson.com.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.pinglacson.net/home"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.pinoybigbriber.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.pinoyblog.com"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.pinoyexchange.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.pinoygambler.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.pinoypress.net"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.prolife.org.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.quezon.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.quezon.ph/2009/08/12/le-circus-freak/"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.remedios.com.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.reuters.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.reuters.com/article/latestCrisis/idUSSP36012"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rickycarandang.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.searchforvideo.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.searchforvideo.com/countries/philippines/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.senate.gov.ph"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.senjinggoyestrada.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.sundalo.bravehost.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.sunstar.com.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.time.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.time.com/time/asia/covers/501030804/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tinig.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.tmchronicles.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.trafficking.org.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tribune.net.ph"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tribuneonline.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.txtpower.org"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.undp.org.ph"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.unicef.org/philippines/children/index.html"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.uri.edu"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.uri.edu/artsci/wms/hughes/philippi.htm"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.youtube.com/watch?v=4q0JKzpjh_o"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www2.hu-berlin.de"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www2.hu-berlin.de/sexology/IES/philippines.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://youtube.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://youtube.com/AlJazeeraEnglish"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://youtube.com/zamboangajournal"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zamboangajournal.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zumel.com"
+    }
+]

@@ -1,0 +1,862 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://9.best-ir.org"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://akilli.tv/Default.aspx"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://bbindir.net"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://bet-at-home.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://betting.betfair.com.au"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://coolporntube.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://dersimsite.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://dir.groups.yahoo.com/dir/Regional/Countries/Turkey"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://disaci.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://elmaaltshift.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://en.wikipedia.org/wiki/Cyprus#Current_dispute"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://en.wikipedia.org/wiki/Cyprus_dispute"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://en.wikipedia.org/wiki/Greek_military_junta_of_1967%E2%80%931974"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://en.wikipedia.org/wiki/Islam_in_Turkey"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://eng.akparti.org.tr"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://engelliweb.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://enterhosts.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://ergenekonisourreality.wordpress.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://evdedans.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://fantazishow.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://forumindir.net"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://get-vids.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://hawar.hk-mg.net"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://http://www.arneforumu.org/"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://infinitetube.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://istanblues.splinder.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://istanbulcalling.blogspot.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://istanbulian.blogspot.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://justusboys.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://kafkas.org.tr"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://kasaum.ankara.edu.tr/index_eng.htm"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://kurdishrights.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://kurdistancommentary.wordpress.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://kurdsbook.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://members.fortunecity.com/fstav1/1619.html"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://members.multimania.co.uk/cemevi/"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://metacafe.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://muslima.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://news.bbc.co.uk/2/hi/europe/country_profiles/1016541.stm"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://news.bbc.co.uk/2/hi/europe/country_profiles/1022222.stm"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://news.kaosgl.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://psikolog.org.tr"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://quest.net"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://richarddawkins.net"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://sapphicerotica.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://striptizciler.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://tayproject.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://tr.wikipedia.org/wiki/Ana_Sayfa"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://turkeygay.net"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://turkishculture.org"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://twitter.com/KurdishRights"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://us.oneworld.net/places/turkey"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://whoisharunyahya.wordpress.com"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.acev.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.acikradyo.com.tr"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.alevibektasi.org"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.amargi.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.amnesty.org/en/region/turkey"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.antoloji.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ari.org.tr"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.barobirlik.org.tr/barolar/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk/turkce/"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.bedenimveben.org/english.htm"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.betfair.com/tr/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bianet.org"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.bugday.org"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.casino-bonuslar.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.casinoeuro25.net/tr/index.jsp?page=main&"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.cherrycasino.com/tr/skins/cherrycasino/index.jsp?wrapperClass=home&page=main"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.chp.org.tr"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cumhuriyet.com.tr"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.cydd.org.tr"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.divxcini.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.diziklipizle.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.dogadernegi.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.dp.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.egitimsen.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.ekonomistler.org.tr"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.eksisozluk.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.elmundo.es"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.enstituyakurdi.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.facebook.com/group.php?gid=18808877832"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.fgulen.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.filmmor.org/default.asp"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.fisek.org.tr"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gazetevatan.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.gelawej.net"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.gencsiviller.net"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.goldenpalace.com/tr/"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.google.com.tr"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.guardian.co.uk/world/turkey"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.hosmubosmu.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.org/europecentral-asia/turkey"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.hurriyetdailynews.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.hyd.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.igeme.org.tr"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ihd.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.ilo.org/public/english/region/eurpro/ankara/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.istanbulbarosu.org.tr/Document.asp?DocumentIndex=adliyardim/adliyardim_banner.htm"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.ka-der.org.tr"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.kadineserleri.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.kalder.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.kaosgl.org"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.karacaahmet.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.kedv.org.tr"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.keig.org/eng/default.aspx"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.kesfetmekicinbak.com"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.ksgm.gov.tr"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.kurdishherald.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.lambdaistanbul.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.lambdaistanbul.org/php/main.php?menuID=26"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.leydix.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.liberal.org.tr"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.ligtvdevi.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.lobicilik.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.lraper.org"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.mavikalem.org/Default.aspx"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.mazlumder.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.mediz.org/Kategori/13/1/English.aspx"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.mevlana.org"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.mhp.org.tr"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.morcati.org.tr"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.mustafaakyol.org"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.onlinecasinocentral.com/welcome.php?member=jpf2004&profile=gzion&banner=&t=0&creferer=&referer=http://gamingzion.com/turkish"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.oxfam.org.uk/applications/blogs/pressoffice/?tag=turkey"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.pembehayat.org"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.pkkonline.com/en/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.radikal.com.tr/Radikal.aspx?aType=Radikal"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.reliefweb.int/rw/dbc.nsf/doc104?OpenForm&rc=3&cc=tur"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.rightsagenda.org"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.sbe.metu.edu.tr/kat_gws.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.shcek.gov.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.sida.se/English/Countries-and-regions/Europe/Turkey-/"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.suryanikadim.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.taraf.com.tr"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.tarem.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tercuman.com.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.tesev.org.tr"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.tkyd.org/tr/"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.todayszaman.com"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.tog.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.tuik.gov.tr"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.tumikom.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.turkgayclub.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.turkgayclub.net"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.turkgayclub.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.turkhukuksitesi.com/forumdisplay.php?f=101"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.turkhukuksitesi.com/hasta_haklari.php"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.turkhukuksitesi.com/kadin_haklari.php"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.turkishdirect.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.turkishjews.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.turkishpersonals.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.turkiyegazetesi.com.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.tusev.org.tr"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.ucansupurge.org"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.undp.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.unicef.org/turkey"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.usaid.gov/locations/europe_eurasia/countries/tr/"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.vakad.org.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.worldbank.org.tr/external/default/main?menuPK=361744&pagePK=141155&piPK=141124&theSitePK=361712"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.yenisafak.com.tr"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.youthforhab.org.tr"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.youthpeer.org/web/guest/turkey"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.zaman.com.tr"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://yahyaharun.blogspot.com"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://yonja.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://yoxdur.com/forum/"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "https://casino.betsson.com/tr/"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "https://www.betsson509.com/web/tr/sportsbook/default.aspx"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html"
+    }
+]

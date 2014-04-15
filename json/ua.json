@@ -1,0 +1,4392 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http:///www.blackblocg.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://24tv.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://2ch.hk"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://3a-pycb.livejournal.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://6ott-mit-uns.livejournal.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://72.14.203.104"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://72.14.203.104/search?hl=zh-CN&q=cache:http://www.sh.xcmc.com.cn/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://a-burlaka.livejournal.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://a-osipoff.livejournal.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://a-sadov.livejournal.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://abclider.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://abcnews.go.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://adengo.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://ags.demokratia.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://alexabarboss.blogspot.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://alstrangers.livejournal.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://amnesty.org.ru"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://anaitiss.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://analitica.kiev.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://anekdot-blogger.blogspot.com"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://anonymizer.report.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://anonymizer.report.ru/_5FolderID_21226_.html"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://another-kashin.livejournal.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://ansardin.wordpress.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://antijob.mahost.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://arestant.msk.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://artem.gayclub.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://arxiv.ruckp.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://awvestnik.narod.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://azart.net.ua"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://azartplay.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://azatlyk-vatan.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://bagnet.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://balashov.com.ua"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://beon.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://bestmaza.biz"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://betway.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://bh42.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://BitchX.Ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://blanki.net.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blog.i.ua"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blog.kp.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blog.liga.net"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blog.megaforum.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blog.meta.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blog.polemika.com.ua"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blog.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogroll.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogs.gde.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.kafanews.com/blog"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.korrespondent.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.lb.ua"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogs.mail.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.pravda.com.ua"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogs.privet.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.voanews.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogs.wsj.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogs.yandex.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://blogseo.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogsochi.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://blogspot.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://borgie.net"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://bride.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://buddhism.org.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://buddhist.ru"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://buro-perevodov14.jino-net.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://cannabisnature.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://caseofpussyriot.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://censor.net.ua"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://chadayev.livejournal.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://chertog.livejournal.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://childrenscinema.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://circassianculturalinstitute.org/circassians-protest-selection-sochi-2014-winter-olympics-venue-2/"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://comingoutspb.ru/en/en-home"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://commersant.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://community.livejournal.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://community.livejournal.com/dpni_ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://community.livejournal.com/openrussia/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://compromat.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://cones.tv"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://connect.ua"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://contracept.newlist.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://crimea24.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://cripo.com.ua"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://czeczenia-rus.blog.onet.pl"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://damochka.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://dating.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://datingyes.com"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://datmob.net"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://deep21.sitecity.ru"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://deffki.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://deja-vu.kiev.ua"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://demos-center.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://depositfiles.com"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://diaspora.iatp.org.ua"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://diplomaticsecondpassport.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://directory.mblog.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://dmitriyev.hiblogger.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://dni.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://donbass.ua"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://donnerwort.livejournal.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://drug-naroda.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://drug-naroda.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://drug-naroda.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://drug-naroda.ru"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://drugoi.livejournal.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://drugspowerstore.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://echo.msk.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://echo.msk.ru/blog/navalny/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://ej.punkchords.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ej.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://elhosting.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://elitvip.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://en.netlog.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://en.rian.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://en.wikipedia.org"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://en.wikipedia.org/wiki/suicide_methods"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://en.wikipedia.org/wiki/vaporizer_%28cannabis%29"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://endryx.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://eng.cnews.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://eng.yabloko.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://english.ruvr.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://epravda.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://eroporno.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://eurasia.org.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://eve-kill.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ext.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://facebook.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://facenews.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://facty.ua"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://fast-die.kiev.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://fast-torrent.ru"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://fca.narod.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://fei.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://fileshare.in.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://finance.yahoo.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://fisadilillahi.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://flash.va-bank.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://flibusta.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://flirchi.ru dating"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://forum.lingvo.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://fraza.com.ua"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://free.newyork.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://freedomhouse.org/russia-eve-sochi"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://freepromote.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://freepussyriot.org"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://freeware32.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://from-ua.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://frontzmin.ua"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gaia.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://gamsoft.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gayzona.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://gazeta.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://gazeta.ua"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://gej.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://gennbalashov.hiblogger.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://glavnoe.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://glavred.in"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://glazev.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://globalvoicesonline.org"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://go-krit.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://go-krit.com/workshop"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://goldnike-777.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://goloskarpat.info/blog"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://golosua.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://google.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://google.com.ua"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://grani.punkchords.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://grani.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://grani.ru/blogs/free/entries/192925.html&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://grani.ru/blogs/free/entries/193731.html"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://grani.ru/opinion/limonov/"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://growclub.org"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://growerz.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://guru.ua"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://haamash.wordpress.com"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://haker.iphosting.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://haplyk.hiblogger.net"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://holmogor.livejournal.com"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://hospital.playland.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://hosting.rbc.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://hoteljans.nl"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://humanrights-ru.livejournal.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://hunafa.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://hunafa.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://hvylya.org"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://hw.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://ilga-europe.org/home/how_we_work/previous_projects/russian_project/the_russian_lgbt_network"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://imrussia.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://in.reuters.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://infoukrainian.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://ingushetiyaru.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://inosmi.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://inpress.org.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ipress.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ipvnews.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://iriney.vinchi.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://iriney.vinchi.ru/sects/munit/003.htm"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://islam.com.ua"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://itblogs.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://itc.ua/article.phtml?ID=25235"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://itc.ua/article.phtml?ID=25236"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://itc.ua/article.phtml?ID=25237"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://itc.ua/article.phtml?ID=25238"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://itc.ua/article.phtml?ID=25240"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://jakor.livejournal.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://jamagat.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://join.com.ua"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://judaica.kiev.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://jurist.org"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://justinkripps.ca"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://kasparov.punkchords.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://kasyanov.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://kavkaz.org.uk"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://kavkaz.tv"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://kavkazcenter.info"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://kavkaznews.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://kolebcev.v-teme.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://konoplya.2anekdots.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://korrespondent.net"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://krauzes.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://krown-products.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://kurush1.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://lb.ua"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://legalitolko.biz"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://legalrc.biz"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://leontiev.livejournal.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://leteha.livejournal.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://lgbtnet.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://lgbt_grani.livejournal.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://liability-insurance-company.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://lib.rus.ec"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://liga.net"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://ligazn.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://limonka.nbp-info.com/?"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://limonova.v-teme.com"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://lingvoman.vinidiktov.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://links.i.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://liveinternet.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://livejournal.com"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://livemy.info"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://looo.ch"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://love.mail.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://love.mygorod.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://love.qsound.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://loveplanet.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://lubov-kontakt.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://lurkmore.to"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://luxtorrents.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://maidan.org.ua"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://mail.goon.ru"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://mail.km.ru"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://mail.rambler.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mail.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://mamadu.ru"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://mamadu.ru/transl.htm"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://marketgid.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://maxim-sokolov.livejournal.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://mc-masters.livejournal.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://mentalprograms.narod.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://metayogg.at.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mgm.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mignews.com.ua"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://mikhed.newmail.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://mikhed.newmail.ru/ru/free_proxy/cgi-proxy.htm"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://milli-mejlis.blogspot.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://mister-tt.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mn.ru/moscow_people/20120124/310329193.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://mnk.org.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://moyashkola.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://my.lesbi.name"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://mynews-in.net/news/politics/2007/08/02/1160874.html"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://nakur.ruckp.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://namarsh.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://nardemsoyuz.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://nashi.nb-info.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://navalny.livejournal.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://navalny.platosha.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://navalny.punkchords.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://navalny.zona.me"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://naviny.by"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://nazbol.info/ polit"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://nblog.in"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://nbnews.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://nbp-video.org"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://new-faceparty.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://news.bbc.co.uk/hi/russian/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://news.dt.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://news.intv.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://news.strela.zp.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://news.tochka.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://newsland.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://newsru.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://newsru.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://newzz.in.ua"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://nkd-sovest.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://nordrus-norna.livejournal.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://ns-wp.ws"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://nuclearno.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://o-leusenko-politolog.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://obkom.net.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://oblicomorale.blogspot.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://obozrevatel.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://okpz.freeservers.com"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://omen.ru"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://onlinefilms.com.ua"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://oper-v-zakone.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://osp-ua.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://otradnoe-msk.ru/index.php/the-news/129-2011-11-07-21-17-54"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://passiya.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pda.epravda.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://peoplefirst.org.ua"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://pictureview.com"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://pipetka.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://piter.indymedia.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://platonlebedev.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pocciy.com"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://pochta.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://podrobnosti.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://polemika.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://polithexogen.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://politiko.ua/blogpost82463"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://politzeki.mypeople.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pornhub.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://pornolab.net"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://poroshki.tv"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://postrana.narod.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pravda.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pravdanaroda.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pravdaoputine.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://pravo.org.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://preservativ.chat.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://propivo.org.ua"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://protiv-putina.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://proua.com"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://provokator-ua.narod.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://psyplants.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://publicpost.ru/blog/id/1284/"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://punto.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/11352.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/12442.html&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/12658.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/5164.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/5497.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/5763.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://pussy-riot.livejournal.com/8459.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://putinbog.wordpress.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://putinhuy.com"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://queerussia.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://raznesi.info/blog"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rbth.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://rbth.ru/lgbt_in_russia"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://rchemlab.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://redenginejeans.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://reinform.livejournal.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://rko.marsho.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rt.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://ru.wikipedia.org"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://ru.wikipedia.org/wiki/%d0%97%d0%b0%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b0%d1%8f_%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b8%d1%86%d0%b0"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://ru.wikipedia.org/wiki/%d0%9a%d1%83%d1%80%d0%b5%d0%bd%d0%b8%d0%b5_%d0%ba%d0%b0%d0%bd%d0%bd%d0%b0%d0%b1%d0%b8%d1%81%d0%b0"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://ru.wikipedia.org/wiki/%d0%9f%d0%be%d0%bb%d0%bd%d0%be%d0%b5_%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be_%d0%bf%d0%be_%d1%81%d0%b0%d0%bc%d0%be%d1%83%d0%b1%d0%b8%d0%b9%d1%81%d1%82%d0%b2%d1%83"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://ru.wikipedia.org/wiki/%d1%e0%ec%ee%f1%ee%e6%e6%e5%ed%e8%e5"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://ru.yahoo.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rublacklist.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rus.newsru.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://rusrep.ru/article/2012/02/24/pussy_riot"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://russia.indymedia.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://russialist.org"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://rutor.org"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://rutracker.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://rwaho.wordpress.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://rybakov.spb.ru"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://s-mahat.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://sale-smoke.com"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://scripts.protoplex.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://scripts.protoplex.ru/scripts_show/1812.html"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://semyanich.co"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://sevbat.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://sexbomba.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://sexeducation.report.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://sexfilm.al.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://sexparty.ro"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://sexshop.nm.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://sexword.net.ru"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://seyfullah.tauhid.biz"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://shaman.aha.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://shopcd.com.ua"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://shopmixes.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://sibspice.biz"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://siburbia.ru/columns/pussy-riot-udelyivayut-metro/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://slon.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://sms-date.ru"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://soft-ru.fatal.ru"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://soft.li.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://soprotivlenie.marsho.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://soskin.blogspot.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://south-gir.livejournal.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://sova-center.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://sptimes.ru/index.php?action_id=2&story_id=35092&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://squarespace.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://stalinism.newmail.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://stalinism.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://stoyakin.org.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://subscribe.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://surfshield.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tabloid.com.ua"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://thecircle.org.au"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tochka.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://tolerance.ngo.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://top.jdu.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://topics.nytimes.com"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://topless.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://tor4.su"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://torrents.net.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://torrentsfilm.com"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://truesite.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://turbobit.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://tvrain.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://uainfo.censor.net.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://uainforg.livejournal.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://uatoday"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ubop.net.ua"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://ufa.realstaf.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ukr-blog.in.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ukr.aif.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ukr.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ukraineanalysis.wordpress.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ukrainianweek.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ukrnews24.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://uncyclopedia.wikia.com/wiki/main_page"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://ungheni.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://unian.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://urbantimes.co"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://vdagestan.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://vdagestan.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://versii.com"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://vgolos.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://video-one.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://video.bigmir.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://video.meta.ua"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://vk.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://vk.com/live_ukr"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://vk.com/minitrue"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://vk.com/public62043361"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://vkontakte.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://vresearche.com"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://vsereferaty.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://vsezoo.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://vsyapravda.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://vybory2006.likar.info"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://weedhash.biz"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://wikipedia.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://world.time.com"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.1c-bitrix.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.1tv.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.7ya.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.7ya.ru/pub/contr/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.adcoalition.org.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aej.org.ua"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.afew.org"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.afew.org/russian/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.afisha.ru/article/pussy-riot-against-putin/"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.agava.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.agava.ru/hosting/"
+    }, 
+    {
+        "category_code": "PROV", 
+        "category_description": "Provocative attire", 
+        "url": "http://www.agentura.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.agitclub.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.aglob.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.aids.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.aids.ru/prevent/safesex.shtml"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.aif.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.akm.ru"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.akmshalom.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.alco.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.alexey-pichugin.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.alexhost.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.alternativy.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.amnestyusa.org/sites/default/custom-scripts/russia/"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.annacasino.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.anticompromat.ru"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.antifa.com.ua"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.antifa.hrworld.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.antirev.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.apn.ru"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.aport.ru"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.araxgroup.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.avtoazov.com.ua"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.awz.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.bakerlawfirm.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk/news/world-europe-17187572"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.beehost.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.bestrussiandating.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.bezcenzury.ru"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.bitnet.ru"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.bitnet.ru/psycho/hacker.html"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.bitrixsoft.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.blogdir.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.bloglenta.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.blogonline.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.blogonline.ru/?auth=1"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.breakingnews.ie"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.buddhism.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.business-humanrights.org/documents/russia_human_rights_abuses_2014_winter_olympic_games"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.businesshosting.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.businessweek.com"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.carnegie.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.casino2000.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.casinoking.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.chechentimes.net"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.chekhlayzer.blogspot.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.citizens.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.civitas.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cjes.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.cnews.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.compromat.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.contr-tv.ru"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.copris.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.copris.com/mco/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dailymotion.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.daymohk.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.democracy.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.demokratia.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.diary.ru"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.dishisvobodno.ru"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.download.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.dpni.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.drinkshop.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.duel.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.dw.de"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.ebaka.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.echo.msk.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.echo.msk.ru/blog/navalny/"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.ecodefense.ru"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.ecom-info.spb.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ej.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.eliberator.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.euractiv.com&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.euro.who.int"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.europaplus.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.exile.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.expres.ua&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.fairhost.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.family-planning.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.fank.ru"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.filesearch.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.flb.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.flirt.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.forbes.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.forest.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.format18.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.freedomhouse.org.ua"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.freeproxy.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gay-forum.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gay.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gaynews.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gayrussia.eu"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gayvideo.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gazeta.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gazeta.ru/social/2012/02/27/4013957.shtml&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.gdf.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.geo.orthodoxy.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.getto.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.globalequality.org/newsroom/latest-news/1-in-the-news/186-the-facts-on-lgbt-rights-in-russia"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://www.gmail.ru"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://www.gmirussia.ru"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.goldfaq.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.goldfishka.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.goldfishka.ru"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.google.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.grandcasino.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.grani.ru"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.greenpeace.org/russia/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.guardian.co.uk/commentisfree/2012/feb/03/pussy-riot-kremlin-protest-riot-grrrl"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.guardian.co.uk/world/2012/feb/02/pussy-riot-protest-russia"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.gulag.ipvnews.org"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.habrahabr.ru"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.hackmoney.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.hakamada.ru"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.hateit.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.hizb-russia.info"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.holiday.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.homo-aphorism.narod.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.hrights.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.hro.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrpublishers.org"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.org/node/113248"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.org/people-and-power-2014-sochi-olympics"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.hrw.org/russian/press/russia/2003/131103_army.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.hrw.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.hunafa.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.hunafa.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ichkeria.info"
+    }, 
+    {
+        "category_code": "DEV", 
+        "category_description": "Development", 
+        "url": "http://www.iea.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ikd.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.inauka.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.inauka.ru/blogs/"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.indiegogo.com/projects/know-sochi-olympics-on-the-land-of-genocide"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ingushetiya.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.inopressa.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.interfax.co.uk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.interfax.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.internews.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.irex.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.islam.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.islam.ru/hutba/halifat/"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.islamdin.biz"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.islamdin.com"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.islamdin.tv"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.isn.ethz.ch"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.ispovednik.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.itar-tass.com"
+    }, 
+    {
+        "category_code": "ENV", 
+        "category_description": "Environment", 
+        "url": "http://www.iucn.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.jino.ru"
+    }, 
+    {
+        "category_code": "MINF", 
+        "category_description": "Minority faiths", 
+        "url": "http://www.jw.org/en/"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.kasparov.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kavkazcenter.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kavkazcenter.info"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kavkazcenter.net"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.kavkazchat.com"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.kavkazjihad.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.kavkazweb.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.kazak-chita.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.khodorkovsky.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.kommersant.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.kp.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ksdi.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.kupiproday.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.kyivpost.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.lenta.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.lesbi.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.leviy.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.lgbt-ep.eu/tag/russia/"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.lgbtnet.ru/en"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.liberal.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.libertarium.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.libertarium.ru/libertarium/sorm"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.litsa.com.ua/blogs"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.livejournal.ru/themes/id/39503"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.loto.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.lotoru.com"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.love-ok.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.love-ok.ru/?id=4"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.love.australia.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.lubovy.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.mahamudra.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mail.ru"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.mamba.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mashina.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.materi.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.mchost.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.med2000.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.medinkur.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.mega-intell.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.mega-intell.ru/Torg/torgzak.htm"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.megaregion.narod.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.memo.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.mhg.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mideast.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.migrant.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.militaryphotos.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.minjust.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mirror-weekly.com"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.mirzayanov.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.mk.ru/politics/article/2012/01/20/662683-feministok-zaderzhali-na-krasnoy-ploschadi.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.moepravo.com"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.mosclinic.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.moscowpride.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.mospat.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.msnbc.msn.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.mterra.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.mterra.ru/sos/drugs/"
+    }, 
+    {
+        "category_code": "DATE", 
+        "category_description": "Dating", 
+        "url": "http://www.mydarling.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.mysites.ru"
+    }, 
+    {
+        "category_code": "ANON", 
+        "category_description": "Anonymizers and circumvention", 
+        "url": "http://www.mysites.ru/full_desc.php?sid=56"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.namarsh.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.narkop.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.narkotiki.name"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.narkotiki.ru"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.national-socialist.tk"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.nazbol.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.nazlobu.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.nbp-info.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.nbpiter.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ndsm.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.nelegal.ru"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://www.netman.ru"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.netoteka.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.neweurasia.ru"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://www.newmail.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.newsru.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.newyorker.com"
+    }, 
+    {
+        "category_code": "EMAIL", 
+        "category_description": "Free email", 
+        "url": "http://www.nextmail.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ng.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.nobribes.org"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.nodrugs.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.nosochi2014.com/articles/1864-2014-circassian-genocide-olympics.php"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.nosochi2014.com/index.php"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.novayagazeta.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.novayagazeta.ru/arts/50062.html&#194;&#157;&#194;&#157;&#194;&#157;&#194;&#157;"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.novayagazeta.ru/society/50668.html"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.npr.org/2012/02/08/146581790/in-russia-punk-rock-riot-girls-rage-against-putin"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.nso-corpus.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ntv.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.nuruddin-info.blogspot.com"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.oborona.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.obozrevatel.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ogoniok.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.onlinecasinos.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.openspace.ru/art/events/details/31781/"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.ortho-rus.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.osi.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.osw.waw.pl"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.owl.ru"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.owl.ru/win/women/sisters/index.htm"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.partypoker.net"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.passion.ru"
+    }, 
+    {
+        "category_code": "TRNS", 
+        "category_description": "Translation", 
+        "url": "http://www.perevedem.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.pkk.org"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.poiskovik.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.polit.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.politbomond.com.ua"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.pora.org.ua"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.poralviv.org"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.porjati.net"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.pornocd.ru"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.pornofiles.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.postsovet.ru/blog"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://www.prastitutki.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.pravda.info"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.pravdabeslana.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.prison.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.promptnews.info"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.protivdiktata.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.publicverdict.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.putin-itogi.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.pytki.ru"
+    }, 
+    {
+        "category_code": "HATE", 
+        "category_description": "Hate speech", 
+        "url": "http://www.rabidshare.info"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.radikaly.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.radiomayak.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.radosvet.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.ravenstvo.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.razom.org.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rbc.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.refugee.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.regnum.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.religio.ru"
+    }, 
+    {
+        "category_code": "MINR", 
+        "category_description": "Minority rights and ethnic content", 
+        "url": "http://www.resistance88.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.reuters.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.reuters.com/article/2010/03/21/russia-olympics-protest-iduslde62k02s20100321"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rferl.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rg.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rian.ru"
+    }, 
+    {
+        "category_code": "BLGSERV", 
+        "category_description": "Blogging domains and blogging services", 
+        "url": "http://www.rian.ru/blogs/"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.risu.org.ua"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.rlinfo.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.rodina.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.rollitup.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.rprf.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.rufront.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.ruleoflaw.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rusemb.org.uk"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.rusglobus.net"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.rusref.nm.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.russ.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.russiafreedomfund.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.russiajournal.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.russiancasino.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.russiancasino.ru"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.russianopengames.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.russianorthodoxchurch.ws"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.rustrana.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.samsunggalaxynote2.info"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.satanism.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.satanistsite.narod.ru"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.scepsis.ru"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.seedjah.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.seprava.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.shamilonline.org"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.shender.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.shoah.org.uk"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://www.shram.kiev.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.shturmnovosti.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.simya.com.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.skaji.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.smh.com.au"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.smi.ru"
+    }, 
+    {
+        "category_code": "MMED", 
+        "category_description": "Multimedia sharing", 
+        "url": "http://www.softilla.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.sovest.org"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.sovinform.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.sps.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.sptimes.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.ssdv.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.stargame.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.statvo.narod.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.strana.ru"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.sultancasino.ru"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.suvorov.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.svoboda.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.svobodanews.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.taipeitimes.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tass.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.themoscowtimes.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.thenational.ae"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.theotherrussia.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.theotherrussia.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.thiru.com.sg"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.transparency.org.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.trud.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.trust.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tvc.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.tymoshenko.ua"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.ucoz.ru"
+    }, 
+    {
+        "category_code": "GRP", 
+        "category_description": "Groups and social networking", 
+        "url": "http://www.ucoz.ru/service/blog.html"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.ucsmr.ru"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.ugcc.org.ua"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.unifemcis.org"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.unrussia.ru"
+    }, 
+    {
+        "category_code": "MILX", 
+        "category_description": "Militants, extremists and separatists", 
+        "url": "http://www.vdagestan.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.velesova-sloboda.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.vestnikmostok.ru"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.visatovietnam.us"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.vladimirvladimirovich.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.voanews.com/russian/"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.vsenamarsh.ru"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.watchdog.cz"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.wcons.org.ru"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.webmasterpro.com.ua"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.weedy.be"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.who.dk"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://www.who.int/topics/family_planning/ru/"
+    }, 
+    {
+        "category_code": "HOST", 
+        "category_description": "Web hosting sites and portals", 
+        "url": "http://www.wikia.com/wikia"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://www.winenews.ru"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.womnet.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.worldmeets.us"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.wsws.org"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.wsws.org/ru/1999/dez1999/heal-d03.shtml"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.wuor.ru"
+    }, 
+    {
+        "category_code": "WOMR", 
+        "category_description": "Women's rights", 
+        "url": "http://www.wur.newmail.ru"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://www.xakep.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.yabloko.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.yandex.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.yapfiles.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.yaplakal.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.yhrm.hrworld.ru"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.yhrm.org"
+    }, 
+    {
+        "category_code": "POLR", 
+        "category_description": "Political reform", 
+        "url": "http://www.youtube.com/watch?v=ytholtbgyxy"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://www.zaprava.ru"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.zdn.su"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.zerkalo-nedeli.com"
+    }, 
+    {
+        "category_code": "PUBH", 
+        "category_description": "Public health", 
+        "url": "http://www.znopr.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://wwwoman.ru"
+    }, 
+    {
+        "category_code": "XED", 
+        "category_description": "Sex education and family planning", 
+        "url": "http://wwwoman.ru/s.php/755.htm"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://x-dvd.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://x-video.com.ua"
+    }, 
+    {
+        "category_code": "PORN", 
+        "category_description": "Pornography", 
+        "url": "http://xmob.kiev.ua"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://xn--80aaifmgl1achx.xn--p1ai"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://xs.gay.ru"
+    }, 
+    {
+        "category_code": "HACK", 
+        "category_description": "Hacking", 
+        "url": "http://xterror.narod.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://xvideos.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://yadumayu.ru"
+    }, 
+    {
+        "category_code": "POLT", 
+        "category_description": "Political transformation", 
+        "url": "http://yashin.livejournal.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://yesche.biz"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://yhrm.hrworld.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://youtube.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://yury108.blogspot.com"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "http://zabormozga.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zaukraine.com/blog"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://zhurnal.lib.ru"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://zn.ua"
+    }, 
+    {
+        "category_code": "SRCH", 
+        "category_description": "Search engines", 
+        "url": "http://znaesh.net"
+    }, 
+    {
+        "category_code": "ALDR", 
+        "category_description": "Alcohol and drugs", 
+        "url": "https://jahforum.org"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "https://twitter.com/#!/pussy_riot"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "https://twitter.com/rulgbtnet"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.facebook.com/boycottsochi2014"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "https://www.facebook.com/lgbt.russia"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "https://www.facebook.com/nosochi2014"
+    }
+]

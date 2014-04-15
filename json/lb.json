@@ -1,0 +1,342 @@
+[
+    {
+        "category_code": "category_code", 
+        "category_description": "category_description", 
+        "url": "url"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://aawsat.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://ahram.org.eg"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://alayam.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://alhayat.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://aljazeera.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://alyom.co.il"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://arabic.cnn.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://arabtimes.com"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://blog.witness.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://forum.mennawfena.net"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://helem.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://hespress.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://historia.co.il"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://marebpress.net"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://mfa.gov.il/mfa/pages/default.aspx"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://mops.gov.il/pages/homepage.aspx"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://pokerstars.net"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://rhr.org.il/eng/"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://thissitedoesnotexist.il"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.888poker.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.alarabiya.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.answering-islam.org"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.aswatmag.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.bbc.co.uk/arabic"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.bet365.com/en/"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.betfair.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.boi.org.il/he/pages/default.aspx"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.cdl.com.lb/index.asp"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.centerforinquiry.net"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.elaph.com"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.extratorrent.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.faithfreedom.org"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.fulltiltpoker.com"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.galilcol.ac.il"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gayalgerie.net"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.gaymaroc.net"
+    }, 
+    {
+        "category_code": "GAYL", 
+        "category_description": "Gay-lesbian", 
+        "url": "http://www.glas.org"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.iaf.org.il/2381-he/iaf.aspx"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.inn.co.il"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.isa.gov.il/default.aspx?site=english"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.isohunt.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.jihadwatch.org"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.kickasstorrents.com"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.knesset.gov.il/main/eng/home.asp"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.ladeeni.net"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.mod.gov.il"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.mossad.gov.il/default.aspx"
+    }, 
+    {
+        "category_code": "HUMR", 
+        "category_description": "Human rights", 
+        "url": "http://www.nbn.org.il"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.nsc.gov.il/nscweb/templates/homepage.aspx"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.onlytorrents.com"
+    }, 
+    {
+        "category_code": "HAL", 
+        "category_description": "History, arts and literature", 
+        "url": "http://www.responsa.co.il/home.en-us.aspx"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.richarddawkins.net"
+    }, 
+    {
+        "category_code": "FREL", 
+        "category_description": "Foreign relations and military", 
+        "url": "http://www.shabak.gov.il/english/pages/default.aspx"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.sumotorrent.com"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.tase.co.il/eng/pages/homepage.aspx"
+    }, 
+    {
+        "category_code": "COMM", 
+        "category_description": "E-commerce", 
+        "url": "http://www.tayara.co.il"
+    }, 
+    {
+        "category_code": "MISC", 
+        "category_description": "Miscellaneous", 
+        "url": "http://www.terrorism-info.org.il"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.thepiratebay.org"
+    }, 
+    {
+        "category_code": "REL", 
+        "category_description": "Religious conversion, commentary and criticism", 
+        "url": "http://www.thereligionofpeace.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.timesofisrael.com"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.torrentcrazy.com"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.torrentdownloads.net"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.torrentreactor.net"
+    }, 
+    {
+        "category_code": "P2P", 
+        "category_description": "Peer-to-peer computing", 
+        "url": "http://www.torrentz.com"
+    }, 
+    {
+        "category_code": "FEXP", 
+        "category_description": "Free expression and media freedom", 
+        "url": "http://www.viber.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "http://www.williamhill.com"
+    }, 
+    {
+        "category_code": "GMB", 
+        "category_description": "Gambling", 
+        "url": "https://www.bwin.com"
+    }
+]
