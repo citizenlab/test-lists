@@ -1,0 +1,150 @@
+[
+    {
+        "CategoryCode": "CategoryCode", 
+        "CategoryName": "CategoryName"
+    }, 
+    {
+        "CategoryCode": "FEXP", 
+        "CategoryName": "Freedom of expression and media freedom"
+    }, 
+    {
+        "CategoryCode": "POLT", 
+        "CategoryName": "Political transformation"
+    }, 
+    {
+        "CategoryCode": "POLR", 
+        "CategoryName": "Political reform"
+    }, 
+    {
+        "CategoryCode": "MILX", 
+        "CategoryName": "Militants, extremists and separatists"
+    }, 
+    {
+        "CategoryCode": "HUMR", 
+        "CategoryName": "Human rights"
+    }, 
+    {
+        "CategoryCode": "FREL", 
+        "CategoryName": "Foreign relations and military"
+    }, 
+    {
+        "CategoryCode": "MINR", 
+        "CategoryName": "Minority rights and ethnic content"
+    }, 
+    {
+        "CategoryCode": "WOMR", 
+        "CategoryName": "Women's rights"
+    }, 
+    {
+        "CategoryCode": "ENV", 
+        "CategoryName": "Environment"
+    }, 
+    {
+        "CategoryCode": "DEV", 
+        "CategoryName": "Economic development"
+    }, 
+    {
+        "CategoryCode": "HAL", 
+        "CategoryName": "History, arts and literature"
+    }, 
+    {
+        "CategoryCode": "HATE", 
+        "CategoryName": "Hate speech"
+    }, 
+    {
+        "CategoryCode": "XED", 
+        "CategoryName": "Sex education and family planning"
+    }, 
+    {
+        "CategoryCode": "PUBH", 
+        "CategoryName": "Public health"
+    }, 
+    {
+        "CategoryCode": "GAYL", 
+        "CategoryName": "Gay & lesbian \u2013 no pornography"
+    }, 
+    {
+        "CategoryCode": "PORN", 
+        "CategoryName": "Pornography"
+    }, 
+    {
+        "CategoryCode": "PROV", 
+        "CategoryName": "Provocative attire"
+    }, 
+    {
+        "CategoryCode": "DATE", 
+        "CategoryName": "Online dating"
+    }, 
+    {
+        "CategoryCode": "GMB", 
+        "CategoryName": "Gambling"
+    }, 
+    {
+        "CategoryCode": "GAME", 
+        "CategoryName": "Online gaming"
+    }, 
+    {
+        "CategoryCode": "ALDR", 
+        "CategoryName": "Alcohol and drugs"
+    }, 
+    {
+        "CategoryCode": "MINF", 
+        "CategoryName": "Minority faiths"
+    }, 
+    {
+        "CategoryCode": "REL", 
+        "CategoryName": "Religious conversion, commentary and criticism"
+    }, 
+    {
+        "CategoryCode": "ANON", 
+        "CategoryName": "Anonymizers and censorship circumvention"
+    }, 
+    {
+        "CategoryCode": "HACK", 
+        "CategoryName": "Hacking"
+    }, 
+    {
+        "CategoryCode": "BLGSERV", 
+        "CategoryName": "Blogging services"
+    }, 
+    {
+        "CategoryCode": "HOST", 
+        "CategoryName": "Web hosting services"
+    }, 
+    {
+        "CategoryCode": "VOIP", 
+        "CategoryName": "Voice over Internet Protocol (VoIP)"
+    }, 
+    {
+        "CategoryCode": "EMAIL", 
+        "CategoryName": "Free email"
+    }, 
+    {
+        "CategoryCode": "SRCH", 
+        "CategoryName": "Search engines"
+    }, 
+    {
+        "CategoryCode": "TRNS", 
+        "CategoryName": "Translation"
+    }, 
+    {
+        "CategoryCode": "MMED", 
+        "CategoryName": "Multimedia sharing"
+    }, 
+    {
+        "CategoryCode": "P2P", 
+        "CategoryName": "Peer-to-peer file sharing"
+    }, 
+    {
+        "CategoryCode": "GRP", 
+        "CategoryName": "Groups & social networking"
+    }, 
+    {
+        "CategoryCode": "COMM", 
+        "CategoryName": "Commercial sites"
+    }, 
+    {
+        "CategoryCode": "MISC", 
+        "CategoryName": "Miscellaneous"
+    }
+]

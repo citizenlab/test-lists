@@ -1,0 +1,37 @@
+CategoryCode,CategoryName
+FEXP,Freedom of expression and media freedom
+POLT,Political transformation
+POLR,Political reform
+MILX,"Militants, extremists and separatists"
+HUMR,Human rights
+FREL,Foreign relations and military
+MINR,Minority rights and ethnic content
+WOMR,Women's rights
+ENV,Environment
+DEV,Economic development
+HAL,"History, arts and literature"
+HATE,Hate speech
+XED,Sex education and family planning
+PUBH,Public health
+GAYL,Gay & lesbian – no pornography
+PORN,Pornography
+PROV,Provocative attire
+DATE,Online dating
+GMB,Gambling
+GAME,Online gaming
+ALDR,Alcohol and drugs
+MINF,Minority faiths
+REL,"Religious conversion, commentary and criticism"
+ANON,Anonymizers and censorship circumvention
+HACK,Hacking
+BLGSERV,Blogging services
+HOST,Web hosting services
+VOIP,Voice over Internet Protocol (VoIP)
+EMAIL,Free email
+SRCH,Search engines
+TRNS,Translation
+MMED,Multimedia sharing
+P2P,Peer-to-peer file sharing
+GRP,Groups & social networking
+COMM,Commercial sites
+MISC,Miscellaneous
