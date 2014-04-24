@@ -1,9 +1,5 @@
 [
     {
-        "CategoryCode": "CategoryCode", 
-        "CategoryName": "CategoryName"
-    }, 
-    {
         "CategoryCode": "FEXP", 
         "CategoryName": "Freedom of expression and media freedom"
     }, 
