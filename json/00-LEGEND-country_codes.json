@@ -1,9 +1,5 @@
 [
     {
-        "CountryCode": "CountryCode", 
-        "CountryName": "CountryName"
-    }, 
-    {
         "CountryCode": "AD", 
         "CountryName": "Andorra"
     }, 
