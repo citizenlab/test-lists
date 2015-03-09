@@ -1,6 +1,6 @@
-url,category_code,category_description
-http://adultfriendfinder.com,DATE,Dating
-http://allpasswords.com,PORN,Pornography
-http://cyber.law.harvard.edu,FEXP,Free expression and media freedom
-http://de.lirio.us,GRP,Groups and social networking
-http://groups.msn.com,GRP,Groups and social networking
+url,category_code,category_description,date_added,source,notes
+http://adultfriendfinder.com,DATE,Dating,2014-04-15,citizenlab
+http://allpasswords.com,PORN,Pornography,2014-04-15,citizenlab
+http://cyber.law.harvard.edu,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://de.lirio.us,GRP,Groups and social networking,2014-04-15,citizenlab
+http://groups.msn.com,GRP,Groups and social networking,2014-04-15,citizenlab

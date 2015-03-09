@@ -1,41 +1,41 @@
-url,category_code,category_description
-http://abclider.com,PORN,Pornography
-http://bestmaza.biz,ALDR,Alcohol and drugs
-http://blanki.net.ua,COMM,E-commerce
-http://borgie.net,MISC,Miscellaneous
-http://childrenscinema.com,MISC,Miscellaneous
-http://cones.tv,COMM,E-commerce
-http://diplomaticsecondpassport.com,COMM,E-commerce
-http://fast-die.kiev.ua,MISC,Miscellaneous
-http://gayzona.com,GAYL,Gay-lesbian
-http://go-krit.com,ALDR,Alcohol and drugs
-http://growclub.org,ALDR,Alcohol and drugs
-http://hoteljans.nl,COMM,E-commerce
-http://kolebcev.v-teme.com,MISC,Miscellaneous
-http://konoplya.2anekdots.ru,ALDR,Alcohol and drugs
-http://krauzes.com,ALDR,Alcohol and drugs
-http://krown-products.net,COMM,E-commerce
-http://legalrc.biz,ALDR,Alcohol and drugs
-http://liability-insurance-company.com,COMM,E-commerce
-http://limonova.v-teme.com,COMM,E-commerce
-http://onlinefilms.com.ua,MISC,Miscellaneous
-http://pictureview.com,MMED,Multimedia sharing
-http://psyplants.org,ALDR,Alcohol and drugs
-http://rchemlab.com,ALDR,Alcohol and drugs
-http://seedjah.com,ALDR,Alcohol and drugs
-http://semyanich.com,ALDR,Alcohol and drugs
-http://sibspice.biz,ALDR,Alcohol and drugs
-http://tor4.su,PORN,Pornography
-http://ufa.realstaf.com,ALDR,Alcohol and drugs
-http://video-one.com,PORN,Pornography
-http://vresearche.com,ALDR,Alcohol and drugs
-http://weedhash.biz,ALDR,Alcohol and drugs
-http://www.bakerlawfirm.com,COMM,E-commerce
-http://www.narkotiki.name,ALDR,Alcohol and drugs
-http://www.samsunggalaxynote2.info,COMM,E-commerce
-http://www.shram.kiev.ua,SRCH,Search engines
-http://www.visatovietnam.us,COMM,E-commerce
-http://www.weedy.be,ALDR,Alcohol and drugs
-http://yesche.biz,ALDR,Alcohol and drugs
-http://zabormozga.com,ALDR,Alcohol and drugs
-https://jahforum.org,ALDR,Alcohol and drugs
+url,category_code,category_description,date_added,source,notes
+http://abclider.com,PORN,Pornography,2014-04-15,citizenlab
+http://bestmaza.biz,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://blanki.net.ua,COMM,E-commerce,2014-04-15,citizenlab
+http://borgie.net,MISC,Miscellaneous,2014-04-15,citizenlab
+http://childrenscinema.com,MISC,Miscellaneous,2014-04-15,citizenlab
+http://cones.tv,COMM,E-commerce,2014-04-15,citizenlab
+http://diplomaticsecondpassport.com,COMM,E-commerce,2014-04-15,citizenlab
+http://fast-die.kiev.ua,MISC,Miscellaneous,2014-04-15,citizenlab
+http://gayzona.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://go-krit.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://growclub.org,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://hoteljans.nl,COMM,E-commerce,2014-04-15,citizenlab
+http://kolebcev.v-teme.com,MISC,Miscellaneous,2014-04-15,citizenlab
+http://konoplya.2anekdots.ru,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://krauzes.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://krown-products.net,COMM,E-commerce,2014-04-15,citizenlab
+http://legalrc.biz,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://liability-insurance-company.com,COMM,E-commerce,2014-04-15,citizenlab
+http://limonova.v-teme.com,COMM,E-commerce,2014-04-15,citizenlab
+http://onlinefilms.com.ua,MISC,Miscellaneous,2014-04-15,citizenlab
+http://pictureview.com,MMED,Multimedia sharing,2014-04-15,citizenlab
+http://psyplants.org,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://rchemlab.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://seedjah.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://semyanich.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://sibspice.biz,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://tor4.su,PORN,Pornography,2014-04-15,citizenlab
+http://ufa.realstaf.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://video-one.com,PORN,Pornography,2014-04-15,citizenlab
+http://vresearche.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://weedhash.biz,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://www.bakerlawfirm.com,COMM,E-commerce,2014-04-15,citizenlab
+http://www.narkotiki.name,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://www.samsunggalaxynote2.info,COMM,E-commerce,2014-04-15,citizenlab
+http://www.shram.kiev.ua,SRCH,Search engines,2014-04-15,citizenlab
+http://www.visatovietnam.us,COMM,E-commerce,2014-04-15,citizenlab
+http://www.weedy.be,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://yesche.biz,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+http://zabormozga.com,ALDR,Alcohol and drugs,2014-04-15,citizenlab
+https://jahforum.org,ALDR,Alcohol and drugs,2014-04-15,citizenlab

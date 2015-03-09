@@ -1,64 +1,64 @@
-url,category_code,category_description
-http://chamachamwananchi.wordpress.com,POLR,Political reform
-http://en.wikipedia.org/wiki/LGBT_rights_in_Kenya,GAYL,Gay-lesbian
-http://galck.org,GAYL,Gay-lesbian
-http://gaykenya.com,GAYL,Gay-lesbian
-http://gaylifekenya.blogspot.com,GAYL,Gay-lesbian
-http://gukira.wordpress.com,GAYL,Gay-lesbian
-http://islamkenya.com,MINR,Minority rights and ethnic content
-http://jihad-e-informacion.blogspot.com,POLT,Political transformation
-http://jukwaa.proboards.com,FEXP,Free expression and media freedom
-http://kenvironews.wordpress.com,ENV,Environment
-http://kenyaglobe.com,FEXP,Free expression and media freedom
-http://kenyanporn.blogspot.com,PORN,Pornography
-http://kenyantg.blogspot.com,GAYL,Gay-lesbian
-http://kenyaraha.net,PORN,Pornography
-http://kenyauptodate.blogspot.com,FEXP,Free expression and media freedom
-http://nap-k.org,POLR,Political reform
-http://new-democrats.org,POLR,Political reform
-http://nipate.com,GRP,Groups and social networking
-http://nudekenya.com,PORN,Pornography
-http://sdpkenya.blogspot.com,POLR,Political reform
-http://sukumakenya.blogspot.com,POLR,Political reform
-http://sw.globalvoicesonline.org,FEXP,Free expression and media freedom
-http://thegaykenyan.blogspot.com,GAYL,Gay-lesbian
-http://vitukali.com,PORN,Pornography
-http://vitukokenya.com,PORN,Pornography
-http://womenontherun.se/node/42,WOMR,Women's rights
-http://www.acronymfinder.com/Kenya-African-Democratic-Development-Union-%28political-party%3B-Kenya%29-%28KADDU%29.html,POLR,Political reform
-http://www.afrakenya.org,GAYL,Gay-lesbian
-http://www.aljazeera.net/news/archive/archive?ArchiveId=1089516,POLT,Political transformation
-http://www.bbc.co.uk/swahili/,FEXP,Free expression and media freedom
-http://www.bungelamwananchi.org,POLR,Political reform
-http://www.cmd-kenya.org,POLR,Political reform
-http://www.cmd-kenya.org/party.php?ppid=3&partyname=Kenya%20African%20Democratic%20Development%20Union,POLR,Political reform
-http://www.cmd-kenya.org/party.php?ppid=33&partyname=People%27s%20Party%20Of%20Kenya,POLR,Political reform
-http://www.democraticpartyofkenya.co.ke/History-of-Democratic-Party/history-of-the-dp.html,POLR,Political reform
-http://www.ehealth.or.ke/facilities/facility.aspx?fas=13187,POLR,Political reform
-http://www.eisa.org.za,POLR,Political reform
-http://www.epapercatalog.com/epaper/taifaleo-epaper.php,FEXP,Free expression and media freedom
-http://www.hrw.org/africa/kenya,HUMR,Human rights
-http://www.icrh.org/geography/kenya,WOMR,Women's rights
-http://www.ishtarmsm.org,GAYL,Gay-lesbian
-http://www.kenya4.com,PORN,Pornography
-http://www.kenyasexparadise.com,PORN,Pornography
-http://www.khrc.or.ke,HUMR,Human rights
-http://www.knchr.org,HUMR,Human rights
-http://www.marsgroupkenya.org,POLR,Political reform
-http://www.minoritywomeninaction.co.ke,GAYL,Gay-lesbian
-http://www.mzalendo.com,POLR,Political reform
-http://www.nairobinights.co.cc,XED,Sex education and family planning
-http://www.nation.co.ke,FEXP,Free expression and media freedom
-http://www.odm.co.ke,POLR,Political reform
-http://www.rickross.com/groups/mungiki.html,HATE,Hate speech
-http://www.standardmedia.co.ke,FEXP,Free expression and media freedom
-http://www.theeastafrican.co.ke,FEXP,Free expression and media freedom
-http://www.tikenya.org,POLR,Political reform
-"http://www.time.com/time/world/article/0,8599,2057966,00.html",HUMR,Human rights
-http://www.transgenderkenya.com,GAYL,Gay-lesbian
-http://www.uchaguzi.co.ke,POLR,Political reform
-http://www.wikileaks.org/wiki/The_looting_of_Kenya_under_President_Moi,POLR,Political reform
-http://www.wrapkenya.or.ke,WOMR,Women's rights
-https://www.bkms-system.net/bkwebanon/report/clientInfo?cin=111KACC33&language=eng,POLR,Political reform
-https://www.facebook.com/people/Al-Amin-Kimathi/1557151493,MINR,Minority rights and ethnic content
-https://www.facebook.com/people/William-Ruto/1487501217,POLR,Political reform
+url,category_code,category_description,date_added,source,notes
+http://chamachamwananchi.wordpress.com,POLR,Political reform,2014-04-15,citizenlab
+http://en.wikipedia.org/wiki/LGBT_rights_in_Kenya,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://galck.org,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://gaykenya.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://gaylifekenya.blogspot.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://gukira.wordpress.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://islamkenya.com,MINR,Minority rights and ethnic content,2014-04-15,citizenlab
+http://jihad-e-informacion.blogspot.com,POLT,Political transformation,2014-04-15,citizenlab
+http://jukwaa.proboards.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://kenvironews.wordpress.com,ENV,Environment,2014-04-15,citizenlab
+http://kenyaglobe.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://kenyanporn.blogspot.com,PORN,Pornography,2014-04-15,citizenlab
+http://kenyantg.blogspot.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://kenyaraha.net,PORN,Pornography,2014-04-15,citizenlab
+http://kenyauptodate.blogspot.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://nap-k.org,POLR,Political reform,2014-04-15,citizenlab
+http://new-democrats.org,POLR,Political reform,2014-04-15,citizenlab
+http://nipate.com,GRP,Groups and social networking,2014-04-15,citizenlab
+http://nudekenya.com,PORN,Pornography,2014-04-15,citizenlab
+http://sdpkenya.blogspot.com,POLR,Political reform,2014-04-15,citizenlab
+http://sukumakenya.blogspot.com,POLR,Political reform,2014-04-15,citizenlab
+http://sw.globalvoicesonline.org,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://thegaykenyan.blogspot.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://vitukali.com,PORN,Pornography,2014-04-15,citizenlab
+http://vitukokenya.com,PORN,Pornography,2014-04-15,citizenlab
+http://womenontherun.se/node/42,WOMR,Women's rights,2014-04-15,citizenlab
+http://www.acronymfinder.com/Kenya-African-Democratic-Development-Union-%28political-party%3B-Kenya%29-%28KADDU%29.html,POLR,Political reform,2014-04-15,citizenlab
+http://www.afrakenya.org,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://www.aljazeera.net/news/archive/archive?ArchiveId=1089516,POLT,Political transformation,2014-04-15,citizenlab
+http://www.bbc.co.uk/swahili/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.bungelamwananchi.org,POLR,Political reform,2014-04-15,citizenlab
+http://www.cmd-kenya.org,POLR,Political reform,2014-04-15,citizenlab
+http://www.cmd-kenya.org/party.php?ppid=3&partyname=Kenya%20African%20Democratic%20Development%20Union,POLR,Political reform,2014-04-15,citizenlab
+http://www.cmd-kenya.org/party.php?ppid=33&partyname=People%27s%20Party%20Of%20Kenya,POLR,Political reform,2014-04-15,citizenlab
+http://www.democraticpartyofkenya.co.ke/History-of-Democratic-Party/history-of-the-dp.html,POLR,Political reform,2014-04-15,citizenlab
+http://www.ehealth.or.ke/facilities/facility.aspx?fas=13187,POLR,Political reform,2014-04-15,citizenlab
+http://www.eisa.org.za,POLR,Political reform,2014-04-15,citizenlab
+http://www.epapercatalog.com/epaper/taifaleo-epaper.php,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.hrw.org/africa/kenya,HUMR,Human rights,2014-04-15,citizenlab
+http://www.icrh.org/geography/kenya,WOMR,Women's rights,2014-04-15,citizenlab
+http://www.ishtarmsm.org,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://www.kenya4.com,PORN,Pornography,2014-04-15,citizenlab
+http://www.kenyasexparadise.com,PORN,Pornography,2014-04-15,citizenlab
+http://www.khrc.or.ke,HUMR,Human rights,2014-04-15,citizenlab
+http://www.knchr.org,HUMR,Human rights,2014-04-15,citizenlab
+http://www.marsgroupkenya.org,POLR,Political reform,2014-04-15,citizenlab
+http://www.minoritywomeninaction.co.ke,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://www.mzalendo.com,POLR,Political reform,2014-04-15,citizenlab
+http://www.nairobinights.co.cc,XED,Sex education and family planning,2014-04-15,citizenlab
+http://www.nation.co.ke,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.odm.co.ke,POLR,Political reform,2014-04-15,citizenlab
+http://www.rickross.com/groups/mungiki.html,HATE,Hate speech,2014-04-15,citizenlab
+http://www.standardmedia.co.ke,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.theeastafrican.co.ke,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.tikenya.org,POLR,Political reform,2014-04-15,citizenlab
+"http://www.time.com/time/world/article/0,8599,2057966,00.html",HUMR,Human rights,2014-04-15,citizenlab
+http://www.transgenderkenya.com,GAYL,Gay-lesbian,2014-04-15,citizenlab
+http://www.uchaguzi.co.ke,POLR,Political reform,2014-04-15,citizenlab
+http://www.wikileaks.org/wiki/The_looting_of_Kenya_under_President_Moi,POLR,Political reform,2014-04-15,citizenlab
+http://www.wrapkenya.or.ke,WOMR,Women's rights,2014-04-15,citizenlab
+https://www.bkms-system.net/bkwebanon/report/clientInfo?cin=111KACC33&language=eng,POLR,Political reform,2014-04-15,citizenlab
+https://www.facebook.com/people/Al-Amin-Kimathi/1557151493,MINR,Minority rights and ethnic content,2014-04-15,citizenlab
+https://www.facebook.com/people/William-Ruto/1487501217,POLR,Political reform,2014-04-15,citizenlab

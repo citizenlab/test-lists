@@ -1,62 +1,62 @@
-url,category_code,category_description
-http://119.82.71.95/guyanatimes/,FEXP,Free expression and media freedom
-http://afcnew.afcguyana.com,POLT,Political transformation
-http://blog.socialingua.com,FEXP,Free expression and media freedom
-http://c-gid.net/index.php?option=com_content&view=frontpage&Itemid=1,POLR,Political reform
-http://capitolnewsgy.com,FEXP,Free expression and media freedom
-http://cariblogger.com,FEXP,Free expression and media freedom
-http://davidgrangercampaign.com,POLT,Political transformation
-http://gp.gy,FEXP,Free expression and media freedom
-http://gtcybercafe.tripod.com,FEXP,Free expression and media freedom
-http://guyanafaces.com,GRP,Groups and social networking
-http://guyanagroove.blogspot.com,WOMR,Women's rights
-http://gyconnectionz.com,FEXP,Free expression and media freedom
-http://jonoguyana.blogspot.com,FEXP,Free expression and media freedom
-http://kingstonpo.com,FEXP,Free expression and media freedom
-http://kykoveral.blogspot.com,FEXP,Free expression and media freedom
-http://pro.caribbeanaxis.com,GRP,Groups and social networking
-http://propagandapress.wordpress.com,POLR,Political reform
-http://saxakali.com/wpa/,POLT,Political transformation
-http://theoverstream-guyana.blogspot.com,FEXP,Free expression and media freedom
-http://visionguyana.blogspot.com,REL,"Religious conversion, commentary and criticism"
-http://www.blackmagic-lounge.com,GRP,Groups and social networking
-http://www.blackplanet.com,DATE,Dating
-http://www.caribbeanmassive.com,FEXP,Free expression and media freedom
-http://www.caribbeantrakker.com/category/guyana/,FEXP,Free expression and media freedom
-http://www.caribsingles.com,DATE,Dating
-http://www.caribvoice.org,FEXP,Free expression and media freedom
-http://www.cariweb.com/chat/politics.htm,GRP,Groups and social networking
-http://www.cariweb.com/main/authorization/doSignUp?target=http%3A%2F%2Fwww.cariweb.com%2F&quizattempt=1,GRP,Groups and social networking
-http://www.cariweb.com/main/authorization/signIn?target=http%3A%2F%2Fwww.cariweb.com%2F,GRP,Groups and social networking
-http://www.cublogz.com,FEXP,Free expression and media freedom
-http://www.demerarawaves.com,FEXP,Free expression and media freedom
-http://www.dharmshala.org,HUMR,Human rights
-http://www.facebook.com/home.php#!/profile.php?id=1031107697,POLR,Political reform
-http://www.facebook.com/profile.php?id=1031107697#!/profile.php?id=591991321,FEXP,Free expression and media freedom
-http://www.guyana.cc/forums/,GRP,Groups and social networking
-http://www.guyana.org,FEXP,Free expression and media freedom
-http://www.guyanacaribbeanpolitics.com,FEXP,Free expression and media freedom
-http://www.guyanachronicle.com/site/,FEXP,Free expression and media freedom
-http://www.guyanaobservernews.org,FEXP,Free expression and media freedom
-http://www.guyanaoutpost.com/guyana.shtml,FEXP,Free expression and media freedom
-http://www.guyanapnc.org,POLT,Political transformation
-http://www.guyanareunion.com,GRP,Groups and social networking
-http://www.higuyana.com/index.php?do=/blog/,GRP,Groups and social networking
-http://www.idletribes.com,FEXP,Free expression and media freedom
-http://www.kaieteurnewsonline.com,FEXP,Free expression and media freedom
-http://www.likeachampion360.com,FEXP,Free expression and media freedom
-http://www.mittelholzer.org/forum/,FEXP,Free expression and media freedom
-http://www.new-nation.net,POLT,Political transformation
-http://www.ourkulture.com/index.php,GRP,Groups and social networking
-http://www.rainbowvibes.com,DATE,Dating
-http://www.sdnp.org.gy,GRP,Groups and social networking
-http://www.sdnp.org.gy/cbr/,HUMR,Human rights
-http://www.sdnp.org.gy/ngo/,FEXP,Free expression and media freedom
-http://www.stabroeknews.com/news/,FEXP,Free expression and media freedom
-http://www.teencaribbean.com,FEXP,Free expression and media freedom
-http://www.vibesconnect.com,GRP,Groups and social networking
-http://www.votepup.com,POLT,Political transformation
-http://www.vycguyana.net/index.php,HUMR,Human rights
-http://www.weekendmirror.com/news/,FEXP,Free expression and media freedom
-http://www.westindiantube.com,FEXP,Free expression and media freedom
-http://ycgi.org,HUMR,Human rights
+url,category_code,category_description,date_added,source,notes
+http://119.82.71.95/guyanatimes/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://afcnew.afcguyana.com,POLT,Political transformation,2014-04-15,citizenlab
+http://blog.socialingua.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://c-gid.net/index.php?option=com_content&view=frontpage&Itemid=1,POLR,Political reform,2014-04-15,citizenlab
+http://capitolnewsgy.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://cariblogger.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://davidgrangercampaign.com,POLT,Political transformation,2014-04-15,citizenlab
+http://gp.gy,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://gtcybercafe.tripod.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://guyanafaces.com,GRP,Groups and social networking,2014-04-15,citizenlab
+http://guyanagroove.blogspot.com,WOMR,Women's rights,2014-04-15,citizenlab
+http://gyconnectionz.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://jonoguyana.blogspot.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://kingstonpo.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://kykoveral.blogspot.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://pro.caribbeanaxis.com,GRP,Groups and social networking,2014-04-15,citizenlab
+http://propagandapress.wordpress.com,POLR,Political reform,2014-04-15,citizenlab
+http://saxakali.com/wpa/,POLT,Political transformation,2014-04-15,citizenlab
+http://theoverstream-guyana.blogspot.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://visionguyana.blogspot.com,REL,"Religious conversion, commentary and criticism",2014-04-15,citizenlab
+http://www.blackmagic-lounge.com,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.blackplanet.com,DATE,Dating,2014-04-15,citizenlab
+http://www.caribbeanmassive.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.caribbeantrakker.com/category/guyana/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.caribsingles.com,DATE,Dating,2014-04-15,citizenlab
+http://www.caribvoice.org,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.cariweb.com/chat/politics.htm,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.cariweb.com/main/authorization/doSignUp?target=http%3A%2F%2Fwww.cariweb.com%2F&quizattempt=1,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.cariweb.com/main/authorization/signIn?target=http%3A%2F%2Fwww.cariweb.com%2F,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.cublogz.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.demerarawaves.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.dharmshala.org,HUMR,Human rights,2014-04-15,citizenlab
+http://www.facebook.com/home.php#!/profile.php?id=1031107697,POLR,Political reform,2014-04-15,citizenlab
+http://www.facebook.com/profile.php?id=1031107697#!/profile.php?id=591991321,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.guyana.cc/forums/,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.guyana.org,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.guyanacaribbeanpolitics.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.guyanachronicle.com/site/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.guyanaobservernews.org,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.guyanaoutpost.com/guyana.shtml,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.guyanapnc.org,POLT,Political transformation,2014-04-15,citizenlab
+http://www.guyanareunion.com,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.higuyana.com/index.php?do=/blog/,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.idletribes.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.kaieteurnewsonline.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.likeachampion360.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.mittelholzer.org/forum/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.new-nation.net,POLT,Political transformation,2014-04-15,citizenlab
+http://www.ourkulture.com/index.php,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.rainbowvibes.com,DATE,Dating,2014-04-15,citizenlab
+http://www.sdnp.org.gy,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.sdnp.org.gy/cbr/,HUMR,Human rights,2014-04-15,citizenlab
+http://www.sdnp.org.gy/ngo/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.stabroeknews.com/news/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.teencaribbean.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.vibesconnect.com,GRP,Groups and social networking,2014-04-15,citizenlab
+http://www.votepup.com,POLT,Political transformation,2014-04-15,citizenlab
+http://www.vycguyana.net/index.php,HUMR,Human rights,2014-04-15,citizenlab
+http://www.weekendmirror.com/news/,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://www.westindiantube.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab
+http://ycgi.org,HUMR,Human rights,2014-04-15,citizenlab
