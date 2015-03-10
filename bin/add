@@ -1,0 +1,148 @@
+#!/usr/bin/env python
+import os
+import sys
+import csv
+import json
+import shutil
+import argparse
+import logging
+
+from glob import glob
+from datetime import datetime
+from urlparse import urlparse
+
+def get_mapping(file_name):
+    mapping = {}
+    with open(file_name, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = reader.next()
+        for row in reader:
+            mapping[row[0].lower()] = row[1]
+    return mapping
+
+def match(url, target):
+    parsed = urlparse(url)
+    http_url = parsed._replace(scheme="http")
+    https_url = parsed._replace(scheme="https")
+    if parsed.netloc.startswith("www"):
+        no_www_url = parsed._replace(netloc=re.sub("^www\.", "", parsed.netloc))
+        www_url = parsed
+    else:
+        no_www_url = parsed
+        www_url = parsed._replace(netloc="www."+parsed.netloc)
+
+    if target.startswith(http_url.geturl()):
+        return True
+    elif target.startswith(https_url.geturl()):
+        return True
+    elif target.startswith(no_www_url.geturl()):
+        return True
+    elif target.startswith(www_url.geturl()):
+        return True
+
+    return False
+
+def find_url_in_file(url, file_name, match_function=match):
+    matches = []
+    logging.debug("Opening CSV file %s" % file_name)
+    with open(file_name, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = reader.next()
+        for row in reader:
+            if match_function(url, row[0]):
+                matches.append(row[0])
+                logging.info("Found %s in %s" % (row[0], file_name))
+    return matches
+
+def find_url_in_directory(url, path):
+    matches = {}
+    for file_name in glob(path+'*'):
+        if '00-LEGEND' in file_name:
+            continue
+        country_code = os.path.basename(file_name).replace(".csv", "")
+        logging.debug("Searching in %s" % (file_name))
+        try:
+            urls = find_url_in_file(url, file_name)
+            if urls:
+                matches[country_code] = urls
+        except Exception as exc:
+            logging.error("Error in reading %s" % file_name)
+            sys.exit(1)
+    return matches
+
+def add_url(url, country_code, category_code, category_description, date_added,
+            source, lists_path, notes=None):
+    dst_file_name = os.path.join(lists_path, "%s.csv" % country_code.lower())
+
+    def match_function(url, target):
+        if url == target:
+            return True
+
+    if not os.path.isfile(dst_file_name):
+        with open(dst_file_name, 'w') as f:
+            writer = csv.writer(f, delimiter=',', quotechar='"')
+            writer.writerow(['url', 'category_code', 'category_description',
+                            'date_added', 'source', 'notes'])
+    elif find_url_in_file(url, dst_file_name, match_function):
+        logging.info("Exact URL is already present not adding")
+        return
+
+    with open(dst_file_name, 'ab') as f:
+        writer = csv.writer(f, delimiter=',')
+        writer.writerow([url, category_code, category_description,
+                         date_added, source, notes])
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+
+    lists_path = 'lists/'
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('url', help="the url to add")
+    parser.add_argument('-c', '--country', help="the two letter country code or global")
+    args = parser.parse_args()
+
+    country_mapping = get_mapping(
+        os.path.join(lists_path, '00-LEGEND-country_codes.csv')
+    )
+    category_mapping = get_mapping(
+        os.path.join(lists_path, '00-LEGEND-category_codes.csv')
+    )
+
+    logging.debug("Adding %s" % args.url)
+    matches = find_url_in_directory(args.url, lists_path)
+    if len(matches) != 0:
+        print "I found the URL %s in the following files:" % args.url
+        for cc, urls in matches.items():
+            try:
+                name = country_mapping[cc]
+            except KeyError:
+                name = cc.title()
+
+            print name
+            print "=" * len(name)
+            for url in urls:
+                print "* %s" % url
+
+        answer = raw_input("Do you still wish to add the URL? (y/n) ")
+        if answer.lower().startswith("y"):
+            pass
+        else:
+            sys.exit(0)
+
+    for cc, cname in country_mapping.items():
+        print "(%s) %s" % (cc, cname)
+    country_code = raw_input("Two letter country code: ")
+    country_code = country_code.lower()
+
+    for cc, cname in category_mapping.items():
+        print "(%s) %s" % (cc, cname)
+    category_code = raw_input("Category code: ")
+    category_code = category_code.upper()
+    category_description = category_mapping[category_code.lower()]
+
+    source = raw_input("Your name: ")
+    date_added = datetime.now().strftime("%Y-%m-%d")
+
+    add_url(args.url, country_code, category_code, category_description,
+            date_added, source, lists_path)
