@@ -1,0 +1,43 @@
+#!/usr/bin/env python
+import os
+import sys
+import csv
+import json
+import shutil
+import logging
+
+from tempfile import NamedTemporaryFile
+
+from glob import glob
+
+
+def fix_file(file_name):
+    tempfile = NamedTemporaryFile(delete=False)
+    logging.debug("Opening CSV file %s" % file_name)
+    with open(file_name, 'rb') as csvfile, tempfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        writer = csv.writer(tempfile, delimiter=',', quotechar='"')
+        header = reader.next()
+        writer.writerow(['url', 'category_code', 'category_description',
+                         'date_added', 'source', 'notes'])
+        for row in reader:
+            row.append('2014-04-15')
+            row.append('citizenlab')
+            writer.writerow(row)
+
+    shutil.move(tempfile.name, file_name)
+
+def fix_directory(path='lists/'):
+    for file_name in glob(path+'*'):
+        if '00-LEGEND' in file_name:
+            continue
+        logging.info("Fixing %s" % (file_name))
+        try:
+            fix_file(file_name)
+        except Exception as exc:
+            logging.error("Error in generating %s" % file_name)
+            sys.exit(1)
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+    fix_directory()

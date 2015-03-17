@@ -1,0 +1,50 @@
+#!/usr/bin/env python
+import os
+import sys
+import csv
+import json
+import logging
+
+from glob import glob
+
+def generate_json(output, output_file_name):
+    with open(output_file_name, "w+") as fw:
+        json.dump(output, fw, indent=2)
+
+def generate_file(file_name, output_file_name, output_format="json"):
+    output = []
+    logging.debug("Opening CSV file %s" % file_name)
+    with open(file_name, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = reader.next()
+        for row in reader:
+            item = {}
+            for idx, key in enumerate(header):
+                logging.debug("Adding to %s %s" % (key, row[idx]))
+                item[key] = unicode(row[idx], 'utf-8')
+            logging.debug("Adding item %s" % item)
+            output.append(item)
+
+    if output_format == "json":
+        logging.debug("Generating JSON for %s" % output_file_name)
+        logging.debug(output)
+        generate_json(output, output_file_name)
+
+def generate_directory(path='lists/', output_directory=None, output_format="json"):
+    for file_name in glob(path+'*'):
+        if not output_directory:
+            output_directory = "output"
+        output_file_name = os.path.basename(file_name)
+        output_file_name = output_file_name.replace('.csv', '')
+        output_file_name += '.%s' % output_format
+        output_file_name = os.path.join(output_directory, output_file_name)
+        logging.info("Generating %s for %s in %s" % (output_format, file_name, output_file_name))
+        try:
+            generate_file(file_name, output_file_name, output_format)
+        except Exception as exc:
+            logging.error("Error in generating %s" % file_name)
+            sys.exit(1)
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+    generate_directory()
