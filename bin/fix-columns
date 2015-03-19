@@ -6,6 +6,7 @@ import json
 import shutil
 import logging
 
+from datetime import datetime
 from tempfile import NamedTemporaryFile
 
 from glob import glob
@@ -21,8 +22,12 @@ def fix_file(file_name):
         writer.writerow(['url', 'category_code', 'category_description',
                          'date_added', 'source', 'notes'])
         for row in reader:
-            row.append('2014-04-15')
-            row.append('citizenlab')
+            if len(row) < 4:
+                row.append(datetime.now().strftime("%Y-%m-%d"))
+            elif len(row) < 5:
+                row.append('unknown')
+            elif len(row) < 6:
+                row.append(None)
             writer.writerow(row)
 
     shutil.move(tempfile.name, file_name)
