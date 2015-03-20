@@ -1,0 +1,22 @@
+#!/usr/bin/env python
+import os
+import imp
+import sys
+
+import logging
+import argparse
+
+# XXX perhaps make this better
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "lib"))
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('service', help="the name of the service to add")
+    args = parser.parse_args()
+
+    service = imp.load_source(args.service.replace('/', '.'),
+                              os.path.join('lib', 'lists', 'services',
+                                           args.service + '.py'))
+    service.update()
