@@ -12,6 +12,7 @@ class Bridges(base.Service):
         ("transport_name", "vanilla"),
         ("fingerprint", None),
         ("hashed_fingerprint", None),
+        ("distributor", None),
         ("name", "tor/bridges"),
         ("category_code", "ANON"),
         ("date_added", datetime.now().strftime("%Y-%m-%d")),
@@ -32,7 +33,9 @@ class TorBrowserBridges(Bridges):
             if not line.startswith('pref("extensions.torlauncher.default_bridge.'):
                 continue
             logging.debug("Looking at %s" % line)
-            item = {}
+            item = {
+                "distributor": "tbb"
+            }
             address = line.split(", ")[1].replace('"', '').replace(");", "")
             parts = address.split(" ")
             transport_name = parts[0]
