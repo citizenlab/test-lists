@@ -4,8 +4,9 @@ import sys
 import csv
 import json
 import shutil
-import argparse
 import logging
+import argparse
+import traceback
 
 from glob import glob
 from datetime import datetime
@@ -21,23 +22,26 @@ def get_mapping(file_name):
     return mapping
 
 def match(url, target):
+    def get_url(url):
+        return "%s://%s" % (url.scheme, url.netloc)
+
     parsed = urlparse(url)
-    http_url = parsed._replace(scheme="http")
-    https_url = parsed._replace(scheme="https")
+    http_url = get_url(parsed._replace(scheme="http"))
+    https_url = get_url(parsed._replace(scheme="https"))
     if parsed.netloc.startswith("www"):
         no_www_url = parsed._replace(netloc=re.sub("^www\.", "", parsed.netloc))
         www_url = parsed
     else:
-        no_www_url = parsed
-        www_url = parsed._replace(netloc="www."+parsed.netloc)
+        no_www_url = get_url(parsed)
+        www_url = get_url(parsed._replace(netloc="www."+parsed.netloc))
 
-    if target.startswith(http_url.geturl()):
+    if target.startswith(http_url):
         return True
-    elif target.startswith(https_url.geturl()):
+    elif target.startswith(https_url):
         return True
-    elif target.startswith(no_www_url.geturl()):
+    elif target.startswith(no_www_url):
         return True
-    elif target.startswith(www_url.geturl()):
+    elif target.startswith(www_url):
         return True
 
     return False
@@ -57,7 +61,9 @@ def find_url_in_file(url, file_name, match_function=match):
 def find_url_in_directory(url, path):
     matches = {}
     for file_name in glob(path+'*'):
-        if '00-LEGEND' in file_name:
+        if os.path.basename(file_name).startswith("00-"):
+            continue
+        elif 'services' in file_name:
             continue
         country_code = os.path.basename(file_name).replace(".csv", "")
         logging.debug("Searching in %s" % (file_name))
@@ -66,6 +72,7 @@ def find_url_in_directory(url, path):
             if urls:
                 matches[country_code] = urls
         except Exception as exc:
+            logging.debug(traceback.format_exc())
             logging.error("Error in reading %s" % file_name)
             sys.exit(1)
     return matches
