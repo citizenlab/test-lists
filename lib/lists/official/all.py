@@ -1,5 +1,6 @@
-from lists.official.it import bohf
+from lists.official.it import bofh, aams
 
 
 def update():
-    bohf.update()
+    bofh.update()
+    aams.update()

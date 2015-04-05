@@ -48,5 +48,5 @@ class AAMSBlockList(Resource):
 
 def update():
     logging.info("Updating AAMS Block list")
-    aams_block_list = AAMSBlockList('lists/official/it/bofh.csv')
+    aams_block_list = AAMSBlockList('lists/official/it/aams.csv')
     aams_block_list.update()
