@@ -3,10 +3,10 @@ import logging
 from hashlib import sha1
 from datetime import datetime
 
-from lists.services import base
+from lists.resource import Resource
 
 
-class Bridges(base.Service):
+class Bridges(Resource):
     columns = [
         ("address", None),
         ("transport_name", "vanilla"),
