@@ -16,7 +16,7 @@ if __name__ == "__main__":
     parser.add_argument('service', help="the name of the service to add")
     args = parser.parse_args()
 
-    service = imp.load_source(args.service.replace('/', '.'),
+    service = imp.load_source('lists.'+args.service.replace('/', '.'),
                               os.path.join('lib', 'lists', 'services',
                                            args.service + '.py'))
     service.update()
