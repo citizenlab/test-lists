@@ -1,5 +1,5 @@
 from lists.services.tor import bridges
 
 
-def update():
-    bridges.update()
+def update(skip_update=False):
+    bridges.update(skip_update)

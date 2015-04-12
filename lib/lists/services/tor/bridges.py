@@ -24,6 +24,7 @@ class Bridges(Resource):
 
 
 class TorBrowserBridges(Bridges):
+    name = "services/tor/bridges"
     key = "address"
     download_url = "https://gitweb.torproject.org/builders/tor-browser-bundle.git/plain/Bundle-Data/PTConfigs/bridge_prefs.js"
 

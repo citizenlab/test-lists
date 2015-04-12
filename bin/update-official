@@ -14,9 +14,11 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument('official', help="the name of the service to add")
+    parser.add_argument('--skip-download', action="store_true", default=False,
+                        help="Skip downloading the updated version of the service")
     args = parser.parse_args()
 
     official = imp.load_source('official.'+args.official.replace('/', '.'),
                                os.path.join('lib', 'lists', 'official',
                                             args.official + '.py'))
-    official.update()
+    official.update(args.skip_download)

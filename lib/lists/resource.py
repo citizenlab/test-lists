@@ -4,7 +4,6 @@ import shutil
 import logging
 
 from datetime import datetime
-from tempfile import TemporaryFile
 from lists import https
 
 
@@ -23,6 +22,7 @@ class Resource(object):
         ("notes", None)
     ]
 
+    name = "resource"
     key = "notes"
 
     download_url = None
@@ -66,11 +66,34 @@ class Resource(object):
             writer = csv.writer(f, delimiter=',')
             writer.writerow(row)
 
-    def download(self, url=None):
+    @property
+    def dst_filename(self):
+        timestamp = datetime.now().strftime("%Y-%m-%dT%H%M%SZ")
+        dst_filename = "%s-%s.dat" % (os.path.basename(self.name),
+                                      timestamp)
+        return os.path.join(self.dst_directory, dst_filename)
+
+    @property
+    def dst_directory(self):
+        return os.path.join(
+            'downloads',
+            os.path.dirname(self.name)
+        )
+
+    def download(self, url=None, dst_filename=None):
         if self.download_url is None and url is None:
             return
 
-        downloaded_file = TemporaryFile()
+        if dst_filename is None:
+            dst_filename = self.dst_filename
+
+        try:
+            os.makedirs(self.dst_directory)
+        except OSError as exc:
+            if exc.errno != 17:
+                raise exc
+
+        downloaded_file = open(dst_filename, "w+")
         result = https.open(self.download_url)
         shutil.copyfileobj(result, downloaded_file)
         downloaded_file.seek(0)
@@ -80,11 +103,16 @@ class Resource(object):
         for line in downloaded_file:
             yield {"notes": line.strip()}
 
-    def update(self):
+    def update(self, skip_download=False):
         self.write_header()
-        downloaded_file = self.download()
+        if skip_download:
+            downloaded_file = open(os.path.join(self.dst_directory,
+                                                self.dst_filename))
+        else:
+            downloaded_file = self.download()
         for item in self.parse(downloaded_file):
             try:
                 self.write_row(item)
             except AlreadyPresent:
                 logging.info("Item %s already present" % item)
+        downloaded_file.close()

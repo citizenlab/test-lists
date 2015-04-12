@@ -20,6 +20,7 @@ class AAMSBlockList(Resource):
         ("notes", None)
     ]
 
+    name = "official/it/aams"
     key = "url"
     download_url = "ftp://ftp.finanze.it/pub/monopoli/elenco_siti_inibiti.rtf"
 
@@ -46,7 +47,7 @@ class AAMSBlockList(Resource):
                 }
 
 
-def update():
+def update(skip_download=False):
     logging.info("Updating AAMS Block list")
     aams_block_list = AAMSBlockList('lists/official/it/aams.csv')
-    aams_block_list.update()
+    aams_block_list.update(skip_download)

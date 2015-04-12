@@ -97,6 +97,7 @@ class BOFHBlockList(Resource):
         ("notes", None)
     ]
 
+    name = "official/it/bofh"
     key = "url"
     download_url = "http://censura.bofh.it/elenchi.html"
 
@@ -119,6 +120,6 @@ class BOFHBlockList(Resource):
             yield item
 
 
-def update():
+def update(skip_download=False):
     bofh_block_list = BOFHBlockList('lists/official/it/bofh.csv')
-    bofh_block_list.update()
+    bofh_block_list.update(skip_download)
