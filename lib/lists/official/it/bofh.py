@@ -111,9 +111,9 @@ class BOFHBlockList(Resource):
             item = {
                 "date_added": row[0],
                 "url": row[1],
-                "authority": row[2],
-                "category_code": map_category(row[3]),
-                "category_it_name": row[3],
+                "authority": row[3],
+                "category_code": map_category(row[2]),
+                "category_it_name": row[2],
                 "notes": notes
             }
             yield item
