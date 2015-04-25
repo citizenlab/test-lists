@@ -7,7 +7,7 @@ class DirectoryAuthority(Resource):
             ("nickname", None),
             ("address", None),
             ("v3_ident", None),
-            ("fingerprint", None), # WTF is this
+            ("fingerprint", None),
             ("or_port", None),
             ("dir_port", None),
             ("bridge", False)
@@ -60,7 +60,7 @@ class TorDirAuth(DirectoryAuthority):
             item = {}
             item["nickname"] = directory.split(" ")[0]
             # is hardcoding fingerprint length safe?
-            item["fingerprint"] = directory[-50:-1]
+            item["fingerprint"] = directory[-50:-1].replace(" ","")
 
             for part in directory.split(" "):
                 if "orport" in part:
