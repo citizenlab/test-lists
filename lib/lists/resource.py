@@ -13,7 +13,6 @@ class AlreadyPresent(Exception):
 
 class Resource(object):
     columns = [
-        ("name", "unknown"),
         ("category_code", "MISC"),
         ("date_added", datetime.now().strftime("%Y-%m-%d")),
         ("date_published", datetime.now().strftime("%Y-%m-%d")),
@@ -34,7 +33,7 @@ class Resource(object):
         if not os.path.isfile(self.dst_file_name):
             with open(self.dst_file_name, 'w') as f:
                 writer = csv.writer(f, delimiter=',', quotechar='"')
-                writer.writerow([x[0] for x in self.columns])
+                writer.writerow([x[0] for x in ["name"] + self.columns])
 
     def already_present(self, item):
         if self.key not in item.keys():
@@ -55,7 +54,7 @@ class Resource(object):
         if self.already_present(item):
             raise AlreadyPresent
 
-        row = []
+        row = [self.name]
         for column in self.columns:
             if column[0] in item.keys():
                 row.append(item[column[0]])
