@@ -12,14 +12,9 @@ from glob import glob
 from datetime import datetime
 from urlparse import urlparse
 
-def get_mapping(file_name):
-    mapping = {}
-    with open(file_name, 'rb') as csvfile:
-        reader = csv.reader(csvfile, delimiter=',')
-        header = reader.next()
-        for row in reader:
-            mapping[row[0].lower()] = row[1]
-    return mapping
+# XXX perhaps make this better
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "lib"))
+from lists import mapping
 
 def match(url, target):
     def get_url(url):
@@ -109,10 +104,10 @@ if __name__ == "__main__":
     parser.add_argument('-c', '--country', help="the two letter country code or global")
     args = parser.parse_args()
 
-    country_mapping = get_mapping(
+    country_mapping = mapping.get(
         os.path.join(lists_path, '00-LEGEND-country_codes.csv')
     )
-    category_mapping = get_mapping(
+    category_mapping = mapping.get(
         os.path.join(lists_path, '00-LEGEND-category_codes.csv')
     )
 

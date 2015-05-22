@@ -1,0 +1,24 @@
+#!/usr/bin/env python
+import os
+import imp
+import sys
+
+import logging
+import argparse
+
+# XXX perhaps make this better
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "lib"))
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG)
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('official', help="the name of the service to add")
+    parser.add_argument('--skip-download', action="store_true", default=False,
+                        help="Skip downloading the updated version of the service")
+    args = parser.parse_args()
+
+    official = imp.load_source('official.'+args.official.replace('/', '.'),
+                               os.path.join('lib', 'lists', 'official',
+                                            args.official + '.py'))
+    official.update(args.skip_download)
