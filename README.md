@@ -1,3 +1,46 @@
+Usage
+=====
+
+Updating URL lists
+------------------
+
+Some lists require you install some extra modules.
+
+You can do so with:
+
+```
+# It's recommended you do this in a virtualenv
+pip install requirements.txt
+```
+
+Then you can update the URL lists with:
+
+```
+# Update Italian gambling website list
+./bin/update-official it/aams
+
+# Update Italian BOFH list
+./bin/update-official it/bofh
+
+# Update Tor brirdges list
+./bin/update-services tor/bridges
+
+# Update Tor directory authority list
+./bin/update-services tor/dir_auths
+```
+
+Adding new URLs
+---------------
+
+To find the mappings of two letter country codes and country names see [this
+file](https://github.com/citizenlab/test-lists/blob/master/lists/00-LEGEND-category_codes.csv):
+
+```
+./bin/add http://example.com/
+```
+
+You will guided through an interactive step by step process to add the URL.
+
 What Is It?
 ===========
 
