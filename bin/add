@@ -58,7 +58,7 @@ def find_url_in_directory(url, path):
     for file_name in glob(path+'*'):
         if os.path.basename(file_name).startswith("00-"):
             continue
-        elif 'services' in file_name:
+        elif 'services' in file_name or 'official' in file_name:
             continue
         country_code = os.path.basename(file_name).replace(".csv", "")
         logging.debug("Searching in %s" % (file_name))
