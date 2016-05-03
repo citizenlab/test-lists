@@ -1,11 +1,11 @@
 Category Description,New Code,Replaces old code(s),Description
 Alcohol & Drugs,ALDR,ALDR,"Sites devoted to the use, paraphernalia, and sale of drugs and alcohol irrespective of the local legality."
 Religion,REL,REL,"Sites devoted to discussion of religious issues, both supportive and critical, as well as discussion of minority religious groups."
-Pornography,PORN,PORN,Hard-core and soft-core porngraphy.
+Pornography,PORN,PORN,Hard-core and soft-core pornography.
 Provocative Attire,PROV,PROV,"Websites which show provocative attire and portray women in a sexual manner, wearing minimal clothing. "
-Political Criticism,POLR,POLR POLT,"Content that offers critical political viewpoints. Includes critical authors and bloggers, as well as oppositional political organizations. Includes pro-democracy content, anti-corruption content as well as content calling for changes in leadership, governance issues, legal reform. etc."
-Human Rights Issues,HUMR,HUMR MINR WOMR,Sites dedicated to dicussing human rights issues in various forms. Includes women's rights and rights of minority ethnic groups.
-Environment,ENV,ENV,"Pollution, international environmental treaties, deforestation, environemntal justice, disasters, etc."
+Political Criticism,POLR,POLR POLT,"Content that offers critical political viewpoints. Includes critical authors and bloggers, as well as oppositional political organizations. Includes pro-democracy content, anti-corruption content as well as content calling for changes in leadership, governance issues, legal reform. Etc."
+Human Rights Issues,HUMR,HUMR MINR WOMR,Sites dedicated to discussing human rights issues in various forms. Includes women's rights and rights of minority ethnic groups.
+Environment,ENV,ENV,"Pollution, international environmental treaties, deforestation, environmental justice, disasters, etc."
 Terrorism and Militants,MILX,MILX,"Sites promoting terrorism, violent militant or separatist movements."
 Hate Speech,HATE,HATE,"Content that disparages particular groups or persons based on race, sex, sexuality or other characteristics"
 News Media,NEWS,FEXP,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media."
@@ -23,7 +23,7 @@ Media sharing,MMED,MMED,"Video, audio or photo sharing platforms."
 Hosting and Blogging Platforms,HOST,HOST BLGSERV,"Web hosting services, blogging and other online publishing platforms."
 Search Engines,SRCH,SRCH,Search engines and portals.
 Gaming,GAME,GAME,"Online games and gaming platforms, excluding gambling sites."
-Culture,CULTR,HAL ,"Content relating to entertainment, history, literature, music, film, books, satire and humour."
+Culture,CULTR,HAL ,"Content relating to entertainment, history, literature, music, film, books, satire and humor"
 Economics,ECON,DEV,"General economic development and poverty related topics, agencies and funding opportunities"
 Government,GOVT,FREL,"Government-run websites, including military sites."
 E-commerce,COMM,COMM,Websites of commercial services and products.
