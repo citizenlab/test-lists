@@ -22,7 +22,7 @@ Then you can update the URL lists with:
 # Update Italian BOFH list
 ./bin/update-official it/bofh
 
-# Update Tor brirdges list
+# Update Tor bridges list
 ./bin/update-services tor/bridges
 
 # Update Tor directory authority list
