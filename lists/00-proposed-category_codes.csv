@@ -12,19 +12,20 @@ News Media,NEWS,FEXP,"This category includes major news outlets (BBC, CNN, etc.)
 Sex Education,XED,XED,"Includes contraception, abstinence, STDs, healthy sexuality, teen pregnancy, rape prevention, abortion, sexual rights, and sexual health services."
 Public Health,PUBH,PUBH,"HIV, SARS, bird flu, centers for disease control, World Health Organization, etc"
 Gambling,GMB,GMB,"Online gambling sites. Includes casino games, sports betting, etc."
-Anonymization and circumvention tools,ANON,ANON,"Sites that provide tools used for anonymization, circumvention, proxy-services and encryption. "
+Anonymization and circumvention tools,ANON,ANON,"Sites that provide tools used for anonymization, circumvention, proxy-services and encryption."
 Online Dating,DATE,DATE,"Online dating services which can be used to meet people, post profiles, chat, etc"
-Social Networking,GRP,GRP,Social networking tools and platforms. 
+Social Networking,GRP,GRP,Social networking tools and platforms.
 LGBT,LGBT,GAYL,A range of gay-lesbian-bisexual-transgender queer issues. (Excluding pornography)
-File-sharing,FILE,P2P,"Sites and tools used to share files, including cloud-based file storage and P2P file-sharing tools."
+File-sharing,FILE,P2P,"Sites and tools used to share files, including cloud-based file storage, torrents and P2P file-sharing tools."
 Hacking Tools,HACK,HACK,"Sites dedicated to computer security, including news and tools. Includes malicious and non-malicious content."
 Communication Tools,COMT,VOIP EMAIL TRNS,"Sites and tools for individual and group communications. Includes webmail, VoIP, instant messaging, chat and mobile messaging applications."
 Media sharing,MMED,MMED,"Video, audio or photo sharing platforms."
 Hosting and Blogging Platforms,HOST,HOST BLGSERV,"Web hosting services, blogging and other online publishing platforms."
 Search Engines,SRCH,SRCH,Search engines and portals.
 Gaming,GAME,GAME,"Online games and gaming platforms, excluding gambling sites."
-Culture,CULTR,HAL ,"Content relating to entertainment, history, literature, music, film, books, satire and humor"
+Culture,CULTR,HAL ,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 Economics,ECON,DEV,"General economic development and poverty related topics, agencies and funding opportunities"
 Government,GOVT,FREL,"Government-run websites, including military sites."
 E-commerce,COMM,COMM,Websites of commercial services and products.
 Control content,CTRL,N/A,Benign or innocuous content used as a control.
+Intergovernmental Organizations,IGO,N/A,Websites of intergovernmental organizations such as the United Nations.
