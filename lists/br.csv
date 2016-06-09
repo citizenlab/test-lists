@@ -1,0 +1,334 @@
+url,category_code,category_description,date_added,source,notes
+http://globo.com ,SRCH,Search Engines,2016-06-08,OONI,
+http://uol.com.br,SRCH,Search Engines,2016-06-08,OONI,
+http://ontests.me,CULTR,Culture,2016-06-08,OONI,
+http://www.mercadolivre.com.br/,COMM,E-commerce,2016-06-08,OONI,
+http://olx.com.br,COMM,E-commerce,2016-06-08,OONI,
+http://abril.com.br,NEWS,News Media,2016-06-08,OONI,
+http://www.fatosdesconhecidos.com.br/,SRCH,Search Engines,2016-06-08,OONI,
+http://curapelanatureza.com.br,HOST,Hosting and Blogging Platforms,2016-06-08,OONI,
+http://folha.uol.com.br,NEWS,News Media,2016-06-08,OONI,
+http://americanas.com.br,COMM,E-commerce,2016-06-08,OONI,
+http://www.sp.gov.br  ,GOVT,Government,2016-06-08,OONI,
+http://filmesonlinegratis.net ,MMED,Media sharing,2016-06-08,OONI,
+http://correios.com.br,COMM,E-commerce,2016-06-08,OONI,Not sure about the category here.
+http://baixaki.com.br,SRCH,Search Engines,2016-06-08,OONI,"This is a downloading site, like a tech portal."
+http://www.aliexpress.com/ ,COMM,E-commerce,2016-06-08,OONI,
+http://www.terra.com.br/,SRCH,Search Engines,2016-06-08,OONI,
+http://www.vagalume.com.br/ ,CULTR,Culture,2016-06-08,OONI,
+https://www.letras.mus.br/,CULTR,Culture,2016-06-08,OONI,
+http://fazenda.gov.br/ ,GOVT,Government,2016-06-08,OONI,
+http://www.ig.com.br/ ,NEWS,News Media,2016-06-08,OONI,Not sure about the category here.
+http://www.bol.uol.com.br/,SRCH,Search Engines,2016-06-08,OONI,
+http://www.techtudo.com.br/ ,SRCH,Search Engines,2016-06-08,OONI,
+http://www.netshoes.com.br/ ,COMM,E-commerce,2016-06-08,OONI,
+http://www.submarino.com.br/,COMM,E-commerce,2016-06-08,OONI,
+http://www.casasbahia.com.br/ ,COMM,E-commerce,2016-06-08,OONI,
+https://www.hrw.org/americas/brazil ,HUMR,Human Rights Issues,2016-06-08,OONI,
+http://www.pornburst.xxx/,PORN,Pornography,2016-06-08,OONI,
+http://www.pornhd.com/ ,PORN,Pornography,2016-06-08,OONI,
+http://latintubeporn.com/,PORN,Pornography,2016-06-08,OONI,
+http://www.hqbutt.com/en/275/brazil/ ,PORN,Pornography,2016-06-08,OONI,
+http://lifeinrocinha.blogspot.de/ ,HOST,Hosting and Blogging Platforms,2016-06-08,OONI,
+https://favelawatchblog.com/ ,HOST,Hosting and Blogging Platforms,2016-06-08,OONI,
+http://riotimesonline.com/brazil-news/tag/drug-trafficking/# ,ALDR,Alcohol & Drugs,2016-06-08,OONI,
+http://riotimesonline.com,NEWS,News Media,2016-06-08,OONI,
+http://www.correiobraziliense.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.em.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.estadao.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.folha.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://oglobo.globo.com/,NEWS,News Media,2016-06-08,OONI,
+http://www.zerohora.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.agazeta-acre.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalatribuna.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.acrehoje.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.pagina20.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.oestadoacre.com/,NEWS,News Media,2016-06-08,OONI,
+http://www.oriobranco.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.tribunadojurua.com/,NEWS,News Media,2016-06-08,OONI,
+http://www.diariodoamapa.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.folhadoamapa.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://jdia.leiaonline.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalagazeta-ap.com/,NEWS,News Media,2016-06-08,OONI,
+http://www.acritica.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.emtempo.com.br/portal,NEWS,News Media,2016-06-08,OONI,
+http://www.diariodoamazonas.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.folhadacidade.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.jcam.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.maskate.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.ojornaldailha.com/,NEWS,News Media,2016-06-08,OONI,
+http://www.atarde.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.correio24horas.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.tribunadabahia.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www.folhadabahia.com.br/,NEWS,News Media,2016-06-08,OONI,
+http://www2.uol.com.br/aregiao,NEWS,News Media,2016-06-08,OONI,
+http://www.folhadoestado.net/,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalfeirahoje.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.tribunafeirense.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.novoeste.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalgazetadalapa.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalgazetadalapa.com.br/  ,NEWS,News Media,2016-06-08,OONI,
+http://www.agora-online.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalprimeirapagina.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.anoticiadovale.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.sertaonews.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.tribunadacosta.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.dsvc.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariosudoeste.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://diariodonordeste.globo.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.opovo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://tribunadoceara.uol.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.cearaagora.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalapraca.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.miseria.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.rotace.com.br/jornaldocariri ,NEWS,News Media,2016-06-08,OONI,
+http://www.afolhadigital.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.clicabrasilia.com.br/impresso ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalalobrasilia.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.brasiliaemdia.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.fatorama.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornaldacomunidade.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.tribunadobrasil.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalcoletivo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.gazetaonline.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.tribunaonline.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalgoyaz.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.opopular.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.brasilemfolhas.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://imirante.globo.com/oestadoma/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariodecuiaba.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.progresso.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.otempo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.ormnews.com.br/oliberal ,NEWS,News Media,2016-06-08,OONI,
+http://www.diarioonline.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.gazetadopovo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.readmetro.com/en/brazil/metro-curitiba/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.parana-online.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.folhaweb.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornaldelondrina.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.tnonline.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://maringa.odiario.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariodaparaiba.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.pernambuco.com/diario ,NEWS,News Media,2016-06-08,OONI,
+http://jconline.ne10.uol.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.folhape.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://odia.ig.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://jornal.ofluminense.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornaldocommercio.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://extra.globo.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.meiahora.ig.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://jornaldehoje.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://tribunadonorte.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.correiodopovo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariogaucho.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.pioneiro.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalagora.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariopopular.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariosm.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.estadaodonorte.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.bvnews.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diario.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.an.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.santa.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.ndonline.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.horasc.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://atribunadigital.globo.com/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.agora.uol.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.brasildefato.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://portal.cruzeirodosul.inf.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.cpopular.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariosp.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.diariodopovo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jt.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.janoticia.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.valeparaibano.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.dgabc.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.nenoticias.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornaldotocantins.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.ogirassol.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.jornalstylo.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.primeirapagina-to.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://jcrs.uol.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.valor.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.lancenet.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://www.rjsports.com.br/ ,NEWS,News Media,2016-06-08,OONI,
+http://folha.arcauniversal.com.br/ ,NEWS,News Media,2016-06-08,OONI,Religion-themed newspaper
+http://www.jornalhoje.com.br/ ,NEWS,News Media,2016-06-08,OONI,Religion-themed newspaper
+http://www.tabernaculo.com.br/ ,NEWS,News Media,2016-06-08,OONI,Religion-themed newspaper
+http://www.jornaldeopiniao.com.br/ ,NEWS,News Media,2016-06-08,OONI,Religion-themed newspaper
+http://blogs.oglobo.globo.com/miriam-leitao/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://www.oeconomista.com.br/topico/blog-economia/,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://queroficarrico.com/blog/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://dinheirama.com/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://blogs.diariodepernambuco.com.br/economia/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://exame.abril.com.br/rede-de-blogs/sidnei-oliveira/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://exame.abril.com.br/rede-de-blogs/blog-do-management/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://colunistas.ig.com.br/guilhermebarros/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://www.advivo.com.br/luisnassif ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://www.cristianomcosta.com/ ,ECON,Economics,2016-06-08,OONI,Blog about economy in Brazil
+http://oglobo.globo.com/pais/noblat/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://prosaepolitica.com.br/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://www.claudiohumberto.com.br/principal/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://colunas.revistaepoca.globo.com/guilhermefiuza/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://hotsites.atribuna.com.br/atribuna/blogdepolitica/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://marcelo.marques.zip.net/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://obarnabe.blogspot.com.br/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://blogs.estadao.com.br/radar-politico/ ,POLR,Political Criticism,2016-06-08,OONI,Blog about politics in Brazil
+http://www.melhoresdestinos.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://www.ajanelalaranja.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://www.matraqueando.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://www.outrosares.net/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://sairdobrasil.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://blogjunto.com/turistaprofissional/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://1001roteirinhos.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://www.blogdeviagens.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://viajandocompimpolhos.wordpress.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://www.almadeviajante.com/blogs-viagens.php ,CULTR,Culture,2016-06-08,OONI,Blog about travel
+http://www.garotasestupidas.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://www.dorisbicudo.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://www.garancedore.fr/en ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://www.hanneli.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://itgirls.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://oficinadeestilo.com.br/blog/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://juliapetit.com.br/category/home/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://www.verdadefeminina.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://facehunter.blogspot.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://www.thesartorialist.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about fashion
+http://padrepauloricardo.org/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://aliancacidada.wordpress.com/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://www.salvemaliturgia.com/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://www.presbiteros.com.br/site/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://blog.cancaonova.com/felipeaquino/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://encontrocomobispo.blogspot.com.br/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://gospelhomeblog.blogspot.com.br/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://oskaras.com/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://enigmasbiblicos.blogspot.com.br/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://www.blogcruzvazia.com.br/ ,REL,Religion,2016-06-08,OONI,Blog about religion
+http://www.meiodesligado.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://www.remixtures.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://papelpop.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://www.soubalada.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://movethatjukebox.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://musicadobrasil.blogs.sapo.pt/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://musicapopulardobrasil.blogspot.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://www.forroparaobrasil.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://www2.casadoaxe.com.br/blog ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://euamompb.blogspot.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about music
+http://www.soulnegra.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://oglobo.globo.com/blogs/arnaldo/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://epimenta.wordpress.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://recicloteca.org.br/blog/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://www.etniabrasileira.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://blogdapimenta.wordpress.com/tag/cultura-geral/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://portal-entretenimento.blogspot.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://www.drchapatin.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://revistaogrito.com/papodequadrinho/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://revistaogrito.com/doisminutosemeio/ ,CULTR,Culture,2016-06-08,OONI,Blog about culture and entertainment
+http://www.blogdasaude.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://www.blog.saude.gov.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Government blog about health
+http://planofeminino.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://minhametadeemagrecimento.blogspot.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://minhametadeemagrecimento.blogspot.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://boasaude.uol.com.br/blogboasaude/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://www.blogvalesaude.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://blog.almanaquesaude.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://www.eumesintobem.com.br/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://www.maisqualidadedevida.com.br/sobre/ ,PUBH ,Public Health ,2016-06-08,OONI,Blog about health
+http://br.esportes.yahoo.com/blogs/blog-do-neto/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://uolesporte.blogosfera.uol.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://blogdojuca.uol.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://colunistas.ig.com.br/fabiosormani/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://esportes.r7.com/blogs/alvaro-jose/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://www.esportedeaventura.com/blog/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://blogs.lancenet.com.br/maurobeting/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://blog.jovempan.uol.com.br/fernandosampaio/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://terceirotempo.bol.uol.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://blogdonavarro.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about sports
+http://www.casalsemvergonha.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://www.isabelafreitas.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://www.umombroamigo.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://nao2nao1.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://hipervitaminose.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://www.testosterona.blog.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://csdoamor.tumblr.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://www.namoronaboa.com.br/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://blog.artedonamoro.com/ ,CULTR,Culture,2016-06-08,OONI,Blog about relationships
+http://www.porn.com/videos/latin ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornolandia.xxx/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://pornocarioca.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://naoconto.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://toprealvideos.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://xpaja.net/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://xvideosx.com.br/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://flagrasamadores.net/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://novinhasdozapzap.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.xvideos.com ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.videosamadoresreais.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://xhamster.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.xnxx.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.youporn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.tube8.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.youjizz.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.inxporn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornhub.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.vpornvideos.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.mofosex.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://xxxbunker.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornhost.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://spankbang.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.hclips.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.thenewporn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://xbabe.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.updatetube.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.befuck.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.xxxymovies.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.wankoz.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://topfreepornvideos.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.slutload.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.proporn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+https://www.tnaflix.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.myxvids.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.bravotube.net/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornicom.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.dansmovies.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.wetplace.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.fuckuh.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://femdom-tube.xxx/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.88fuck.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://fapdu.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://pervclips.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.freudbox.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornheed.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.dailee.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.hdporn.net/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.orgasm.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornative.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornrabbit.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.definebabe.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.madthumbs.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://userporn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.fux.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.eroxia.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornjog.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.deviantclip.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://h2porn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://porn-wanted.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.keezmovies.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.moviegator.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.apetube.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.extremetube.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.porntitan.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.porncor.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.tjoob.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.eporner.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://alotporn.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.sunporno.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.yourlustmovies.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.nuvid.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.elephanttube.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.pornerbros.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.drtuber.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+http://www.tubegalore.com/ ,PORN ,Pornography ,2016-06-08,OONI,
+https://casino.netbet.co.uk/ ,GMB,Gambling,2016-06-08,OONI,
+https://7bitcasino.com/en/ ,GMB,Gambling,2016-06-08,OONI,
+http://www.royalpanda.com ,GMB,Gambling,2016-06-08,OONI,
