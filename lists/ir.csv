@@ -505,3 +505,11 @@ https://jensiat.io,XED,"Sex Education",2016-05-12,berkman,
 http://www.bbc.com/persian,NEWS,"News Media",2016-05-12,berkman,
 http://www.samen-alhojaj.ir,COMM,"Commercial sites",2016-05-12,berkman,
 https://www.zarinpal.com,COMM,"Commercial sites",2016-05-12,berkman,
+http://updatebox4.com,HACK,"Hacking",2016-06-29,OONI,This is actually a service used as CnC by a botnet
+http://bestupdateserver2.com,HACK,"Hacking",2016-06-29,OONI,This is actually a service used as CnC by a botnet
+https://www.amnesty.org,HUMR,"Human rights",2016-07-16,ICLab,"Amnesty Internationl"
+https://www.iranhumanrights.org,HUMR,"Human rights",2016-07-16,ICLab,"International Campaign for Human Rights in Iran"
+https://www.hrw.org,HUMR,"Human rights",2016-07-16,ICLab,"Human Rights Watch"
+http://justice4iran.org,HUMR,"Human rights",2016-07-16,ICLab,"Justice for Iran"
+https://citizenlab.org,FEXP,"Free expression and media freedom",2016-07-16,ICLab,"The Citizen Lab"
+https://asl19.org,FEXP,"Free expression and media freedom",2016-07-16,ICLab,"ASL 19"
