@@ -743,3 +743,18 @@ http://www.olleh-kt.kr,VOIP,voice over internet protocol,2016-08-09,OONI partner
 http://www.wevo.co.kr,VOIP,voice over internet protocol,2016-08-09,OONI partner,
 http://www.lxnetworks.co.kr,VOIP,voice over internet protocol,2016-08-09,OONI partner,
 http://www.kftel.com/,VOIP,voice over internet protocol,2016-08-09,OONI partner,
+http://gnu.rep.kp/,CULTR,Culture,2016-09-22,OONI,North Korean site - very slow connectivity
+http://friend.com.kp/,GRP,Social Networking,2016-09-22,OONI,North Korean site - very slow connectivity
+http://kass.org.kp/,CULTR,Culture,2016-09-22,OONI,North Korean site (education) - very slow connectivity
+http://kiyctc.com.kp/,CULTR,Culture,2016-09-22,OONI,North Korean site (travel) - very slow connectivity
+http://knic.com.kp/,COMM,E-commerce,2016-09-22,OONI,North Korean site (insurance) - very slow connectivity
+http://koredufund.org.kp/,HUMR,Human Rights Issues,2016-09-22,OONI,North Korean site (charity for education) - very slow connectivity 
+http://korelcfund.org.kp/,HUMR,Human Rights Issues,2016-09-22,OONI,North Korean site (charity for elderly) - very slow connectivity 
+http://korfilm.com.kp/,CULTR,Culture,2016-09-22,OONI,North Korean site - very slow connectivity
+http://ma.gov.kp/,GOVT,Government,2016-09-22,OONI,North Korean site - very slow connectivity
+http://naenara.com.kp/,NEWS,News Media,2016-09-22,OONI,North Korean site (news articles & promotional info about the country) - very slow connectivity
+http://nta.gov.kp/,GOVT,Government,2016-09-22,OONI,North Korean site (tourism) - very slow connectivity
+http://rodong.rep.kp/,NEWS,News Media,2016-09-22,OONI,North Korean site - very slow connectivity
+http://www.ryongnamsan.edu.kp/,CULTR,Culture,2016-09-22,OONI,North Korean site (University site) - very slow connectivity
+http://sdprk.org.kp/,CULTR,Culture,2016-09-22,OONI,North Korean site (sports) - very slow connectivity
+http://vok.rep.kp/,NEWS,News Media,2016-09-22,OONI,North Korean site - very slow connectivity
