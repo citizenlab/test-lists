@@ -1,26 +1,26 @@
 url,category_code,category_description,date_added,source,notes
-http://www.emol.com/,NEWS,News Media,2016-08-05,OONI,
-http://www.latercera.com/,NEWS,News Media,2016-08-05,OONI,
-http://www.lasegunda.cl/,NEWS,News Media,2016-08-05,OONI,
-http://www.lun.com/,NEWS,News Media,2016-08-05,OONI,
-http://www.lacuarta.cl/,NEWS,News Media,2016-08-05,OONI,
+http://www.emol.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
+http://www.latercera.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
+http://www.lasegunda.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
+http://www.lun.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
+http://www.lacuarta.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.lahora.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.df.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.estrategia.cl/,NEWS,News Media,2016-08-05,OONI,
 https://www.hrw.org/americas/chile,HUMR,Human Rights Issues,2016-08-05,OONI,
 https://derechosdigitales.org/,HUMR,Human Rights Issues,2016-08-05,OONI,
-http://www.24horas.cl/,NEWS,News Media,2016-08-05,OONI,
-https://www.terra.cl/,NEWS,News Media,2016-08-05,OONI,
+http://www.24horas.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
+https://www.terra.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://soychile.cl/,NEWS,News Media,2016-08-05,OONI,
-http://biobiochile.cl/,NEWS,News Media,2016-08-05,OONI,
+http://biobiochile.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.cooperativa.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.elmostrador.cl/,NEWS,News Media,2016-08-05,OONI,
-http://www.t13.cl/,NEWS,News Media,2016-08-05,OONI,
+http://www.t13.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.adnradio.cl/,NEWS,News Media,2016-08-05,OONI,
 http://elciudadano.cl/,NEWS,News Media,2016-08-05,OONI,
-http://cnnchile.com/,NEWS,News Media,2016-08-05,OONI,
-http://www.estrellaiquique.cl/,NEWS,News Media,2016-08-05,OONI,
-http://www.estrellavalpo.cl/,NEWS,News Media,2016-08-05,OONI,
+http://cnnchile.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
+http://www.estrellaiquique.cl/,NEWS,News Media,2016-08-05,OONI,Regional media
+http://www.estrellavalpo.cl/,NEWS,News Media,2016-08-05,OONI,Regional media
 http://www.mapuche-nation.org/espanol/indice.htm/,NEWS,News Media,2016-08-05,OONI,
 http://www.mapuche-nation.org/,NEWS,News Media,2016-08-05,OONI,
 http://www.iwgia.org/,HUMR,Human Rights Issues,2016-08-05,OONI,
