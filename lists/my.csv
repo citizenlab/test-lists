@@ -15,6 +15,10 @@ http://centre.com.my,SRCH,Search engines,2014-04-15,citizenlab,
 http://elizabethwong.wordpress.com,POLR,Political reform,2014-04-15,citizenlab,
 http://en.rsf.org/article.php3?id_article=20789,FEXP,Free expression and media freedom,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/Status_of_religious_freedom_in_Malaysia,REL,"Religious conversion, commentary and criticism",2014-04-15,citizenlab,
+http://ec2-54-251-147-140.ap-southeast-1.compute.amazonaws.com,FEXP,Freedom of expression and media freedom,2017-01-12,sinarproject,auto assigned AWS hostname used as alternate domain for Sarawak Report
+http://ec2-52-220-49-121.ap-southeast-1.compute.amazonaws.com,FEXP,Freedom of expression and media freedom,2017-01-12,sinarproject,auto assigned AWS hostname used as alternate domain for Sarawak Report
+http://ec2-52-76-110-27.ap-southeast-1.compute.amazonaws.com,FEXP,Freedom of expression and media freedom,2017-01-12,sinarproject,auto assigned AWS hostname used as alternate domain for Sarawak Report
+http://ec2-52-77-145-248.ap-southeast-1.compute.amazonaws.com,FEXP,Freedom of expression and media freedom,2017-01-12,sinarproject,auto assigned AWS hostname used as alternate domain for Sarawak Report
 http://forum.lowyat.net,P2P,Peer-to-peer computing,2014-04-15,citizenlab,
 http://forum.lowyat.net/i,MMED,Multimedia sharing,2014-04-15,citizenlab,
 http://freedomhouse.org/template.cfm?page=140&edition=7&ccrpage=31&ccrcountry=134,HUMR,Human rights,2014-04-15,citizenlab,
@@ -50,6 +54,7 @@ http://seapa.wordpress.com,FEXP,Free expression and media freedom,2014-04-15,cit
 http://skandal.blogspot.com,POLR,Political reform,2014-04-15,citizenlab,
 http://sloone.wordpress.com,POLR,Political reform,2014-04-15,citizenlab,
 http://straitstimes.asiaone.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab,
+https://swk.global.ssl.fastly.net,FEXP,Free expression and media freedom,2017-01-12,sinarproject,Alternate domain for Sarawak Report
 http://syedshahir.blogsome.com,FEXP,Free expression and media freedom,2014-04-15,citizenlab,
 http://tabulas.com,BLGSERV,Blogging domains and blogging services,2014-04-15,citizenlab,
 http://twitter.com/#!/bersih2,POLR,Political reform,2014-04-15,citizenlab,
@@ -160,6 +165,7 @@ http://www.healthtoday.net,PUBH,Public health,2014-04-15,citizenlab,
 http://www.hindusangam.org.my,MINF,Minority faiths,2014-04-15,citizenlab,
 http://www.historyofjihad.com,MINF,Minority faiths,2014-04-15,citizenlab,
 http://www.hivpolicy.org,PUBH,Public health,2014-04-15,citizenlab,
+http://www.hollywoodreporter.com/news/red-granite-founder-riza-azizs-931041,POLR,Political criticism,2016-09-22,sinarproject,news related to 1MDB
 http://www.hrw.org/en/asia/malaysia,HUMR,Human rights,2014-04-15,citizenlab,
 http://www.humanrights.asia,HUMR,Human rights,2014-04-15,citizenlab,
 http://www.icftu.org/displaydocument.asp?Index=991223279&Language=EN,POLR,Political reform,2014-04-15,citizenlab,
