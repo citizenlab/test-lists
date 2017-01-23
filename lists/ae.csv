@@ -542,3 +542,6 @@ https://www.treegrab.com/sap/,ANON,Anonymizers and circumvention,2014-04-15,citi
 http://www.middleeasteye.net/,FEXP,Free expression and media freedom,2016-07-13,citizenlab,
 http://www.middleeasteye.net/news/uae-government-blocks-access-middle-east-eye-1161235723,FEXP,Free expression and media freedom,2016-07-13,citizenlab,
 https://www.alaraby.co.uk,FEXP,Free expression and media freedom,2016-10-23,OONI,
+https://whispersystems.org,COMT,Communication Tools,2017-01-23,citizenlab,
+http://textsecure-service-ca.whispersystems.org,COMT,Communication Tools,2017-01-23,citizenlab,Used by Signal desktop
+https://textsecure-service-ca.whispersystems.org,COMT,Communication Tools,2017-01-23,citizenlab,Used by signal desktop with cert signed by Whisper
