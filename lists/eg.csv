@@ -153,3 +153,6 @@ https://twitter.com/ikhwanweb,FEXP,Free expression and media freedom,2014-04-15,
 https://twitter.com/muhammadmorsi,FEXP,Free expression and media freedom,2014-04-15,citizenlab,
 https://www.facebook.com/ikhwanweb.official,FEXP,Free expression and media freedom,2014-04-15,citizenlab,
 https://www.alaraby.co.uk,FEXP,Free expression and media freedom,2016-10-23,OONI,
+https://whispersystems.org,COMT,Communication Tools,2017-01-19,citizenlab,
+http://textsecure-service-ca.whispersystems.org,COMT,Communication Tools,2017-01-19,citizenlab,Used by Signal desktop
+https://textsecure-service-ca.whispersystems.org,COMT,Communication Tools,2017-01-20,citizenlab,Used by signal desktop with cert signed by Whisper
