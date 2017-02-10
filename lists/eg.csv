@@ -56,8 +56,10 @@ http://rassd.com,NEWS,News Media,2014-04-15,citizenlab,
 http://samy.attahawy.net,NEWS,News Media,2014-04-15,citizenlab,
 http://seekingfreedom.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
-http://textsecure-service-ca.whispersystems.org,COMT,Communication Tools,2017-01-19,citizenlab,Used by Signal desktop
-https://textsecure-service-ca.whispersystems.org,COMT,Communication Tools,2017-01-19,citizenlab,Used by Signal desktop with cert signed only by whispersystems
+https://textsecure-service-ca.whispersystems.org:80,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
+https://textsecure-service-ca.whispersystems.org:4433,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
+https://textsecure-service-ca.whispersystems.org:8443,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
+https://whispersystems-textsecure-attachments.s3.amazonaws.com,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal desktop for attachments
 http://theegyptblog.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://tortureinegypt.net,POLR,Political Criticism,2014-04-15,citizenlab,
 https://twitter.com/ikhwanweb,NEWS,News Media,2014-04-15,citizenlab,
