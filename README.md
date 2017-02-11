@@ -1,40 +1,6 @@
 Usage
 =====
 
-Updating URL lists
-------------------
-
-You can update the URL lists with:
-
-```
-# Update Italian gambling website list
-./bin/update-official it/aams
-
-# Update Italian BOFH list
-./bin/update-official it/bofh
-
-# Update Tor brirdges list
-./bin/update-services tor/bridges
-
-# Update Tor directory authority list
-./bin/update-services tor/dir_auths
-```
-
-Adding new URLs
----------------
-
-To find the mapping from category codes to category names, see [this
-file](https://github.com/citizenlab/test-lists/blob/master/lists/00-LEGEND-category_codes.csv).
-A similar mapping exists from country codes to country names in [this
-file](https://github.com/citizenlab/test-lists/blob/master/lists/00-LEGEND-country_codes.csv).
-To add a new URL, run:
-
-```
-./bin/add http://example.com/
-```
-
-You will be guided through an interactive step-by-step process to add the URL.
-
 What Is It?
 ===========
 
@@ -80,6 +46,11 @@ Lists are available in both CSV and JSON format.
 
 Please note that these lists are not the entirety of testing lists but rather just
 the newest list for every unique country code.
+
+Contributing URLs
+=================
+
+To learn how to contribute URLs for testing see: https://ooni.torproject.org/get-involved/contribute-test-lists/
 
 License
 ========
