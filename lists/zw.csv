@@ -1,0 +1,65 @@
+url,category_code,category_description,date_added,source,notes
+http://celebrate.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner
+https://erczim.org/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://ewn.co.za/2016/07/14/Hundreds-march-to-Zim-embassy-in-PTA/,POLR,Political Criticism,2016-07-22,OONI,
+http://ewn.co.za/2016/07/14/Zimbabweans-celebrate-the-release-of-Pastor-Evan-Mawarire/,POLR,Political Criticism,2016-07-22,OONI,
+http://ewn.co.za/2016/07/18/Zimbabwean-citizens-have-suffered-for-too-long/,POLR,Political Criticism,2016-07-22,OONI,
+http://ewn.co.za/Topic/Evan-Mawarire/,POLR,Political Criticism,2016-07-22,OONI,
+http://galz.org/,LGBT,LGBT,2016-07-22,OONI,url provided by OONI partner
+http://kalabashmedia.com/,CULTR,Culture,2016-07-22,OONI,url provided by OONI partner
+https://mdc.co.zw/,POLR,Political Criticism,2016-07-22,OONI,
+http://mg.co.za/article/2016-07-12-thisflag-pastor-evan-mawarire-summoned-by-zimbabwean-police/,POLR,Political Criticism,2016-07-22,OONI,
+http://religionnews.com/2016/07/21/how-thisflag-pastor-evan-mawarire-used-facebook-to-shut-down-zimbabwe/,POLR,Political Criticism,2016-07-22,OONI,
+http://saharareporters.com/2016/07/06/protests-shut-zimbabwe-down-mugabe-government-throttles-social-media-stave-criticism/,POLR,Political Criticism,2016-07-22,OONI,
+https://twitter.com/pastorevanlive/,POLR,Political Criticism,2016-07-22,OONI,
+http://www.263chat.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.3-mob.com/,CULTR,Culture,2016-07-22,OONI,url provided by OONI partner
+http://www.aljazeera.com/programmes/countingthecost/2014/02/robert-mugabe-economic-legacy-201422010939634296.html/,POLR,Political Criticism,2016-07-22,OONI,
+http://www.bulawayo24.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.channelzim.net/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.classifieds.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner
+http://www.deseretnews.com/article/865658538/How-ThisFlag-pastor-Evan-Mawarire-used-Facebook-to-shut-down-Zimbabwe.html/,POLR,Political Criticism,2016-07-22,OONI,
+http://www.econet.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner
+http://www.fifmi.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner
+http://www.herald.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.hmetro.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.hrforumzim.org/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.ibtimes.co.uk/zimbabwe-who-pastor-evan-mawarire-man-behind-thisflag-subversive-protest-movement-1569674/,POLR,Political Criticism,2016-07-22,OONI,
+http://www.ictministry.gov.zw/,GOVT,Government,2016-07-22,OONI,Looks like a DDoS attack is currently affecting this site
+http://www.jsc.org.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner
+http://www.kubatana.net/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.kwesesports.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.mg.co.za/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.misazim.com/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.mohcc.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner
+http://www.nehandaradio.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.netone.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner
+http://www.newsday.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.newsdzezimbabwe.co.uk/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.newzimbabwe.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.parlzim.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner
+http://www.phdministries.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner
+http://www.potraz.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner
+http://www.source.co.zw/,HACK,Hacking Tools,2016-07-22,OONI,These URLs should probably belong to a “tech” category (which doesn't exist yet).
+http://www.southerneye.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.sundaynews.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.technomag.co.zw/,HACK,Hacking Tools,2016-07-22,OONI,These URLs should probably belong to a “tech” category (which doesn't exist yet).
+http://www.techzim.co.zw/,HACK,Hacking Tools,2016-07-22,OONI,These URLs should probably belong to a “tech” category (which doesn't exist yet).
+http://www.telecel.co.zw/,COMM,E-commerce,2016-07-22,OONI,url provided by OONI partner
+http://www.theatlantic.com/magazine/archive/2003/12/how-to-kill-a-country/302845/,POLR,Political Criticism,2016-07-22,OONI,
+http://www.theindependent.co.zw/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.thezimbabwean.co/2016/03/an-update-on-human-rights-violations-in-zimbabwe/,HUMR,Human Rights Issues,2016-07-22,OONI,
+http://www.ufiministries.org/,REL,Religion,2016-07-22,OONI,url provided by OONI partner
+http://www.veritaszim.net/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+https://www.youtube.com/watch?v=EBRsjH5jWmI/,POLR,Political Criticism,2016-07-22,OONI,
+http://www.zela.org/,ENV,Environment,2016-07-22,OONI,url provided by OONI partner
+http://www.zesn.org.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.zhrc.org.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.zimbabwesituation.com/,NEWS,News Media,2016-07-22,OONI,url provided by OONI partner
+http://www.zimbojam.com/,CULTR,Culture,2016-07-22,OONI,url provided by OONI partner
+http://www.zimparks.org/,ENV,Environment,2016-07-22,OONI,url provided by OONI partner
+http://www.zimra.co.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner
+http://www.zimrights.co.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.zlhr.org.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
+http://www.zrp.gov.zw/,GOVT,Government,2016-07-22,OONI,url provided by OONI partner
+http://www.zwla.co.zw/,HUMR,Human Rights Issues,2016-07-22,OONI,url provided by OONI partner
