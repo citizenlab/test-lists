@@ -21,6 +21,42 @@ NEW_CATEGORY_CODES = "00-LEGEND-new_category_codes.csv"
 LEGACY_CATEGORY_CODES = "00-LEGEND-category_codes.csv"
 COUNTRY_CODES = "00-LEGEND-country_codes.csv"
 
+class TestListError(object):
+    name = 'Test List Error'
+    def __init__(self, csv_path, line_number):
+        self.csv_path = csv_path
+        self.line_number = line_number
+
+    def print(self):
+        print('{} (line {}): {}'.format(
+            self.csv_path, self.line_number, self.name
+        ))
+
+class TestListErrorWithValue(TestListError):
+    def __init__(self, value, csv_path, line_number):
+        super(TestListErrorWithValue, self).__init__(csv_path, line_number)
+        self.value = value
+
+    def print(self):
+        print('{} (line {}): {} "{}"'.format(
+            self.csv_path, self.line_number, self.name, self.value
+        ))
+
+class InvalidColumnNumber(TestListError):
+    name = 'Invalid Column Number'
+
+class InvalidURL(TestListErrorWithValue):
+    name = 'Invalid URL'
+
+class DuplicateURL(TestListErrorWithValue):
+    name = 'Duplicate URL'
+
+class InvalidCategoryCode(TestListErrorWithValue):
+    name = 'Invalid Category Code'
+
+class InvalidCategoryDesc(TestListErrorWithValue):
+    name = 'Invalid Category Description'
+
 def get_legacy_description_code(row):
     return row[1], row[0]
 
@@ -38,6 +74,9 @@ def load_categories(path, get_description_code=get_new_description_code):
     return code_map
 
 def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
+    all_errors = []
+    total_urls = 0
+    total_countries = 0
     lists_path = sys.argv[1]
     date_added = datetime.now().strftime("%Y-%m-%d")
     if legacy is True:
@@ -61,47 +100,65 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             reader = csv.reader(in_file, delimiter=',')
             reader.next() # skip header
             urls_bag = set()
+            errors = []
             rows = []
             duplicates = 0
             for idx, row in enumerate(reader):
                 if len(row) != 6:
-                    print("INVALID NUMBER OF COLUMNS on line {} of {}".format(
-                          idx+2, csv_path), file=sys.stderr)
-                    sys.exit(4)
+                    errors.append(
+                        InvalidColumnNumber(csv_path, idx+2)
+                    )
                 url, cat_code, cat_desc, date_added, source, notes = row
                 url = url.strip().lower()
                 if not VALID_URL.match(url):
-                    print("INVALID URL {} on line {} of {}".format(
-                                url, idx+2, csv_path),
-                          file=sys.stderr)
-                    sys.exit(1)
+                    errors.append(
+                        InvalidURL(url, csv_path, idx+2)
+                    )
                 try:
                     cat_description = CATEGORY_CODES[cat_code]
                 except KeyError:
-                    print("INVALID category {} on line {} of {}".format(
-                            cat_code, idx+2, csv_path), file=sys.stderr)
-                    sys.exit(2)
+                    errors.append(
+                        InvalidCategoryCode(cat_code, csv_path, idx+2)
+                    )
                 if cat_description != cat_desc:
-                    print("INVALID category desc \"{}\" on line {} of {}".format(
-                            cat_desc, idx+2, csv_path), file=sys.stderr)
-                    sys.exit(5)
+                    errors.append(
+                        InvalidCategoryDesc(cat_desc, csv_path, idx+2)
+                    )
                 if url in urls_bag:
                     if not fix_duplicates:
-                        print("DUPLICATE URL {} on line {} of {}".format(
-                              url, idx+2, csv_path), file=sys.stderr)
-                        sys.exit(3)
+                        errors.append(
+                            DuplicateURL(url, csv_path, idx+2)
+                        )
                     duplicates += 1
                     continue
                 urls_bag.add(url)
                 rows.append(row)
+            print('* {}'.format(csv_path))
+            print('  {} URLs'.format(idx+1))
+            print('  {} Errors'.format(len(errors)))
+            all_errors += errors
+            total_urls += idx+1
+            total_countries += 1
+
         if fix_duplicates:
             rows.sort(key=lambda x: x[0].split('//')[1])
             rows.insert(0, header)
             with open(csv_path + '.fixed', 'w') as out_file:
                 csv_writer = csv.writer(out_file)
                 csv_writer.writerows(rows)
-            print("Sorting %s - Found %d duplicates" % (csv_path, duplicates))
+            print('Sorting %s - Found %d duplicates' % (csv_path, duplicates))
             os.rename(csv_path + '.fixed', csv_path)
+
+    print('----------')
+    print('Analyzed {} URLs in {} countries'.format(total_urls, total_countries))
+    if len(all_errors) == 0:
+        print('ALL OK')
+        sys.exit(0)
+
+    print("{} errors present".format(len(all_errors)))
+    for error in all_errors:
+        error.print()
+    sys.exit(1)
 
 if __name__ == "__main__":
     main()
