@@ -108,6 +108,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     errors.append(
                         InvalidColumnNumber(csv_path, idx+2)
                     )
+                    continue
                 url, cat_code, cat_desc, date_added, source, notes = row
                 url = url.strip().lower()
                 if not VALID_URL.match(url):
