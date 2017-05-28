@@ -3,6 +3,8 @@ http://1pissedarab.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://3wtlia.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://4egypt.tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
 http://al-araby.com,NEWS,News Media,2014-04-15,citizenlab,
+http://www.alborsanews.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
+http://www.elborsanews.com,NEWS,News Media,2017-05-28,ADEF,not yet blocked. Alias of blocked site alborsanews.com
 http://alwafd.org,NEWS,News Media,2014-04-15,citizenlab,
 http://anaga3an.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://angryarab.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -58,9 +60,11 @@ http://misrdigital.blogspirit.com,NEWS,News Media,2014-04-15,citizenlab,
 http://misrdigital.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://missmabrouk.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://mostafa.foolab.org,NEWS,News Media,2014-04-15,citizenlab,
+http://www.moheet.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
 http://rassd.com,NEWS,News Media,2014-04-15,citizenlab,
 http://samy.attahawy.net,NEWS,News Media,2014-04-15,citizenlab,
 http://seekingfreedom.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+http://www.sinaihr.org,HUMR,Human Rights Issues,2017-05-28,ADEF,blocked as of date added
 http://tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
 https://textsecure-service-ca.whispersystems.org:80,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:4433,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
@@ -68,6 +72,7 @@ https://textsecure-service-ca.whispersystems.org:8443,COMT,Communication Tools,2
 https://whispersystems-textsecure-attachments.s3.amazonaws.com,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal desktop for attachments
 http://theegyptblog.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 https://torproject.org,ANON,Anonymization and circumvention tools,2017-05-27,ADEF,blocked as of date added
+https://bridges.torproject.org,ANON,Anonymization and circumvention tools,2017-05-28,ADEF,blocked as of date added
 http://tortureinegypt.net,POLR,Political Criticism,2014-04-15,citizenlab,
 https://twitter.com/ikhwanweb,NEWS,News Media,2014-04-15,citizenlab,
 https://twitter.com/muhammadmorsi,NEWS,News Media,2014-04-15,citizenlab,
