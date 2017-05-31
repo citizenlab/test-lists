@@ -1,10 +1,11 @@
 url,category_code,category_description,date_added,source,notes
 http://1pissedarab.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://3wtlia.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
-http://4egypt.tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
-http://al-araby.com,NEWS,News Media,2014-04-15,citizenlab,
+http://al-3araby.com,NEWS,News Media,2017-05-31,ADEF,updated domain. Dead site
 http://www.alborsanews.com,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
 http://www.elborsanews.com,NEWS,News Media,2017-05-28,ADEF,not yet blocked. Alias of blocked site alborsanews.com
+http://alquds.uk,NEWS,News Media,2017-05-31,ADEF,not yet blocked.
+http://alarab.co.uk,NEWS,News Media,2017-05-31,ADEF,not yet blocked.
 http://alwafd.org,NEWS,News Media,2014-04-15,citizenlab,
 http://anaga3an.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://angryarab.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -65,15 +66,12 @@ http://rassd.com,NEWS,News Media,2014-04-15,citizenlab,
 http://samy.attahawy.net,NEWS,News Media,2014-04-15,citizenlab,
 http://seekingfreedom.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.sinaihr.org,HUMR,Human Rights Issues,2017-05-28,ADEF,blocked as of date added
-http://tadwen.com,NEWS,News Media,2014-04-15,citizenlab,
 https://textsecure-service-ca.whispersystems.org:80,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:4433,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://textsecure-service-ca.whispersystems.org:8443,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal Desktop for communication
 https://whispersystems-textsecure-attachments.s3.amazonaws.com,COMT,Communication Tools,2017-02-10,citizenlab,Used by Signal desktop for attachments
 http://theegyptblog.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
-https://torproject.org,ANON,Anonymization and circumvention tools,2017-05-27,ADEF,blocked as of date added
-https://bridges.torproject.org,ANON,Anonymization and circumvention tools,2017-05-28,ADEF,blocked as of date added
-http://tortureinegypt.net,POLR,Political Criticism,2014-04-15,citizenlab,
+http://tortureinegypt.net,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://twitter.com/ikhwanweb,NEWS,News Media,2014-04-15,citizenlab,
 https://twitter.com/muhammadmorsi,NEWS,News Media,2014-04-15,citizenlab,
 http://unitemuslims.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -90,6 +88,7 @@ https://www.alaraby.co.uk,NEWS,News Media,2016-10-23,OONI,
 http://www.algomhuria.net.eg,NEWS,News Media,2014-04-15,citizenlab,
 http://www.aljazeera.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.aljazeera.net/portal,NEWS,News Media,2014-04-15,citizenlab,
+https://almanassa.com,NEWS,News Media,2017-05-31,ADEF,Not yet blocked
 http://www.almasry-alyoum.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.almessala.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.alquds.co.uk,NEWS,News Media,2014-04-15,citizenlab,
@@ -128,8 +127,6 @@ http://www.faithfreedom.org,NEWS,News Media,2014-04-15,citizenlab,
 http://www.fjponline.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.freemuslim.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.gamal-mubarak.com,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.gayarab.org,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.gaymiddleeast.com,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.glas.org,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.globalgayz.com,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.haya.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
