@@ -978,7 +978,11 @@ http://www.tobacco.org,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OON
 http://www.topcities.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.topdrawers.com,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://torah.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.torproject.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.torproject.org,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://bridges.torproject.org,ANON,Anonymization and circumvention tools,2017-05-31,ADEF,blocked in Egypt as of 2017-05-27
+https://ooni.torproject.org,ANON,Anonymization and circumvention tools,2017-05-31,ADEF,blocked in Egypt as of 2017-05-31
+https://explorer.ooni.torproject.org,ANON,Anonymization and circumvention tools,2017-05-31,ADEF,probably blocked in Egypt as of 2017-05-31
+https://tor.eff.org,ANON,Anonymization and circumvention tools,2017-05-31,ADEF,
 http://www.towleroad.com,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.transferbigfiles.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.translate.ru,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
