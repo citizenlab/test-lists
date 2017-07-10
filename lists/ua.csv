@@ -144,6 +144,8 @@ http://free.newyork.ru,COMT,Communication Tools,2014-04-15,citizenlab,
 http://freedomhouse.org/russia-eve-sochi,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://freepromote.ru,MMED,Media sharing,2014-04-15,citizenlab,
 http://freepussyriot.org,NEWS,News Media,2014-04-15,citizenlab,
+https://freeu.online/,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Download site for the FreeU web browser
+https://freeu.zone/,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Download site for the FreeU web browser
 http://freeware32.ru,MMED,Media sharing,2014-04-15,citizenlab,
 http://from-ua.com,NEWS,News Media,2014-04-15,citizenlab,
 http://frontzmin.ua,NEWS,News Media,2014-04-15,citizenlab,
@@ -301,6 +303,7 @@ http://o-leusenko-politolog.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://obkom.net.ua,NEWS,News Media,2014-04-15,citizenlab,
 http://oblicomorale.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://obozrevatel.com,NEWS,News Media,2014-04-15,citizenlab,
+https://ok.ru/google55e918a7d2970a76.html,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Canary URL used by the FreeU web browser to test blocking of VKontakte (https://bugs.torproject.org/22369#comment:5)
 http://okpz.freeservers.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://omen.ru,DATE,Online Dating,2014-04-15,citizenlab,
 http://onlinefilms.com.ua,MISC,Miscelaneous content,2014-04-15,citizenlab,
@@ -433,6 +436,12 @@ http://ukrnews24.com,NEWS,News Media,2014-04-15,citizenlab,
 http://uncyclopedia.wikia.com/wiki/main_page,NEWS,News Media,2014-04-15,citizenlab,
 http://ungheni.ru,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://unian.net,NEWS,News Media,2014-04-15,citizenlab,
+https://update.brwsrapi.com/blckd.json,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.mrbrwsr.com/blckd.json,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.savebrwsr.com/blckd.json,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.svbrwsr.com/blckd.json,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.updtapi.com/blckd.json,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
+https://update.updtbrwsr.com/blckd.json,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,FreeU web browser list of potentially blocked domains (https://bugs.torproject.org/22369#comment:3)
 http://urbantimes.co,NEWS,News Media,2014-04-15,citizenlab,
 http://vdagestan.com,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://vdagestan.info,MILX,Terrorism and Militants,2014-04-15,citizenlab,
@@ -444,6 +453,7 @@ http://video.meta.ua,NEWS,News Media,2014-04-15,citizenlab,
 http://vk.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://vk.com/live_ukr,NEWS,News Media,2014-04-15,citizenlab,
 http://vk.com/minitrue,NEWS,News Media,2014-04-15,citizenlab,
+https://vk.com/ping.txt,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Canary URL used by the FreeU web browser to test blocking of VKontakte (https://bugs.torproject.org/22369#comment:5)
 http://vk.com/public62043361,POLR,Political Criticism,2014-04-15,citizenlab,
 http://vkontakte.ru,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://vresearche.com,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
