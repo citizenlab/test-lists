@@ -315,7 +315,6 @@ http://www.bahai.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by O
 https://www.baidu.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.barmeister.com,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bat.com,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.bbc.com/news/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bearshare.com,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://bebo.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.beer.com,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1108,3 +1107,5 @@ http://xxx.lanl.gov,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 201
 https://www.yelp.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://imageshack.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.youporn.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.bbc.com,NEWS,News Media,2017-07-19,OONI,
+http://www.bbc.co.uk,NEWS,News Media,2017-07-19,OONI,
