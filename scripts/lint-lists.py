@@ -111,6 +111,10 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     continue
                 url, cat_code, cat_desc, date_added, source, notes = row
                 url = url.strip().lower()
+                canonical_url = url
+                if url.endswith('/'):
+                    # We strip trailing / for canonical URLs
+                    canonical_url = url[:-1]
                 if not VALID_URL.match(url):
                     errors.append(
                         InvalidURL(url, csv_path, idx+2)
@@ -125,14 +129,14 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     errors.append(
                         InvalidCategoryDesc(cat_desc, csv_path, idx+2)
                     )
-                if url in urls_bag:
+                if canonical_url in urls_bag:
                     if not fix_duplicates:
                         errors.append(
                             DuplicateURL(url, csv_path, idx+2)
                         )
                     duplicates += 1
                     continue
-                urls_bag.add(url)
+                urls_bag.add(canonical_url)
                 rows.append(row)
             print('* {}'.format(csv_path))
             print('  {} URLs'.format(idx+1))
@@ -141,11 +145,11 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             total_urls += idx+1
             total_countries += 1
 
-        if fix_duplicates:
+        if fix_duplicates and duplicates > 0:
             rows.sort(key=lambda x: x[0].split('//')[1])
             rows.insert(0, header)
-            with open(csv_path + '.fixed', 'w') as out_file:
-                csv_writer = csv.writer(out_file)
+            with open(csv_path + '.fixed', 'wb') as out_file:
+                csv_writer = csv.writer(out_file, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
                 csv_writer.writerows(rows)
             print('Sorting %s - Found %d duplicates' % (csv_path, duplicates))
             os.rename(csv_path + '.fixed', csv_path)
