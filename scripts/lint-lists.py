@@ -145,11 +145,11 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             total_urls += idx+1
             total_countries += 1
 
-        if fix_duplicates:
+        if fix_duplicates and duplicates > 0:
             rows.sort(key=lambda x: x[0].split('//')[1])
             rows.insert(0, header)
-            with open(csv_path + '.fixed', 'w') as out_file:
-                csv_writer = csv.writer(out_file)
+            with open(csv_path + '.fixed', 'wb') as out_file:
+                csv_writer = csv.writer(out_file, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
                 csv_writer.writerows(rows)
             print('Sorting %s - Found %d duplicates' % (csv_path, duplicates))
             os.rename(csv_path + '.fixed', csv_path)
