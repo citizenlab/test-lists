@@ -40,7 +40,7 @@ http://arar-news.com/,NEWS,News Media,2016-04-20,citizenlab,
 https://arcgis.com/,FILE,File-sharing,2017-05-16,ASL19,
 http://art-ghadimiha.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://aryaeinezhad.ir/,PUBH,Public Health,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-https://asl19.org,NEWS,News Media,2016-07-16,ICLab,ASL 19
+https://asl19.org,HUMR,Human Rights Issues,2016-07-16,ICLab,ASL 19
 http://asre-nou.net/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://audiojungle.net/,MMED,Media sharing,2017-05-16,ASL19,
 http://autodesk.com,HACK,Hacking Tools,2017-05-16,ASL19,
@@ -732,7 +732,7 @@ http://www.newshia.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.newsqassim.com/index.php,NEWS,News Media,2016-04-20,citizenlab,
 http://www.niabati.tk,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.niazazari.com/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.nitv.tv,POLR,Political Criticism,2014-04-15,citizenlab,
+http://www.nitv.tv,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nourizadeh.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nscash.com,PORN,Pornography,2014-04-15,citizenlab,
 http://www.nshrs.com/,NEWS,News Media,2016-04-20,citizenlab,
@@ -893,3 +893,79 @@ http://zane-azad.blogspot.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://zariyaddastha.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://zekipedia.wordpress.com,NEWS,News Media,2014-04-15,citizenlab,
 http://zibanawak.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
+http://www.sigarchi.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://conan.xxx,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://coolgaylinks.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://extratorrent.com,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://famousnudes.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://filestube.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://gayonthenet.net,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://guerrillagirls.com,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://hardsextube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://hulu.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://kat.ph,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://mail.walla.co.il,COMT,Communication Tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://manhub.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://milfhunter.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://netflix.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://pogo.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://postimage.org,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://pridetube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://proxpn.com,ANON,Anonymization and circumvention tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://realdoll.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://rockettube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://spankwire.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://translator.babylon.com,COMT,Communication Tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://wikia.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.2cutelingerie.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.365gay.com,NEWS,News Media,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.address.com,SRCH,Search Engines,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.amateurpages.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.arablounge.com,DATE,Online Dating,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ashemaletube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.bebo.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.bellebound.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.bisexual.org,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cdt.org,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cutegirlfriend.net,DATE,Online Dating,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cultoferotica.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.famouspornstars.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.flirtylingerie.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.freegaypornfinder.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.freemuse.org,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.glbtq.com,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.gn.apc.org,HOST,Hosting and Blogging Platforms,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.infidels.org,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.justin.tv,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.kickassclassical.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.lesbian.org,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.lgf.org.uk,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.livejasmin.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.meetic.com,DATE,Online Dating,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.mp3.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.multiproxy.org,ANON,Anonymization and circumvention tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ncac.org,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.pamperedpassions.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.panties.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.penisbot.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.purenudism.net,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.purextc.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.sexy-geschichten.at,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.thenationalcampaign.org,XED,Sex Education,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.trashy.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.true.com,COMM,E-commerce,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.weedfarmer.com,ALDR,Alcohol & Drugs,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ya.com,COMM,E-commerce,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ya.com/mixmail/,COMM,E-commerce,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.youngerbabes.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.zoomshare.com,HOST,Hosting and Blogging Platforms,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://yfrog.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://youjizz.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+https://pinterest.com,GRP,Social Networking,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://masexualite.ca,XED,Sex Education,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cannabis.com,ALDR,Alcohol & Drugs,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.worldofwarcraft.com,GAME,Gaming,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://isohunt.com,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://kat.cr,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.asianangels.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.linay.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
