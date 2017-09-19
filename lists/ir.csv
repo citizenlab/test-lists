@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://1pezeshk.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://213.4.130.210,NEWS,News Media,2014-04-15,citizenlab,
 http://30mail.net,MMED,Media sharing,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://3docean.net,MMED,Media sharing,2017-05-16,ASL19,
 http://4shared.com,FILE,File-sharing,2015-03-20,OONI,
@@ -32,15 +31,15 @@ http://amadnews.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based 
 http://aminbozorgian.wordpress.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://amindownload.persianblog.com,HACK,Hacking Tools,2014-04-15,citizenlab,
 http://aminsabeti.net/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://anidalton.blogfa.com,NEWS,News Media,2014-04-15,citizenlab,
+http://anidalton.blogfa.com,CULTR,Culture,2014-04-15,citizenlab,
 http://anonvmouse.ws,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://aparat.com,MISC,Miscelaneous content,2015-03-20,OONI,this should be under the sports or entertainment category
+http://aparat.com,CULTR,Culture,2015-03-20,OONI,
 http://aqueeerdiaries.blogspot.com,LGBT,LGBT,2014-04-15,citizenlab,
 http://arar-news.com/,NEWS,News Media,2016-04-20,citizenlab,
 https://arcgis.com/,FILE,File-sharing,2017-05-16,ASL19,
 http://art-ghadimiha.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://aryaeinezhad.ir/,PUBH,Public Health,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-https://asl19.org,NEWS,News Media,2016-07-16,ICLab,ASL 19
+https://asl19.org,HUMR,Human Rights Issues,2016-07-16,ICLab,ASL 19
 http://asre-nou.net/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://audiojungle.net/,MMED,Media sharing,2017-05-16,ASL19,
 http://autodesk.com,HACK,Hacking Tools,2017-05-16,ASL19,
@@ -88,7 +87,7 @@ http://cappuccinomag.com,CULTR,Culture,2014-04-15,citizenlab,
 http://ch1.cc/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://cheshmhayash.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://chychest.blogfa.com,ENV,Environment,2014-04-15,citizenlab,
-https://citizenlab.org,NEWS,News Media,2016-07-16,ICLab,The Citizen Lab
+https://citizenlab.org,HUMR,Human Rights Issues,2016-07-16,ICLab,The Citizen Lab
 http://cnn.com/,NEWS,News Media,2015-03-20,OONI,
 http://codecanyon.net/,HACK,Hacking Tools,2017-05-16,ASL19,
 https://coreos.com/,COMM,E-commerce,2017-05-16,ASL19,
@@ -96,7 +95,7 @@ http://cpanel.com/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
 http://dalghakirani.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://damon-m-ukraine.blogsky.com,NEWS,News Media,2014-04-15,citizenlab,
 http://dargahpardakht.com,COMM,E-commerce,2016-05-12,berkman,
-http://degarbavaran.net/,MISC,Miscelaneous content,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
+http://degarbavaran.net/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://dehnamaki.blogfa.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://dentist.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
 https://developer.atlassian.com/,HACK,Hacking Tools,2017-05-16,ASL19,
@@ -136,7 +135,7 @@ http://farzan.envy.nu,CULTR,Culture,2014-04-15,citizenlab,
 http://fashist78.persianblog.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://fatemehalia.blogfa.com,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://fatemehshams.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://footballitarin.com,MISC,Miscelaneous content,2015-03-20,OONI,this should be under the sports or entertainment category
+http://footballitarin.com,CULTR,Culture,2015-03-20,OONI,this should be under the sports or entertainment category
 http://foroughs.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://freedomforiran.persianblog.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://gaysong.blogspot.com,LGBT,LGBT,2014-04-15,citizenlab,
@@ -213,15 +212,15 @@ http://kodoiin.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://kurdistanpress.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://kurdpress.com/fa/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://ladysun.net,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://library.sheba.co.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://library.sheba.co.il,PUBH,Public Health,2016-04-20,citizenlab,
 http://likekhor.com/hot/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://linkestane-ggbg.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://lostdreams.blogfa.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://lunashadzi.wordpress.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://mahmoudshekari.ir/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://mahshar.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://mamlekate.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
-http://mangoosaleam.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+http://mamlekate.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
+http://mangoosaleam.blogspot.com,CULTR,Culture,2014-04-15,citizenlab,
 http://marde-rooz.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://mardomreport.net/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://marlikiran.tripod.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -235,7 +234,7 @@ http://memarinews.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI base
 http://members.fortunecity.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://members.shaw.ca,GRP,Social Networking,2014-04-15,citizenlab,
 http://mihan.net/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://minuf.co.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://minuf.co.il,ECON,Economics,2016-04-20,citizenlab,
 http://mirfetros.com/fa/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://mirgaloobayat.com,PUBH,Public Health,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://mizankhabar.net/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -304,7 +303,7 @@ http://resaleh.blogspot.com,REL,Religion,2014-04-15,citizenlab,
 http://rezaghassemi.org,CULTR,Culture,2014-04-15,citizenlab,
 http://rezaghassemi.org/davat.htm/,CULTR,Culture,2014-04-15,citizenlab,
 http://rhr.org.il/eng/,HUMR,Human Rights Issues,2016-04-20,citizenlab,
-http://riznevesht.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
+http://riznevesht.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://rooyeshnews.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://roozno.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://rowzane.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -346,19 +345,18 @@ http://tasna.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on G
 http://tehranreview.net/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://themeforest.net/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
 http://thetehrantimes.tumblr.com/,GRP,Social Networking,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://thissitedoesnotexist.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
 http://titre1.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://toonistan.com/,GRP,Social Networking,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://toonistan.com/fresh,GRP,Social Networking,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://unitedwife.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
 https://unity3d.com/,GAME,Gaming,2017-05-16,ASL19,
-https://university.mongodb.com/,MISC,Miscelaneous content,2017-05-16,ASL19,
+https://university.mongodb.com/,HACK,Hacking Tools,2017-05-16,ASL19,
 http://updatebox4.com,HACK,Hacking Tools,2016-06-29,OONI,This is actually a service used as CnC by a botnet
 http://us.bahai.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://users.wix.com/signin,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
 http://vahidahmadi.ir,GOVT,Government,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://varteh.persianblog.ir/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://varzesh3.com,MISC,Miscelaneous content,2015-03-20,OONI,this should be under the sports or entertainment category
+http://varzesh3.com,CULTR,Culture,2015-03-20,OONI,
 http://vatanhost.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://vazeh.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://videohive.net/,MMED,Media sharing,2017-05-16,ASL19,
@@ -374,7 +372,7 @@ http://www.1doost.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based 
 http://www.1shooreshi.persianblog.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.670amkirn.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.PersianBlog.com,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.aaci.org.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.aaci.org.il,CULTR,Culture,2016-04-20,citizenlab,
 http://www.abbas-rajaei.ir,GOVT,Government,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.abdolghaderbalouch.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.absolut.com/ca,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
@@ -383,7 +381,7 @@ http://www.afifnp.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.afsaran.ir/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.aftabnews.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.aghaghi.com,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.agr.state.il.us,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.agr.state.il.us,ENV,Environment,2016-04-20,citizenlab,
 http://www.ajel.sa/ ,NEWS,News Media,2016-04-20,citizenlab,
 http://www.akbariyan.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.akharinnews.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -424,13 +422,13 @@ http://www.alweeam.com.sa/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.alyaum.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.am-ahmadi.ir/,GOVT,Government,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.amd.com/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
-https://www.amnesty.org,HUMR,Human Rights Issues,2016-07-16,ICLab,Amnesty Internationl
+https://www.amnesty.org,HUMR,Human Rights Issues,2016-07-16,ICLab,
 http://www.anaween.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.anbacom.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.ansaaar.com/vb,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.ansar.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.ansarnet.8m.net,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.antiquities.org.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.antiquities.org.il,CULTR,Culture,2016-04-20,citizenlab,
 http://www.apple.com/itunes/,MMED,Media sharing,2017-05-16,ASL19,
 http://www.arabicmagazine.com/arabic/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.arartoday.org/,NEWS,News Media,2016-04-20,citizenlab,
@@ -455,7 +453,7 @@ http://www.azemrooz.com,CULTR,Culture,2014-04-15,citizenlab,
 https://www.backblaze.com/,FILE,File-sharing,2017-05-16,ASL19,
 http://www.bahai.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.bahmanagha.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.basket.co.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.basket.co.il,CULTR,Culture,2016-04-20,citizenlab,
 http://www.bazrpash.ir,GOVT,Government,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.bbc.co.uk,NEWS,News Media,2014-04-15,citizenlab,
 http://www.bbc.co.uk/persian/,NEWS,News Media,2014-04-15,citizenlab,
@@ -469,7 +467,7 @@ http://www.bijan-safsari.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.bijan-safsari.com/2004/09/blog-post_109555207075485756.html,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.bitdefender.com/,HACK,Hacking Tools,2017-05-16,ASL19,
 http://www.boi.org.il,GOVT,Government,2016-04-20,citizenlab,
-http://www.bus.co.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.bus.co.il,CULTR,Culture,2016-04-20,citizenlab,
 http://www.carlsberg.com,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.cbs.gov.il,GOVT,Government,2016-04-20,citizenlab,
 http://www.charandiat.com,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -479,7 +477,7 @@ http://www.cinemajournal.ir/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI 
 http://www.cj.com,COMM,E-commerce,2017-05-16,ASL19,
 http://www.cmi-fl.com,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.codecademy.com/,HACK,Hacking Tools,2017-05-16,ASL19,
-https://www.coursera.org/,MISC,Miscelaneous content,2017-05-16,ASL19,
+https://www.coursera.org/,CULTR,Culture,2017-05-16,ASL19,
 http://www.cyberfreehost.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.cyrusnews.com/news/fa/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.d-alsonah.com/vb,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -530,84 +528,84 @@ http://www.femirani.com/weblog/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.figureconcord.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.figureconcord.com/ublog/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.fnoor.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.footballiran.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
+http://www.footballiran.ir/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.forouharha.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.fozoolemahaleh.com/,HUMR,Human Rights Issues,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://www.freelancer.com/,COMM,E-commerce,2017-05-16,ASL19,
-http://www.freewebs.com,LGBT,LGBT,2014-04-15,citizenlab,
+http://www.freewebs.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.freewebs.com/nonor,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.frqan.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.funiran.com,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.funpatogh.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.galilcol.ac.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
-http://www.geforce.com/,MISC,Miscelaneous content,2017-05-16,ASL19,
+http://www.galilcol.ac.il,ECON,Economics,2016-04-20,citizenlab,
+http://www.geforce.com/,GAME,Gaming,2017-05-16,ASL19,
 http://www.geocities.com/Iranian-satanic/,REL,Religion,2014-04-15,citizenlab,
 http://www.geocities.com/ahangark/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.geocities.com/amoozesh20/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.geocities.com/havadar2002/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.geocities.com/no-islam2000/,REL,Religion,2014-04-15,citizenlab,
 http://www.geod7.com/,NEWS,News Media,2016-04-20,citizenlab,
-http://www.getmdl.io/,MISC,Miscelaneous content,2017-05-16,ASL19,
+http://www.getmdl.io/,HACK,Hacking Tools,2017-05-16,ASL19,
 http://www.ghoghnoos.org,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.glwiz.com/homepage.aspx,MMED,Media sharing,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://www.godaddy.com/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
 https://www.google.co.il,SRCH,Search Engines,2016-04-20,citizenlab,
-http://www.google.com/search?hl=ar&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%D8%A8%DA%A9%D9%86+%D8%A8%DA%A9%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%D8%AC%D9%86%D8%AF%D9%87&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%D8%AE%D9%81%D8%BA%D8%A7%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%D8%B3%D9%88%D8%B1%D9%88%D8%B4&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%D9%87%D8%B4%D8%B1%DB%8C&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%DA%A9%D8%B3&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%DA%A9%D9%88%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%DA%A9%DB%8C%D8%B1&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=%DA%AF%D9%86%D8%AC%DB%8C&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Azadiye+Bayan&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Ganji&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Hashari&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Keer+&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Khafaghan&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Kir+&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Koon&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Kos+&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=Soroosh&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=ar&q=jende&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C+%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84&btnG=%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%D9%8A+Google,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A7%D8%B3%D9%84%D8%AD%D9%87&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A7%D8%B5%D9%84%D8%A7%D8%AD+%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%A7%DB%8C%D8%AF%D8%B2&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%A7%D9%86%D8%B3%D8%A7%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AA%D8%AC%D8%A7%D9%88%D8%B2&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AA%D9%82%D9%84%D8%A8+%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AC%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C+%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AD%D8%B4%DB%8C%D8%B4,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%AD%D9%82%D9%88%D9%82+%D8%A8%D8%B4%D8%B1&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B2%D9%86%D8%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B3%D9%82%D8%B7+%D8%AC%D9%86%DB%8C%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B3%DA%A9%D8%B3&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B4%D9%81%D8%A7%D9%81%DB%8C%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B4%D9%88%D8%B1%D8%B4%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B4%D9%88%D8%B1%D8%B4&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B4%DA%A9%D9%86%D8%AC%D9%87&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D8%B9%D8%AF%D8%A7%D9%84%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%81%D8%AF%D8%A7%DB%8C%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%81%D8%B3%D8%A7%D8%AF+%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%84%D8%AE%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%84%D9%88%D8%A7%D8%B7&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%85%D8%AE%D8%A7%D9%84%D9%81%DB%8C%D9%86+%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%87%D8%B1%D9%88%DB%8C%DB%8C%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%D9%87%D9%85%D8%AC%D9%86%D8%B3+%D8%A8%D8%A7%D8%B2%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%DA%AF%D8%A7%DB%8C%DB%8C%D8%AF%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hl=fa&q=%DA%AF%D8%B1%D8%A7%D8%B3&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.google.com/search?hs=hMN&hl=en&lr=&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial_s&q=democracy&btnG=Search,MISC,Miscelaneous content,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%D8%A8%DA%A9%D9%86+%D8%A8%DA%A9%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%D8%AC%D9%86%D8%AF%D9%87&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%D8%AE%D9%81%D8%BA%D8%A7%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%D8%B3%D9%88%D8%B1%D9%88%D8%B4&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%D9%87%D8%B4%D8%B1%DB%8C&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%DA%A9%D8%B3&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%DA%A9%D9%88%D9%86&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%DA%A9%DB%8C%D8%B1&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=%DA%AF%D9%86%D8%AC%DB%8C&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Azadiye+Bayan&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Ganji&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Hashari&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Keer+&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Khafaghan&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Kir+&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Koon&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Kos+&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=Soroosh&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=ar&q=jende&btnG=%D8%A5%D8%A8%D8%AD%D8%AB%21&lr=,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C+%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84&btnG=%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%D9%8A+Google,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A7%D8%B3%D9%84%D8%AD%D9%87&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A7%D8%B5%D9%84%D8%A7%D8%AD+%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%A7%DB%8C%D8%AF%D8%B2&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%A7%D9%86%D8%B3%D8%A7%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AA%D8%AC%D8%A7%D9%88%D8%B2&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AA%D9%82%D9%84%D8%A8+%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AC%D9%84%D9%88%DA%AF%DB%8C%D8%B1%DB%8C+%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AD%D8%B4%DB%8C%D8%B4,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%AD%D9%82%D9%88%D9%82+%D8%A8%D8%B4%D8%B1&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B2%D9%86%D8%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B3%D9%82%D8%B7+%D8%AC%D9%86%DB%8C%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B3%DA%A9%D8%B3&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B4%D9%81%D8%A7%D9%81%DB%8C%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B4%D9%88%D8%B1%D8%B4%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B4%D9%88%D8%B1%D8%B4&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B4%DA%A9%D9%86%D8%AC%D9%87&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D8%B9%D8%AF%D8%A7%D9%84%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%81%D8%AF%D8%A7%DB%8C%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%81%D8%B3%D8%A7%D8%AF+%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%84%D8%AE%D8%AA&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%84%D9%88%D8%A7%D8%B7&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%85%D8%AE%D8%A7%D9%84%D9%81%DB%8C%D9%86+%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%87%D8%B1%D9%88%DB%8C%DB%8C%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%D9%87%D9%85%D8%AC%D9%86%D8%B3+%D8%A8%D8%A7%D8%B2%DB%8C&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%DA%AF%D8%A7%DB%8C%DB%8C%D8%AF%D9%86&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hl=fa&q=%DA%AF%D8%B1%D8%A7%D8%B3&btnG=%D8%A8%D9%8A%D8%A7%D8%A8,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.google.com/search?hs=hMN&hl=en&lr=&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial_s&q=democracy&btnG=Search,SRCH,Search Engines,2014-04-15,citizenlab,
 http://www.gooshe.net/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.greenbo.co.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.greenbo.co.il,CULTR,Culture,2016-04-20,citizenlab,
 http://www.hailnews.net/hail/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.hailvoice.net/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.hambastegi.org,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -670,13 +668,13 @@ http://www.jonoubiran.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI 
 http://www.juof7.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.k1b1.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.kaafaraaneh.blogspot.com,REL,Religion,2014-04-15,citizenlab,
-http://www.kajonline.ir,MISC,Miscelaneous content,2016-05-12,berkman,
+http://www.kajonline.ir,CULTR,Culture,2016-05-12,berkman,
 http://www.kaleme.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.kamalalipour.ir/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.kasr-alsanam.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.kayhanlondon.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.kazemjalali.com,GOVT,Government,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-https://www.khanacademy.org/,MISC,Miscelaneous content,2017-05-16,ASL19,
+https://www.khanacademy.org/,CULTR,Culture,2017-05-16,ASL19,
 http://www.khanehamn.org/,HUMR,Human Rights Issues,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.kharjhome.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.khgh.blogspot.com,PORN,Pornography,2014-04-15,citizenlab,
@@ -732,7 +730,7 @@ http://www.newshia.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.newsqassim.com/index.php,NEWS,News Media,2016-04-20,citizenlab,
 http://www.niabati.tk,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.niazazari.com/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.nitv.tv,POLR,Political Criticism,2014-04-15,citizenlab,
+http://www.nitv.tv,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nourizadeh.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nscash.com,PORN,Pornography,2014-04-15,citizenlab,
 http://www.nshrs.com/,NEWS,News Media,2016-04-20,citizenlab,
@@ -746,7 +744,7 @@ http://www.omilani.netfirms.com,REL,Religion,2014-04-15,citizenlab,
 http://www.omilani.netfirms.com/baad/,REL,Religion,2014-04-15,citizenlab,
 http://www.onaizatoday.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.ostanban.com/,GAME,Gaming,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.oswego.lib.il.us,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.oswego.lib.il.us,CULTR,Culture,2016-04-20,citizenlab,
 http://www.oursouthazerbaijan.com/khaber_orumiyeh_da.htm,ENV,Environment,2014-04-15,citizenlab,
 http://www.page.to,REL,Religion,2014-04-15,citizenlab,
 http://www.page.to/kaveh/,REL,Religion,2014-04-15,citizenlab,
@@ -757,7 +755,7 @@ http://www.parsine.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI bas
 http://www.pcparsi.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.pdki.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.peace-mark.org/,HUMR,Human Rights Issues,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.pen.org,NEWS,News Media,2014-04-15,citizenlab,
+http://www.pen.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.pesaregay.blogspot.com,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.peykeiran.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.pezhvakeiran.com,NEWS,News Media,2014-04-15,citizenlab,
@@ -772,7 +770,7 @@ http://www.pouyashome.com/weblog/,HUMR,Human Rights Issues,2014-04-15,citizenlab
 http://www.presstv.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.pyknet.net,NEWS,News Media,2014-04-15,citizenlab,
 http://www.qomefarda.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.radioazadi.org,POLR,Political Criticism,2014-04-15,citizenlab,
+http://www.radioazadi.org,NEWS,News Media,2014-04-15,citizenlab,
 http://www.radiofarda.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.radiohamrah.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://www.radiojavan.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -782,7 +780,7 @@ http://www.radis.org,NEWS,News Media,2014-04-15,citizenlab,
 http://www.rafael.co.il,GOVT,Government,2016-04-20,citizenlab,
 http://www.rahavard.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.rahesabz.net,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ramla.muni.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.ramla.muni.il,GOVT,Government,2016-04-20,citizenlab,
 http://www.rangin-kaman.org/,HUMR,Human Rights Issues,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://www.redhat.com/,HACK,Hacking Tools,2017-05-16,ASL19,
 http://www.rezasabery.ir,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -833,7 +831,7 @@ http://www.sologen.net/weblog/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.sooratak.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.spa.gov.sa/,NEWS,News Media,2016-04-20,citizenlab,
 https://www.spotify.com/ca-en/,CULTR,Culture,2017-05-16,ASL19,
-http://www.sqlserver.co.il,MISC,Miscelaneous content,2016-04-20,citizenlab,
+http://www.sqlserver.co.il,HACK,Hacking Tools,2016-04-20,citizenlab,
 http://www.sunni-news.net,REL,Religion,2014-04-15,citizenlab,
 http://www.taamolnews.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.tabnak.ir,NEWS,News Media,2014-04-15,citizenlab,
@@ -860,11 +858,11 @@ http://www.treehugger.com/natural-sciences/irans-lake-urmia-is-drying-up-fast.ht
 http://www.tudehpartyiran.org,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.tudehpartyiran.org/mardom.htm,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.ufin.org,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.urmia1400.ir/fa/,MISC,Miscelaneous content,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
+http://www.urmia1400.ir/fa/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 https://www.virustotal.com,HACK,Hacking Tools,2017-05-16,ASL19,
 http://www.voanews.com/persian/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.voinews.net/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://www.vsquds.com/,MISC,Miscelaneous content,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
+http://www.vsquds.com/,MILX,Terrorism and Militants,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.wadod.net,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.waqfeya.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.webneveshteha.com/,POLR,Political Criticism,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -891,5 +889,81 @@ http://zahrahb.tumblr.com,MMED,Media sharing,2014-04-15,citizenlab,
 https://zanantv.net/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://zane-azad.blogspot.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://zariyaddastha.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
-http://zekipedia.wordpress.com,NEWS,News Media,2014-04-15,citizenlab,
+http://zekipedia.wordpress.com,CULTR,Culture,2014-04-15,citizenlab,
 http://zibanawak.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
+http://www.sigarchi.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://conan.xxx,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://coolgaylinks.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://extratorrent.com,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://famousnudes.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://filestube.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://gayonthenet.net,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://guerrillagirls.com,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://hardsextube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://hulu.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://kat.ph,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://mail.walla.co.il,COMT,Communication Tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://manhub.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://milfhunter.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://netflix.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://pogo.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://postimage.org,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://pridetube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://proxpn.com,ANON,Anonymization and circumvention tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://realdoll.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://rockettube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://spankwire.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://translator.babylon.com,COMT,Communication Tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://wikia.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.2cutelingerie.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.365gay.com,NEWS,News Media,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.address.com,SRCH,Search Engines,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.amateurpages.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.arablounge.com,DATE,Online Dating,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ashemaletube.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.bebo.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.bellebound.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.bisexual.org,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cdt.org,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cutegirlfriend.net,DATE,Online Dating,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cultoferotica.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.famouspornstars.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.flirtylingerie.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.freegaypornfinder.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.freemuse.org,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.glbtq.com,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.gn.apc.org,HOST,Hosting and Blogging Platforms,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.infidels.org,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.justin.tv,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.kickassclassical.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.lesbian.org,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.lgf.org.uk,LGBT,LGBT,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.livejasmin.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.meetic.com,DATE,Online Dating,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.mp3.com,CULTR,Culture,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.multiproxy.org,ANON,Anonymization and circumvention tools,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ncac.org,HUMR,Human Rights Issues,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.pamperedpassions.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.panties.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.penisbot.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.purenudism.net,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.purextc.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.sexy-geschichten.at,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.thenationalcampaign.org,XED,Sex Education,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.trashy.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.true.com,COMM,E-commerce,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.weedfarmer.com,ALDR,Alcohol & Drugs,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ya.com,COMM,E-commerce,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.ya.com/mixmail/,COMM,E-commerce,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.youngerbabes.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.zoomshare.com,HOST,Hosting and Blogging Platforms,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://yfrog.com,MMED,Media sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://youjizz.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+https://pinterest.com,GRP,Social Networking,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://masexualite.ca,XED,Sex Education,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.cannabis.com,ALDR,Alcohol & Drugs,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.worldofwarcraft.com,GAME,Gaming,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://isohunt.com,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://kat.cr,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.asianangels.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
+http://www.linay.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
