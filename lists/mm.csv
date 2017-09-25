@@ -218,7 +218,6 @@ http://moeminthar.wordpress.com,HOST,Hosting and Blogging Platforms,2014-04-15,c
 http://moenyothar86.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://moeyanlwint.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://monnews.org,NEWS,News Media,2014-04-15,citizenlab,
-http://monnews.org/,NEWS,News Media,2016-10-17,MIDO,Mon Ethnic Media
 http://motherland-2009.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://mrbalance.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://mrdewaing.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
@@ -445,12 +444,12 @@ http://www.bapsusa.org,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.basesusa.org,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.bbc.co.uk/burmese,NEWS,News Media,2014-04-15,citizenlab,
 http://www.bdmauk.org.uk,POLR,Political Criticism,2014-04-15,citizenlab,
+http://www.bestbuy.com/,COMM,E-commerce,2017-04-10,OONI,Reported to be inaccessible in Myanmar
 http://www.birmanie.ch,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.birmanie.net,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.blc-burma.org,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.bma.co.cc,NEWS,News Media,2014-04-15,citizenlab,
 http://www.bnionline.net,NEWS,News Media,2014-04-15,citizenlab,
-http://www.bnionline.net/,NEWS,News Media,2016-10-17,MIDO,Media Organisation
 http://www.brelief.net,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.britishcouncil.org.mm,IGO,Intergovernmental Organizations,2016-10-17,MIDO,British Council’s website
 http://www.buddhistpeacefellowship.org/,CULTR,Culture,2016-10-17,MIDO,"Help connect Buddhists to social movements and social movement activists to Buddhist practice for mutual deepening and grounding, and to build meaningful community for those involved in this work."
@@ -476,7 +475,6 @@ http://www.burmamission.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.burmanet.org/,NEWS,News Media,2016-10-17,MIDO,Media
 http://www.burmanet.org/news,NEWS,News Media,2014-04-15,citizenlab,
 http://www.burmapartnership.org,NEWS,News Media,2014-04-15,citizenlab,
-http://www.burmapartnership.org/,HUMR,Human Rights Issues,2016-10-17,MIDO,
 http://www.burmapost.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.burmastamps.homecall.co.uk,CULTR,Culture,2014-04-15,citizenlab,
 http://www.burmatoday.net,NEWS,News Media,2014-04-15,citizenlab,
@@ -497,7 +495,6 @@ http://www.channelnewsasia.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.cherryasia.com,PORN,Pornography,2014-04-15,citizenlab,
 http://www.chinforum.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.chinlandguardian.com,NEWS,News Media,2014-04-15,citizenlab,
-http://www.chinlandguardian.com/,NEWS,News Media,2016-10-17,MIDO,Ethnic Media (Publish in English)
 http://www.chinnationalparty.org,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.chro.ca,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.click2myanmar.com,MISC,Miscelaneous content,2014-04-15,citizenlab,
@@ -586,12 +583,10 @@ http://www.jobsinyangon.com,SRCH,Search Engines,2016-10-18,MIDO,Jobs Portal
 http://www.kachinland.org,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.kachinnet.org,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.kachinnews.com,NEWS,News Media,2014-04-15,citizenlab,
-http://www.kachinnews.com/,NEWS,News Media,2016-10-17,MIDO,Kachin Ethnic Media
 http://www.kachinpost.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.kachinwomen.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.kaladanpress.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.kaladanpress.org,NEWS,News Media,2014-04-15,citizenlab,
-http://www.kaladanpress.org/,NEWS,News Media,2016-10-17,MIDO,Bangala News Page
 http://www.kamayutmedia.com/,NEWS,News Media,2016-10-17,MIDO,Online Media
 http://www.kaowao.org,NEWS,News Media,2014-04-15,citizenlab,
 http://www.karen.org,MILX,Terrorism and Militants,2014-04-15,citizenlab,
@@ -691,7 +686,6 @@ http://www.nagalim.nl,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.nagani.com,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.nangnyi.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.narinjara.com,NEWS,News Media,2014-04-15,citizenlab,
-http://www.narinjara.com/,NEWS,News Media,2016-10-17,MIDO,Rakhine Ethnic Media
 http://www.narinjara.com/main/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nationmultimedia.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.naungmoon.com/,COMM,E-commerce,2016-10-18,MIDO,Exchange rate information
@@ -821,6 +815,5 @@ http://zincolatt.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,cit
 http://zinnaung.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://zinyaw.wordpress.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://zmpoems.blogspot.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.bestbuy.com/,COMM,E-commerce,2017-04-10,OONI,Reported to be inaccessible in Myanmar
 http://www.bbc.com/burmese/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcburmese.com,NEWS,News Media,2017-07-19,BBC,
