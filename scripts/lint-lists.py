@@ -110,15 +110,15 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     )
                     continue
                 url, cat_code, cat_desc, date_added, source, notes = row
+                if not VALID_URL.match(url):
+                    errors.append(
+                        InvalidURL(url, csv_path, idx+2)
+                    )
                 url = url.strip().lower()
                 canonical_url = url
                 if url.endswith('/'):
                     # We strip trailing / for canonical URLs
                     canonical_url = url[:-1]
-                if not VALID_URL.match(url):
-                    errors.append(
-                        InvalidURL(url, csv_path, idx+2)
-                    )
                 try:
                     cat_description = CATEGORY_CODES[cat_code]
                 except KeyError:
