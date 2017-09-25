@@ -132,7 +132,6 @@ https://iarf.net/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-
 https://identi.ca/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://ikhwanonline.com/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://ilga.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://imageshack.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://imesh.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://imgur.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://imp.free.fr/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -682,7 +681,6 @@ http://www.iicwc.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by O
 http://www.ijm.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ilhr.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ilo.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.imageshack.us,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.imdb.com,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.imf.org,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.implantinfo.com,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1092,7 +1090,6 @@ http://www.xroxy.com,ANON,Anonymization and circumvention tools,2014-04-15,citiz
 http://www.xvideos.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-08-05
 http://www.xxlmag.com,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.yahoo.com,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.yelp.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ymca.int,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.yola.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.youporn.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1105,4 +1102,8 @@ http://www3.iaisite.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Upda
 http://xanga.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://xhamster.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://xxx.lanl.gov,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.yelp.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://imageshack.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.bbc.com,NEWS,News Media,2017-07-19,OONI,
+http://www.bbc.co.uk,NEWS,News Media,2017-07-19,OONI,
 http://zoomshare.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
