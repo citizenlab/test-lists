@@ -382,13 +382,13 @@ http://www.afsaran.ir/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based 
 http://www.aftabnews.ir/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.aghaghi.com,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.agr.state.il.us,ENV,Environment,2016-04-20,citizenlab,
-http://www.ajel.sa/,NEWS,News Media,2016-04-20,citizenlab,
+http://www.ajel.sa/ ,NEWS,News Media,2016-04-20,citizenlab,
 http://www.akbariyan.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.akharinnews.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.akhavi.blogdrive.com,CULTR,Culture,2014-04-15,citizenlab,
 http://www.akhbar-rooz.com/,NEWS,News Media,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
 http://www.akhond.tk,REL,Religion,2014-04-15,citizenlab,
-http://www.al-jazirah.com/,NEWS,News Media,2016-04-20,citizenlab,
+http://www.al-jazirah.com/ ,NEWS,News Media,2016-04-20,citizenlab,
 http://www.al-madina.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.alaflaaj.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.alamto.com/,CULTR,Culture,2017-05-16,ASL19,Categorized by OONI based on Google translate - requires review.
@@ -968,4 +968,3 @@ http://kat.cr,FILE,File-sharing,2017-09-05,OONI,Found to be blocked in Iran base
 http://www.asianangels.com,PORN,Pornography,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
 http://www.linay.com,PROV,Provocative Attire,2017-09-05,OONI,Found to be blocked in Iran based on OONI tests
 http://www.bbcpersian.com,NEWS,News Media,2017-07-19,BBC,
-https://www.radiofarda.com/,NEWS,News Media,2017-09-29,OONI,
