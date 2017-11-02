@@ -1,386 +1,699 @@
 url,category_code,category_description,date_added,source,notes
-http://addalinews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://aden-agency.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://aden-beat.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://aden-online.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://aden-post.com,NEWS,News Media,2016-04-18,citizenlab,
-http://adenalhaqeqah.com,NEWS,News Media,2016-04-18,citizenlab,
-http://adenalhaqeqah.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://adenalyoum.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://adengulfnews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://adenhurra.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://adenpress.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://adenprovince.net,NEWS,News Media,2016-04-18,citizenlab,
-http://ahgaftoday.com/new/,NEWS,News Media,2016-04-18,citizenlab,
-http://al-islah.net/Default.aspx,NEWS,News Media,2016-04-18,citizenlab,
-http://alahale.net,NEWS,News Media,2016-04-18,citizenlab,
-http://alainonline.net,NEWS,News Media,2016-04-18,citizenlab,
-http://albadeel.info,NEWS,News Media,2016-04-18,citizenlab,
-http://albaidaonline.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://albayan.ae/,NEWS,News Media,2016-04-18,citizenlab,
-http://alealamy.net,NEWS,News Media,2016-04-18,citizenlab,
-http://aleqtisad-news.net,NEWS,News Media,2016-04-18,citizenlab,
-http://aleshteraky.com,NEWS,News Media,2016-04-18,citizenlab,
-http://alfjeralgaaded.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://alfjeralgaaded.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://alhakk.net,NEWS,News Media,2016-04-18,citizenlab,
-http://alhurryh.net,NEWS,News Media,2016-04-18,citizenlab,
-http://alittihadpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://aljazeera.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://almadaniya.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://almasdaronline.net,NEWS,News Media,2016-04-18,citizenlab,
-http://almashahid.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://almashhad-alyemeni.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://alomanaa.net,NEWS,News Media,2016-04-18,citizenlab,
-http://alomanaa.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://alrshadpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://alsulta-alrabea.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://aluroobah.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://alwatan.com.sa/,NEWS,News Media,2016-04-18,citizenlab,
-http://amrannews.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://amranpress.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://angryarab.blogspot.com,NEWS,News Media,2016-04-18,citizenlab,
+http://www.newsyemen.net,NEWS,News Media,2016-04-18,citizenlab,News Yemen
+http://www.newyemen.net,NEWS,News Media,2016-04-18,citizenlab,New Yemen
+http://www.ye1.org,NEWS,News Media,2016-04-18,citizenlab,Yemeni Council
+http://www.shababyemeni.com,HUMR,Human Rights Issues,2016-04-18,citizenlab,Yemen youth NGO
+http://www.soutalgnoub.com,MILX,Terrorism and Militants,2016-04-18,citizenlab,Separatist group
+http://www.soutalgnoub.com/vb2/,MILX,Terrorism and Militants,2016-04-18,citizenlab,Separatist group
+http://denypagetests.netsweeper.com,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/1,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/10,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/11,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/12,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/13,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/14,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/15,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/16,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/160,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/166,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/17,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/170,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/18,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/19,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/2,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/20,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/21,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/22,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/23,MISC,Miscelaneous content,2016-04-18,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/230,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/24,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/243,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/244,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/245,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/246,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/247,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/248,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/249,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/25,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/250,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/252,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/253,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/254,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/26,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/27,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/28,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/29,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/3,MISC,Miscelaneous content,2016-04-18,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/30,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/31,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/32,MISC,Miscelaneous content,2016-04-18,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/33,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/34,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/35,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/36,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/37,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/39,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/4,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/40,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/41,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/42,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/43,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/44,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/45,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/47,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/48,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/49,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/5,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/50,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/51,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/53,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/54,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/6,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/7,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/8,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://denypagetests.netsweeper.com/category/catno/9,MISC,Miscelaneous content,2017-10-19,citizenlab,Tool to detect use of Netsweeper filtering product
+http://tahamatoday.tadwen.net,NEWS,News Media,2016-04-18,citizenlab,Tahama today
+http://www.adenpress.com,NEWS,News Media,2016-04-18,citizenlab,Aden Press
+http://www.al-ayyam.info,NEWS,News Media,2016-04-18,citizenlab,Al-Ayyam newspaper
+http://www.al-balagh.net,NEWS,News Media,2016-04-18,citizenlab,Al-Balagh newspaper
+http://www.al-masdar.com,NEWS,News Media,2016-04-18,citizenlab,Al-Masder (news source)
+http://www.al-osra.net,NEWS,News Media,2016-04-18,citizenlab,Al-Osra (family issues)
+http://www.al-tagheer.com,NEWS,News Media,2016-04-18,citizenlab,Al-Tagheer
+http://www.al-tagheer.net,NEWS,News Media,2016-04-18,citizenlab,Al-Tagheer
+http://www.almasdaronline.com,NEWS,News Media,2016-04-18,citizenlab,Al-Masder (news source)
+http://www.marebpress.net,NEWS,News Media,2016-04-18,citizenlab,Mareb press
+http://www.mayonews.net,NEWS,News Media,2016-04-18,citizenlab,Mayo News
+http://www.nabanews.net,NEWS,News Media,2016-04-18,citizenlab,Naba News
+http://www.shabwahpress.net,NEWS,News Media,2016-04-18,citizenlab,Shabwah Press
+http://www.yemenmirror.com,NEWS,News Media,2016-04-18,citizenlab,Yemeni Mirror
+http://www.yemenportal.net,NEWS,News Media,2016-04-18,citizenlab,Yemen News Portal
+http://www.yementimes.com,NEWS,News Media,2016-04-18,citizenlab,Yemen Times
+http://www.youtube.com/watch?v=AvQAbpX0aaM,NEWS,News Media,2016-04-18,citizenlab,Yemen youth
+http://www.youtube.com/watch?v=NJTXn-jyVfk,NEWS,News Media,2016-04-18,citizenlab,Yemen youth
+http://www.felixnews.com,NEWS,News Media,2016-04-18,citizenlab,Felix News portal
+http://dhal3.com,NEWS,News Media,2016-04-18,citizenlab,Dhal3 News Portal
+http://www.raynews.net,NEWS,News Media,2016-04-18,citizenlab,Ray News
+http://www.alhadath-yemen.com,NEWS,News Media,2016-04-18,citizenlab,Al-Hadath news portal
+http://sahafah.net,NEWS,News Media,2016-04-18,citizenlab,Sahafa
+http://ahgaftoday.com/new/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.albaldnews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alganob.net/g/index.asp,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.asrarpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adenprovince.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hournews.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.anbayemen.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yaspr.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.awanpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://ibb-press.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://erempress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://eensan.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://awraqpress.net/portal/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.ynews24.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://newslive-ye.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alahale.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alettejah.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alittihadpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alestethmar.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alomanaa.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alealamy.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.aliqtisadonline.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemeneconomist.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://albadeel.info,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.al-baath.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.albidapress.net/press/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aleqtisad-news.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.albaidaonline.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.albaidanews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.aljadeedpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.aljmaheerpress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hodnews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hodeidah.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alhakk.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hodpress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alhaqeeqanews.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.aljanad.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.taiznet.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://takatol.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.newsyafa.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hdrmutonline.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hadhramautnews.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hajjahnet.net/portal/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hadhramout-almasa.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hshd.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hadrmoutpress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.nsowo.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://mokawamah.net/portal/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.aladhwaa.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.althawranews.net/portal/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alhurryh.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemen-today.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemen-24.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemen-press.com/index.html,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.ibb-press.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemensky.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alyemeny.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://almadaniya.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.newslive-ye.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alraipress.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adenalhaqeqah.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.samaa-news.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemennewsgate.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.saadaonline.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alheyad.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://houdhod.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yna-yemen.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://sabanews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.althawranews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+https://marebpress.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+https://sahafah.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenipress.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemenisport.net/,NEWS,News Media,2017-10-19,citizenlab,Local media
+http://yemencom.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemennation.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenat.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemen-live.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenkooora.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenfox.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://ysupernews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemensky.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemenstreet.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemengoal.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yementalk.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yementoday.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenpost.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemenonline.info/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aden-agency.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://khabaragency.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hasadagency.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://honahadhramout.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://mukallastar.com/news/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aden-beat.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.pulseyemen.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.nabanews.net/2009/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://nbaonline.org/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.manaralyemen.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.mix-news.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.sanaacalendar.org/ar/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.madaraden.com/madar/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.mayonews.net/ad/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.marebnews.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://lahjnews.net/news/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yementodaytv.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alsaeedah-tv.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.azaal.tv/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://kamaranpress.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://suhail.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adenpress.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adenhurra.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adenalyoum.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://amranpress.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://amrannews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://sanaanews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://saharejaden.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://safannews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://saadanet.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://saadahpress.net/news/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://sanaatimes.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://sawt-eshaab.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.aden-now.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aden-online.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alhawyah.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alghadyem.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aluroobah.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.attariq-ye.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.algomhoriah.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenvoice.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.moragboonpress.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.ibb-press.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemensaeed.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hdgatewaynews.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alfjeralgaaded.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+https://tweetdeck.twitter.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.al-islah.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alaraby.co.uk/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aljazeera.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.bbc.co.uk/arabic,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://arabic.cnn.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.freedom-ye.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hdgatewaynews.com/news/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://mukallastar.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.mukallatoday.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://muharernet.com/,NEWS,News Media,2016-04-19,citizenlab,Local media
+http://www.alkheel.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://addalinews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aden-post.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adenalhaqeqah.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://adengulfnews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://al-islah.net/Default.aspx,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alainonline.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://albaidaonline.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alfjeralgaaded.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://almasdaronline.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://almashhad-alyemeni.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alomanaa.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alrshadpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alsulta-alrabea.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://banderhad.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://dammon.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://fpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://freedom-ye.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hadrmoutpress.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://hunaaden.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://ibb-press.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://khabrpress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://mandabpress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://marebpress.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://moragboonpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://moragboonpress.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://nabdalsharea.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://nashwannews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://saadaonline.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://samaa-news.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://samapress.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://taizcity.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.adenalhadath.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.al-tagheer.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.albidaweb.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alheyad.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alkhabarnow.net/news/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.almarsd.net/index.html,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alsaeedah-tv.com/Default.aspx,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alsahwa-yemen.net/default.aspx,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alwahdawi.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.alyompress.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.amraan.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.amraan.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.anbayemen.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.asrarpress.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.bakilnews.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.barakish.net/index.aspx,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.buyemen.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.dhamarpress.com/home,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hadarem.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hadramaut.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hajjah-today.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.honahadhramout.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.hshd.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.mukalla-star.com/news/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.mukallatoday.com/home.aspx,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.sabanew.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.sadaaden.com/main,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.sahtoday.net/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.topazpress.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.voice-yemen.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yejournal.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemeniamerican.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemensaeed.com/index.php,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yen-news.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yafa-news.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yaman-news.net,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemen-24.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemen-press.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yemennewsgate.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://yementimes.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://azaal.tv,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://albayan.ae/,NEWS,News Media,2017-10-19,citizenlab,Local media
+http://www.shaabonline.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://elmaam.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.bawabatii.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.yemenakhbar.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://alwatan.com.sa/,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.adenalmnarh.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://aleshteraky.com,NEWS,News Media,2016-04-18,citizenlab,Local media
+http://www.al-shoura.org,POLR,Political Criticism,2016-04-18,citizenlab,Al-Shoura political party
+http://www.almktaba.com,POLR,Political Criticism,2016-04-18,citizenlab,Saudi separatist group
+http://armiesofliberation.com,POLR,Political Criticism,2016-04-18,citizenlab,Armies of Liberation
+http://cyemen.com,POLR,Political Criticism,2016-04-18,citizenlab,Yemen youth
+http://www.pdf-yemen.com,POLR,Political Criticism,2016-04-18,citizenlab,Yemen political development forum
+http://www.yemen-sound.com,POLR,Political Criticism,2016-04-18,citizenlab,Discussion forum
+http://revolutionyemen.7olm.org,POLR,Political Criticism,2016-04-18,citizenlab,Yemen revolution
+http://www.owam.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,local women NGO
+http://www.yemen-women.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,Naitonal Committee for Women
+http://aamagazine.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://albrhan.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://alkhaleejonline.net/,NEWS,News Media,2017-10-19,citizenlab,Political news and views
+http://alsaha.com,NEWS,News Media,2017-10-19,citizenlab,Regional chatting forum
+http://anaahor.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://angryarab.blogspot.com,POLR,Political Criticism,2016-04-18,citizenlab,Angery Arab blog
 http://anonym.to,ANON,Anonymization and circumvention tools,2016-04-18,citizenlab,
-http://answering-islam.org,REL,Religion,2016-04-18,citizenlab,
-http://arabic.cnn.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://armiesofliberation.com,POLR,Political Criticism,2016-04-18,citizenlab,
-http://awraqpress.net/portal/,NEWS,News Media,2016-04-18,citizenlab,
-http://azaal.tv,NEWS,News Media,2016-04-18,citizenlab,
-http://banderhad.com,NEWS,News Media,2016-04-18,citizenlab,
-http://christian-dogma.com,NEWS,News Media,2016-04-18,citizenlab,
-http://cyemen.com,NEWS,News Media,2016-04-18,citizenlab,
-http://dammon.net,NEWS,News Media,2016-04-18,citizenlab,
-http://denypagetests.netsweeper.com/category/catno/105,COMM,E-commerce,2016-04-18,citizenlab,
-http://denypagetests.netsweeper.com/category/catno/23,COMM,E-commerce,2016-04-18,citizenlab,
-http://denypagetests.netsweeper.com/category/catno/3,COMM,E-commerce,2016-04-18,citizenlab,
-http://denypagetests.netsweeper.com/category/catno/32,COMM,E-commerce,2016-04-18,citizenlab,
-http://dhal3.com,NEWS,News Media,2016-04-18,citizenlab,
-http://eensan.net,NEWS,News Media,2016-04-18,citizenlab,
-http://elmaam.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://elyon1.court.gov.il/eng/siyur/index.html,GOVT,Government,2016-04-18,citizenlab,
-http://erempress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://fpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://freedom-ye.com,NEWS,News Media,2016-04-18,citizenlab,
+http://answering-islam.org,REL,Religion,2016-04-18,citizenlab,Religious conversion commentary and criticism
+http://ar.wikipedia.org/wiki/%d8%aa%d8%b7%d9%88%d8%b1,REL,Religion,2017-10-19,citizenlab,evolution theory
+http://ar.wikipedia.org/wiki/%d8%af%d8%a7%d8%b1%d9%88%d9%8a%d9%86%d9%8a%d8%a9,REL,Religion,2017-10-19,citizenlab,evolution theory
+http://arabatheistbroadcasting.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://arabel7ad.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://arabic.peopledaily.com.cn,NEWS,News Media,2017-10-19,citizenlab,Chinese Arabic newspaper
+http://arabic.sputniknews.com/,NEWS,News Media,2017-10-19,citizenlab,Russian news agency
+http://bahai-books.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Bahai faith group
+http://bahai-devotions.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Bahai faith group
+http://bahai-internet-services.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Bahai faith group
+http://bahai-readings.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Bahai faith group
+http://bahai-writings.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Bahai faith group
+http://bbcarabic.com,NEWS,News Media,2017-10-19,citizenlab,BBC Arabic
+http://chouf-minorities.org/?lang=en,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://christian-dogma.com,HUMR,Human Rights Issues,2016-04-18,citizenlab,
+http://el7adarab.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://www.elaph.com,NEWS,News Media,2016-04-18,citizenlab,Liberal news portal
+http://elmarsad.org/ar/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Arab human rights monitor
+http://elyon1.court.gov.il/eng/siyur/index.html,GOVT,Government,2016-04-18,citizenlab,Israel Supreme Court
+http://en.wikipedia.org/wiki/darwinism,CULTR,Culture,2017-10-19,citizenlab,evolution theory
+http://en.wikipedia.org/wiki/evolution,CULTR,Culture,2017-10-19,citizenlab,evolution theory
 http://gayguide.net,LGBT,LGBT,2016-04-18,citizenlab,
-http://gayguide.net/Middle_East/Yemen/,LGBT,LGBT,2016-04-18,citizenlab,
-http://gayinkuwait.blogspot.com,LGBT,LGBT,2016-04-18,citizenlab,
 http://gayswithoutborders.wordpress.com,LGBT,LGBT,2016-04-18,citizenlab,
-http://hadhramautnews.net,NEWS,News Media,2016-04-18,citizenlab,
-http://hadrmoutpress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://hadrmoutpress.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://hajjahnet.net/portal/,NEWS,News Media,2016-04-18,citizenlab,
-http://hasadagency.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://hdrmutonline.com,NEWS,News Media,2016-04-18,citizenlab,
-http://hodeidah.net,NEWS,News Media,2016-04-18,citizenlab,
-http://hodpress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://honahadhramout.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://houdhod.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://hournews.net,NEWS,News Media,2016-04-18,citizenlab,
-http://hrw.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://hunaaden.com,NEWS,News Media,2016-04-18,citizenlab,
-http://ibb-press.net,NEWS,News Media,2016-04-18,citizenlab,
-http://ibb-press.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://ikhwanonline.org,POLR,Political Criticism,2016-04-18,citizenlab,
-http://internet.tumblr.com,NEWS,News Media,2016-04-18,citizenlab,
-http://kamaranpress.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://khabaragency.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://khabrpress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://lahjnews.net/news/,NEWS,News Media,2016-04-18,citizenlab,
-http://library.sheba.co.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://mandabpress.com,NEWS,News Media,2016-04-18,citizenlab,
-https://marebpress.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://marebpress.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://minuf.co.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://mokawamah.net/portal/,NEWS,News Media,2016-04-18,citizenlab,
-http://moragboonpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://moragboonpress.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://muharernet.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://mukallastar.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://mukallastar.com/news/,NEWS,News Media,2016-04-18,citizenlab,
-http://nabdalsharea.com,NEWS,News Media,2016-04-18,citizenlab,
-http://nashwannews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://nbaonline.org/,NEWS,News Media,2016-04-18,citizenlab,
-http://neswangy.net,PORN,Pornography,2016-04-18,citizenlab,
-http://newslive-ye.com,NEWS,News Media,2016-04-18,citizenlab,
-http://religion.tumblr.com,NEWS,News Media,2016-04-18,citizenlab,
-http://revolutionyemen.7olm.org,NEWS,News Media,2016-04-18,citizenlab,
-http://rhr.org.il/eng/,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://saadahpress.net/news/,NEWS,News Media,2016-04-18,citizenlab,
-http://saadanet.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://saadaonline.com,NEWS,News Media,2016-04-18,citizenlab,
-http://sabanews.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://safannews.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://sahafah.net,NEWS,News Media,2016-04-18,citizenlab,
-https://sahafah.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://sahafah24.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://saharejaden.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://samaa-news.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://samapress.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://sanaanews.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://sanaatimes.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://sawt-eshaab.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://shuhood.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://sports.tumblr.com,NEWS,News Media,2016-04-18,citizenlab,
-http://suhail.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://tahamatoday.tadwen.net,NEWS,News Media,2016-04-18,citizenlab,
-http://taizcity.net,NEWS,News Media,2016-04-18,citizenlab,
-http://takatol.net,NEWS,News Media,2016-04-18,citizenlab,
-http://thissitedoesnotexist.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://thiswebsitedoesnotexistyet.tumblr.com,NEWS,News Media,2016-04-18,citizenlab,
-https://tweetdeck.twitter.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.7adramout.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aaci.org.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.aden-now.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.adenalhadath.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.adenalmnarh.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.adenpress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.agr.state.il.us,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.ahewar.org,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-ayyam.info,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.al-baath.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-balagh.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-islah.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-masdar.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-osra.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-shoura.org,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.al-tagheer.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-tagheer.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.al-tagheer.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aladhwaa.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alahssa-alkateef.com,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.alalam.ir,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alarabiya.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alaraby.co.uk/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.albaidanews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.albaidaonline.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.albaldnews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.albidapress.net/press/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.albidaweb.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aleshteraki.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alestethmar.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alettejah.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alganob.net/g/index.asp,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alghadyem.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.algomhoriah.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alhadath-yemen.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alhaqeeqanews.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alhawyah.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alhesbah.org,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.alheyad.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alheyad.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alhurra.com/,NEWS,News Media,2016-04-19,citizenlab,
-http://www.aliqtisadonline.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aljadeedpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aljanad.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aljazeera.net/portal,NEWS,News Media,2016-04-18,citizenlab,
-http://www.aljmaheerpress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alkhabarnow.net/news/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alkheel.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.almarsd.net/index.html,NEWS,News Media,2016-04-18,citizenlab,
-http://www.almasdaronline.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.almktaba.com,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.alquds.co.uk,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alraipress.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alsaeedah-tv.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alsaeedah-tv.com/Default.aspx,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alsahwa-yemen.net,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.alsahwa-yemen.net/default.aspx,NEWS,News Media,2016-04-18,citizenlab,
-http://www.altajdednews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.althawranews.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.althawranews.net/portal/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alwahdawi.net,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.alwahdawi.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alyemeny.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.alyompress.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.amraan.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.amraan.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.anbayemen.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.anbayemen.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.anti-cair-net.org,NEWS,News Media,2016-04-18,citizenlab,
-http://www.antiquities.org.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.aohr.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.arabatheist.humanists.net,REL,Religion,2016-04-18,citizenlab,
-http://www.arabicbible.com,REL,Religion,2016-04-18,citizenlab,
-http://www.asrarpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.asrarpress.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.asseer.com,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.attariq-ye.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.awanpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.azaal.tv/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.baath-party.org,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.bahai-faith.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.bahai.com,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.bakilnews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.barakish.net/index.aspx,NEWS,News Media,2016-04-18,citizenlab,
-http://www.basket.co.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.bawabatii.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.bbc.co.uk/arabic,NEWS,News Media,2016-04-18,citizenlab,
-http://www.boi.org.il,GOVT,Government,2016-04-18,citizenlab,
-http://www.bus.co.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.business-humanrights.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.buyemen.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.cbs.gov.il,GOVT,Government,2016-04-18,citizenlab,
-http://www.centerforinquiry.net/isis/,REL,Religion,2016-04-18,citizenlab,
-http://www.coptic.net,REL,Religion,2016-04-18,citizenlab,
-http://www.crin.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.danielpipes.org,NEWS,News Media,2016-04-18,citizenlab,
-http://www.defendingwomen-defendingrights.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.dhamarpress.com/home,NEWS,News Media,2016-04-18,citizenlab,
-http://www.elaph.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.endvaw.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.equalitynow.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.eremnews.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.euromedrights.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.faithfreedom.org,REL,Religion,2016-04-18,citizenlab,
-http://www.felixnews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.freearabvoice.org,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.freedom-ye.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.galilcol.ac.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.gayarab.org,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.gaymiddleeast.com,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.gaymiddleeast.com/country/yemen,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.gaytelaviv.com,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.gaytravelnet.com,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.ghaliboun.net,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.glas.org,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.glas.org/ahbab/,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.glas.org/lazeeza.html,LGBT,LGBT,2016-04-18,citizenlab,
+http://iknowpolitics.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://il7adarabic.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://internet.tumblr.com,CTRL,Control content,2016-04-18,citizenlab,To test of certain blogs on tumblr are blocked
+http://karamah.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://ladeenioon.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://library.sheba.co.il,CTRL,Control content,2016-04-18,citizenlab,Miriam Gutwirth Medical Library
+http://middleeasttransparent.com/en/,HUMR,Human Rights Issues,2017-10-19,citizenlab,NGO promotes transparency in the middle east
+http://minuf.co.il,CTRL,Control content,2016-04-18,citizenlab,Minuf Group
+http://neswangy.net,PORN,Pornography,2016-04-18,citizenlab,Arabic sex site
+http://no-ip.org/,ANON,Anonymization and circumvention tools,2017-10-19,citizenlab,
+http://opl-now.org/,NEWS,News Media,2017-10-19,citizenlab,Free expression and media freedom
+http://religion.tumblr.com,CTRL,Control content,2016-04-18,citizenlab,To test of certain blogs on tumblr are blocked
+http://rhr.org.il/eng/,HUMR,Human Rights Issues,2016-04-18,citizenlab,Rabbis for Human Rights
+http://shiaweb.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Shia Web. Shiite Web site
+http://shuhood.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,The International Organization to Confront Extremism
+http://sports.tumblr.com,CTRL,Control content,2016-04-18,citizenlab,to test of certain blogs on tumblr are blocked
+http://tabee3iil7ad.blogspot.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://thissitedoesnotexist.il,CTRL,Control content,2016-04-18,citizenlab,This is a fake site
+http://thiswebsitedoesnotexistyet.tumblr.com,CTRL,Control content,2016-04-18,citizenlab,to test of certain blogs on tumblr are blocked
+http://twitter.com/#!/gamaleid,NEWS,News Media,2017-10-19,citizenlab,Regional activist
+http://twitter.com/#!/ghonim,NEWS,News Media,2017-10-19,citizenlab,Regional activist
+http://twitter.com/abualkhair,NEWS,News Media,2017-10-19,citizenlab,Regional activist
+http://twitter.com/gamaleid,NEWS,News Media,2017-10-19,citizenlab,Regional activist
+http://twitter.com/ghonim,NEWS,News Media,2017-10-19,citizenlab,Regional activist
+http://twitter.com/Mashi97,NEWS,News Media,2017-10-19,citizenlab,Regional activist
+http://www.aaci.org.il,GOVT,Government,2016-04-18,citizenlab,Association of Americans and Canadians in Israel
+http://www.agr.state.il.us,GOVT,Government,2016-04-18,citizenlab,Illinois Department of Agriculture
+http://www.ahewar.org,POLR,Political Criticism,2016-04-18,citizenlab,Arabic secular news and views
+http://www.ahmedandsalim.com,POLR,Political Criticism,2017-10-19,citizenlab,Ahmed and Salim
+http://www.al-akhbar.com/,NEWS,News Media,2017-10-19,citizenlab,Lebanese newspaper
+http://www.al-bab.com,NEWS,News Media,2017-10-19,citizenlab,Regional Arabic blog/portal
+http://www.alahednews.com.lb/,NEWS,News Media,2017-10-19,citizenlab,Lebanese news site
+http://www.alalam.ir,NEWS,News Media,2016-04-18,citizenlab,Iran TV
+http://www.alarabiya.net,NEWS,News Media,2016-04-18,citizenlab,International Arabic broadcasting company
+http://www.albawaba.com,NEWS,News Media,2017-10-19,citizenlab,News portal
+http://www.alhayat.com/,NEWS,News Media,2017-10-19,citizenlab,Pan-Arab newspaper
+http://www.aljazeera.net/,NEWS,News Media,2017-10-19,citizenlab,Aljazeera website
+http://www.almanar.com.lb/,NEWS,News Media,2017-10-19,citizenlab,Hizbullah media
+http://www.almayadeen.net/,NEWS,News Media,2017-10-19,citizenlab,Mayadeen TV
+http://www.alnour.com.lb/,NEWS,News Media,2017-10-19,citizenlab,al-Nour Radio is the official radio station of Hizbollah
+http://www.alquds.co.uk,NEWS,News Media,2016-04-18,citizenlab,Pan-Arab newspaper
+http://www.amin.org,NEWS,News Media,2017-10-19,citizenlab,Regional Arabic online news portal
+http://www.amnesty.org/ar,HUMR,Human Rights Issues,2017-10-19,citizenlab,Article about Moroccan abuses of W. Saharans
+http://www.anhri.net/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Human rights information network
+http://www.annabaa.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Annabaa. Shiite news portal.
+http://www.ansarh.com,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://www.ansarweb.net,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://www.anti-cair-net.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,Anti CAIR movement. Critical of Islamic group activities in US
+http://www.antiquities.org.il,GOVT,Government,2016-04-18,citizenlab,Israel Antiquities Authority
+http://www.arabatheist.humanists.net,REL,Religion,2016-04-18,citizenlab,Arab atheists
+http://www.arabhomosexual.com/SMF/index.php,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.arabhumanrights.org,REL,Religion,2017-10-19,citizenlab,Arab Human Rights Index
+http://www.arabiadate.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.arabicbible.com,REL,Religion,2016-04-18,citizenlab,"Religious conversion, commentary and criticism"
+http://www.arabicpoems.com,CULTR,Culture,2017-10-19,citizenlab,Arabic literature
+http://www.arabstoday.net/,NEWS,News Media,2017-10-19,citizenlab,Arabic media
+http://www.arabwomenorg.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.asseer.com,MILX,Terrorism and Militants,2016-04-18,citizenlab,Saudi separatist group
+http://www.azzaman.com,NEWS,News Media,2017-10-19,citizenlab,Regional Arabic online news portal
+http://www.baath-party.org,POLR,Political Criticism,2016-04-18,citizenlab,Pan-Arab opposition political party
+http://www.bahai-faith.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,Bahai faith group
+http://www.bahai.com,HUMR,Human Rights Issues,2016-04-18,citizenlab,Bahai faith group
+http://www.basket.co.il,GOVT,Government,2016-04-18,citizenlab,Israel Basketball League
+http://www.bayynat.org,POLR,Political Criticism,2017-10-19,citizenlab,Sayyid Muhammad Hussein Fadlallah's website (spiritual guide of Hizbollah's Secretary General)
+http://www.behidden.com,ANON,Anonymization and circumvention tools,2017-10-19,citizenlab,
+http://www.blogjihad.com,MILX,Terrorism and Militants,2017-10-19,citizenlab,Blog about politics and social issues in UAE
+http://www.boi.org.il,GOVT,Government,2016-04-18,citizenlab,Bank of Israel
+http://www.business-humanrights.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,Human Rights portal
+http://www.cawtar.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.cbs.gov.il,GOVT,Government,2016-04-18,citizenlab,Central Bureau of Statistics of Israel
+http://www.cdl.com.lb,GMB,Gambling,2017-10-19,citizenlab,
+http://www.centerforinquiry.net/isis/,REL,Religion,2016-04-18,citizenlab,Center for secularing Islamic societies
+http://www.cewla.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.childsrights.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Child Rights
+http://www.cnnarabic.com,NEWS,News Media,2017-10-19,citizenlab,CNN Arabic
+http://www.coepaonline.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,The Coptic Orthodox e-Publishing - Australia (COEPA)
+http://www.coptic.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,Religious conversion commentary and criticism
+http://www.cpj.org/attacks00/mideast00/Gulf.html,HUMR,Human Rights Issues,2017-10-19,citizenlab,Committee to Protect Journalists
+http://www.crin.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,The Child Rights Information Network
+http://www.danielpipes.org,POLR,Political Criticism,2016-04-18,citizenlab,Danial Pipes' blog
+http://www.defendingwomen-defendingrights.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,International women NGO
+http://www.detarabiskeinitiativ.dk/ar/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.dubai-escort-list.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.dw.com/ar,NEWS,News Media,2017-10-19,citizenlab,German news service
+http://www.ehcconline.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Regional women NGO
+http://www.endvaw.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,International women NGO
+http://www.equalitynow.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,International women NGO
+http://www.equalpowerlastingpeace.org/ar/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.eremnews.com/,NEWS,News Media,2016-04-18,citizenlab,Arab news portal
+http://www.euro4arab.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.euromedrights.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,The Euro-Mediterranean Human Rights Network
+http://www.evemodels.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.faithfreedom.org,REL,Religion,2016-04-18,citizenlab,Faith Freedom International - grassroots movement of ex-Muslims
+http://www.flcckuwait.com,HUMR,Human Rights Issues,2017-10-19,citizenlab,Expat Christian group
+http://www.flickr.com/photos/miskan/4581554/,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.france24.com/,NEWS,News Media,2017-10-19,citizenlab,France 24 news service
+http://www.freearabvoice.org,POLR,Political Criticism,2016-04-18,citizenlab,Promotes political reform
+http://www.freemuslim.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://www.galilcol.ac.il,GOVT,Government,2016-04-18,citizenlab,International Management Institute
+http://www.gayarab.org,LGBT,LGBT,2016-04-18,citizenlab,Arab gay Web site
+http://www.ghaliboun.net,MILX,Terrorism and Militants,2016-04-18,citizenlab,Pro-Hizbullah group
+http://www.glas.org,LGBT,LGBT,2016-04-18,citizenlab,Arab gay Web site
+http://www.globalfundforwomen.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
 http://www.globalgayz.com,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.globalgayz.com/yemen-news.html,LGBT,LGBT,2016-04-18,citizenlab,
-https://www.google.co.il,SRCH,Search Engines,2016-04-18,citizenlab,
-http://www.greenbo.co.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.hadarem.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hadhramout-almasa.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hadramaut.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hajjah-today.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.haya.org,REL,Religion,2016-04-18,citizenlab,
-http://www.hdgatewaynews.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hdgatewaynews.com/news/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hodnews.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.honahadhramout.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hri.ca,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.hritc.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.hrw.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.hshd.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.hshd.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.huffpostarabi.com/,NEWS,News Media,2016-04-19,citizenlab,
-http://www.humum.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.ibb-press.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.ibb-press.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.ikhwan.net,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.ikhwan.net/vb/,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.ikhwanonline.org,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.ikhwanweb.com,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.isa.gov.il,GOVT,Government,2016-04-18,citizenlab,
-http://www.islammemo.cc,NEWS,News Media,2016-04-18,citizenlab,
-http://www.jadal.org,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.jari7.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.jihadwatch.org,REL,Religion,2016-04-18,citizenlab,
+http://www.greenbo.co.il,CTRL,Control content,2016-04-18,citizenlab,Greenbo Gardening Store
+http://www.haaretz.co.il,NEWS,News Media,2017-10-19,citizenlab,Israeli Web site
+http://www.hadash.org.il,POLR,Political Criticism,2017-10-19,citizenlab,Israeli Web site
+http://www.haifawehbe.com,CULTR,Culture,2017-10-19,citizenlab,Celebrity Website
+http://www.hajr.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://www.hajr.org/forum/index.php,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://www.haya.org,REL,Religion,2016-04-18,citizenlab,"Religious conversion, commentary and criticism"
+http://www.historyofnations.net,NEWS,News Media,2017-10-19,citizenlab,History of Nations
+http://www.hizbollah.org,MILX,Terrorism and Militants,2017-10-19,citizenlab,Official press office website of Hizbollah
+http://www.hri.ca,HUMR,Human Rights Issues,2016-04-18,citizenlab,Human Rights Internet
+http://www.hritc.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,Human Rights information and training center
+http://www.hrw.org/ar,HUMR,Human Rights Issues,2017-10-19,citizenlab,human rights organization's arabic page
+http://www.huffpostarabi.com/,NEWS,News Media,2016-04-18,citizenlab,Huff Post Arabic
+http://www.humum.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,Arabic human rights web site
+http://www.ibwgdubai.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.icw-cif.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.idf.il,GOVT,Government,2017-10-19,citizenlab,Israeli Web site
+http://www.ikhwan.net,POLR,Political Criticism,2016-04-18,citizenlab,Opposition political party
+http://www.ikhwan.net/forum/,POLR,Political Criticism,2017-10-19,citizenlab,Discussion forum sponsored by opposition political party
+http://www.ikhwanweb.com,POLR,Political Criticism,2016-04-18,citizenlab,Opposition political party
+http://www.il7ad.com/,REL,Religion,2017-10-19,citizenlab,Arab atheists
+http://www.independentdubaiescorts.com,PORN,Pornography,2017-10-19,citizenlab,Escort services
+http://www.internewsmena.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,Internews MENA
+http://www.iraqiwomensleague.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.irshadmanji.com,REL,Religion,2017-10-19,citizenlab,Critical of Islam
+http://www.irshadmanji.com/arabic-edition,REL,Religion,2017-10-19,citizenlab,Critical of Islam
+http://www.isa.gov.il,GOVT,Government,2016-04-18,citizenlab,Israeli Securities Authority
+http://www.islammemo.cc,NEWS,News Media,2016-04-18,citizenlab,Regional Arabic online news portal
+http://www.islamonline.net/,NEWS,News Media,2017-10-19,citizenlab,Regional Arabic online news portal
+http://www.islamtoday.net,NEWS,News Media,2017-10-19,citizenlab,Regional news portal from Islamist's point of view
+http://www.israel.com,GOVT,Government,2017-10-19,citizenlab,Israeli Web site
+http://www.ivillage.com,HUMR,Human Rights Issues,2017-10-19,citizenlab,ivillage magazine
+http://www.j-c-w.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.jadal.org,POLR,Political Criticism,2016-04-18,citizenlab,Research organization promotes political discussion
+http://www.jasadmag.com,HUMR,Human Rights Issues,2017-10-19,citizenlab,Jasad magazine
+http://www.jihadwatch.org,REL,Religion,2016-04-18,citizenlab,Jihad Watch
+http://www.justadultsites.com,PORN,Pornography,2017-10-19,citizenlab,Arabic porn Web site
+http://www.kayan.org.il/ar/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.khayma.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.kitabat.com,NEWS,News Media,2017-10-19,citizenlab,Kitabat (writings)
+http://www.knesset.gov.il,GOVT,Government,2017-10-19,citizenlab,Israeli Web site
+http://www.lahamag.com/Global,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.lahaonline.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
 http://www.lavaplace.com,DATE,Online Dating,2016-04-18,citizenlab,
-http://www.light-of-life.com,REL,Religion,2016-04-18,citizenlab,
-http://www.macmag-glip.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.madaraden.com/madar/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mahjoob.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.manaralyemen.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.marebnews.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.marebpress.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mayonews.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mayonews.net/ad/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mc-doualiya.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.middleeasttransparent.com,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.mix-news.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mod.gov.il,GOVT,Government,2016-04-18,citizenlab,
-http://www.moragboonpress.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mossad.gov.il/default.aspx,GOVT,Government,2016-04-18,citizenlab,
-http://www.mukalla-star.com/news/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mukallatoday.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.mukallatoday.com/home.aspx,NEWS,News Media,2016-04-18,citizenlab,
-http://www.nabanews.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.nabanews.net/2009/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.najed.org,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.nbn.org.il,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.newslive-ye.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.newsyafa.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.newsyemen.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.newyemen.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.nsowo.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.oswego.lib.il.us,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.owam.net,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.palestine-info.info,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.pdf-yemen.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.pulseyemen.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.radiosawa.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.rafael.co.il,GOVT,Government,2016-04-18,citizenlab,
-http://www.ramla.muni.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.raynews.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.saadaonline.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.sabanew.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.sadaaden.com/main,NEWS,News Media,2016-04-18,citizenlab,
-http://www.sahtoday.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.samaa-news.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.sanaacalendar.org/ar/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.science.co.il,GOVT,Government,2016-04-18,citizenlab,
-http://www.shaabonline.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.shababyemeni.com,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.shabwahpress.net,NEWS,News Media,2016-04-18,citizenlab,
+http://www.lebraly.com,POLR,Political Criticism,2017-10-19,citizenlab,Liberal Blog
+http://www.light-of-life.com,REL,Religion,2016-04-18,citizenlab,"Religious conversion, commentary and criticism"
+http://www.likud.org.il,GOVT,Government,2017-10-19,citizenlab,Israeli Web site
+http://www.luxuryjoy.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.macmag-glip.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,International women NGO
+http://www.mahdi-alumma.com/,REL,Religion,2017-10-19,citizenlab,Cntroversial religious content
+http://www.mahjoob.com,NEWS,News Media,2016-04-18,citizenlab,Political cartoonist
+http://www.mc-doualiya.com/,NEWS,News Media,2016-04-18,citizenlab,Monte Carlo radio 
+http://www.meretz.org.il,GOVT,Government,2017-10-19,citizenlab,Israeli Web site
+https://www.metrodate.com/,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.mfa.gov.il,GOVT,Government,2017-10-19,citizenlab,Israeli Web site
+http://www.middle-east-online.com,NEWS,News Media,2017-10-19,citizenlab,Regional Arabic online news portal
+http://www.middleeasttransparent.com,POLR,Political Criticism,2016-04-18,citizenlab,NGO promotes transparency in the middle east
+http://www.mod.gov.il,GOVT,Government,2016-04-18,citizenlab,Ministry of Defense
+http://www.modawanati.com,HOST,Hosting and Blogging Platforms,2017-10-19,citizenlab,Arabic blogging service provider
+http://www.moqawama.org,MILX,Terrorism and Militants,2017-10-19,citizenlab,Hizballah news  website
+http://www.mossad.gov.il/default.aspx,GOVT,Government,2016-04-18,citizenlab,MOSSAD
+http://www.nancyajram.com,CULTR,Culture,2017-10-19,citizenlab,Celebrity Website
+http://www.nancyajramonline.com,CULTR,Culture,2017-10-19,citizenlab,Celebrity Website
+http://www.naseej.com,SRCH,Search Engines,2017-10-19,citizenlab,Arab research community
+http://www.nbn.org.il,GOVT,Government,2016-04-18,citizenlab,Testing of .il tld
+http://www.ncwegypt.com/index.php/ar/,HUMR,Human Rights Issues,2017-10-19,citizenlab,Women rights
+http://www.nikahsearch.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.noonpost.net/,NEWS,News Media,2017-10-19,citizenlab,Noot Post
+http://www.noontidepress.com,NEWS,News Media,2017-10-19,citizenlab,Institute for Historical Review's publishing arm
+http://www.oswego.lib.il.us,CTRL,Control content,2016-04-18,citizenlab,Illinois Library page
+http://www.radiosawa.com,NEWS,News Media,2016-04-18,citizenlab,U.S. Radio broadcast in Arabic
+http://www.rafael.co.il,GOVT,Government,2016-04-18,citizenlab,Rafael Advanced Defense Systems
+http://www.rafed.net,HUMR,Human Rights Issues,2017-10-19,citizenlab,Muslim Shia Web site
+http://www.ramla.muni.il,GOVT,Government,2016-04-18,citizenlab,Ramla Municipality site
+http://www.rasid.com,HUMR,Human Rights Issues,2017-10-19,citizenlab,Rasid. Shiite Web site
+http://www.rasid.net,POLR,Political Criticism,2017-10-19,citizenlab,Saudi opposition publication
+http://www.rassd.com/,NEWS,News Media,2017-10-19,citizenlab,Arab news portal
+http://www.rubymania.com,CULTR,Culture,2017-10-19,citizenlab,Celebrity Website
+http://www.sasapost.com/,NEWS,News Media,2017-10-19,citizenlab,Sasa Post
+http://www.science.co.il,GOVT,Government,2016-04-18,citizenlab,Israel Science and Technology
+http://www.secularislam.org,REL,Religion,2017-10-19,citizenlab,
+http://www.shaharah.net/,NEWS,News Media,2017-10-19,citizenlab,Shaharah news portal
+http://www.shiaweb.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.sistersunited.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
 http://www.skynewsarabia.com/web/home,NEWS,News Media,2016-04-18,citizenlab,
-http://www.sodomylaws.org,LGBT,LGBT,2016-04-18,citizenlab,
-http://www.soutalgnoub.com,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.soutalgnoub.com/vb2/,MILX,Terrorism and Militants,2016-04-18,citizenlab,
-http://www.sqlserver.co.il,MISC,Miscelaneous content,2016-04-18,citizenlab,
-http://www.taiznet.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.tase.co.il/eng/pages/homepage.aspx,COMM,E-commerce,2016-04-18,citizenlab,
+http://www.sqlserver.co.il,CTRL,Control content,2016-04-18,citizenlab,
+http://www.taqadoumiya.net/,POLR,Political Criticism,2017-10-19,citizenlab,
+http://www.taqrir.org,NEWS,News Media,2017-10-19,citizenlab,
+http://www.tarjem.com,COMT,Communication Tools,2017-10-19,citizenlab,
 http://www.tawhed.ws,MILX,Terrorism and Militants,2016-04-18,citizenlab,
 http://www.the-good-way.com,REL,Religion,2016-04-18,citizenlab,
 http://www.thegrace.com,REL,Religion,2016-04-18,citizenlab,
-http://www.timesofisrael.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.topazpress.net,NEWS,News Media,2016-04-18,citizenlab,
+http://www.theguardian.com/tone/blog,NEWS,News Media,2017-10-19,citizenlab,
+http://www.thekoran.com,REL,Religion,2017-10-19,citizenlab,
+http://www.thenewkhalij.net/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.toystore.co.il,GOVT,Government,2017-10-19,citizenlab,
 http://www.tumblr.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.voice-yemen.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.ye1.org,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yejournal.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemen-24.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemen-press.com/index.html,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemen-sound.com,POLR,Political Criticism,2016-04-18,citizenlab,
-http://www.yemen-today.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemen-women.org,HUMR,Human Rights Issues,2016-04-18,citizenlab,
-http://www.yemenakhbar.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenat.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemeneconomist.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenfox.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemengoal.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemeniamerican.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenipress.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenkooora.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenmirror.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenportal.net,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenpost.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemensaeed.com/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemensaeed.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemensky.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yementimes.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yementoday.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yementodaytv.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yemenvoice.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://www.yen-news.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.ynews24.com,NEWS,News Media,2016-04-18,citizenlab,
-http://www.youtube.com/watch?v=AvQAbpX0aaM,NEWS,News Media,2016-04-18,citizenlab,
-http://www.youtube.com/watch?v=NJTXn-jyVfk,NEWS,News Media,2016-04-18,citizenlab,
-http://yafa-news.net,NEWS,News Media,2016-04-18,citizenlab,
-http://yaman-news.net,NEWS,News Media,2016-04-18,citizenlab,
-http://yaspr.net,NEWS,News Media,2016-04-18,citizenlab,
-http://yemen-24.com,NEWS,News Media,2016-04-18,citizenlab,
-http://yemen-live.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://yemen-press.com,NEWS,News Media,2016-04-18,citizenlab,
-http://yemencom.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://yemenisport.net,NEWS,News Media,2016-04-18,citizenlab,
-http://yemennation.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://yemennewsgate.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://yemennewsgate.net/index.php,NEWS,News Media,2016-04-18,citizenlab,
-http://yemenonline.info/,NEWS,News Media,2016-04-18,citizenlab,
-http://yemensky.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://yemenstreet.com/,NEWS,News Media,2016-04-18,citizenlab,
-http://yementalk.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://yementimes.com,NEWS,News Media,2016-04-18,citizenlab,
-http://yna-yemen.net/,NEWS,News Media,2016-04-18,citizenlab,
-http://ysupernews.net/,NEWS,News Media,2016-04-18,citizenlab,
+http://www.us-israel.org,GOVT,Government,2017-10-19,citizenlab,
+http://www.watan.com,NEWS,News Media,2017-10-19,citizenlab,
+http://www.wavo.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.wclac.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.wluml.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.wluml.org/ar,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.worldsexguide.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.wtb.org.il/arabic/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.xrdarabia.org,GOVT,Government,2017-10-19,citizenlab,
+http://www.youtube.com/verify_controversy?next_url=/watch%3fv%3dqmodvun16q4,REL,Religion,2017-10-19,citizenlab,
+http://www.zawagislamy.com/,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.zawajfriends.com,DATE,Online Dating,2017-10-19,citizenlab,
+http://www.zawajfriends.com/fm/,DATE,Online Dating,2017-10-19,citizenlab,
+https://ar-ar.facebook.com/Il7ad,REL,Religion,2017-10-19,citizenlab,
+https://arabic.rt.com,NEWS,News Media,2017-10-19,citizenlab,
+https://plus.google.com/communities/117457850617621671508,REL,Religion,2017-10-19,citizenlab,
+https://richarddawkins.net/,REL,Religion,2017-10-19,citizenlab,
+https://twitter.com/arabatheisttv,REL,Religion,2017-10-19,citizenlab,
+https://twitter.com/mol7d_arabi,REL,Religion,2017-10-19,citizenlab,
+https://www.facebook.com/ArabAtheistBroadcasting/,REL,Religion,2017-10-19,citizenlab,
+https://www.facebook.com/Il7ad/,REL,Religion,2017-10-19,citizenlab,
+https://www.google.co.il,SRCH,Search Engines,2016-04-18,citizenlab,
+https://www.il7ad.org/vb/index.php,REL,Religion,2017-10-19,citizenlab,
+https://www.palinfo.com/,NEWS,News Media,2017-10-19,citizenlab,
+https://www.un.org/ecosoc/fr/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.youtube.com/user/freedomforgays,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.marxy.com,POLR,Political Criticism,2017-10-19,citizenlab,
+http://arabgaypride.blogspot.com/,LGBT,LGBT,2017-10-19,citizenlab,
+http://arabiclgbt.blogspot.com/,LGBT,LGBT,2017-10-19,citizenlab,
+https://www.biblegateway.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.debate.org.uk/,REL,Religion,2017-10-19,citizenlab,
+http://freecopts.net,GOVT,Government,2017-10-19,citizenlab,
+http://gay-uae.blogspot.com/,LGBT,LGBT,2017-10-19,citizenlab,
+http://magazinegaymaroc.blogspot.com/,LGBT,LGBT,2017-10-19,citizenlab,
+http://muhammadorjesus.googlepages.com/home,REL,Religion,2017-10-19,citizenlab,
+http://www.alfarhan.org,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.alhesbah.org,MILX,Terrorism and Militants,2016-04-18,citizenlab,
+http://www.alsaheefa.net,NEWS,News Media,2017-10-19,citizenlab,
+http://www.althaqlain.com,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.arabchurch.com,NEWS,News Media,2017-10-19,citizenlab,
+http://www.biblequery.org/,REL,Religion,2017-10-19,citizenlab,
+http://www.bintelnas.org/,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.caironewss.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.christianmuslimanswers.com,REL,Religion,2017-10-19,citizenlab,
+http://www.coptic-church.org.uk/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.drahmadnofal.com/,POLR,Political Criticism,2017-10-19,citizenlab,
+http://www.dwwen.com,HOST,Hosting and Blogging Platforms,2017-10-19,citizenlab,
+http://www.emirates71.org/,POLR,Political Criticism,2017-10-19,citizenlab,
+http://www.gaystarnews.com/,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.kurdtimes.com,NEWS,News Media,2017-10-19,citizenlab,
+http://www.rezgar.com,POLR,Political Criticism,2017-10-19,citizenlab,
+http://www.theahafoundation.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.amazigh24.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.amazighcity.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.amazighlove.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.boutique-berbere.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.facebook.com/bostan.ikhwan/,POLR,Political Criticism,2017-10-19,citizenlab,
+https://www.facebook.com/Dr.AhmadNofal/,POLR,Political Criticism,2017-10-19,citizenlab,
+https://www.facebook.com/DrBakkar1/,POLR,Political Criticism,2017-10-19,citizenlab,
+https://www.facebook.com/Egypt.President.Morsi/,POLR,Political Criticism,2017-10-19,citizenlab,
+https://www.facebook.com/GayStarNews/,LGBT,LGBT,2017-10-19,citizenlab,
+https://www.facebook.com/IkhwanWorld/,POLR,Political Criticism,2017-10-19,citizenlab,
+https://www.facebook.com/rwanyouns/,LGBT,LGBT,2017-10-19,citizenlab,
+https://www.facebook.com/TheEnlightenedMinds/,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.gayegypt.com,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.ladeeni.net,REL,Religion,2017-10-19,citizenlab,
+http://www.kickasstorrents.com,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.bet365.com/en/,GMB,Gambling,2017-10-19,citizenlab,
+http://www.888poker.com,GMB,Gambling,2017-10-19,citizenlab,
+http://www.betfair.com,GMB,Gambling,2017-10-19,citizenlab,
+http://www.extratorrent.com,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.fulltiltpoker.com,GMB,Gambling,2017-10-19,citizenlab,
+http://www.gayalgerie.net,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.gaymaroc.net,LGBT,LGBT,2017-10-19,citizenlab,
+http://www.onlytorrents.com,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.sumotorrent.com,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.netanyahu.org.il/,GOVT,Government,2017-10-19,citizenlab,
+http://www.thepiratebay.org,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.thereligionofpeace.com,REL,Religion,2017-10-19,citizenlab,
+http://www.timesofisrael.com,NEWS,News Media,2016-04-18,citizenlab,
+http://www.torrentcrazy.com,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.torrentdownloads.net,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.torrentreactor.net,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.torrentz.com,FILE,File-sharing,2017-10-19,citizenlab,
+http://www.williamhill.com,GMB,Gambling,2017-10-19,citizenlab,
+https://www.bwin.com,GMB,Gambling,2017-10-19,citizenlab,
+http://almayadeen.net/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.mepanorama.net/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.alkarama.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.arabfamilies.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://arabwomenwork.wordpress.com/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.learningpartnership.org/ar,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://kvinfo.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.ahrfund.org/csoon/index.html,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://al-jana.org/,CULTR,Culture,2017-10-19,citizenlab,
+http://www.rightsobserver.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://mecc.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.arabruleoflaw.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.annd.org/arabic/index.php,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://www.memoryatwork.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.ictj.org/,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+https://www.tacticaltech.org/,NEWS,News Media,2017-10-19,citizenlab,
+http://afteegypt.org/,NEWS,News Media,2017-10-19,citizenlab,
+http://arabanticorruption.org/,POLR,Political Criticism,2017-10-19,citizenlab,
+http://ar.wikishia.net/view/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9,HUMR,Human Rights Issues,2017-10-19,citizenlab,
+http://omeldunya.com/,POLR,Political Criticism,2017-10-19,citizenlab,
+https://www.google.com/earth/,MISC,Miscelaneous content,2017-10-19,citizenlab,
+http://www.arabtimes.com/,POLR,Political Criticism,2017-10-19,citizenlab,
+http://carnegie-mec.org/,POLR,Political Criticism,2017-10-19,citizenlab,
+http://www.islamreview.com/,REL,Religion,2017-10-19,citizenlab,
+http://www.light-of-life.com/index.htm,REL,Religion,2017-10-19,citizenlab,
+http://www.al-ketab.net/,REL,Religion,2017-10-19,citizenlab,
+http://answer-islam.com/,REL,Religion,2017-10-19,citizenlab,
+http://anbia.tripod.com/,REL,Religion,2017-10-19,citizenlab,
+http://club4moslems.8m.com/,REL,Religion,2017-10-19,citizenlab,
+http://www.arabic-club.de/,REL,Religion,2017-10-19,citizenlab,
+http://www.islamway.com,REL,Religion,2017-10-19,citizenlab,
+http://mubasher.aljazeera.net/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.watanserb.com/,NEWS,News Media,2017-10-19,citizenlab,
+https://www.alaraby.co.uk/,NEWS,News Media,2017-10-19,citizenlab,
+http://arabi21.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.ikhwantube.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://thenewkhalij.org/,NEWS,News Media,2017-10-19,citizenlab,
+http://asrararabiya.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.emasc-uae.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://islamion.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.ikhwanonline.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://islammemo.cc/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.alarab.co.uk,NEWS,News Media,2017-10-19,citizenlab,
+http://www.qudspress.com/,NEWS,News Media,2017-10-19,citizenlab,
+https://www.alhurra.com,NEWS,News Media,2017-10-19,citizenlab,
+http://www.al-monitor.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://www.raya.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://arabic.arabianbusiness.com/,NEWS,News Media,2017-10-19,citizenlab,
+https://raseef22.com/,NEWS,News Media,2017-10-19,citizenlab,
+https://thawrah2day.com/,NEWS,News Media,2017-10-19,citizenlab,
+http://saymar.org/,NEWS,News Media,2017-10-19,citizenlab,
