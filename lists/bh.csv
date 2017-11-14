@@ -31,7 +31,7 @@ http://emoodz.com,NEWS,News Media,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/Bahrain,NEWS,News Media,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/Bahrain_Human_Rights_Watch_Society,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/History_of_Bahrain,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Military_of_Bahrain,POLR,Political Criticism,,,
+http://en.wikipedia.org/wiki/Military_of_Bahrain,POLR,Political Criticism,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/Politics_of_Bahrain,NEWS,News Media,2014-04-15,citizenlab,
 http://babalbahrain.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://freecopts.net,GOVT,Government,2014-04-15,citizenlab,
@@ -40,11 +40,11 @@ http://gayinkuwait.blogspot.com,LGBT,LGBT,2014-04-15,citizenlab,
 http://gayswithoutborders.wordpress.com,LGBT,LGBT,2014-04-15,citizenlab,
 http://hrw.org,NEWS,News Media,2014-04-15,citizenlab,
 https://www.hrw.org/?t=mideast&c=bahrai,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://ibloga.blogspot.com,POLR,Political Criticism,,,
-http://jaddwilliam2.blogspot.com,POLR,Political Criticism,,,
+http://ibloga.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
+http://jaddwilliam2.blogspot.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://lualuatv.com/,POLR,Political Criticism,2017-11-13,citizenlab,
 http://lulubahrain.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
-http://mahmood.tv,POLR,Political Criticism,,,
+http://mahmood.tv,POLR,Political Criticism,2014-04-15,citizenlab,
 http://metransparent.net,POLR,Political Criticism,2014-04-15,citizenlab,
 http://mirror.no-ip.org/index.php,NEWS,News Media,2017-11-13,citizenlab,
 http://nua.bh/,POLR,Political Criticism,2017-11-13,citizenlab,
@@ -60,7 +60,7 @@ http://www.3dala.org/,POLR,Political Criticism,2017-11-13,citizenlab,
 http://www.3rbe.com,FILE,File-sharing,2014-04-15,citizenlab,
 http://www.abudhabiescort.com,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.afp.com/arabic/home/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ahraralbahrain.com,NEWS,News Media,,,
+http://www.ahraralbahrain.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.ahraralbahrain.net,NEWS,News Media,2014-04-15,citizenlab,
 http://www.akhbar-alkhaleej.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.al-farook.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -73,7 +73,7 @@ http://www.alasalah-bh.org/,POLR,Political Criticism,2017-11-13,citizenlab,
 http://www.alayam.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.albawaba.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.albiladpress.com/,NEWS,News Media,2017-11-13,citizenlab,
-http://www.aldemokrati.org,POLR,Political Criticism,,,
+http://www.aldemokrati.org,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.almisbar.com,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.alquds.co.uk,NEWS,News Media,2014-04-15,citizenlab,
 http://www.alshirazi.com/,HUMR,Human Rights Issues,2017-11-13,citizenlab,
@@ -82,7 +82,7 @@ http://www.alwaqt.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.alwasatnews.com/,NEWS,News Media,2017-01-24,citizenlab,Reported blocked
 http://www.alwatannews.net/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.alwefaq.org,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.alyousif.tv,POLR,Political Criticism,,,
+http://www.alyousif.tv,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.amnestyusa.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.amnestyusa.org/our-work/countries/middle-east-and-north-africa/bahrain,HUMR,Human Rights Issues,2017-11-13,citizenlab,
 http://www.amplusnet.com,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
@@ -235,21 +235,21 @@ https://www.periscope.tv/LuaLuaTV/,POLR,Political Criticism,2017-11-13,citizenla
 https://www.youtube.com/user/loulouatv1,POLR,Political Criticism,2017-11-13,citizenlab,
 http://aamagazine.blogspot.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
 http://alkhaleejonline.net/,NEWS,News Media,2017-11-13,citizenlab,Political news and views
-http://alsaha.com,NEWS,News Media,,,Regional chatting forum
+http://alsaha.com,NEWS,News Media,2014-04-15,citizenlab,Regional chatting forum
 http://anaahor.blogspot.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
 http://anonym.to,ANON,Anonymization and circumvention tools,2017-11-13,citizenlab,
 http://ar.wikipedia.org/wiki/%d8%aa%d8%b7%d9%88%d8%b1,REL,Religion,2017-11-13,citizenlab,evolution theory
 http://ar.wikipedia.org/wiki/%d8%af%d8%a7%d8%b1%d9%88%d9%8a%d9%86%d9%8a%d8%a9,REL,Religion,2017-11-13,citizenlab,evolution theory
 http://arabatheistbroadcasting.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
 http://arabel7ad.blogspot.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
-http://arabic.peopledaily.com.cn,NEWS,News Media,,,Chinese Arabic newspaper
+http://arabic.peopledaily.com.cn,NEWS,News Media,2014-04-15,citizenlab,Chinese Arabic newspaper
 http://arabic.sputniknews.com/,NEWS,News Media,2017-11-13,citizenlab,Russian news agency
 http://bahai-books.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Bahai faith group
 http://bahai-devotions.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Bahai faith group
 http://bahai-internet-services.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Bahai faith group
 http://bahai-readings.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Bahai faith group
 http://bahai-writings.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Bahai faith group
-http://bbcarabic.com,NEWS,News Media,,,BBC Arabic
+http://bbcarabic.com,NEWS,News Media,2014-04-15,citizenlab,BBC Arabic
 http://chouf-minorities.org/?lang=en,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://christian-dogma.com,HUMR,Human Rights Issues,2017-11-13,citizenlab,
 http://el7adarab.blogspot.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
@@ -294,20 +294,20 @@ http://www.aljazeera.net/,NEWS,News Media,2017-11-13,citizenlab,Aljazeera websit
 http://www.almanar.com.lb/,NEWS,News Media,2017-11-13,citizenlab,Hizbullah media
 http://www.almayadeen.net/,NEWS,News Media,2017-11-13,citizenlab,Mayadeen TV
 http://www.alnour.com.lb/,NEWS,News Media,2017-11-13,citizenlab,al-Nour Radio is the official radio station of Hizbollah
-http://www.amin.org,NEWS,News Media,,,Regional Arabic online news portal
+http://www.amin.org,NEWS,News Media,2014-04-15,citizenlab,Regional Arabic online news portal
 http://www.amnesty.org/ar,HUMR,Human Rights Issues,2017-11-13,citizenlab,Article about Moroccan abuses of W. Saharans
 http://www.anhri.net/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Human rights information network
 http://www.annabaa.org,HUMR,Human Rights Issues,2017-11-13,citizenlab,Annabaa. Shiite news portal.
 http://www.ansarh.com,HUMR,Human Rights Issues,2017-11-13,citizenlab,Muslim Shia Web site
 http://www.antiquities.org.il,GOVT,Government,2017-11-13,citizenlab,Israel Antiquities Authority
-http://www.arabatheist.humanists.net,REL,Religion,,,Arab atheists
+http://www.arabatheist.humanists.net,REL,Religion,2014-04-15,citizenlab,Arab atheists
 http://www.arabhomosexual.com/SMF/index.php,LGBT,LGBT,2017-11-13,citizenlab,
-http://www.arabhumanrights.org,REL,Religion,,,Arab Human Rights Index
-http://www.arabiadate.com,DATE,Online Dating,,,
+http://www.arabhumanrights.org,REL,Religion,2014-04-15,citizenlab,Arab Human Rights Index
+http://www.arabiadate.com,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.arabicpoems.com,CULTR,Culture,2017-11-13,citizenlab,
 http://www.arabstoday.net/,NEWS,News Media,2017-11-13,citizenlab,Arabic media
 http://www.arabwomenorg.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
-http://www.asseer.com,MILX,Terrorism and Militants,,,Saudi separatist group
+http://www.asseer.com,MILX,Terrorism and Militants,2014-04-15,citizenlab,Saudi separatist group
 http://www.basket.co.il,CULTR,Culture,2017-11-13,citizenlab,Israel Basketball League
 http://www.bayynat.org,POLR,Political Criticism,2017-11-13,citizenlab,Sayyid Muhammad Hussein Fadlallah's website (spiritual guide of Hizbollah's Secretary General)
 http://www.bbc.co.uk/arabic/,NEWS,News Media,2017-11-13,citizenlab,BBC Arabic
@@ -327,18 +327,18 @@ http://www.endvaw.org,HUMR,Human Rights Issues,2017-11-13,citizenlab,Internation
 http://www.equalpowerlastingpeace.org/ar/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.eremnews.com/,NEWS,News Media,2017-11-13,citizenlab,Arab news portal
 http://www.euromedrights.net,HUMR,Human Rights Issues,2017-11-13,citizenlab,The Euro-Mediterranean Human Rights Network
-http://www.evemodels.com,DATE,Online Dating,,,
+http://www.evemodels.com,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.faithfreedom.org,REL,Religion,2017-11-13,citizenlab,Faith Freedom International - grassroots movement of ex-Muslims
 http://www.flcckuwait.com,HUMR,Human Rights Issues,2017-11-13,citizenlab,Expat Christian group
 http://www.flickr.com/photos/miskan/4581554/,LGBT,LGBT,2017-11-13,citizenlab,LGBT
 http://www.france24.com/,NEWS,News Media,2017-11-13,citizenlab,France 24 news service
 http://www.galilcol.ac.il,CTRL,Control content,2017-11-13,citizenlab,Control content
-http://www.gayarab.org,LGBT,LGBT,,,LGBT
+http://www.gayarab.org,LGBT,LGBT,2014-04-15,citizenlab,LGBT
 http://www.globalfundforwomen.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.greenbo.co.il,CTRL,Control content,2017-11-13,citizenlab,Greenbo Gardening Store
 http://www.hajr.org,HUMR,Human Rights Issues,2017-11-13,citizenlab,Muslim Shia Web site
 http://www.hajr.org/forum/index.php,HUMR,Human Rights Issues,2017-11-13,citizenlab,Muslim Shia Web site
-http://www.haya.org,REL,Religion,,,"Religious conversion, commentary and criticism"
+http://www.haya.org,REL,Religion,2014-04-15,citizenlab,"Religious conversion, commentary and criticism"
 http://www.historyofnations.net,NEWS,News Media,2017-11-13,citizenlab,News Media
 http://www.hizbollah.org,MILX,Terrorism and Militants,2017-11-13,citizenlab,Terrorism and Militants
 http://www.hri.ca,HUMR,Human Rights Issues,2017-11-13,citizenlab,Human Rights Internet
@@ -357,25 +357,25 @@ http://www.islamonline.net/,NEWS,News Media,2017-11-13,citizenlab,Regional Arabi
 http://www.islamtoday.net,NEWS,News Media,2017-11-13,citizenlab,Regional news portal from Islamist's point of view
 http://www.ivillage.com,HUMR,Human Rights Issues,2017-11-13,citizenlab,ivillage magazine
 http://www.j-c-w.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
-http://www.jadal.org,POLR,Political Criticism,,,Research organization promotes political discussion
+http://www.jadal.org,POLR,Political Criticism,2014-04-15,citizenlab,Research organization promotes political discussion
 http://www.jasadmag.com,HUMR,Human Rights Issues,2017-11-13,citizenlab,Jasad magazine
-http://www.justadultsites.com,PORN,Pornography,,,Arabic porn Web site
+http://www.justadultsites.com,PORN,Pornography,2014-04-15,citizenlab,Arabic porn Web site
 http://www.kayan.org.il/ar/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
-http://www.khayma.com,DATE,Online Dating,,,Online Dating
+http://www.khayma.com,DATE,Online Dating,2014-04-15,citizenlab,Online Dating
 http://www.kitabat.com,NEWS,News Media,2017-11-13,citizenlab,Kitabat (writings)
 http://www.lahamag.com/Global,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.lahaonline.com/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.lebraly.com,POLR,Political Criticism,2017-11-13,citizenlab,Liberal Blog
-http://www.luxuryjoy.com,DATE,Online Dating,,,Online Dating
+http://www.luxuryjoy.com,DATE,Online Dating,2014-04-15,citizenlab,Online Dating
 http://www.mahdi-alumma.com/,REL,Religion,2017-11-13,citizenlab,Cntroversial religious content
 http://www.mc-doualiya.com/,NEWS,News Media,2017-11-13,citizenlab,Monte Carlo radio
 https://www.metrodate.com/,DATE,Online Dating,2017-11-13,citizenlab,Online Dating
 http://www.middleeasttransparent.com,POLR,Political Criticism,2017-11-13,citizenlab,NGO promotes transparency in the middle east
 http://www.mod.gov.il,GOVT,Government,2017-11-13,citizenlab,Government
-http://www.modawanati.com,HOST,Hosting and Blogging Platforms,,,Hosting and Blogging Platforms
+http://www.modawanati.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Hosting and Blogging Platforms
 http://www.moqawama.org,MILX,Terrorism and Militants,2017-11-13,citizenlab,Terrorism and Militants
 http://www.mossad.gov.il/default.aspx,GOVT,Government,2017-11-13,citizenlab,Government
-http://www.nancyajram.com,CULTR,Culture,,,CULTR
+http://www.nancyajram.com,CULTR,Culture,2014-04-15,citizenlab,CULTR
 http://www.nbn.org.il,CULTR,Culture,2017-11-13,citizenlab,Culture
 http://www.ncwegypt.com/index.php/ar/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.noonpost.net/,NEWS,News Media,2017-11-13,citizenlab,Noot Post
@@ -404,14 +404,14 @@ http://www.wavo.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's righ
 http://www.wclac.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.wluml.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.wluml.org/ar,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
-http://www.worldsexguide.com,DATE,Online Dating,,,
+http://www.worldsexguide.com,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.wtb.org.il/arabic/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 http://www.xrdarabia.org,GOVT,Government,2017-11-13,citizenlab,Web site dedicated to US-Saudi Relations
 http://www.yemenipress.com/,NEWS,News Media,2017-11-13,citizenlab,Yemeni Press news portal
 http://www.youtube.com/verify_controversy?next_url=/watch%3fv%3dqmodvun16q4,REL,Religion,2017-11-13,citizenlab,Mohammed film
 http://www.zawagislamy.com/,DATE,Online Dating,2017-11-13,citizenlab,
-http://www.zawajfriends.com,DATE,Online Dating,,,
-http://www.zawajfriends.com/fm/,DATE,Online Dating,,,
+http://www.zawajfriends.com,DATE,Online Dating,2014-04-15,citizenlab,
+http://www.zawajfriends.com/fm/,DATE,Online Dating,2014-04-15,citizenlab,
 https://ar-ar.facebook.com/Il7ad,REL,Religion,2017-11-13,citizenlab,Arab atheists
 https://arabic.rt.com,NEWS,News Media,2017-11-13,citizenlab,Russian news website
 https://plus.google.com/communities/117457850617621671508,REL,Religion,2017-11-13,citizenlab,Arab atheists
@@ -434,15 +434,15 @@ http://gay-uae.blogspot.com/,LGBT,LGBT,2017-11-13,citizenlab,
 http://magazinegaymaroc.blogspot.com/,LGBT,LGBT,2017-11-13,citizenlab,
 http://muhammadorjesus.googlepages.com/home,REL,Religion,2017-11-13,citizenlab,
 http://www.alfarhan.org,HUMR,Human Rights Issues,2017-11-13,citizenlab,
-http://www.alhesbah.org,MILX,Terrorism and Militants,,,Militants
-http://www.alsaheefa.net,NEWS,News Media,,,
+http://www.alhesbah.org,MILX,Terrorism and Militants,2014-04-15,citizenlab,Militants
+http://www.alsaheefa.net,NEWS,News Media,2014-04-15,citizenlab,
 http://www.biblequery.org/,REL,Religion,2017-11-13,citizenlab,
 http://www.bintelnas.org/,LGBT,LGBT,2017-11-13,citizenlab,
 http://www.caironewss.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.christianmuslimanswers.com,REL,Religion,2017-11-13,citizenlab,
 http://www.coptic-church.org.uk/,HUMR,Human Rights Issues,2017-11-13,citizenlab,
 http://www.drahmadnofal.com/,POLR,Political Criticism,2017-11-13,citizenlab,
-http://www.dwwen.com,HOST,Hosting and Blogging Platforms,,,
+http://www.dwwen.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.emirates71.org/,POLR,Political Criticism,2017-11-13,citizenlab,
 http://www.gaystarnews.com/,LGBT,LGBT,2017-11-13,citizenlab,
 http://www.theahafoundation.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
@@ -535,3 +535,7 @@ http://www.bbc.com/arabic/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcarabic.com,NEWS,News Media,2017-07-19,BBC,
 http://www.bbc.com/persian,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcpersian.com,NEWS,News Media,2017-07-19,BBC,
+http://arabic.arabianbusiness.com/,NEWS,News Media,2017-07-19,citizenlab,
+https://raseef22.com/,NEWS,News Media,2017-07-19,citizenlab,
+https://thawrah2day.com/,NEWS,News Media,2017-07-19,citizenlab,
+http://saymar.org/,NEWS,News Media,2017-07-19,citizenlab,
