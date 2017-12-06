@@ -57,6 +57,9 @@ class InvalidCategoryCode(TestListErrorWithValue):
 class InvalidCategoryDesc(TestListErrorWithValue):
     name = 'Invalid Category Description'
 
+class NonCanonicalURL(TestListErrorWithValue):
+    name = 'URL is not canonical. It should end with a /'
+
 def get_legacy_description_code(row):
     return row[1], row[0]
 
@@ -72,6 +75,13 @@ def load_categories(path, get_description_code=get_new_description_code):
             desc, code = get_description_code(row)
             code_map[code] = desc
     return code_map
+
+def get_canonical_url(url):
+    url = url.lower()
+    if url.endswith('/'):
+        # We strip trailing / for canonical URLs
+        return url[:-1]
+    return url
 
 def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
     all_errors = []
@@ -115,10 +125,11 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                         InvalidURL(url, csv_path, idx+2)
                     )
                 url = url.strip().lower()
-                canonical_url = url
-                if url.endswith('/'):
-                    # We strip trailing / for canonical URLs
-                    canonical_url = url[:-1]
+                canonical_url = get_canonical_url(url)
+                if canonical_url != url:
+                    errors.append(
+                        NonCanonicalURL(url + ' instead of ' + canonical_url, csv_path, idx+2)
+                    )
                 try:
                     cat_description = CATEGORY_CODES[cat_code]
                 except KeyError:
