@@ -1,10 +1,11 @@
 from __future__ import print_function
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 import re
 import sys
 import csv
+import requests
 from glob import glob
 
 VALID_URL = regex = re.compile(
@@ -68,9 +69,12 @@ def get_new_description_code(row):
 
 def load_categories(path, get_description_code=get_new_description_code):
     code_map = {}
-    with open(path, 'rb') as in_file:
+    with open(path, 'r') as in_file:
         reader = csv.reader(in_file, delimiter=',')
-        reader.next() # skip header
+        try:
+            reader.next() # skip header
+        except AttributeError: # py3
+            next(reader)
         for row in reader:
             desc, code = get_description_code(row)
             code_map[code] = desc
@@ -83,7 +87,33 @@ def get_canonical_url(url):
         return url[:-1]
     return url
 
-def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
+def archive_it(url, freshness=timedelta(days=60)):
+    print('checking if %s is archived' % url)
+    resp = requests.get('https://archive.is/timegate/%s' % url)
+    time_format = '%a, %d %b %Y %H:%M:%S GMT'
+    is_archive_fresh = False
+    try:
+        archive_time = datetime.strptime(resp.headers['Memento-Datetime'], time_format)
+        if datetime.now() - archive_time < freshness:
+            is_archive_fresh = True
+    except KeyError:
+        pass
+
+    if is_archive_fresh:
+        return
+
+    # curl -kis --data "anyway=1&url=https://api.ooni.io" "http://archive.is/submit/"
+    request_data = {
+        'anyway': 1,
+        'url': url
+    }
+    print('archiving  %s' % url)
+    resp = requests.post('http://archive.is/submit/', data=request_data)
+    if resp.status_code != 200:
+        print(resp.text)
+        raise Exception('Failed to archive URL %s' % url)
+
+def main(source='OONI', notes='', legacy=False, fix_duplicates=False, archive_urls=False, canonical_check=False):
     all_errors = []
     total_urls = 0
     total_countries = 0
@@ -106,9 +136,12 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             continue
         if not csv_path.endswith('.csv'):
             continue
-        with open(csv_path, 'rb') as in_file:
+        with open(csv_path, 'r') as in_file:
             reader = csv.reader(in_file, delimiter=',')
-            reader.next() # skip header
+            try:
+                reader.next() # skip header
+            except AttributeError: # py3
+                next(reader)
             urls_bag = set()
             errors = []
             rows = []
@@ -126,7 +159,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     )
                 url = url.strip().lower()
                 canonical_url = get_canonical_url(url)
-                if canonical_url != url:
+                if canonical_url != url and canonical_check:
                     errors.append(
                         NonCanonicalURL(url + ' instead of ' + canonical_url, csv_path, idx+2)
                     )
@@ -147,6 +180,8 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                         )
                     duplicates += 1
                     continue
+                if archive_urls is True:
+                    archive_it(canonical_url)
                 urls_bag.add(canonical_url)
                 rows.append(row)
             print('* {}'.format(csv_path))
