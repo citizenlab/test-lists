@@ -5,7 +5,12 @@ import os
 import re
 import sys
 import csv
-import requests
+try:
+    import requests
+    requests_imported = True
+except ImportError:
+    requests_imported = False
+
 from glob import glob
 
 VALID_URL = regex = re.compile(
@@ -114,6 +119,9 @@ def archive_it(url, freshness=timedelta(days=60)):
         raise Exception('Failed to archive URL %s' % url)
 
 def main(source='OONI', notes='', legacy=False, fix_duplicates=False, archive_urls=False, canonical_check=False):
+    if archive_urls and requests_imported == False:
+        raise RuntimeError('archive_urls requires requests')
+
     all_errors = []
     total_urls = 0
     total_countries = 0
