@@ -94,29 +94,26 @@ def get_canonical_url(url):
 
 def archive_it(url, freshness=timedelta(days=60)):
     print('checking if %s is archived' % url)
-    resp = requests.get('https://archive.is/timegate/%s' % url)
-    time_format = '%a, %d %b %Y %H:%M:%S GMT'
+    resp = requests.get('https://archive.org/wayback/available', params={'url': url})
+    time_format = '%Y%m%d%H%M%S'
     is_archive_fresh = False
     try:
-        archive_time = datetime.strptime(resp.headers['Memento-Datetime'], time_format)
+        j = resp.json()
+        archive_time = datetime.strptime(j['archived_snapshots']['closest']['timestamp'], time_format)
+        print('archive_time: %s' % archive_time)
         if datetime.now() - archive_time < freshness:
             is_archive_fresh = True
     except KeyError:
         pass
 
     if is_archive_fresh:
+        print('the archive is fresh, skipping')
         return
 
-    # curl -kis --data "anyway=1&url=https://api.ooni.io" "http://archive.is/submit/"
-    request_data = {
-        'anyway': 1,
-        'url': url
-    }
-    print('archiving  %s' % url)
-    resp = requests.post('http://archive.is/submit/', data=request_data)
+    print('archiving %s' % url)
+    resp = requests.get('http://web.archive.org/save/%s' % url)
     if resp.status_code != 200:
-        print(resp.text)
-        raise Exception('Failed to archive URL %s' % url)
+        print('Failed to archive URL %s' % url)
 
 def main(source='OONI', notes='', legacy=False, fix_duplicates=False, archive_urls=False, canonical_check=False):
     if archive_urls and requests_imported == False:
