@@ -56,7 +56,7 @@ https://cdt.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-0
 http://chinadaily.com.cn,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://christwire.org,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://cites.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://citizenlab.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://citizenlab.ca,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by citizenlab on 2017-11-09
 http://cocaine.org,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://common-fund.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://commons.wikimedia.org,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -884,6 +884,7 @@ http://www.privaterra.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated
 http://www.prolife.com,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.prophetofdoom.net,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.protest.net,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.protonmail.com,COMT,Communication Tools,2017-10-11,securityfirst,
 http://www.proxyweb.net,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.purevpn.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.quantico.marines.mil/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -936,6 +937,7 @@ http://www.searchindia.com,SRCH,Search Engines,2014-04-15,citizenlab,Updated by 
 http://www.securenym.net,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.securityfocus.com,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.securitytracker.com,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.secfirst.org,HUMR,Human Rights Issues,2017-11-09,securityfirst,
 https://www.sendspace.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.sendthisfile.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.serials.ws/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1111,3 +1113,5 @@ http://www.bbc.com,NEWS,News Media,2017-07-19,OONI,
 http://www.bbc.co.uk,NEWS,News Media,2017-07-19,OONI,
 http://zoomshare.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.opentech.fund/,HUMR,Human Rights Issues,2017-09-26,OONI,
+https://www.womenonwaves.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
+https://www.womenonweb.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
