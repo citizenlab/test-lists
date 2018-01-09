@@ -222,8 +222,9 @@ https://riseup.net,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Upd
 https://rsf.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://russia.tv,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://sakhr.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://sci-hub.ac/,FILE,File-sharing,2016-07-13,David Fifield,Updated by OONI on 2017-02-14
-http://sci-hub.org/,FILE,File-sharing,2016-07-13,David Fifield,Updated by OONI on 2017-02-14
+https://sci-hub.ac/,FILE,File-sharing,2016-07-13,David Fifield,Updated by OONI on 2017-02-14; blocked as a result of court order 2017-11-17 https://www.theregister.co.uk/2017/11/23/scihubs_become_inactive_following_court_order/
+https://sci-hub.bz/,FILE,File-sharing,2017-11-23,David Fifield,
+http://sci-hub.org/,FILE,File-sharing,2016-07-13,David Fifield,Taken down by court order November 2015 https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/; updated by OONI on 2017-02-14
 http://search.aol.com,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://seclists.org,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://secondlife.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
