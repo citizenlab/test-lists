@@ -169,7 +169,7 @@ http://google.com,NEWS,News Media,2014-04-15,citizenlab,
 http://google.com.ua,NEWS,News Media,2014-04-15,citizenlab,
 http://grani.punkchords.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://grani.ru,NEWS,News Media,2014-04-15,citizenlab,
-http://grani.ru/blogs/free/entries/192925.html&#194;&#157;&#194;&#157;,NEWS,News Media,2014-04-15,citizenlab,
+http://grani.ru/blogs/free/entries/192925.html,NEWS,News Media,2014-04-15,citizenlab,
 http://grani.ru/blogs/free/entries/193731.html,NEWS,News Media,2014-04-15,citizenlab,
 http://grani.ru/opinion/limonov/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://growclub.org,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
@@ -342,7 +342,7 @@ http://publicpost.ru/blog/id/1284/,NEWS,News Media,2014-04-15,citizenlab,
 http://punto.ru,SRCH,Search Engines,2014-04-15,citizenlab,
 http://pussy-riot.livejournal.com,NEWS,News Media,2014-04-15,citizenlab,
 http://pussy-riot.livejournal.com/11352.html,NEWS,News Media,2014-04-15,citizenlab,
-http://pussy-riot.livejournal.com/12442.html&#194;&#157;&#194;&#157;,NEWS,News Media,2014-04-15,citizenlab,
+http://pussy-riot.livejournal.com/12442.html,NEWS,News Media,2014-04-15,citizenlab,
 http://pussy-riot.livejournal.com/12658.html,NEWS,News Media,2014-04-15,citizenlab,
 http://pussy-riot.livejournal.com/5164.html,NEWS,News Media,2014-04-15,citizenlab,
 http://pussy-riot.livejournal.com/5497.html,NEWS,News Media,2014-04-15,citizenlab,
@@ -400,7 +400,7 @@ http://soprotivlenie.marsho.net,MILX,Terrorism and Militants,2014-04-15,citizenl
 http://soskin.blogspot.com,NEWS,News Media,2014-04-15,citizenlab,
 http://south-gir.livejournal.com,GOVT,Government,2014-04-15,citizenlab,
 http://sova-center.ru,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://sptimes.ru/index.php?action_id=2&story_id=35092&#194;&#157;&#194;&#157;,NEWS,News Media,2014-04-15,citizenlab,
+http://sptimes.ru/index.php?action_id=2&story_id=35092,NEWS,News Media,2014-04-15,citizenlab,
 http://squarespace.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://stalinism.newmail.ru,POLR,Political Criticism,2014-04-15,citizenlab,
 http://stalinism.ru,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -573,7 +573,7 @@ http://www.gaynews.ru,NEWS,News Media,2014-04-15,citizenlab,
 http://www.gayrussia.eu,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.gayvideo.ru,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.gazeta.ru,NEWS,News Media,2014-04-15,citizenlab,
-http://www.gazeta.ru/social/2012/02/27/4013957.shtml&#194;&#157;&#194;&#157;,NEWS,News Media,2014-04-15,citizenlab,
+http://www.gazeta.ru/social/2012/02/27/4013957.shtml,NEWS,News Media,2014-04-15,citizenlab,
 http://www.gdf.ru,NEWS,News Media,2014-04-15,citizenlab,
 http://www.geo.orthodoxy.ru,REL,Religion,2014-04-15,citizenlab,
 http://www.getto.ru,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -713,7 +713,7 @@ http://www.nodrugs.ru,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.nosochi2014.com/articles/1864-2014-circassian-genocide-olympics.php,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.nosochi2014.com/index.php,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.novayagazeta.ru,NEWS,News Media,2014-04-15,citizenlab,
-http://www.novayagazeta.ru/arts/50062.html&#194;&#157;&#194;&#157;&#194;&#157;&#194;&#157;,NEWS,News Media,2014-04-15,citizenlab,
+http://www.novayagazeta.ru/arts/50062.html,NEWS,News Media,2014-04-15,citizenlab,
 http://www.novayagazeta.ru/society/50668.html,NEWS,News Media,2014-04-15,citizenlab,
 http://www.npr.org/2012/02/08/146581790/in-russia-punk-rock-riot-girls-rage-against-putin,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nso-corpus.info,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -885,3 +885,59 @@ http://zaukraine.com/blog,NEWS,News Media,2014-04-15,citizenlab,
 http://zhurnal.lib.ru,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://zn.ua,NEWS,News Media,2014-04-15,citizenlab,
 http://znaesh.net,SRCH,Search Engines,2014-04-15,citizenlab,
+https://www.novorosinform.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://ukraina.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://life.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://rusvesna.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://novorus.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://novorossia.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://antimaydan.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://ru-an.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://anna-news.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://novorossia.today,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://novorossia.pro,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://www.novorossia.org,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://riafan.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://rusnext.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://novorossiy.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://ruspravda.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnr-news.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnr24.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnr24.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://dnr-online.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://russian.rt.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://dan-news.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://dnr.one/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnr-live.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnr-lnr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnrtv.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://pravdoryb.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://snr24.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://vsednr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnr-hotline.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://plainnews.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://fairness-dnr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://e-news.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://www.pravda-tv.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://novorossiia.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://10svodok.su,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://nvrus.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://www.novoross.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://news-front.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://vesna-info.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://antifashist.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://politcentr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://www.politnavigator.net/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://naspravdi.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://nahnews.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://dnrru.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://on-line.lg.ua/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://gtrklnr.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://lug-info.com/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://miaistok.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://kazache.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://coordmedcentr.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://lnr.today/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://www.zapmeta.ws/,MMED,Media sharing,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://lug24.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+https://www.rp-lnr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
