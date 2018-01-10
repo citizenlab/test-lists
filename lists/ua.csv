@@ -941,3 +941,17 @@ http://lnr.today/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://
 http://www.zapmeta.ws/,MMED,Media sharing,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 https://lug24.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 https://www.rp-lnr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
+http://www.disk.yandex.ru,FILE,File-sharing,2017-12-16,oonitarian,sanction list
+http://www.translate.yandex.ru,SRCH,Search Engines,2017-12-16,oonitarian,sanction list
+http://www.direct.yandex.ru/?from=all,COMM,E-commerce,2017-12-16,oonitarian,sanction list
+http://drweb.ru,HACK,Hacking Tools,2017-12-16,oonitarian,sanctions list
+http://www.afisha.yandex.ru/moscow,CULTR,Culture,2017-12-16,oonitarian,sanction list
+http://mail.yandex.ua,COMT,Communication Tools,2017-12-16,oonitarian,sanction list
+http://www.webmaster.yandex.ru,HACK,Hacking Tools,2017-12-16,oonitarian,sanction list
+http://auto.ru,COMM,E-commerce,2017-12-16,oonitarian,sanctions list
+http://www.kinopoisk.ru,CULTR,Culture,2017-12-16,oonitarian,sanctions list
+http://ok.ru,GRP,Social Networking,2017-12-16,oonitarian,sanction list
+http://www.music.yandex.ua,CULTR,Culture,2017-12-16,oonitarian,sanction list
+http://www.news.yandex.ru,NEWS,News Media,2017-12-16,oonitarian,sanction list
+http://www.money.yandex.ru/new,COMM,E-commerce,2017-12-16,oonitarian,sanctions list
+http://www.direct.yandex.ru,COMM,E-commerce,2017-12-16,oonitarian,sanction list
