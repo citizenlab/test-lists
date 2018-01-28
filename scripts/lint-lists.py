@@ -1,10 +1,16 @@
 from __future__ import print_function
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 import re
 import sys
 import csv
+try:
+    import requests
+    requests_imported = True
+except ImportError:
+    requests_imported = False
+
 from glob import glob
 
 VALID_URL = regex = re.compile(
@@ -57,6 +63,9 @@ class InvalidCategoryCode(TestListErrorWithValue):
 class InvalidCategoryDesc(TestListErrorWithValue):
     name = 'Invalid Category Description'
 
+class NonCanonicalURL(TestListErrorWithValue):
+    name = 'URL is not canonical. It should end with a /'
+
 def get_legacy_description_code(row):
     return row[1], row[0]
 
@@ -65,15 +74,51 @@ def get_new_description_code(row):
 
 def load_categories(path, get_description_code=get_new_description_code):
     code_map = {}
-    with open(path, 'rb') as in_file:
+    with open(path, 'r') as in_file:
         reader = csv.reader(in_file, delimiter=',')
-        reader.next() # skip header
+        try:
+            reader.next() # skip header
+        except AttributeError: # py3
+            next(reader)
         for row in reader:
             desc, code = get_description_code(row)
             code_map[code] = desc
     return code_map
 
-def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
+def get_canonical_url(url):
+    url = url.lower()
+    if url.endswith('/'):
+        # We strip trailing / for canonical URLs
+        return url[:-1]
+    return url
+
+def archive_it(url, freshness=timedelta(days=60)):
+    print('checking if %s is archived' % url)
+    resp = requests.get('https://archive.org/wayback/available', params={'url': url})
+    time_format = '%Y%m%d%H%M%S'
+    is_archive_fresh = False
+    try:
+        j = resp.json()
+        archive_time = datetime.strptime(j['archived_snapshots']['closest']['timestamp'], time_format)
+        print('archive_time: %s' % archive_time)
+        if datetime.now() - archive_time < freshness:
+            is_archive_fresh = True
+    except KeyError:
+        pass
+
+    if is_archive_fresh:
+        print('the archive is fresh, skipping')
+        return
+
+    print('archiving %s' % url)
+    resp = requests.get('http://web.archive.org/save/%s' % url)
+    if resp.status_code != 200:
+        print('Failed to archive URL %s' % url)
+
+def main(source='OONI', notes='', legacy=False, fix_duplicates=False, archive_urls=False, canonical_check=False):
+    if archive_urls and requests_imported == False:
+        raise RuntimeError('archive_urls requires requests')
+
     all_errors = []
     total_urls = 0
     total_countries = 0
@@ -96,9 +141,12 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             continue
         if not csv_path.endswith('.csv'):
             continue
-        with open(csv_path, 'rb') as in_file:
+        with open(csv_path, 'r') as in_file:
             reader = csv.reader(in_file, delimiter=',')
-            reader.next() # skip header
+            try:
+                reader.next() # skip header
+            except AttributeError: # py3
+                next(reader)
             urls_bag = set()
             errors = []
             rows = []
@@ -115,10 +163,11 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                         InvalidURL(url, csv_path, idx+2)
                     )
                 url = url.strip().lower()
-                canonical_url = url
-                if url.endswith('/'):
-                    # We strip trailing / for canonical URLs
-                    canonical_url = url[:-1]
+                canonical_url = get_canonical_url(url)
+                if canonical_url != url and canonical_check:
+                    errors.append(
+                        NonCanonicalURL(url + ' instead of ' + canonical_url, csv_path, idx+2)
+                    )
                 try:
                     cat_description = CATEGORY_CODES[cat_code]
                 except KeyError:
@@ -136,6 +185,8 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                         )
                     duplicates += 1
                     continue
+                if archive_urls is True:
+                    archive_it(canonical_url)
                 urls_bag.add(canonical_url)
                 rows.append(row)
             print('* {}'.format(csv_path))
