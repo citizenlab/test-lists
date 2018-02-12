@@ -678,7 +678,6 @@ http://www.akhbarelyom.com/,NEWS,News Media,2018-02-09,OONI,
 https://amp.cloudflare.com/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-02-09,OONI,
 https://cdn.ampproject.org/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-02-09,OONI,
 http://www.elfagr.org/,NEWS,News Media,2018-02-09,OONI,
-http://www.algomhuria.net.eg/,NEWS,News Media,2018-02-09,OONI,
 http://www.almessa.net.eg/,NEWS,News Media,2018-02-09,OONI,
 http://www.egyptiangazette.net/,NEWS,News Media,2018-02-09,OONI,
 http://www.almasryalyoum.com/,NEWS,News Media,2018-02-09,OONI,
@@ -706,21 +705,16 @@ http://www.dostor.org/,NEWS,News Media,2018-02-09,OONI,
 https://www.elwatannews.com/,NEWS,News Media,2018-02-09,OONI,
 http://www.elmogaz.com/,NEWS,News Media,2018-02-09,OONI,
 https://misr5.com/,NEWS,News Media,2018-02-09,OONI,
-http://www.masralarabia.com/,NEWS,News Media,2018-02-09,OONI,
-http://www.masrawy.com/,NEWS,News Media,2018-02-09,OONI,
 http://www.washwasha.org/,NEWS,News Media,2018-02-09,OONI,
 http://www.akhbarak.net/,NEWS,News Media,2018-02-09,OONI,
 https://www.farfeshplus.com/,NEWS,News Media,2018-02-09,OONI,
 http://www.alaan.org/,NEWS,News Media,2018-02-09,OONI,
 https://www.almesryoon.com/,NEWS,News Media,2018-02-09,OONI,
 https://akhbarelyom.com/,NEWS,News Media,2018-02-09,OONI,
-https://www.alaraby.co.uk/,NEWS,News Media,2018-02-09,OONI,
 http://www.almogaz.com/,NEWS,News Media,2018-02-09,OONI,
-http://klmty.net/,NEWS,News Media,2018-02-09,OONI,
 https://www.shorouknews.com/,NEWS,News Media,2018-02-09,OONI,
 http://www.dotmsr.com/,NEWS,News Media,2018-02-09,OONI,
 http://www.sabaharabi.com/,NEWS,News Media,2018-02-09,OONI,
-http://www.elshaab.org/,NEWS,News Media,2018-02-09,OONI,
 https://dailynewsegypt.com/,NEWS,News Media,2018-02-09,OONI,Reportedly blocked
 https://egyptianstreets.com/,NEWS,News Media,2018-02-09,OONI,
 http://www.egypttoday.com/Home,NEWS,News Media,2018-02-09,OONI,
@@ -735,7 +729,6 @@ https://www.alnadeem.org/,HUMR,Human Rights Issues,2018-02-09,OONI,
 http://www.rightlivelihoodaward.org/laureates/mozn-hassan-nazra/,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://www.ifex.org/egypt/2017/10/12/mozn-hassan-profile/,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://www.frontlinedefenders.org/en/case/judicial-harassment-mozn-hassan,HUMR,Human Rights Issues,2018-02-09,OONI,
-http://en.eohr.org/,HUMR,Human Rights Issues,2018-02-09,OONI,
 http://ar.eohr.org/,HUMR,Human Rights Issues,2018-02-09,OONI,
 http://www.cihrs.org/,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://unhabitat.org/egypt/,HUMR,Human Rights Issues,2018-02-09,OONI,
@@ -754,13 +747,11 @@ https://cairo.dating/,DATE,Online Dating,2018-02-09,OONI,
 http://www.coptic-cairo.com/,CULTR,Culture,2018-02-09,OONI,Minority
 http://minorityrights.org/minorities/copts/,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://en.wikipedia.org/wiki/Persecution_of_Copts,HUMR,Human Rights Issues,2018-02-09,OONI,
-http://www.copticorphans.org/,HUMR,Human Rights Issues,2018-02-09,OONI,
 http://www.copts-united.com/,NEWS,News Media,2018-02-09,OONI,
 http://minorityrights.org/minorities/nubians/,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://www.frontlinedefenders.org/en/statement-report/egypt-nubian-human-rights-defenders-trial-peacefully-protesting,HUMR,Human Rights Issues,2018-02-09,OONI,
 http://www.tandfonline.com/doi/full/10.1080/01436597.2016.1206454,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://eipr.org/,HUMR,Human Rights Issues,2018-02-09,OONI,
-http://www.hrcap.org/main.php,HUMR,Human Rights Issues,2018-02-09,OONI,
 https://bahai-egypt.blogspot.com,REL,Religion,2018-02-09,OONI,
 https://bahaieg.org/,REL,Religion,2018-02-09,OONI,
 http://www.bahai.org/persecution/egypt/update,REL,Religion,2018-02-09,OONI,
@@ -772,7 +763,6 @@ http://www.elghad.com/,POLR,Political Criticism,2018-02-09,OONI,
 http://www.egysdp.com/,POLR,Political Criticism,2018-02-09,OONI,
 https://rsf.org/en/egypt,HUMR,Human Rights Issues,2018-02-09,OONI,
 http://inanities.org/,POLR,Political Criticism,2018-02-09,OONI,One of Egypt's most readable bloggers
-http://www.sandmonkey.org/,POLR,Political Criticism,2018-02-09,OONI,Leading blogger
 https://suzeeinthecity.wordpress.com/,CULTR,Culture,2018-02-09,OONI,Documented political street art in Cairo throughout the revolution
 https://egyptianchronicles.blogspot.com,POLR,Political Criticism,2018-02-09,OONI,
 https://www.youtube.com/user/sarrahsworld,POLR,Political Criticism,2018-02-09,OONI,
@@ -785,75 +775,47 @@ https://bedayaalgbt.wordpress.com/,LGBT,LGBT,2018-02-10,OONI,
 https://solidaritywithegyptlgbt.wordpress.com/,LGBT,LGBT,2018-02-10,OONI,
 https://alborsanews.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
 https://elbadil.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
-http://albedaiah.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
 https://www.aljazeera.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
-http://www.aljazeera.net/portal,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
-http://doc.aljazeera.net/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
 http://www.watantvlive.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
 https://www.al-sharq.com/,NEWS,News Media,2018-02-10,OONI,
 https://www.madamasr.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
-http://rassd.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
 https://www.sasapost.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
-http://www.huffpostarabi.com/,NEWS,News Media,2018-02-10,OONI,Reportedly blocked
 https://shabab6april.wordpress.com/about/shabab-6-april-youth-movement-about-us-in-english/,POLR,Political Criticism,2018-02-10,OONI,
 https://6april.org/,POLR,Political Criticism,2018-02-10,OONI,
-https://almanassa.com/,NEWS,News Media,2018-02-10,OONI,
 http://www.turkpress.co/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://arab-turkey.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://www.akhbarturkiya.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.akhbaralaalam.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.alalam.ir/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://manzalawy.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://thawrah2day.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://akhbaralaalam.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://www.akhbaralsabah.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://akhbarturkiya.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://alamatonline.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.alarab.qa/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-https://al-gornal.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://www.aljisr-news.com/news/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://m.alkessa.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://almanassa.com/ar,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-https://almesryoon.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://www.amlalommah.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://www.ansarportsaed.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://arabi21.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://arabsolaa.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-https://arab-turkey.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://ar.qantara.de/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://asrararabiya.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://www.dailysabah.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://www.dakahliaikhwan.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.dakahliaikhwan.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://egyptdailynews.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://egyptwindow.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.egyrep.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://elbehira.net/elbehira/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://elwehda.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-https://www.essada.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://fakartany.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://fj-p.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://gharbiaonline.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.gulf-times.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://harmees.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://horriapost.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://www.hurriyetdailynews.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://ida2at.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
-http://madaad.net/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 http://cluw.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
-http://www.ec-rf.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
-https://www.reporter-ohne-grenzen.de/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
 http://anhri.net/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
 https://www.hrw.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
 http://jatoeg.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
-http://www.mom-rsf.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
 https://rsf.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
 https://timep.org/,HUMR,Human Rights Issues,2018-02-12,OONI,Reportedly blocked
-http://revsoc.me/,POLR,Political Criticism,2018-02-12,OONI,
 http://tiranwsanafir.com/,POLR,Political Criticism,2018-02-12,OONI,
 https://avaaz.org/,POLR,Political Criticism,2018-02-12,OONI,
 http://alahraam.com/,POLR,Political Criticism,2018-02-12,OONI,
-http://www.gwady.net/,POLR,Political Criticism,2018-02-12,OONI,
 http://shiaweb.org/,REL,Religion,2018-02-12,OONI,
 http://bel-ahmar.net/,REL,Religion,2018-02-12,OONI,
 http://www.koorabia.com/,NEWS,News Media,2018-02-12,OONI,
