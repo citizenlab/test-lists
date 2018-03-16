@@ -93,7 +93,7 @@ https://encrypted.google.com,SRCH,Search Engines,2014-04-15,citizenlab,Updated b
 https://epic.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://evernote.com,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://exitinternational.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://explorer.ooni.torproject.org,ANON,Anonymization and circumvention tools,2017-05-31,ADEF,probably blocked in Egypt as of 2017-05-31
+https://explorer.ooni.io,HUMR,Human Rights Issues,2017-05-31,ADEF,probably blocked in Egypt as of 2017-05-31
 http://exscn.net,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://extratorrent.cc,FILE,File-sharing,2016-08-11,sinarproject,Updated by OONI on 2017-02-14
 https://www.fanfiction.net/,CULTR,Culture,2017-10-12,sinarproject,
@@ -590,6 +590,7 @@ http://www.geocities.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenl
 http://www.ghostrecon.com,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.giganews.com,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ginvodka.org,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://github.com,HOST,Hosting and Blogging Platforms,2018-02-06,EvasivePangolin,
 http://www.glaad.org,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.glbtqarchive.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.glil.org,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1115,3 +1116,4 @@ https://www.opentech.fund/,HUMR,Human Rights Issues,2017-09-26,OONI,
 https://www.womenonwaves.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
 https://www.womenonweb.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
 https://pastebin.com/,HOST,Hosting and Blogging Platforms,2017-02-12,Anonymous,Often blocked website
+https://yandex.com/,SRCH,Search Engines,2018-02-23,igorv,
