@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-from datetime import datetime
+import datetime
 import os
 import re
 import sys
@@ -20,6 +20,14 @@ COUNTRY_CODES = {}
 NEW_CATEGORY_CODES = "00-LEGEND-new_category_codes.csv"
 LEGACY_CATEGORY_CODES = "00-LEGEND-category_codes.csv"
 COUNTRY_CODES = "00-LEGEND-country_codes.csv"
+
+def is_valid_date(d):
+    try:
+        if datetime.datetime.strptime(d, "%Y-%m-%d").date().isoformat() == d:
+            return True
+    except Exception:
+        pass
+    return False
 
 class TestListError(object):
     name = 'Test List Error'
@@ -57,6 +65,9 @@ class InvalidCategoryCode(TestListErrorWithValue):
 class InvalidCategoryDesc(TestListErrorWithValue):
     name = 'Invalid Category Description'
 
+class InvalidDate(TestListErrorWithValue):
+    name = 'Invalid Date'
+
 def get_legacy_description_code(row):
     return row[1], row[0]
 
@@ -78,7 +89,6 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
     total_urls = 0
     total_countries = 0
     lists_path = sys.argv[1]
-    date_added = datetime.now().strftime("%Y-%m-%d")
     if legacy is True:
         CATEGORY_CODES = load_categories(
             os.path.join(lists_path, LEGACY_CATEGORY_CODES),
@@ -103,6 +113,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             errors = []
             rows = []
             duplicates = 0
+	    idx = -1
             for idx, row in enumerate(reader):
                 if len(row) != 6:
                     errors.append(
@@ -136,6 +147,10 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                         )
                     duplicates += 1
                     continue
+                if not is_valid_date(date_added):
+                    errors.append(
+                        InvalidDate(date_added, csv_path, idx+2)
+                    )
                 urls_bag.add(canonical_url)
                 rows.append(row)
             print('* {}'.format(csv_path))
