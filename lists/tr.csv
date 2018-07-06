@@ -174,3 +174,10 @@ http://www.booking.com,COMM,E-commerce,2017-06-03,OONI,turkish court blocking
 http://www.bbc.com/turkce/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcturkce.com,NEWS,News Media,2017-07-19,BBC,
 https://anticapitalist.party/,GRP,Social Networking,2018-01-13,OONI,
+https://tr.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wikiquote.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wikisource.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wikibooks.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
