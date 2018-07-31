@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://2ip.ru,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://4proxy.de,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://afftor.kz,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://ajur.kz,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://amen-khaidar.narod.ru,MISC,Miscelaneous content,2014-04-15,citizenlab,
@@ -31,49 +30,35 @@ http://hideme.ru,ANON,Anonymization and circumvention tools,2014-04-15,citizenla
 http://hidemyass.com,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://ik-media.info,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://inkar.info,NEWS,News Media,2014-04-15,citizenlab,
-http://inosmikz.org,NEWS,News Media,2014-04-15,citizenlab,
 http://islam.ru,REL,Religion,2014-04-15,citizenlab,
 http://islamunveiled.livejournal.com,REL,Religion,2014-04-15,citizenlab,
 http://janaozen.net,POLR,Political Criticism,2014-04-15,citizenlab,
 http://kaztube.kz,MMED,Media sharing,2014-04-15,citizenlab,
 http://kiss.kz,DATE,Online Dating,2014-04-15,citizenlab,
-http://kiwi.kz,MMED,Media sharing,2014-04-15,citizenlab,
 http://knpk.kz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://kplus-tv.net,POLR,Political Criticism,2014-04-15,citizenlab,
 http://kt.kz,NEWS,News Media,2014-04-15,citizenlab,
 http://kub.info,POLR,Political Criticism,2014-04-15,citizenlab,
 http://kzinform.com,NEWS,News Media,2014-04-15,citizenlab,
 http://kzmz.region.kz,MMED,Media sharing,2014-04-15,citizenlab,
-http://lovebank.forever.kz,DATE,Online Dating,2014-04-15,citizenlab,
 http://maps.google.com,POLR,Political Criticism,2014-04-15,citizenlab,
-http://megaupload.com,MMED,Media sharing,2014-04-15,citizenlab,
 http://minber.kz,NEWS,News Media,2014-04-15,citizenlab,
-http://mp3fun.forever.kz,MMED,Media sharing,2014-04-15,citizenlab,
 http://namba.kz,GRP,Social Networking,2014-04-15,citizenlab,
 http://navi.kz,NEWS,News Media,2014-04-15,citizenlab,
-http://neweurasia.net,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://newsland.ru,NEWS,News Media,2014-04-15,citizenlab,
 http://nuruddin-info.blogspot.com,REL,Religion,2014-04-15,citizenlab,
-http://pavlodar.ru,GRP,Social Networking,2014-04-15,citizenlab,
-http://photo.eo.kz,MMED,Media sharing,2014-04-15,citizenlab,
-http://puls.kz,DATE,Online Dating,2014-04-15,citizenlab,
-http://qazaq.kz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://rakhat.org,POLR,Political Criticism,2014-04-15,citizenlab,
-http://respublika-d2.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://respublika-kaz.info,POLR,Political Criticism,2014-04-15,citizenlab,
 http://respublika-kaz.net,POLR,Political Criticism,2014-04-15,citizenlab,
-http://respublika-kz.biz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://respublika-kz.blogspot.ru,POLR,Political Criticism,2014-04-15,citizenlab,
 http://respublika-kz.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://sarap.kz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://socialismkz.info,POLR,Political Criticism,2014-04-15,citizenlab,
 http://stan.tv,POLR,Political Criticism,2014-04-15,citizenlab,
-http://thenews.kz,SRCH,Search Engines,2014-04-15,citizenlab,
 http://time.kz,NEWS,News Media,2014-04-15,citizenlab,
 http://twitter.com/roo_omp,POLR,Political Criticism,2014-04-15,citizenlab,
 http://vesti.kz,NEWS,News Media,2014-04-15,citizenlab,
 http://vse.kz,GRP,Social Networking,2014-04-15,citizenlab,
-http://vstrecha.kz,DATE,Online Dating,2014-04-15,citizenlab,
 http://webvpn.org,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://webwarper.net,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://www.31.kz,NEWS,News Media,2014-04-15,citizenlab,
@@ -90,7 +75,6 @@ http://www.astaninki.com,PROV,Provocative Attire,2014-04-15,citizenlab,
 http://www.asylmura.kz,MMED,Media sharing,2014-04-15,citizenlab,
 http://www.award.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.azattyq.org,NEWS,News Media,2014-04-15,citizenlab,
-http://www.baiterek.kz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.better.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.blog.kz,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.boratdvd.com,MISC,Miscelaneous content,2014-04-15,citizenlab,
@@ -106,11 +90,8 @@ http://www.ferghana.ru,NEWS,News Media,2014-04-15,citizenlab,
 http://www.fgulen.org,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.freeas.org,NEWS,News Media,2014-04-15,citizenlab,
 http://www.gazeta.kz,NEWS,News Media,2014-04-15,citizenlab,
-http://www.geo.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.geokz.tv,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.globalvoicesonline.org/-/world/central-asia-caucasus/kazakhstan/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.halykbank.kz,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.hizbuttahrir.org,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.iloveyou.kz,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.iwpr.net/?apc_state=henprca&l=ru&p=rca&s=p,NEWS,News Media,2014-04-15,citizenlab,
 http://www.kazbio.info,CULTR,Culture,2014-04-15,citizenlab,
@@ -122,30 +103,21 @@ http://www.kursiv.kz,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.kzblog.net,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.lenta.cjes.ru,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.liveinternet.ru,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.medialaw.kz,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.medianet.kz,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.mediaprovinces.kz,NEWS,News Media,2014-04-15,citizenlab,
 http://www.meta.kz,NEWS,News Media,2014-04-15,citizenlab,
-http://www.mp3music.kz,MMED,Media sharing,2014-04-15,citizenlab,
 http://www.muftyat.kz,REL,Religion,2014-04-15,citizenlab,
 http://www.neonomad.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.newsfactory.kz,NEWS,News Media,2014-04-15,citizenlab,
 http://www.newsline.kz/index.php,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nomad.su,NEWS,News Media,2014-04-15,citizenlab,
-http://www.np.freenet.kz,GOVT,Government,2014-04-15,citizenlab,
-http://www.npdvk.kz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.nur.kz,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.osdp.kz,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.padonki.org,HATE,Hate Speech,2014-04-15,citizenlab,
 http://www.palestine-info.info,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.panorama.kz,NEWS,News Media,2014-04-15,citizenlab,
-http://www.parkhomenko.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.presscenter.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.radiomayak.ru,NEWS,News Media,2014-04-15,citizenlab,
 http://www.respublika.kz,NEWS,News Media,2014-04-15,citizenlab,
 http://www.russians.kz,CULTR,Culture,2014-04-15,citizenlab,
-http://www.salam.kz/16790.aspx,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.sanasezim.freenet.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.spik.kz,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.strana.kz,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.titus.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
@@ -154,11 +126,38 @@ http://www.tns-global.kz/ru/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.toiganbayev.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.transparencykazakhstan.org,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.whorevideos.com,PORN,Pornography,2014-04-15,citizenlab,
-http://www.xgate.kz,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://www.yandex.kz,SRCH,Search Engines,2014-04-15,citizenlab,
 http://www.zonakz.net,NEWS,News Media,2014-04-15,citizenlab,
 http://yvision.kz,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.bbc.com/kyrgyz/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbckyrgyz.com,NEWS,News Media,2017-07-19,BBC,
 http://www.bbc.com/uzbek/,NEWS,News Media,2017-07-19,BBC,
-http://www.bbzuzbek.com,NEWS,News Media,2017-07-19,BBC,
+http://www.uralskweek.kz/,NEWS,News Media,2018-03-26,igorv,Blocked
+https://www.youtube.com/user/KplusTV,NEWS,News Media,2018-03-26,igorv,Blocked
+http://krasnoe.tv,NEWS,News Media,2018-03-26,igorv,Blocked
+https://zonakz.net/,NEWS,News Media,2018-03-26,igorv,Blocked
+http://newsland.com/,NEWS,News Media,2018-03-26,igorv,Blocked
+http://ratel.kz/,NEWS,News Media,2018-03-26,igorv,Blocked
+https://kloop.kg/,NEWS,News Media,2018-03-26,igorv,Blocked
+https://meduza.io/,NEWS,News Media,2018-03-26,igorv,Blocked
+http://eurasia.org.ru/,NEWS,News Media,2018-03-26,igorv,Blocked in 1999
+https://vz.ru/,NEWS,News Media,2018-03-26,igorv,Blocked
+http://www.fresher.ru/,NEWS,News Media,2018-03-26,igorv,Blocked in 2015
+http://www.fergananews.com/,NEWS,News Media,2018-03-26,igorv,Blocked since 2015
+https://rus.azattyq.org,NEWS,News Media,2018-03-26,igorv,Sporadically blocked
+https://www.azattyq.org/,NEWS,News Media,2018-03-26,igorv,Sporadically blocked
+https://azatkaz.info/b/https://www.azattyq.org/?src=p2,NEWS,News Media,2018-03-26,igorv,Blocked
+https://forbes.kz/,NEWS,News Media,2018-03-26,igorv,Requested to remove content in 2016
+https://www.kaztag.kz/,NEWS,News Media,2018-03-26,igorv,Targeted by authorities in 2016
+http://azh.kz/,NEWS,News Media,2018-03-26,igorv,DDoS attack in 2016
+https://www.livejournal.com/,HOST,Hosting and Blogging Platforms,2018-03-26,igorv,Blocked
+https://www.liveinternet.ru/,HOST,Hosting and Blogging Platforms,2018-03-26,igorv,Blocked
+http://blogs.privet.ru/,HOST,Hosting and Blogging Platforms,2018-03-26,igorv,Blocked
+https://russia.googleblog.com/,HOST,Hosting and Blogging Platforms,2018-03-26,igorv,Google's official blog for Russia
+https://leader.ru/secure/,ANON,Anonymization and circumvention tools,2018-03-26,igorv,Blocked
+http://lleo.me/,CULTR,Culture,2018-03-26,igorv,Blocked since 2015
+https://proza.ru/,CULTR,Culture,2018-03-26,igorv,Blocked since 2015
+http://samlib.ru/,CULTR,Culture,2018-03-26,igorv,Blocked in 2015
+http://yanka.lenin.ru/,CULTR,Culture,2018-03-26,igorv,Blocked in 2015
+http://zagony.ru/,CULTR,Culture,2018-03-26,igorv,Blocked in 2015
+https://distant.msu.ru/,CULTR,Culture,2018-03-26,igorv,
