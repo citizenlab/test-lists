@@ -31,6 +31,7 @@ http://beeg.com,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-0
 https://beyondexgay.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://bisexual.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://bitcoin.org,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://bitcoin.sipa.be/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. This domain is hardcoded in the bitcoin source code as an addressed used to bootstrap.
 http://bittornado.com,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blackberry.com,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blog.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -67,6 +68,7 @@ http://creativecommons.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI
 https://cryptome.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://cultdeadcow.com,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://cyber.harvard.edu/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://dashjr.org/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. This domain is hardcoded in the bitcoin source code as an addressed used to bootstrap.
 http://dcemail.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://ddo.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://de.lirio.us,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -164,6 +166,7 @@ https://login.live.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated b
 https://mail.ru/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://mail.yahoo.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://mail.yandex.ru,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://mainnet.infura.io/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Ethereum gateway. Needs token in path to function.
 http://marijuana.nl,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://mashable.com,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://medpot.net/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -402,9 +405,11 @@ http://www.benedelman.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI 
 http://www.betfair.com,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bfed.info,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bglad.com,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.binance.com,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 https://www.bing.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.birthcontrol.com,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bitcomet.com,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.bitfinex.com/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 http://www.bittorrent.com,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.biz.ly,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.blackhat.be,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -454,6 +459,7 @@ http://www.cis.minsk.by,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on
 https://www.clintonfoundation.org/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.clubdicecasino.com,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.cnn.com,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.coinbase.com,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 http://www.collegehumor.com,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.concern.net/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.connotea.org,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -735,6 +741,7 @@ http://www.kcna.kp,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017
 http://www.keptprivate.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.khilafah.com,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.khrp.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.kraken.com/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 http://www.kurtuluscephesi.com,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.laborrightsnow.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.lanacion.com.ar,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
