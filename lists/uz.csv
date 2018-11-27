@@ -44,6 +44,11 @@ http://www.bbckyrgyz.com,NEWS,News Media,2017-07-19,BBC,
 http://www.bbc.com/uzbek/,NEWS,News Media,2017-07-19,BBC,
 https://www.bbc.com/uzbek/,NEWS,News Media,2018-07-23,OONI,
 http://www.bbzuzbek.com,NEWS,News Media,2017-07-19,BBC,
+https://uz.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://uz.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://kk.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://rus.ozodlik.org/,NEWS,News Media,2018-07-23,OONI,
 http://rus.ozodlik.org/,NEWS,News Media,2018-07-23,OONI,
 http://www.fergananews.com/,NEWS,News Media,2018-07-23,OONI,

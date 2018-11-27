@@ -121,7 +121,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             errors = []
             rows = []
             duplicates = 0
-	    idx = -1
+            idx = -1
             for idx, row in enumerate(reader):
                 if len(row) != 6:
                     errors.append(
