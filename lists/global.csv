@@ -1120,6 +1120,7 @@ https://www.womenonwaves.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
 https://www.womenonweb.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
 https://amp.cloudflare.com/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-02-08,OONI,AMP is reportedly blocked in EG: https://cpj.org/amp/028977.html
 https://cdn.ampproject.org/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-02-08,OONI,AMP is reportedly blocked in EG: https://cpj.org/amp/028977.html
+https://www.bing-amp.com/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Microsoft's AMP cache: https://amphtml.wordpress.com/2018/09/19/introducing-bing-amp-viewer-and-bing-amp-cache/
 https://www.uber.com/,COMM,E-commerce,2018-02-13,OONI,Reportedly blocked in Argentina
 https://pastebin.com/,HOST,Hosting and Blogging Platforms,2017-02-12,Anonymous,Often blocked website
 https://yandex.com/,SRCH,Search Engines,2018-02-23,igorv,
