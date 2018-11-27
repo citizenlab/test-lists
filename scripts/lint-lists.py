@@ -14,6 +14,8 @@ VALID_URL = regex = re.compile(
         r'(?::\d+)?' # optional port
         r'(?:/?|[/?]\S+)$', re.IGNORECASE)
 
+BAD_CHARS = ["\r", "\n", "\t", "\\"]
+
 CATEGORY_CODES = {}
 COUNTRY_CODES = {}
 
@@ -55,6 +57,12 @@ class InvalidColumnNumber(TestListError):
 
 class InvalidURL(TestListErrorWithValue):
     name = 'Invalid URL'
+
+class InvalidNotes(TestListErrorWithValue):
+    name = 'Invalid Notes'
+
+class InvalidSource(TestListErrorWithValue):
+    name = 'Invalid Source'
 
 class DuplicateURL(TestListErrorWithValue):
     name = 'Duplicate URL'
@@ -121,7 +129,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     )
                     continue
                 url, cat_code, cat_desc, date_added, source, notes = row
-                if not VALID_URL.match(url):
+                if not VALID_URL.match(url) or any([c in url for c in BAD_CHARS]):
                     errors.append(
                         InvalidURL(url, csv_path, idx+2)
                     )
@@ -150,6 +158,14 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                 if not is_valid_date(date_added):
                     errors.append(
                         InvalidDate(date_added, csv_path, idx+2)
+                    )
+                if any([c in notes for c in BAD_CHARS]):
+                    errors.append(
+                        InvalidNotes(notes, csv_path, idx+2)
+                    )
+                if any([c in source for c in BAD_CHARS]):
+                    errors.append(
+                        InvalidSource(source, csv_path, idx+2)
                     )
                 urls_bag.add(canonical_url)
                 rows.append(row)
