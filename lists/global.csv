@@ -30,6 +30,7 @@ http://beeg.com,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-0
 https://beyondexgay.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://bisexual.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://bitcoin.org,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://bitcoin.sipa.be/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. This domain is hardcoded in the bitcoin source code as an addressed used to bootstrap.
 http://bittornado.com,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blackberry.com,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blog.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -66,6 +67,7 @@ http://creativecommons.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI
 https://cryptome.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://cultdeadcow.com,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://cyber.harvard.edu/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://dashjr.org/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. This domain is hardcoded in the bitcoin source code as an addressed used to bootstrap.
 http://dcemail.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://ddo.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://de.lirio.us,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -109,6 +111,7 @@ https://fsrn.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI
 http://gawker.com,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://gaytoday.com,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://global.blackberry.com/en/home.html,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://globalwitness.org/,ENV,Environment,2018-07-05,Security First,
 https://globalvoices.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://gmail.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://go.com,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -161,6 +164,7 @@ https://login.live.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated b
 https://mail.ru/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://mail.yahoo.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://mail.yandex.ru,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://mainnet.infura.io/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Ethereum gateway. Needs token in path to function.
 http://marijuana.nl,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://mashable.com,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://medpot.net/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -197,6 +201,7 @@ http://peta.xxx,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02
 http://phrack.org,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://picasa.google.com,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://pingomatic.com,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.pinknews.co.uk,LGBT,LGBT,2018-08-19,sinarproject,UK based LGBT news site
 https://pirateparty.org.au/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://plan-uk.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://plus.google.com,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -224,6 +229,7 @@ https://sci-hub.bz/,FILE,File-sharing,2017-11-23,David Fifield,
 http://sci-hub.org/,FILE,File-sharing,2016-07-13,David Fifield,Taken down by court order November 2015 https://torrentfreak.com/court-orders-shutdown-of-libgen-bookfi-and-sci-hub-151102/; updated by OONI on 2017-02-14
 http://search.aol.com,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://seclists.org,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://secfirst.org/,HUMR,Human Rights Issues,2018-07-05,Security First,
 http://secondlife.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://secure.flickr.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://secure.friendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -396,9 +402,11 @@ http://www.benedelman.org,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI 
 http://www.betfair.com,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bfed.info,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bglad.com,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.binance.com,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 https://www.bing.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.birthcontrol.com,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bitcomet.com,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.bitfinex.com/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 http://www.bittorrent.com,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.biz.ly,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.blackhat.be,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -448,6 +456,7 @@ http://www.cis.minsk.by,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on
 https://www.clintonfoundation.org/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.clubdicecasino.com,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.cnn.com,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.coinbase.com,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 http://www.collegehumor.com,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.concern.net/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.connotea.org,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -728,6 +737,7 @@ http://www.kcna.kp,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017
 http://www.keptprivate.com,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.khilafah.com,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.khrp.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.kraken.com/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 http://www.kurtuluscephesi.com,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.laborrightsnow.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.lanacion.com.ar,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1112,13 +1122,28 @@ https://www.womenonwaves.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
 https://www.womenonweb.org/,HUMR,Human Rights Issues,2017-10-26,OONI,
 https://amp.cloudflare.com/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-02-08,OONI,AMP is reportedly blocked in EG: https://cpj.org/amp/028977.html
 https://cdn.ampproject.org/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-02-08,OONI,AMP is reportedly blocked in EG: https://cpj.org/amp/028977.html
+https://www.bing-amp.com/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Microsoft's AMP cache: https://amphtml.wordpress.com/2018/09/19/introducing-bing-amp-viewer-and-bing-amp-cache/
 https://www.uber.com/,COMM,E-commerce,2018-02-13,OONI,Reportedly blocked in Argentina
 https://pastebin.com/,HOST,Hosting and Blogging Platforms,2017-02-12,Anonymous,Often blocked website
 https://yandex.com/,SRCH,Search Engines,2018-02-23,igorv,
 https://protonmail.com/,HACK,Hacking Tools,2018-03-19,OONI,
 https://getoutline.org/,ANON,Anonymization and circumvention tools,2018-04-06,Duplika,
+https://signal.org/,COMT,Communication Tools,2018-04-19,OONI,
+https://www.tunnelbear.com/,ANON,Anonymization and circumvention tools,2018-04-19,OONI,
 https://dns.google.com/,HOST,Hosting and Blogging Platforms,2018-05-02,OONI,
 https://gab.ai/,GRP,Social Networking,2018-08-01,OONI,
 https://threema.ch/,ANON,Anonymization and circumvention tools,2018-08-01,OONI,
 https://wickr.com/,ANON,Anonymization and circumvention tools,2018-08-01,OONI,
+https://commons.wikimedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://de.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://fr.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ca.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://zh.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ja.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://it.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://soundcloud.com/,CULTR,Culture,2018-07-23,OONI,
+https://www.bbc.com/news,NEWS,News Media,2018-07-25,OONI,
+https://www.dw.com/en/,NEWS,News Media,2018-09-13,OONI,
