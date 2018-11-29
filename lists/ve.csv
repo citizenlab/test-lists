@@ -213,6 +213,9 @@ http://www.votojoven.com,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.vpitv.com/,NEWS,News Media,2017-04-11,OONI,
 http://www.vtv.gob.ve,NEWS,News Media,2016-06-22,veinteligente,
 http://www.webntn24.us,NEWS,News Media,2016-06-22,veinteligente,
+https://elpitazo.com/,NEWS,News Media,2018-04-16,IPYS Venezuela,
+http://elpitazo.info/,NEWS,News Media,2018-04-16,IPYS Venezuela,
+http://elpitazo.ml/,NEWS,News Media,2018-04-16,IPYS Venezuela,
 https://venezuelablog.org/,POLR,Political Criticism,2018-04-10,OONI,
 https://www.accionsolidaria.info/,PUBH,Public Health,2018-04-10,OONI,
 https://www.accsi.org.ve/,PUBH,Public Health,2018-04-10,OONI,
@@ -286,3 +289,7 @@ http://unnuevotiempo.org/,POLR,Political Criticism,2018-04-10,OONI,
 http://www.voluntadpopular.com/,POLR,Political Criticism,2018-04-10,OONI,
 http://www.ventevenezuela.org/,POLR,Political Criticism,2018-04-10,OONI,
 https://www.lapatilla.com/,NEWS,News Media,2018-06-07,OONI,Reportedly blocked
+https://es.wikibooks.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wikisource.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pt.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

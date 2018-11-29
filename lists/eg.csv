@@ -828,6 +828,15 @@ https://www.cairo24.com/,NEWS,News Media,2018-02-12,OONI,
 https://freealaa.blogspot.com,POLR,Political Criticism,2018-04-19,OONI,
 https://manalaa.net/,POLR,Political Criticism,2018-04-19,OONI,
 http://elmesryoon.com/,NEWS,News Media,2018-04-19,OONI,Alternative domain to blocked almesryoon.com
+http://www.bbc.com/arabic,NEWS,News Media,2018-09-13,OONI,
+https://www.france24.com/ar/,NEWS,News Media,2018-09-13,OONI,
+https://arabic.rt.com/,NEWS,News Media,2018-09-13,OONI,
+https://de.qantara.de/,NEWS,News Media,2018-09-13,OONI,
+https://en.qantara.de/,NEWS,News Media,2018-09-13,OONI,
+https://www.alhurra.com/,NEWS,News Media,2018-09-13,OONI,
+https://www.dw.com/ar,NEWS,News Media,2018-09-13,OONI,
+https://www.mc-doualiya.com/,NEWS,News Media,2018-09-13,OONI,
+https://www.radiosawa.com/,NEWS,News Media,2018-09-13,OONI,
 http://almodon.com,NEWS,News Media,2018-08-02,AFTE,
 http://asayelgroup.com,NEWS,News Media,2018-08-02,AFTE,
 http://cexx.org,ANON,Anonymization and circumvention tools,2018-08-02,AFTE,
@@ -884,3 +893,7 @@ http://unblocksiter.com,ANON,Anonymization and circumvention tools,2018-08-02,AF
 http://unblocksites.co,ANON,Anonymization and circumvention tools,2018-08-02,AFTE,
 http://your-freedom.net,ANON,Anonymization and circumvention tools,2018-08-02,AFTE,
 https://jeem.me/,XED,Sex Education,2018-07-31,OONI,Reportedly blocked
+https://ar.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://arz.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.wikisource.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

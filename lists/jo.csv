@@ -185,5 +185,10 @@ http://www.yarmouknews.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.yawmak.com,NEWS,News Media,2014-04-15,citizenlab,
 http://www.zarqanews.net,NEWS,News Media,2014-04-15,citizenlab,
 https://www.mykalimag.com,CULTR,Culture,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
+https://ar.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.wikisource.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://arz.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://simple.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://medium.com/,NEWS,News Media,2018-06-14,frekeeh,
 https://archive.org/,HOST,Hosting and Blogging Platforms,2018-08-28, Firas Kafri - Jordan Open Source Association,
