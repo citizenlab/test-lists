@@ -251,3 +251,6 @@ http://www.youtube.com,NEWS,News Media,2014-04-15,citizenlab,
 https://www22.verizon.com,COMT,Communication Tools,2014-04-15,citizenlab,
 http://yelp.com,GRP,Social Networking,2014-04-15,citizenlab,
 http://youporn.com,PORN,Pornography,2014-04-15,citizenlab,
+https://id.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ms.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

@@ -473,3 +473,8 @@ http://www.zdnetasia.com,NEWS,News Media,2014-04-15,citizenlab,
 http://yasminthestoryteller.blogspot.com/,CULTR,Culture,2016-06-10,OONI,
 http://zathilfiger.i-p.com,COMT,Communication Tools,2014-04-15,citizenlab,
 http://zorro-zorro-unmasked.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
+https://ms.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://id.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://simple.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
