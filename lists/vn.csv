@@ -325,3 +325,6 @@ http://zh.wikipedia.org,NEWS,News Media,2014-04-15,citizenlab,
 http://zh.wikipedia.org/wiki/%E5%8D%97%E6%B2%99%E7%BE%A4%E5%B2%9B,GOVT,Government,2014-04-15,citizenlab,
 http://www.bbc.com/vietnamese/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcvietnamese.com,NEWS,News Media,2017-07-19,BBC,
+https://vi.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://vi.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://wikidata.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
