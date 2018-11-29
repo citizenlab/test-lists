@@ -654,3 +654,7 @@ http://ytimes.org,NEWS,News Media,2014-04-15,citizenlab,
 http://yuradolls.cf/,PROV,Provocative Attire,2016-08-09,OONI partner,
 http://ywoos.com/,PORN,Pornography,2016-08-09,OONI partner,
 http://zipbogo.net,GAME,Gaming,2016-08-09,OONI partner,
+https://ko.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ko.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://wikidata.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
