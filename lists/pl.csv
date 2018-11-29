@@ -105,3 +105,8 @@ http://wp.pl,NEWS,News Media,2017-04-09,unknown,
 http://onet.pl,NEWS,News Media,2017-04-09,unknown,
 http://www.wyborcza.pl,NEWS,News Media,2017-04-09,unknown,
 http://www.tvn24.pl,NEWS,News Media,2017-04-09,unknown,
+https://pl.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pl.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pl.wikiquote.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pl.wikibooks.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

@@ -1,0 +1,21 @@
+url,category_code,category_description,date_added,source,notes
+https://pt.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://wikidata.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.vice.com/en_us,NEWS,News Media,2018-06-08,RSF,
+https://tytnetwork.com/,NEWS,News Media,2018-06-08,RSF,
+https://newsmaven.io/indiancountrytoday/news/,NEWS,News Media,2018-06-08,RSF,
+https://www.washingtonpost.com/,NEWS,News Media,2018-06-08,RSF,
+http://thehill.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.politico.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.nbc.com/,NEWS,News Media,2018-06-08,RSF,
+http://abc.go.com/,NEWS,News Media,2018-06-08,RSF,
+http://www.msnbc.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.bostonglobe.com/,NEWS,News Media,2018-06-08,RSF,
+http://www.baltimoresun.com/,NEWS,News Media,2018-06-08,RSF,
+http://www.miamiherald.com/,NEWS,News Media,2018-06-08,RSF,
+http://www.chicagotribune.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.sfchronicle.com/,NEWS,News Media,2018-06-08,RSF,
+http://www.latimes.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.usatoday.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.houstonchronicle.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.denverpost.com/,NEWS,News Media,2018-06-08,RSF,
