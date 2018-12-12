@@ -76,6 +76,9 @@ class InvalidCategoryDesc(TestListErrorWithValue):
 class InvalidDate(TestListErrorWithValue):
     name = 'Invalid Date'
 
+class DuplicateURLWithGlobalList(TestListErrorWithValue):
+    name = "Duplicate URL between Local List and Global List"
+
 def get_legacy_description_code(row):
     return row[1], row[0]
 
@@ -91,6 +94,15 @@ def load_categories(path, get_description_code=get_new_description_code):
             desc, code = get_description_code(row)
             code_map[code] = desc
     return code_map
+
+def load_global_list(path):
+    check_list = set()
+    with open(path, 'rb') as in_file:
+        reader = csv.reader(in_file, delimiter=',')
+        for idx, row in enumerate(reader):
+            if idx != 0 and (len(row) == 6):
+                check_list.add(row[0])
+    return check_list
 
 def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
     all_errors = []
@@ -109,6 +121,8 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
         )
     header = ['url', 'category_code', 'category_description',
               'date_added', 'source', 'notes']
+    # preload the global list to check against looking for dupes
+    global_urls_bag = load_global_list(os.path.join(lists_path, "global.csv"))
     for csv_path in glob(os.path.join(lists_path, "*")):
         if os.path.basename(csv_path).startswith('00-'):
             continue
@@ -135,6 +149,11 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     )
                 url = url.strip().lower()
                 canonical_url = url
+                if os.path.basename(csv_path) != "global.csv":
+                    if canonical_url in global_urls_bag:
+                        errors.append(
+                            DuplicateURLWithGlobalList(canonical_url, csv_path, idx+2)
+                        )
                 if url.endswith('/'):
                     # We strip trailing / for canonical URLs
                     canonical_url = url[:-1]
