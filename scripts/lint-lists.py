@@ -7,6 +7,8 @@ import sys
 import csv
 from glob import glob
 
+from urlparse import urlparse
+
 VALID_URL = regex = re.compile(
         r'^(?:http)s?://' # http:// or https://
         r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' #domain...
@@ -104,7 +106,7 @@ def load_global_list(path):
                 check_list.add(row[0])
     return check_list
 
-def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
+def main(source='OONI', notes='', legacy=False, fix_duplicates=False, fix_slash=False):
     all_errors = []
     total_urls = 0
     total_countries = 0
@@ -135,6 +137,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             errors = []
             rows = []
             duplicates = 0
+            without_slash = 0
             idx = -1
             for idx, row in enumerate(reader):
                 if len(row) != 6:
@@ -147,16 +150,26 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     errors.append(
                         InvalidURL(url, csv_path, idx+2)
                     )
-                url = url.strip().lower()
-                canonical_url = url
+                if url != url.strip():
+                    errors.append(
+                        InvalidURL(url, csv_path, idx+2)
+                    )
+                url_p = urlparse(url)
+                if url_p.path == "":
+                    without_slash += 1
+                    errors.append(
+                        InvalidURL(url, csv_path, idx+2)
+                    )
+                    row[0] = row[0] + "/"
                 if os.path.basename(csv_path) != "global.csv":
-                    if canonical_url in global_urls_bag:
+                    if url in global_urls_bag:
                         errors.append(
-                            DuplicateURLWithGlobalList(canonical_url, csv_path, idx+2)
+                            DuplicateURLWithGlobalList(url, csv_path, idx+2)
                         )
-                if url.endswith('/'):
-                    # We strip trailing / for canonical URLs
-                    canonical_url = url[:-1]
+                        if fix_duplicates:
+                            duplicates += 1
+                            continue
+
                 try:
                     cat_description = CATEGORY_CODES[cat_code]
                 except KeyError:
@@ -167,7 +180,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     errors.append(
                         InvalidCategoryDesc(cat_desc, csv_path, idx+2)
                     )
-                if canonical_url in urls_bag:
+                if url in urls_bag:
                     if not fix_duplicates:
                         errors.append(
                             DuplicateURL(url, csv_path, idx+2)
@@ -186,7 +199,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
                     errors.append(
                         InvalidSource(source, csv_path, idx+2)
                     )
-                urls_bag.add(canonical_url)
+                urls_bag.add(url)
                 rows.append(row)
             print('* {}'.format(csv_path))
             print('  {} URLs'.format(idx+1))
@@ -194,6 +207,14 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False):
             all_errors += errors
             total_urls += idx+1
             total_countries += 1
+
+        if fix_slash and without_slash > 0:
+            print('Fixing slash in %s' % csv_path)
+            rows.insert(0, header)
+            with open(csv_path + '.fixed', 'wb') as out_file:
+                csv_writer = csv.writer(out_file, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
+                csv_writer.writerows(rows)
+            os.rename(csv_path + '.fixed', csv_path)
 
         if fix_duplicates and duplicates > 0:
             rows.sort(key=lambda x: x[0].split('//')[1])
