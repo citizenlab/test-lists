@@ -1,24 +1,24 @@
 url,category_code,category_description,date_added,source,notes
-https://lt.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://hu.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://pl.wikipedia.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://wikidata.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://lt.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://en.wiktionary.org,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://betway.com,GMB,Gambling,2016-01-11,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://unibet.com,GMB,Gambling,2016-01-15,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://williamhill.com,GMB,Gambling,2016-01-19,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://triobet.com,GMB,Gambling,2016-01-25,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://pokerstars.com,GMB,Gambling,2016-02-01,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://marathonbet.com,GMB,Gambling,2016-02-04,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://optibet.com,GMB,Gambling,2016-04-05,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://bet365.com,GMB,Gambling,2016-04-05,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://888sport.com,GMB,Gambling,2016-11-09,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-https://mybet.com,GMB,Gambling,2017-03-27,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://paddypower.com,GMB,Gambling,2017-03-28,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://7spins.com,GMB,Gambling,2017-05-09,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://365sb.com,GMB,Gambling,2017-05-09,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://spinstation.com,GMB,Gambling,2017-05-29,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-http://Olybet.com,GMB,Gambling,2017-06-01,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
-https://sputniknews.lt,POLR,Political Criticism,2018-03-26,https://www.vsd.lt/wp-content/uploads/2018/03/ENG.pdf,mentioned as a propaganda website by a annual VSD (Departament of National Security) report
-http://baltnews.lt,POLR,Political Criticism,2018-03-26,https://www.vsd.lt/wp-content/uploads/2018/03/ENG.pdf,mentioned as a propaganda website by a annual VSD (Departament of National Security) report
+https://lt.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://hu.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://wikidata.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://lt.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://betway.com/,GMB,Gambling,2016-01-11,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://unibet.com/,GMB,Gambling,2016-01-15,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://williamhill.com/,GMB,Gambling,2016-01-19,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://triobet.com/,GMB,Gambling,2016-01-25,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://pokerstars.com/,GMB,Gambling,2016-02-01,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://marathonbet.com/,GMB,Gambling,2016-02-04,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://optibet.com/,GMB,Gambling,2016-04-05,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://bet365.com/,GMB,Gambling,2016-04-05,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://888sport.com/,GMB,Gambling,2016-11-09,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+https://mybet.com/,GMB,Gambling,2017-03-27,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://paddypower.com/,GMB,Gambling,2017-03-28,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://7spins.com/,GMB,Gambling,2017-05-09,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://365sb.com/,GMB,Gambling,2017-05-09,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://spinstation.com/,GMB,Gambling,2017-05-29,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+http://Olybet.com/,GMB,Gambling,2017-06-01,http://www.lpt.lt/nelegalios-losimu-veiklos-vykdytojai/,blocked via local ISPs DNS
+https://sputniknews.lt/,POLR,Political Criticism,2018-03-26,https://www.vsd.lt/wp-content/uploads/2018/03/ENG.pdf,mentioned as a propaganda website by a annual VSD (Departament of National Security) report
+http://baltnews.lt/,POLR,Political Criticism,2018-03-26,https://www.vsd.lt/wp-content/uploads/2018/03/ENG.pdf,mentioned as a propaganda website by a annual VSD (Departament of National Security) report

@@ -1,6 +1,6 @@
 url,category_code,category_description,date_added,source,notes
-https://www.dabangasudan.org,NEWS,News Media,2017-07-17,Free Press Unlimited,
-http://radiotamazuj.org,NEWS,News Media,2017-07-17,Free Press Unlimited,Reported to be blocked by South Sudan national communication authority on 2017-07-14
+https://www.dabangasudan.org/,NEWS,News Media,2017-07-17,Free Press Unlimited,
+http://radiotamazuj.org/,NEWS,News Media,2017-07-17,Free Press Unlimited,Reported to be blocked by South Sudan national communication authority on 2017-07-14
 http://www.sudantribune.com/,NEWS,News Media,2017-07-18,CIPIT,Reportedly blocked
 http://nyamile.com/,NEWS,News Media,2017-07-18,CIPIT,Reportedly blocked
 http://www.alrakoba.net/,NEWS,News Media,2017-07-18,CIPIT,
@@ -16,10 +16,10 @@ http://cepo-southsudan.org/,POLR,Political Criticism,2018-01-23,TAHURID,
 http://defyhatenow.net/,HATE,Hate Speech,2018-01-23,TAHURID,
 https://unmiss.unmissions.org/radio-miraya-news,NEWS,News Media,2018-01-23,TAHURID,
 http://gurtong.net/,NEWS,News Media,2018-01-23,TAHURID,
-http://www.jubamonitor.com,NEWS,News Media,2018-01-23,TAHURID,News being censored (Hard copies)
+http://www.jubamonitor.com/,NEWS,News Media,2018-01-23,TAHURID,News being censored (Hard copies)
 http://www.citizen-news.net/,NEWS,News Media,2018-07-06,OONI,
 http://www.thenationmirror.com/,NEWS,News Media,2018-07-06,OONI,
-http://www.irinnews.org,ECON,Economics,2018-07-06,OONI,
+http://www.irinnews.org/,ECON,Economics,2018-07-06,OONI,
 https://www.bbc.co.uk/search?q=Sudan,NEWS,News Media,2018-07-06,OONI,
 http://sora.akm.net.au/,CULTR,Culture,2018-07-06,OONI,
 http://jubafilmfestival.info/,CULTR,Culture,2018-07-06,OONI,
