@@ -23,11 +23,6 @@ http://downmerng.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://downmerng.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://ega.or.th/,GOVT,Government,2017-01-19,unknown,Electronic Government Agency
 https://elect.in.th/,POLR,Political Criticism,2018-11-24,thainetizen,Independent site for election information
-http://en.wikipedia.org/wiki/Bhumibol_Adulyadej,NEWS,News Media,2016-09-20,unknown,Was blocked in 2008
-http://en.wikipedia.org/wiki/Crown_Prince_of_Thailand,NEWS,News Media,2016-09-20,unknown,Crown Prince of Thailand
-http://en.wikipedia.org/wiki/King_of_Thailand,NEWS,News Media,2016-09-20,unknown,Was blocked in 2008
-http://en.wikipedia.org/wiki/Monarchy_of_Thailand,NEWS,News Media,2016-09-20,unknown,Redirected from King_of_Thailand (was blocked in 2008)
-http://en.wikipedia.org/wiki/Vajiralongkorn,NEWS,News Media,2016-09-20,unknown,Current Crown Prince of Thailand
 http://english.aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://enlawfoundation.org/,ENV,Environment,2016-09-20,unknown,Environmental litigation and advocacy
 https://etda.or.th/,GOVT,Government,2017-01-19,unknown,Electronic Transactions Development Agency (ETDA)
@@ -82,14 +77,7 @@ https://storylog.co/,HOST,Hosting and Blogging Platforms,2016-09-20,unknown,Thai
 http://straitstimes.asiaone.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://teenee.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://th.macmuslim.com/,HUMR,Human Rights Issues,2017-01-19,unknown,Muslim Attorney Centre Foundation
-http://th.wikipedia.org/,NEWS,News Media,2016-09-20,unknown,Thai Wikipedia (HTTP)
-https://th.wikipedia.org/,NEWS,News Media,2016-09-20,unknown,Thai Wikipedia (HTTPS)
-http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%8A,NEWS,News Media,2016-09-20,unknown,"Thai Wikipeida: Bhumibol Adulyadej, its English conterpart was blocked in 2008"
-http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2,NEWS,News Media,2016-09-20,unknown,"Thai Wikipedia: King of Thailand, its English conterpart was blocked in 2008"
-http://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E.%E0%B8%A8._2549,NEWS,News Media,2016-09-20,unknown,2006 Coup in Thailand
-http://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E.%E0%B8%A8._2557,NEWS,News Media,2016-09-20,unknown,2014 Coup in Thailand
-http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93_%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,News Media,2016-09-20,unknown,Current Crown Prince of Thailand
-http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,News Media,2016-09-20,unknown,Crown Prince of Thailand
+https://th.wikipedia.org/,CULTR,Culture,2016-09-20,unknown,Thai Wikipedia (HTTPS)
 https://th.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://th.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://thai69.com/,PORN,Pornography,2014-04-15,citizenlab,

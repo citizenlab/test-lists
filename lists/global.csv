@@ -59,7 +59,6 @@ https://cites.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017
 https://citizenlab.ca/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by citizenlab on 2017-11-09
 http://cocaine.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://common-fund.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://commons.wikimedia.org/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://community.livejournal.com/anorexicqueen/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://company.wizards.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://crackspider.net/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -90,7 +89,6 @@ http://ecstasy.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI o
 http://emailaddresses.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://emchurch.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://en-ville.orange.fr/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://en.wikipedia.org/wiki/the_holocaust,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://encrypted.google.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://epic.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://evernote.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1076,9 +1074,9 @@ http://www.who.int/reproductivehealth,PUBH,Public Health,2014-04-15,citizenlab,U
 http://www.who.int/topics/hiv_aids/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wiesenthal.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wikia.com/fandom,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.wikipedia.org/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.wikipedia.org/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wikispaces.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.wiktionary.org/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.wiktionary.org/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.winespectator.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wix.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wluml.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1212,3 +1210,9 @@ https://www.ilga-europe.org/,LGBT,LGBT,2019-01-14,citizenlab,European LGBT advoc
 https://kaleidoscopetrust.com/,LGBT,LGBT,2019-01-14,citizenlab,Kaleidoscope trust LGBT advocacy group
 https://www.stonewall.org.uk/,LGBT,LGBT,2019-01-14,citizenlab,LGBT rights organization
 https://hornet.com/,LGBT,LGBT,2019-01-14,citizenlab,LGBT social networking app
+https://wikidata.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pt.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
