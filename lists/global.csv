@@ -1134,6 +1134,11 @@ https://getoutline.org/,ANON,Anonymization and circumvention tools,2018-04-06,Du
 http://fteproxy.org/,ANON,Anonymization and circumvention tools,2018-05-21,Community member,
 https://www.thegeekdiary.com/,HACK,Hacking Tools,2018-05-21,Community member,
 https://dns.google.com/,HOST,Hosting and Blogging Platforms,2018-05-02,OONI,
+https://cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com: https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
+https://1.1.1.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com. https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
+https://1.0.0.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com. https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
+https://dns.quad9.net/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Quad9 DNS over HTTPS; query is for www.example.com. https://quad9.com/doh-quad9-dns-servers/
+https://9.9.9.9/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Quad9 DNS over HTTPS; query is for www.example.com. https://quad9.com/doh-quad9-dns-servers/
 https://soundcloud.com/,CULTR,Culture,2018-07-23,OONI,
 https://signal.org/,COMT,Communication Tools,2018-04-19,OONI,
 https://www.tunnelbear.com/,ANON,Anonymization and circumvention tools,2018-04-19,OONI,
