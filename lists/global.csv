@@ -1221,3 +1221,13 @@ https://ar.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by 
 https://en.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://es.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pt.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://128.31.0.39:9131/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://86.59.21.38/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://194.109.206.212/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://66.111.2.131:9030/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://131.188.40.189/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://193.23.244.244/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://171.25.193.9:443/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://154.35.175.225/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://199.58.81.140/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
+http://204.13.164.118/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
