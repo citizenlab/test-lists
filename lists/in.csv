@@ -360,7 +360,7 @@ http://www.iccrindia.net/,CULTR,Culture,2016-06-14,OONI,
 http://www.iipmfraud.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.imamali8.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.imphaltimes.com/,NEWS,News Media,2016-06-15,OONI,
-http://www.inc.in/,POLR,Political Criticism,2016-06-14,OONI,
+https://www.inc.in/,POLR,Political Criticism,2016-06-14,OONI,Indian National Congress party
 http://www.incometaxindia.gov.in/,GOVT,Government,2016-06-14,OONI,
 http://www.incredibleindia.org/,CULTR,Culture,2016-06-14,OONI,
 http://www.indastro.com/,CULTR,Culture,2016-06-14,OONI,
@@ -586,3 +586,52 @@ https://corenortheast.wordpress.com/,HUMR,Human Rights Issues,2019-03-20,csk,
 https://kukiblackday.com/,HUMR,Human Rights Issues,2019-03-20,csk,
 http://www.womensurvivorsnetwork.org/,HUMR,Human Rights Issues,2019-03-20,csk,
 https://indiankanoon.org/,SRCH,Search Engines,2019-03-27,OONI,Reportedly blocked on Jio
+https://cpim.org/,POLR,Political Criticism,2019-04-09,OONI,Communist Party of India (Marxist)
+https://www.communistparty.in/,POLR,Political Criticism,2019-04-09,OONI,Communist Party of India
+https://ncp.org.in/,POLR,Political Criticism,2019-04-09,OONI,Nationalist Congress Party
+http://www.bspindia.org/,POLR,Political Criticism,2019-04-09,OONI,Bahujan Samaj Party
+http://aitcofficial.org/,POLR,Political Criticism,2019-04-09,OONI,All India Trinamool Congress party
+https://shivsena.org/,POLR,Political Criticism,2019-04-09,OONI,Party founded by political cartoonist Bal Thackeray
+https://www.aiadmk.website/,POLR,Political Criticism,2019-04-09,OONI,Tamil Nadu political party
+http://www.janatadalunited.online/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.anbumani4cm.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://ljp.org.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://dmdkparty.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://tamilmaanilacongress.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://allindianrcongress.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://ndpp.co.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.joinrlp.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.dmk.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://rjd.co.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://jds.ind.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://rashtriyaloksamataparty.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://jmmjharkhand.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://jvmp.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.swabhimani.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.vck.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.bahujanvikasaghadi.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://cpiml.net/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://ijkparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.samajwadiparty.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.rashtriyalokdal.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.janasenaparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://forwardbloc.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.telugudesam.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.ysrcongress.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.maiam.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.bjdodisha.org.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.trspartyonline.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.sdpi.in/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://www.naamtamilar.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://aamaadmiparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+http://www.pragatisheelsamajwadiparty.org/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://jkpdp.in/,POLR,Political Criticism,2019-04-09,OONI,Jammu & Kashmir Peoples Democratic Party
+http://gandhianparty.com/,POLR,Political Criticism,2019-04-09,OONI,Political party
+https://eci.gov.in/,POLR,Political Criticism,2019-04-09,OONI,Election Commission of India
+https://www.nvsp.in/,POLR,Political Criticism,2019-04-09,OONI,National Voters' Service Portal
+https://electoralsearch.in/,POLR,Political Criticism,2019-04-09,OONI,Electoral Search in Voter List
+http://servicevoter.nic.in/,POLR,Political Criticism,2019-04-09,OONI,Election Service Voters' Portal
+http://www.elections.in/,POLR,Political Criticism,2019-04-09,OONI,Elections website
+http://voicenet.in/,POLR,Political Criticism,2019-04-09,OONI,Voter Education site
+http://www.myneta.info/,POLR,Political Criticism,2019-04-09,OONI,National Election Watch - Sharing info about candidates & parties in 2019 elections
+https://adrindia.org/,POLR,Political Criticism,2019-04-09,OONI,Election watchdog
