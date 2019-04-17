@@ -1,30 +1,30 @@
 url,category_code,category_description,date_added,source,notes
 http://www.bbc.com/sinhala,NEWS,News Media,2017-07-19,BBC,
-http://www.bbcsinhala.com,NEWS,News Media,2017-07-19,BBC,
+http://www.bbcsinhala.com/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbc.com/tamil/,NEWS,News Media,2017-07-19,BBC,
-http://www.bbctamil.com,NEWS,News Media,2017-07-19,BBC,
+http://www.bbctamil.com/,NEWS,News Media,2017-07-19,BBC,
 http://lankaenews.com/,NEWS,News Media,2017-11-10,citizenlab,Lanka News reported blocked
 http://lankaenews.com/news/2403/en,NEWS,News Media,2017-11-10,citizenlab,
 https://www.yahoo.com/news/dissident-website-blocked-sri-lanka-143729266.html,NEWS,News Media,2017-11-10,citizenlab,
-https://www.groundviews.org,NEWS,News Media,2018-06-21,Community Member,
+https://www.groundviews.org/,NEWS,News Media,2018-06-21,Community Member,
 http://maatram.org/,NEWS,News Media,2018-06-21,Community Member,
 http://www.vikalpa.org/,NEWS,News Media,2018-06-21,Community Member,
 http://www.dailymirror.lk/,NEWS,News Media,2018-06-21,Community Member,
 https://www.facebook.com/OccupyColomboTheOfficial/,POLR,Political Criticism,2018-06-21,Community Member,
-http://www.adayaalam.org,HUMR,Human Rights Issues,2018-06-21,Community Member,
+http://www.adayaalam.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,
 http://www.veriteresearch.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,
 https://www.facebook.com/navamaniofficial/,NEWS,News Media,2018-06-21,Community Member,
 https://en.calameo.com/accounts/4438039,HOST,Hosting and Blogging Platforms,2018-06-21,Community Member,Hosting news content for Navamani. 
 http://www.jdslanka.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,
 https://cmev.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,
 http://www.colombopage.com/,NEWS,News Media,2018-06-21,Community Member,
-http://www.cpalanka.org,HUMR,Human Rights Issues,2018-06-21,Community Member,
-http://www.ft.lk,NEWS,News Media,2018-06-21,Community Member,
-https://www.colombotelegraph.com,NEWS,News Media,2018-06-21,Community Member,
-http://www.lankanewsweb.today,NEWS,News Media,2018-06-21,Community Member,"Domain is down, from Telecommunications Regulatory Commission blocklist published 12/08/2017"
-http://sinhala.lnwtoday.com,NEWS,News Media,2018-06-21,Community Member,"Domain is down, from Telecommunications Regulatory Commission blocklist published 12/08/2017"
-http://www.jilhub.com,PORN,Pornography,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017
-http://www.supirikello.com,DATE,Online Dating,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017
+http://www.cpalanka.org/,HUMR,Human Rights Issues,2018-06-21,Community Member,
+http://www.ft.lk/,NEWS,News Media,2018-06-21,Community Member,
+https://www.colombotelegraph.com/,NEWS,News Media,2018-06-21,Community Member,
+http://www.lankanewsweb.today/,NEWS,News Media,2018-06-21,Community Member,"Domain is down, from Telecommunications Regulatory Commission blocklist published 12/08/2017"
+http://sinhala.lnwtoday.com/,NEWS,News Media,2018-06-21,Community Member,"Domain is down, from Telecommunications Regulatory Commission blocklist published 12/08/2017"
+http://www.jilhub.com/,PORN,Pornography,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017
+http://www.supirikello.com/,DATE,Online Dating,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017
 http://www.gossipplanets.com/,MISC,Miscelaneous content,2018-06-21,Community Member,"gossip and rumor site, from Telecommunications Regulatory Commission blocklist published 12/08/2017"
 http://www.newjaffna.net/,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017
 http://www.vigasapuwath.blogspot.com/2016/08/blog-post_573.html,NEWS,News Media,2018-06-21,Community Member,From Telecommunications Regulatory Commission blocklist published 12/08/2017
@@ -37,16 +37,21 @@ http://lankanewsweb.today/archives/8530,NEWS,News Media,2018-06-21,Community Mem
 https://www.mahinda.info/,POLR,Political Criticism,2018-06-21,Community Member,
 https://www.tamilnet.com/,NEWS,News Media,2018-06-21,Community Member,
 https://roar.media/,CULTR,Culture,2018-06-21,Community Member,
-http://www.roar.lk,CULTR,Culture,2018-06-21,Community Member,Redirects to roar.media
-http://www.readme.lk,NEWS,News Media,2018-06-21,Community Member,
-http://www.yamu.lk,CULTR,Culture,2018-06-21,Community Member,
-http://www.lankanewsweb.info,NEWS,News Media,2018-06-21,Community Member,
+http://www.roar.lk/,CULTR,Culture,2018-06-21,Community Member,Redirects to roar.media
+http://www.readme.lk/,NEWS,News Media,2018-06-21,Community Member,
+http://www.yamu.lk/,CULTR,Culture,2018-06-21,Community Member,
+http://www.lankanewsweb.info/,NEWS,News Media,2018-06-21,Community Member,
 https://lankanewsweb.net/,NEWS,News Media,2018-06-21,Community Member,
 http://www.tamilwin.com/,NEWS,News Media,2018-06-21,Community Member,
-http://www.kaymu.lk,COMM,E-commerce,2018-06-21,Community Member,
-https://hirunews.lk,NEWS,News Media,2018-06-21,Community Member,
-https://ikman.lk,COMM,E-commerce,2018-06-21,Community Member,
-http://www.hirufm.lk,MMED,Media sharing,2018-06-21,Community Member,
-https://www.daraz.lk,COMM,E-commerce,2018-06-21,Community Member,
-http://www.gossiplankanews.com,NEWS,News Media,2018-06-21,Community Member,gossip and rumor site
-http://www.manthri.lk,HUMR,Human Rights Issues,2018-06-21,Community Member,MP scorecoard
+http://www.kaymu.lk/,COMM,E-commerce,2018-06-21,Community Member,
+https://hirunews.lk/,NEWS,News Media,2018-06-21,Community Member,
+https://ikman.lk/,COMM,E-commerce,2018-06-21,Community Member,
+http://www.hirufm.lk/,MMED,Media sharing,2018-06-21,Community Member,
+https://www.daraz.lk/,COMM,E-commerce,2018-06-21,Community Member,
+http://www.gossiplankanews.com/,NEWS,News Media,2018-06-21,Community Member,gossip and rumor site
+http://www.manthri.lk/,HUMR,Human Rights Issues,2018-06-21,Community Member,MP scorecoard
+https://si.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ta.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

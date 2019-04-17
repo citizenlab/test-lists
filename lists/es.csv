@@ -1,33 +1,35 @@
 url,category_code,category_description,date_added,source,notes
-http://gateway.ipfs.io,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://cat.referendum.barcelona,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://referendum.enricpineda.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.legal,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.party,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.ninja,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.love,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.fyi,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.rip,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.soy,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.lol,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.voto,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.works,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.observer,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.fun,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://alerta.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://referendum.pirata.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://referendum.pau.fm,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendumcat.eu,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://nigeon.github.io,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.ref1oct.eu,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.ref1oct.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://ref1oct.net,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://ref1oct.org,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://referendum.zalo.nyc,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://aniol.github.io,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://referendum.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://ref1oct.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.marianorajoy.cat,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://garantiespelreferendum.com,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-https://referendum.clash.cat,POLR,Political Criticism,2017-09-25,OONI,referendum in Catalonia
-https://marianorajoy.clash.cat,POLR,Political Criticism,2017-09-25,OONI,referendum in Catalonia
+http://gateway.ipfs.io/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://cat.referendum.barcelona/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://referendum.enricpineda.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.legal/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.party/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.ninja/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.love/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.fyi/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.rip/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.soy/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.lol/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.voto/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.works/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.observer/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendum.fun/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://alerta.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://referendum.pirata.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://referendum.pau.fm/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.referendumcat.eu/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://nigeon.github.io/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.ref1oct.eu/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.ref1oct.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://ref1oct.net/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://ref1oct.org/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://referendum.zalo.nyc/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://aniol.github.io/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://referendum.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://ref1oct.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://www.marianorajoy.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+http://garantiespelreferendum.com/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
+https://referendum.clash.cat/,POLR,Political Criticism,2017-09-25,OONI,referendum in Catalonia
+https://marianorajoy.clash.cat/,POLR,Political Criticism,2017-09-25,OONI,referendum in Catalonia
+https://eu.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://gl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
