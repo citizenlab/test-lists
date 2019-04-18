@@ -1,5 +1,18 @@
 url,category_code,category_description,date_added,source,notes
-https://pt.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://gn.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://es.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://es.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.semillas.org.py/,POLR,Political Criticism,2019-03-18,,Semillas para la democracia
+http://www.ceamso.org.py/,ENV,Environment,2019-03-18,,CEAMSO
+https://www.cird.org.py/,POLR,Political Criticism,2019-03-18,,CIRD
+https://www.aquieneselegimos.org.py/,POLR,Political Criticism,2019-03-18,,A Quienes Elegimos
+https://www.aireana.org.py/,LGBT,LGBT,2019-03-18,,Aireana
+http://www.panambi.org.py/,LGBT,LGBT,2019-03-18,,Panambi
+https://amnesty.org.py/,HUMR,Human Rights Issues,2019-03-18,,Amnistía Internacional
+https://igualdaddegenero.tedic.org/,LGBT,LGBT,2019-03-18,,Coalición Igualdad de Género
+https://elsurti.com/,NEWS,News Media,2019-03-18,,El Surtidor
+http://ea.com.py/v2/,NEWS,News Media,2019-03-18,,E'A
+http://www.mnp.gov.py/,HUMR,Human Rights Issues,2019-03-18,,Mecanismo Nacional de Prevención de la Tortura
+http://www.radio1000.com.py/,NEWS,News Media,2019-03-18,,Radio 1000
+https://anti.pyrawebs.org/,POLR,Political Criticism,2019-03-18,,Observatorio Anti-Pyrawebs
+http://www.japoli.org/,HUMR,Human Rights Issues,2019-03-18,,Japolí
+https://cyborgfeminista.tedic.org/,HUMR,Human Rights Issues,2019-03-18,,Cyborgfeminista
+https://www.quepasoencuruguaty.org.py/,HUMR,Human Rights Issues,2019-03-18,,Articulación Curuguaty
+https://www.serpajpy.org.py/,HUMR,Human Rights Issues,2019-03-18,,
