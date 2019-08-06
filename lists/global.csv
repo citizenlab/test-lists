@@ -1234,3 +1234,14 @@ https://pt.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by 
 https://mitm.watch/,ANON,Anonymization and circumvention tools,2019-03-20,magma,This site detects encryption-removing MITM using logic from NDSS17 interception paper
 https://credibilitycoalition.org/,CULTR,Culture,2019-04-19,OONI,Reportedly inaccessible on WE in Egypt (but probably worth testing globally)
 https://black.riseup.net/,ANON,Anonymization and circumvention tools,2019-04-26,LEAP,
+https://doubleclick.net/,COMM,E-commerce,2017-03-02,CIPIT,
+https://opera.com/,COMT,Communication Tools,2017-03-09,CIPIT,
+https://savefrom.net/,FILE,File-sharing,2017-03-02,CIPIT,
+https://stackexchange.com/,HOST,Hosting and Blogging Platforms,2017-03-09,CIPIT,
+https://stackoverflow.com/,HOST,Hosting and Blogging Platforms,2017-03-02,CIPIT,
+https://w3schools.com/,CULTR,Culture,2017-03-09,CIPIT,
+https://wikihow.com/,CULTR,Culture,2017-03-02,CIPIT,
+https://xda-developers.com/,HOST,Hosting and Blogging Platforms,2017-03-09,CIPIT,
+https://xe.com/,COMM,E-commerce,2017-03-09,CIPIT,
+https://bintray.com/,FILE,File-sharing,2017-05-16,ASL19,
+https://bitbucket.org/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
