@@ -1142,7 +1142,6 @@ https://getoutline.org/,ANON,Anonymization and circumvention tools,2018-04-06,Du
 http://fteproxy.org/,ANON,Anonymization and circumvention tools,2018-05-21,Community member,
 https://www.thegeekdiary.com/,HACK,Hacking Tools,2018-05-21,Community member,
 https://dns.google.com/,HOST,Hosting and Blogging Platforms,2018-05-02,OONI,
-https://cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com: https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
 https://1.1.1.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com. https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
 https://1.0.0.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com. https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
 https://dns.quad9.net/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Quad9 DNS over HTTPS; query is for www.example.com. https://quad9.com/doh-quad9-dns-servers/
@@ -1152,10 +1151,8 @@ https://signal.org/,COMT,Communication Tools,2018-04-19,OONI,
 https://www.tunnelbear.com/,ANON,Anonymization and circumvention tools,2018-04-19,OONI,
 https://www.vice.com/en_us,NEWS,News Media,2018-06-08,RSF,
 https://tytnetwork.com/,NEWS,News Media,2018-06-08,RSF,
-https://www.washingtonpost.com/,NEWS,News Media,2018-06-08,RSF,
 https://www.nbc.com/,NEWS,News Media,2018-06-08,RSF,
 http://abc.go.com/,NEWS,News Media,2018-06-08,RSF,
-https://www.usatoday.com/,NEWS,News Media,2018-06-08,RSF,
 https://threema.ch/,ANON,Anonymization and circumvention tools,2018-08-01,OONI,
 https://wickr.com/,ANON,Anonymization and circumvention tools,2018-08-01,OONI,
 https://commons.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -1169,13 +1166,6 @@ https://zh.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wi
 https://ja.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://it.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com: https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
-https://1.1.1.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com. https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
-https://1.0.0.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com. https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
-https://dns.quad9.net/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Quad9 DNS over HTTPS; query is for www.example.com. https://quad9.com/doh-quad9-dns-servers/
-https://9.9.9.9/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Quad9 DNS over HTTPS; query is for www.example.com. https://quad9.com/doh-quad9-dns-servers/
-https://soundcloud.com/,CULTR,Culture,2018-07-23,OONI,
-https://signal.org/,COMT,Communication Tools,2018-04-19,OONI,
-https://www.tunnelbear.com/,ANON,Anonymization and circumvention tools,2018-04-19,OONI,
 https://www.bbc.com/news,NEWS,News Media,2018-07-25,OONI,
 https://www.dw.com/en/,NEWS,News Media,2018-09-13,OONI,
 https://www.betternet.co/,ANON,Anonymization and circumvention tools,2018-09-18,DefendDefenders,
@@ -1244,7 +1234,6 @@ https://ar.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wi
 https://ar.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://es.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://pt.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pt.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://mitm.watch/,ANON,Anonymization and circumvention tools,2019-03-20,magma,This site detects encryption-removing MITM using logic from NDSS17 interception paper
 https://credibilitycoalition.org/,CULTR,Culture,2019-04-19,OONI,Reportedly inaccessible on WE in Egypt (but probably worth testing globally)
