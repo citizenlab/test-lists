@@ -1,6 +1,12 @@
 url,category_code,category_description,date_added,source,notes
-http://forum.rachad.org,NEWS,News Media,2014-04-15,citizenlab,
-http://tv.rachad.org,NEWS,News Media,2014-04-15,citizenlab,
-http://www.rachad.org,NEWS,News Media,2014-04-15,citizenlab,
+http://forum.rachad.org/,NEWS,News Media,2014-04-15,citizenlab,
+http://tv.rachad.org/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.rachad.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.tsa-algerie.com/,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by TELECOM ALGERIA (AS36947)
-https://www.tsa-arabi.com,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by TELECOM ALGERIA (AS36947)
+https://www.tsa-arabi.com/,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by TELECOM ALGERIA (AS36947)
+https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://arz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
