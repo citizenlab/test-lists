@@ -916,7 +916,7 @@ http://www.religioustolerance.org/,HUMR,Human Rights Issues,2014-04-15,citizenla
 https://www.reproductiverights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.repubblica.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rescue.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.rfa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.rfa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.rferl.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.rfi.fr/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.riftgame.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1264,3 +1264,9 @@ https://www.worldpulse.com/,GRP,Social Networking,2019-09-16,OONI,Social network
 https://globalpressjournal.com/,NEWS,News Media,2019-09-16,OONI,
 http://use-application-dns.net/,HOST,Hosting and Blogging Platforms,2019-09-09,David Fifield,NXDOMAIN indicates overt DNS filtering: https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https
 https://archive.is/,HOST,Hosting and Blogging Platforms,2019-08-30,chelchela,
+https://www.wfp.org/,IGO,Intergovernmental Organizations,2019-09-25,OONI,
+https://www.persecution.org/,REL,Religion,2019-09-25,OONI,
+https://www.isa.org.jm/,IGO,Intergovernmental Organizations,2019-09-25,OONI,
+https://www.ifc.org/,ECON,Economics,2019-09-25,OONI,
+http://www.ibe.unesco.org/,IGO,Intergovernmental Organizations,2019-09-25,OONI,
+https://www.iaea.org/,ENV,Environment,2019-09-25,OONI,
