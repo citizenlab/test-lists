@@ -350,7 +350,7 @@ http://www.aidsonline.com/,PUBH,Public Health,2014-04-15,citizenlab,Updated by O
 http://www.akdn.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.alarabiya.net/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.aleph.to/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.almanar.com.lb/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.alqassam.ps/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.altavista.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1268,3 +1268,4 @@ https://www.worldpulse.com/,GRP,Social Networking,2019-09-16,OONI,Social network
 https://globalpressjournal.com/,NEWS,News Media,2019-09-16,OONI,
 http://use-application-dns.net/,HOST,Hosting and Blogging Platforms,2019-09-09,David Fifield,NXDOMAIN indicates overt DNS filtering: https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https
 https://archive.is/,HOST,Hosting and Blogging Platforms,2019-08-30,chelchela,
+https://www.aljazeera.com/,NEWS,News Media,2019-09-19,OONI,
