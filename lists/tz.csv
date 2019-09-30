@@ -27,7 +27,7 @@ https://www.bbc.com/swahili,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcswahili.com/,NEWS,News Media,2017-07-19,BBC,
 https://sw.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://www.tmf.or.tz/,NEWS,News Media,2019-09-30,OONI,
-https://www.dailynews.co.tz,NEWS,News Media,2019-09-30,OONI,
+https://www.dailynews.co.tz/,NEWS,News Media,2019-09-30,OONI,
 https://allafrica.com/tanzania/,NEWS,News Media,2019-09-30,OONI,
 https://www.theguardian.com/world/tanzania,NEWS,News Media,2019-09-30,OONI,
 http://bongo5.com/,NEWS,News Media,2019-09-30,OONI,
@@ -68,7 +68,7 @@ https://www.care.org/,HUMR,Human Rights Issues,2019-09-30,OONI,
 https://www.savethechildren.org/,HUMR,Human Rights Issues,2019-09-30,OONI,
 http://www.tango.or.tz/,HUMR,Human Rights Issues,2019-09-30,OONI,
 http://www.esrftz.org/,ECON,Economics,2019-09-30,OONI,
-http://www.repoa.or.tz,ECON,Economics,2019-09-30,OONI,
+http://www.repoa.or.tz/,ECON,Economics,2019-09-30,OONI,
 https://lgbtvoicetz.org/,LGBT,LGBT,2019-09-30,OONI,
 https://www.mambaonline.com/2017/02/27/killing-lgbt-community-says-tanzanian-activist/,LGBT,LGBT,2019-09-30,OONI,
 http://www.gaysaradio.co.za/,LGBT,LGBT,2019-09-30,OONI,Regional
@@ -100,7 +100,6 @@ https://freedomhouse.org/country/tanzania,HUMR,Human Rights Issues,2019-09-30,OO
 https://advox.globalvoices.org/2018/04/12/will-tanzanian-bloggers-pay-up-or-push-back-against-blogger-tax/,POLR,Political Criticism,2019-09-30,OONI,
 https://www.worldbank.org/en/country/tanzania/overview,ECON,Economics,2019-09-30,OONI,
 http://ccm.or.tz/,POLR,Political Criticism,2019-09-30,OONI,Ruling party
-http://chadema.or.tz/,POLR,Political Criticism,2019-09-30,OONI,Political party
 http://nccr-mageuzi.blogspot.com/,POLR,Political Criticism,2019-09-30,OONI,Political party
 https://www.nec.go.tz/,POLR,Political Criticism,2019-09-30,OONI,National Electoral Commission
 https://tcd.or.tz/,POLR,Political Criticism,2019-09-30,OONI,
