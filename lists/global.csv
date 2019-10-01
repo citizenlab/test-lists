@@ -349,7 +349,7 @@ http://www.aidsonline.com/,PUBH,Public Health,2014-04-15,citizenlab,Updated by O
 http://www.akdn.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.alarabiya.net/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.aleph.to/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.almanar.com.lb/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.alqassam.ps/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.altavista.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -915,7 +915,7 @@ http://www.religioustolerance.org/,HUMR,Human Rights Issues,2014-04-15,citizenla
 https://www.reproductiverights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.repubblica.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rescue.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.rfa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.rfa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.rferl.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.rfi.fr/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.riftgame.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1254,6 +1254,9 @@ https://xda-developers.com/,HOST,Hosting and Blogging Platforms,2017-03-09,CIPIT
 https://xe.com/,COMM,E-commerce,2017-03-09,CIPIT,
 https://bintray.com/,FILE,File-sharing,2017-05-16,ASL19,
 https://bitbucket.org/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,
+https://www.privateinternetaccess.com/,ANON,Anonymization and circumvention tools,2019-09-11,OONI,Reportedly blocked in Hong Kong
+https://protonvpn.com/,ANON,Anonymization and circumvention tools,2019-09-11,OONI,
+https://antivigilancia.org/,HUMR,Human Rights Issues,2019-09-14,OONI,Covering surveillance and privacy issues in Latin America
 https://myabortionstory.tumblr.com/,XED,Sex Education,2019-09-05,OONI,
 https://vesselthefilm.com/,XED,Sex Education,2019-09-05,OONI,
 https://reproductiverights.org/,XED,Sex Education,2019-09-05,OONI,
@@ -1267,3 +1270,10 @@ https://www.worldpulse.com/,GRP,Social Networking,2019-09-16,OONI,Social network
 https://globalpressjournal.com/,NEWS,News Media,2019-09-16,OONI,
 http://use-application-dns.net/,HOST,Hosting and Blogging Platforms,2019-09-09,David Fifield,NXDOMAIN indicates overt DNS filtering: https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https
 https://archive.is/,HOST,Hosting and Blogging Platforms,2019-08-30,chelchela,
+https://www.wfp.org/,IGO,Intergovernmental Organizations,2019-09-25,OONI,
+https://www.persecution.org/,REL,Religion,2019-09-25,OONI,
+https://www.isa.org.jm/,IGO,Intergovernmental Organizations,2019-09-25,OONI,
+https://www.ifc.org/,ECON,Economics,2019-09-25,OONI,
+http://www.ibe.unesco.org/,IGO,Intergovernmental Organizations,2019-09-25,OONI,
+https://www.iaea.org/,ENV,Environment,2019-09-25,OONI,
+https://www.aljazeera.com/,NEWS,News Media,2019-09-19,OONI,
