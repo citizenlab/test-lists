@@ -243,6 +243,7 @@ http://www.ej.ru/,NEWS,News Media,2017-09-28,igorv,
 https://www.facebook.com/Kasparov.Ru,NEWS,News Media,2017-09-28,igorv,
 https://twitter.com/kasparovru,NEWS,News Media,2017-09-28,igorv,
 http://www.fergananews.com/,NEWS,News Media,2017-09-28,igorv,
+https://fergana.agency/,NEWS,News Media,2019-10-02,equalitie,
 http://www.liga.net/,NEWS,News Media,2017-09-28,igorv,
 http://www.20khvylyn.com/,NEWS,News Media,2017-09-28,igorv,
 http://uainfo.org/,NEWS,News Media,2017-09-28,igorv,
@@ -309,3 +310,16 @@ https://www.bbc.com/russian,NEWS,News Media,2018-09-13,OONI,
 https://www.dw.com/ru/,NEWS,News Media,2018-09-13,OONI,
 https://www.svoboda.org/,NEWS,News Media,2018-09-13,OONI,
 https://ru.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://fast-die.github.io/,COMM,E-commerce,2019-08-06,,GitHub government takedown notice from 2015-07-22
+https://leonaccess.github.io/,GMB,Gambling,2019-08-06,,GitHub government takedown notice from 2017-04-13
+https://bannerproxy.github.io/ru/anonymizer,ANON,Anonymization and circumvention tools,2019-08-06,,GitHub government takedown notice from 2017-07-18
+https://raw.githubusercontent.com/bcnv001/cnfg/master/sources/sources_enc.json,FILE,File-sharing,2019-08-06,,GitHub government takedown notice from 2017-08-18
+https://bbproxy.github.io/,ANON,Anonymization and circumvention tools,2019-08-06,,GitHub government takedown notice from 2017-09-15
+https://gist.githubusercontent.com/mjr27/ff6c3ebb190b27941ad3/raw/3a6b885d4be0d105b628ef3d8ecc517026d98ac9/suicide.txt,PUBH,Public Health,2019-08-06,,GitHub government takedown notice from 2018-03-13
+http://mdz-rus.github.io/,MISC,Miscelaneous content,2019-08-06,,GitHub government takedown notice from 2018-10-24
+https://github.com/donkaban/XShot/blob/master/suicide.txt,PUBH,Public Health,2019-08-06,,GitHub government takedown notice from 2019-07-25
+https://gist.github.com/ojab/b6345333147279321f1d,PUBH,Public Health,2019-08-06,,GitHub government takedown notice from 2019-07-25
+https://thesnipergodproxy.github.io/ru/anonymizer,ANON,Anonymization and circumvention tools,2019-08-06,,GitHub government takedown notice from 2019-07-31
+https://cherurg.github.io/investing-coins/,ECON,Economics,2019-08-06,,GitHub government takedown notice from 2019-08-05
