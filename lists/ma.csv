@@ -1,33 +1,11 @@
 url,category_code,category_description,date_added,source,notes
 http://amazighroots.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://annahjaddimocrati.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://ar.wikipedia.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,NEWS,News Media,2014-04-15,citizenlab,
-http://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,NEWS,News Media,2014-04-15,citizenlab,
-http://ar.wikipedia.org/wiki/%D8%AD%D9%82%D9%88%D9%82_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,NEWS,News Media,2014-04-15,citizenlab,
-http://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,NEWS,News Media,2014-04-15,citizenlab,
 http://arabicinfo.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://braveheart-does-the-maghreb.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://casablancasylum.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://e2011.pjd.ma/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://earth.google.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Berber_people,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Foreign_Relations_of_Morocco,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Foreign_relations_of_Morocco#Western_Sahara,GOVT,Government,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Human_rights_in_Morocco,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Military_of_Morocco,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Morocco,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Politics_of_the_Sahrawi_Arab_Democratic_Republic,GOVT,Government,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Western_Sahara,GOVT,Government,2014-04-15,citizenlab,
-http://fr.wikipedia.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Histoire_du_Maroc,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Liste_des_territoires_non_autonomes_selon_l%27ONU,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Mohammed_VI,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Mohammed_V_du_Maroc,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Politique_du_Maroc,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Premiers_ministres_du_Maroc,NEWS,News Media,2014-04-15,citizenlab,
-http://fr.wikipedia.org/wiki/Sahara_occidental,NEWS,News Media,2014-04-15,citizenlab,
 http://fr.youtube.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://fr.youtube.com/user/TarSniper,POLR,Political Criticism,2014-04-15,citizenlab,
 http://fr.youtube.com/watch?v=Z8RgWRmRtUc,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -111,7 +89,8 @@ http://www.youtube.com/profile?user=khattab1979,NEWS,News Media,2014-04-15,citiz
 http://www.youtube.com/profile?user=saharahorta,NEWS,News Media,2014-04-15,citizenlab,
 http://www.youtube.com/watch?v=yi61ZRB5yrI&mode=related&search=,NEWS,News Media,2014-04-15,citizenlab,
 http://www.youtube.com/watch?v=zpyjuYzJYeg,NEWS,News Media,2014-04-15,citizenlab,
-https://ar.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

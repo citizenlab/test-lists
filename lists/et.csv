@@ -1,8 +1,6 @@
 url,category_code,category_description,date_added,source,notes
 http://abrahadesta.wordpress.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://am.wikipedia.org/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://am.wikipedia.org/wiki/%E1%8B%8B%E1%8A%93%E1%8B%8D_%E1%8C%88%E1%8C%BD,MISC,Miscelaneous content,2014-04-15,citizenlab,
 http://amharic.voanews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://amharic.voanews.com/z/3303,NEWS,News Media,2018-09-13,OONI,
 http://ancientgebts.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -186,3 +184,5 @@ http://www.wfp.org/country_brief/indexcountry.asp?region=2&section=9&sub_section
 http://www.who.int/countries/eth/en/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.zehabesha.com/,NEWS,News Media,2016-09-09,CIPIT,
 http://yekolotemari.blog.com/,CULTR,Culture,2014-04-15,citizenlab,
+https://am.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://africanarguments.org/,NEWS,News Media,2019-08-05,citizenlab,

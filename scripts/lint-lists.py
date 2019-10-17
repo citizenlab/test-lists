@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+import argparse
 import datetime
 import os
 import re
@@ -7,7 +8,10 @@ import sys
 import csv
 from glob import glob
 
-from urlparse import urlparse
+try:
+    from urlparse import urlparse
+except:
+    from urllib.parse import urlparse
 
 VALID_URL = regex = re.compile(
         r'^(?:http)s?://' # http:// or https://
@@ -89,9 +93,9 @@ def get_new_description_code(row):
 
 def load_categories(path, get_description_code=get_new_description_code):
     code_map = {}
-    with open(path, 'rb') as in_file:
+    with open(path, 'r') as in_file:
         reader = csv.reader(in_file, delimiter=',')
-        reader.next() # skip header
+        next(reader) # skip header
         for row in reader:
             desc, code = get_description_code(row)
             code_map[code] = desc
@@ -99,28 +103,21 @@ def load_categories(path, get_description_code=get_new_description_code):
 
 def load_global_list(path):
     check_list = set()
-    with open(path, 'rb') as in_file:
+    with open(path, 'r') as in_file:
         reader = csv.reader(in_file, delimiter=',')
         for idx, row in enumerate(reader):
             if idx != 0 and (len(row) == 6):
                 check_list.add(row[0])
     return check_list
 
-def main(source='OONI', notes='', legacy=False, fix_duplicates=False, fix_slash=False):
+def main(lists_path, fix_duplicates=False, fix_slash=False):
     all_errors = []
     total_urls = 0
     total_countries = 0
-    lists_path = sys.argv[1]
-    if legacy is True:
-        CATEGORY_CODES = load_categories(
-            os.path.join(lists_path, LEGACY_CATEGORY_CODES),
-            get_legacy_description_code
-        )
-    else:
-        CATEGORY_CODES = load_categories(
-            os.path.join(lists_path, NEW_CATEGORY_CODES),
-            get_new_description_code
-        )
+    CATEGORY_CODES = load_categories(
+        os.path.join(lists_path, NEW_CATEGORY_CODES),
+        get_new_description_code
+    )
     header = ['url', 'category_code', 'category_description',
               'date_added', 'source', 'notes']
     # preload the global list to check against looking for dupes
@@ -130,9 +127,9 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False, fix_slash=
             continue
         if not csv_path.endswith('.csv'):
             continue
-        with open(csv_path, 'rb') as in_file:
+        with open(csv_path, 'r') as in_file:
             reader = csv.reader(in_file, delimiter=',')
-            reader.next() # skip header
+            next(reader) # skip header
             urls_bag = set()
             errors = []
             rows = []
@@ -211,7 +208,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False, fix_slash=
         if fix_slash and without_slash > 0:
             print('Fixing slash in %s' % csv_path)
             rows.insert(0, header)
-            with open(csv_path + '.fixed', 'wb') as out_file:
+            with open(csv_path + '.fixed', 'w') as out_file:
                 csv_writer = csv.writer(out_file, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
                 csv_writer.writerows(rows)
             os.rename(csv_path + '.fixed', csv_path)
@@ -219,7 +216,7 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False, fix_slash=
         if fix_duplicates and duplicates > 0:
             rows.sort(key=lambda x: x[0].split('//')[1])
             rows.insert(0, header)
-            with open(csv_path + '.fixed', 'wb') as out_file:
+            with open(csv_path + '.fixed', 'w') as out_file:
                 csv_writer = csv.writer(out_file, quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
                 csv_writer.writerows(rows)
             print('Sorting %s - Found %d duplicates' % (csv_path, duplicates))
@@ -237,4 +234,10 @@ def main(source='OONI', notes='', legacy=False, fix_duplicates=False, fix_slash=
     sys.exit(1)
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description='Check that the test lists are OK')
+    parser.add_argument('lists_path', metavar='LISTS_PATH', help='path to the test list')
+    parser.add_argument('--fix-duplicates', action='store_true')
+    parser.add_argument('--fix-slash', action='store_true')
+
+    args = parser.parse_args()
+    main(args.lists_path, fix_duplicates=args.fix_duplicates, fix_slash=args.fix_slash)

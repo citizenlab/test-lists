@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://cdftz.org/page.php?pg=128,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/LGBT_rights_in_Tanzania,LGBT,LGBT,2014-04-15,citizenlab,
 http://fgcdailynews.blogspot.com/2010/11/tanzania-anti-mutilation-campaign.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://hakinaumma.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://ippmedia.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -17,8 +16,6 @@ http://mpayukaji.blogspot.com/2011/02/suto-kwa-wadini-wa-tanzania-ufisadi.html,P
 http://ndimara.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://news.bbc.co.uk/2/hi/africa/7523796.stm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://rsmiruko.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://sw.wikipedia.org/wiki/Albino,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://sw.wikipedia.org/wiki/Uzeruzeru,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://thecitizen.co.tz/news/4-national-news/5861-police-alleged-to-delaymurder-case-of-tabora-albino-girl.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://twitter.com/zittokabwe,POLR,Political Criticism,2014-04-15,citizenlab,
 http://vijanafm.crowdmap.com/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -48,3 +45,4 @@ http://zittokabwe.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://millardayo.com/,NEWS,News Media,2017-01-17,CIPIT,
 http://www.bbc.com/swahili/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcswahili.com/,NEWS,News Media,2017-07-19,BBC,
+https://sw.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country

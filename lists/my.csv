@@ -41,7 +41,6 @@ http://ec2-52-77-145-248.ap-southeast-1.compute.amazonaws.com/,NEWS,News Media,2
 http://ec2-54-251-147-140.ap-southeast-1.compute.amazonaws.com/,NEWS,News Media,2017-01-12,sinarproject,auto assigned AWS hostname used as alternate domain for Sarawak Report
 http://elizabethwong.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://en.rsf.org/article.php3?id_article=20789,NEWS,News Media,2014-04-15,citizenlab,
-http://en.wikipedia.org/wiki/Status_of_religious_freedom_in_Malaysia,REL,Religion,2014-04-15,citizenlab,
 http://english.astroawani.com/malaysia-news/activist-fahmi-reza-released-after-being-arrested-saturday-107283,POLR,Political Criticism,2016-06-10,OONI,
 http://eunited.com.my/,NEWS,News Media,2017-10-27,sinarproject,
 http://everynation.org.my/,REL,Religion,2017-10-03,sinarproject,Every Nation Church
@@ -101,8 +100,6 @@ http://mercumaya.net/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://merdekareview.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://mir.com.my/,CULTR,Culture,2014-04-15,citizenlab,
 http://mufti.perlis.gov.my/,REL,Religion,2017-10-04,sinarproject,Perlis State Mufti department 
-http://ms.wikipedia.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://ms.wikipedia.org/wiki/Laman_Utama,NEWS,News Media,2014-04-15,citizenlab,
 http://mt.harapanmalaysia.com/2008/,POLR,Political Criticism,2016-06-10,OONI,
 http://mt.m2day.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://mt.m2day.org/2008/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -488,5 +485,4 @@ http://zorro-zorro-unmasked.blogspot.com/,POLR,Political Criticism,2016-06-10,OO
 https://ms.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://id.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://ar.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
