@@ -1,282 +1,566 @@
 url,category_code,category_description,date_added,source,notes
-http://198.175.124.185/,NEWS,News Media,2014-04-15,citizenlab,
-http://7iber.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://ahdnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://ajelonline.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://akhbar-jo.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://akhbar-jo.com/,CULTR,Culture,2014-04-15,citizenlab,OONI changed the category and fixed the URL
-https://al-bab.com/news/jordan,NEWS,News Media,2018-09-05,OONI,
-http://alarrabnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://albosala.com/,NEWS,News Media,2018-09-05,OONI,
-http://aldarbnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alfaisalnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://alfetnanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alghad.com/,NEWS,News Media,2018-09-05,OONI,
-http://alhorralordonia.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://aljazeerajo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alkaraknews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alkhatalahmar.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://almajd.net/,NEWS,News Media,2018-09-05,OONI,
-http://almasanews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://almejharnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alrai.com/,NEWS,News Media,2018-09-05,OONI,
-http://alramtha.net/,NEWS,News Media,2018-09-05,OONI,
-http://alrehannews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alwakaai.com/,NEWS,News Media,2018-09-05,OONI,
-http://alwaraqnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alyaumpress.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://amjadnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://amman1.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://ammancity.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://ammannet.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://ammannewsdaily.com/,NEWS,News Media,2018-09-05,OONI,
 http://aqabatodaynews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://ar.ammannet.net/,NEWS,News Media,2014-04-15,citizenlab,Reportedly blocked in the past
-https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://arabcrunch.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://arabic-media.com/jordan-news.htm,NEWS,News Media,2018-09-05,OONI,
-https://archive.org/,FILE,File-sharing,2018-06-21,Community member,Reportedly blocked in the past
-https://arz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://asrarjo.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://assabeel.net/,NEWS,News Media,2018-09-05,OONI,
-http://assaqifa.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://attahadyatnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://black-iris.com/,POLR,Political Criticism,2018-09-05,OONI,
-http://cnn.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://easternmednews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://ecopeaceme.org/,ENV,Environment,2018-09-05,OONI,
-https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://factjo.com/,NEWS,News Media,2018-09-05,OONI,
-http://hasadnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://jalaad.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://jes.org.jo/,ENV,Environment,2018-09-05,OONI,
-http://jorda.new24.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://jordan.unwomen.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://jordandays.tv/,NEWS,News Media,2014-04-15,citizenlab,
-https://jordanopensource.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://jordantimes.com/,NEWS,News Media,2018-09-05,OONI,
-http://joset.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://khabrjo.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://marayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://medium.com/,NEWS,News Media,2018-06-14,frekeeh,
-http://mehnanews.net/home,NEWS,News Media,2014-04-15,citizenlab,
-http://nabaalyawm.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://newscafee.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://newsjo.today/,NEWS,News Media,2014-04-15,citizenlab,
-http://nytimes.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://ordunnanews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://petra.gov.jo/,NEWS,News Media,2018-09-05,OONI,
-http://petranews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://ramthanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://rayanews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://rumfm.net/home,NEWS,News Media,2014-04-15,citizenlab,
-https://ruwwad.ngo/,ECON,Economics,2018-09-05,OONI,NGO offering community support in Jordan
-http://sahafeh.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://sanarah.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://sawaleif.com/,NEWS,News Media,2018-09-05,OONI,
-http://sawtalbalad.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://sawtalhaq.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://senarahnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://shaabnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://shbeebnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://solj-ghal.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://sunjo.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://tajjo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://taqaddam.org/,POLR,Political Criticism,2018-09-05,OONI,A social initiative that advocates for a green democratic Jordan
-http://tayarwatani.jo/,POLR,Political Criticism,2018-09-05,OONI,Political party
-http://voicejo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://watananews.com/,NEWS,News Media,2018-09-05,OONI,
-http://watnnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://wihdaparty.com/,POLR,Political Criticism,2018-09-05,OONI,Political party
-http://www.3rbnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.7iber.com/,NEWS,News Media,2018-06-21,Community member,Reportedly blocked in the past
-http://www.aboshreek.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.abpparty.org/,POLR,Political Criticism,2018-09-05,OONI,Political party
-http://www.achrs.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.addiwannews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.addustour.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.afaqnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ahl-aljordan.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ain.jo/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ajjbed.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ajlouncastelnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ajoortoday.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.akhbarna.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.akherkhabar.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.al-liwa.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.al-sijill.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.al3awdeh.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alaannews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alahrarr.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alanbatnews.net/,NEWS,News Media,2018-09-05,OONI,
-http://www.albaladnews.net/,NEWS,News Media,2018-09-05,OONI,
 http://www.albalqanews.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.albawaba.com/,NEWS,News Media,2018-09-05,OONI,Reportedly blocked
-https://www.albawaba.com/jordan,NEWS,News Media,2018-09-05,OONI,
 http://www.albosala.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.albwaba.com/ar,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alfdeennews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alhornews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alhurrianews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.aljanoobnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.aljawharnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.aljazeera.com/topics/country/jordan.html,NEWS,News Media,2018-09-05,OONI,
-http://www.alkaraknews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alkhandaq.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.allofjo.net/,NEWS,News Media,2018-09-05,OONI,
-http://www.almadenahnews.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.almalaf.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.almaqas.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.almasarnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.almejharnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.almuharrir.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alnasnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alnhaar.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alofjo.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alordonia.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.aloulanewscom/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alqemmahnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alqnasnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alrasednews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alrebatnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.altaqrer.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.alwakeelnews.com/,NEWS,News Media,2018-09-05,OONI,
 http://www.amiranews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ammanpost.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ammantoday.com/,CULTR,Culture,2018-09-05,OONI,
-http://www.ammonnews.net/,NEWS,News Media,2018-09-05,OONI,
-https://www.amnesty.org/en/countries/middle-east-and-north-africa/jordan/,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.amnuna.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.amranews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.anjara.news.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.arabissues.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.arabjo.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.aramram.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.arbellanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.assaltnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.assawsana.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.autostradnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.awo.org.jo/,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.ayn-w.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.baladnanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.basmannews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.bbc.co.uk/news/world-middle-east-14636310,NEWS,News Media,2018-09-05,OONI,
-http://www.beladalorb.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.beladalshamnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.bellanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.beraianews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.bergeshnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.collateralrepairproject.org/,HUMR,Human Rights Issues,2018-09-05,OONI,NGO supporting refugees
-http://www.cpjo.org/,POLR,Political Criticism,2018-09-05,OONI,Political party
-http://www.cpmjo.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.donianews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dunes-jo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.efranews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.emtyaznet.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.facejordan.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.fasadnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.forsannews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.fridaynews.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.garaanews.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.gerasanews.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.globeandmail.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.globes.co.il/,NEWS,News Media,2017-06-28,reemalmasri,
-https://www.globes.co.il/,NEWS,News Media,2017-06-28,reemalmasri,
-http://www.halanews.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.hasadnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.hashd-ahali.org/main/ahali/,POLR,Political Criticism,2018-09-05,OONI,Political party
-http://www.hayatcenter.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.hitteennews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.hitteennews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.horeyatnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.hrw.org/world-report/2018/country-chapters/jordan,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.hunaamman.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ikhwanjo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ilanews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.irbidnews.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.isdefexpo.com/,NEWS,News Media,2017-06-28,reemalmasri,
-http://www.istklalnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jbcnews.net/,NEWS,News Media,2018-09-05,OONI,
-http://www.jebalamman.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jerash-news.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jfranews.com.jo/,NEWS,News Media,2018-09-05,OONI,
-http://www.jmi.edu.jo/ar/,POLR,Political Criticism,2018-09-05,OONI,Jordan Media Institute
 http://www.jo24.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.johd-news.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jor9.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.jordandating.net/,DATE,Online Dating,2018-09-05,OONI,
-http://www.jordantalk.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jordantimes.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.jordanzad.com/,NEWS,News Media,2018-09-05,OONI,
 http://www.jorday.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jortoday.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jsf.org/ar,ECON,Economics,2018-09-05,OONI,
-http://www.jwu.itgo.com/bg.htm,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.kafd.jo/,ECON,Economics,2018-09-05,OONI,NGO offering career advice for University students in Jordan
-http://www.karamatnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.kawaleesjo.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.kermalkom.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.khabarajel.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.khaberni.com/,NEWS,News Media,2018-09-05,OONI,
-http://www.leadersot.org/,ECON,Economics,2018-09-05,OONI,
-http://www.mahjoob.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.marayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.mojtma3.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.mossad.gov.il/Pages/default.aspx,NEWS,News Media,2017-06-28,reemalmasri,
-http://www.mouab.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.myjordanjourney.com/,CULTR,Culture,2018-09-05,OONI,
-https://www.mykalimag.com/,CULTR,Culture,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
-http://www.nabdalbalad.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.najemnewscom/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.nashamanews.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.news-jo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.nibonews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.noornews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.partners-jordan.org/,POLR,Political Criticism,2018-09-05,OONI,Non-profit for social & political development
-http://www.pecdar.ps/index.php,HUMR,Human Rights Issues,2018-09-05,OONI,
-http://www.postjordan.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.princessbasma.jo/,ECON,Economics,2018-09-05,OONI,Sustainable development focused on promoting the role of women and youth in Jordan
-http://www.qaraya.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.rainbow-street.org/,LGBT,LGBT,2018-09-05,OONI,
 http://www.ramthavoice.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ranahusseini.com/,HUMR,Human Rights Issues,2018-09-05,OONI,Site of Jordanian human rights activist
 http://www.rasseen.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.reefnews.info/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.rhas.org.jo/,PUBH,Public Health,2018-09-05,OONI,Local NGO
-http://www.royanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.royanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.rqebnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.rumonline.net/,NEWS,News Media,2018-09-05,OONI,
-http://www.s2nn.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.s2nn.com/jo,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sa5arnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.sahafi.jo/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sanews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sarahanews.net/,NEWS,News Media,2018-09-05,OONI,
-http://www.sarayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.sarayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sawtordon.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.secretnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.shaabnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.shayfak.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.shbabelyom.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sheepress.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.spysatnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.tajjo.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.talabanews.net/,NEWS,News Media,2018-09-05,OONI,
-http://www.tarbeahnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.templeinstitute.org/,REL,Religion,2017-01-23,Alan Orth,Website of Israeli organization promoting a radical Jewish agenda for sacred sites in Jerusalem
-https://www.theglobeandmail.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.theguardian.com/world/jordan,NEWS,News Media,2018-09-05,OONI,
-http://www.thejordantoday.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.timeout.com/travel/features/1239/jordan-the-highlights,CULTR,Culture,2018-09-05,OONI,Reportedly blocked
-http://www.tourismworld-seyaha.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.wahanews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.wehdanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.wejhat.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.wtn24.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.yarmouknews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.yawmak.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.zarqanews.net/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.royanews.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.sarayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.theglobeandmail.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://alarrabnews.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.marayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.tourismworld-seyaha.com/,CULTR,Culture,2014-04-15,citizenlab,
+http://www.aboshreek.com/,COMM,E-commerce,2014-04-15,citizenlab,
+http://www.ahl-aljordan.com/,DATE,Online Dating,2014-04-15,citizenlab,
+https://arabcrunch.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.7iber.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://afaqnews.net/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.noornews.net/,NEWS,News Media,2014-04-15,citizenlab,
+https://almalaf.net/,NEWS,News Media,2014-04-15,citizenlab,
+https://almejharnews.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://ammannet.net/,NEWS,News Media,2014-04-15,citizenlab,Reportedly blocked in the past
+https://ilanews.net/,NEWS,News Media,2014-04-15,citizenlab,
+http://jalaad.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://newsjo.today/,NEWS,News Media,2014-04-15,citizenlab,
+http://tajjo.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.almalaf.net/,NEWS,News Media,2014-04-15,citizenlab,
+http://aldarbnews.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.addiwannews.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.ain.jo/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.assaltnews.net/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.tajjo.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.templeinstitute.org/,REL,Religion,2017-01-23,Alan Orth,Website of Israeli organization promoting a radical Jewish agenda for sacred sites in Jerusalem
+https://www.globes.co.il/,NEWS,News Media,2017-06-28,reemalmasri,
+https://www.mossad.gov.il/Pages/default.aspx/,GOVT,Government,2017-06-28,reemalmasri,
+https://www.isdefexpo.com/,NEWS,News Media,2017-06-28,reemalmasri,
+https://www.mykalimag.com/,CULTR,Culture,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
+https://www.timeout.com/travel/features/1239/jordan-the-highlights/,CULTR,Culture,2018-09-05,OONI,Reportedly blocked
+http://www.ammantoday.com/,CULTR,Culture,2018-09-05,OONI,
+https://www.myjordanjourney.com/,CULTR,Culture,2018-09-05,OONI,
+http://www.jsf.org/ar/,ECON,Economics,2018-09-05,OONI,
+http://www.princessbasma.jo/,ECON,Economics,2018-09-05,OONI,Sustainable development focused on promoting the role of women and youth in Jordan
+https://ruwwad.ngo/,ECON,Economics,2018-09-05,OONI,NGO offering community support in Jordan
+http://ecopeaceme.org/,ENV,Environment,2018-09-05,OONI,
+http://jes.org.jo/,ENV,Environment,2018-09-05,OONI,
+https://www.amnesty.org/en/countries/middle-east-and-north-africa/jordan/,HUMR,Human Rights Issues,2018-09-05,OONI,
+https://www.hrw.org/world-report/2018/country-chapters/jordan/,HUMR,Human Rights Issues,2018-09-05,OONI,
+http://www.achrs.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
+http://www.hayatcenter.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
+http://www.jwu.itgo.com/bg.htm/,HUMR,Human Rights Issues,2018-09-05,OONI,
+http://www.pecdar.ps/index.php/,HUMR,Human Rights Issues,2018-09-05,OONI,
+http://www.ranahusseini.com/,HUMR,Human Rights Issues,2018-09-05,OONI,Site of Jordanian human rights activist
+https://jordanopensource.org/,HUMR,Human Rights Issues,2018-09-05,OONI,
+https://www.awo.org.jo/,HUMR,Human Rights Issues,2018-09-05,OONI,
+https://www.collateralrepairproject.org/,HUMR,Human Rights Issues,2018-09-05,OONI,NGO supporting refugees
+https://www.rainbow-street.org/,LGBT,LGBT,2018-09-05,OONI,
+https://www.bbc.com/news/world-middle-east-14636310/,NEWS,News Media,2018-09-05,OONI,
+https://www.theguardian.com/world/jordan/,NEWS,News Media,2018-09-05,OONI,
+https://www.aljazeera.com/topics/country/jordan.html/,NEWS,News Media,2018-09-05,OONI,
+http://jordantimes.com/,NEWS,News Media,2018-09-05,OONI,
+http://petra.gov.jo/,NEWS,News Media,2018-09-05,OONI,
+http://assabeel.net/,NEWS,News Media,2018-09-05,OONI,regional MENA/ close to IKhwan in Jordan
+http://alrai.com/,NEWS,News Media,2018-09-05,OONI,regional MENA/ state funded media
+http://albosala.com/,NEWS,News Media,2018-09-05,OONI,
+http://almajd.net/,NEWS,News Media,2018-09-05,OONI,
+http://alramtha.net/,NEWS,News Media,2018-09-05,OONI,
+http://alwakaai.com/,NEWS,News Media,2018-09-05,OONI,
+http://ammannewsdaily.com/,NEWS,News Media,2018-09-05,OONI,
+http://factjo.com/,NEWS,News Media,2018-09-05,OONI,
+http://watananews.com/,NEWS,News Media,2018-09-05,OONI,
+http://www.al-sijill.com/,NEWS,News Media,2018-09-05,OONI,
+http://www.alanbatnews.net/,NEWS,News Media,2018-09-05,OONI,
+http://www.albaladnews.net/,NEWS,News Media,2018-09-05,OONI,
+http://www.allofjo.net/,NEWS,News Media,2018-09-05,OONI,
+http://www.almadenahnews.com/,NEWS,News Media,2018-09-05,OONI,
+http://www.ammonnews.net/,NEWS,News Media,2018-09-05,OONI,
+http://www.gerasanews.com/,NEWS,News Media,2018-09-05,OONI,
+http://www.irbidnews.com/,NEWS,News Media,2018-09-05,OONI,
+http://www.jbcnews.net/,NEWS,News Media,2018-09-05,OONI,
+http://www.jfranews.com.jo/,NEWS,News Media,2018-09-05,OONI,
+http://www.jordanzad.com/,NEWS,News Media,2018-09-05,OONI,
+http://www.rumonline.net/,NEWS,News Media,2018-09-05,OONI,
+http://www.sarahanews.net/,NEWS,News Media,2018-09-05,OONI,
+https://al-bab.com/news/jordan/,NEWS,News Media,2018-09-05,OONI,
+https://arabic-media.com/jordan-news.htm/,NEWS,News Media,2018-09-05,OONI,
+https://www.addustour.com/,NEWS,News Media,2018-09-05,OONI,
+https://www.albawaba.com/,NEWS,News Media,2018-09-05,OONI,Reportedly blocked
+https://www.assawsana.com/,NEWS,News Media,2018-09-05,OONI,
+https://www.garaanews.com/,NEWS,News Media,2018-09-05,OONI,
+https://www.khaberni.com/,NEWS,News Media,2018-09-05,OONI,
+https://www.talabanews.net/,NEWS,News Media,2018-09-05,OONI,
+https://www.jordandating.net/,DATE,Online Dating,2018-09-05,OONI,
+http://black-iris.com/,POLR,Political Criticism,2018-09-05,OONI,
+http://taqaddam.org/,POLR,Political Criticism,2018-09-05,OONI,A social initiative that advocates for a green democratic Jordan
+http://tayarwatani.jo/,POLR,Political Criticism,2018-09-05,OONI,Political party
+http://www.abpparty.org/,POLR,Political Criticism,2018-09-05,OONI,Political party
+http://www.cpjo.org/,POLR,Political Criticism,2018-09-05,OONI,Political party
+http://www.partners-jordan.org/,POLR,Political Criticism,2018-09-05,OONI,Non-profit for social & political development
+https://wihdaparty.com/,POLR,Political Criticism,2018-09-05,OONI,Political party
+https://www.hashd-ahali.org/main/ahali/,POLR,Political Criticism,2018-09-05,OONI,Political party
+http://www.rhas.org.jo/,PUBH,Public Health,2018-09-05,OONI,Local NGO
+https://www.jmi.edu.jo/,NEWS,News Media,2018-09-05,OONI,Jordan Media Institute
+https://jordan.unwomen.org/en/,IGO,Intergovernmental Organizations	,2018-09-05,OONI,
+https://www.kafd.jo/,ECON,Economics,2018-09-05,OONI,NGO offering career advice for University students in Jordan
+https://www.leadersot.org/,ECON,Economics,2018-09-05,OONI,
+https://alghad.com/,NEWS,News Media,2018-09-05,OONI,
+https://sawaleif.com/,NEWS,News Media,2018-09-05,OONI,
+https://www.alwakeelnews.com/,NEWS,News Media,2018-09-05,OONI,
 https://www.watanserb.com/,NEWS,News Media,2019-01-31,Jordan Open Source Association,
+https://getspiritz.com/,ALDR,Alcohol & Drugs,2019-10-25,Netalitica,
+https://mashrobi.com/,ALDR,Alcohol & Drugs,2019-10-25,Netalitica,
+https://www.khalafwines.com/,ALDR,Alcohol & Drugs,2019-10-25,Netalitica,
+https://kaserproxy.net/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://mahjooob.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://nottrees.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://salamatechwiki.org,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://www.arabichotspotshield.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://www.cyber-arabs.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://www.proteachin.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://www.salamatech.org/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://www.toopenblockedsites.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+https://xn--ngbsg7dyao.xyz/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,regional MENA relevance
+http://www.proxyarab.com/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,
+https://asl19.org/ar/,ANON,Anonymization and circumvention tools	,2019-10-25,Netalitica,
+http://ltrc.gov.jo/,GOVT,Government,2019-10-25,Netalitica,
+http://www.culture.gov.jo/,GOVT,Government,2019-10-25,Netalitica,
+http://www.visitjordan.com/,GOVT,Government,2019-10-25,Netalitica,
+https://rhc.jo/,GOVT,Government,2019-10-25,Netalitica,
+https://rj.com/,COMM,E-commerce,2019-10-25,Netalitica,
+https://www.ase.com.jo/,ECON,Economics,2019-10-25,Netalitica,
+http://cimaclub.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+http://jdeedmagazine.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+http://mashrouleila.com,CULTR,Culture,2019-10-25,Netalitica,Lebanese band that was banned from performing in Jordan
+http://thaqafat.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+http://www.adab.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://aljaras.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://ma3azef.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://mawdoo3.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://mawred.org/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://www.aldiwan.net/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://www.arabculturefund.org/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://www.diwanalarab.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://www.marefa.org/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://www.sayidaty.net/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+http://al-balad.org/,CULTR,Culture,2019-10-25,Netalitica,independent theater
+http://daratalfunun.org/,CULTR,Culture,2019-10-25,Netalitica,
+http://jordanheritage.jo/,CULTR,Culture,2019-10-25,Netalitica,
+http://mmagfoundation.org/,CULTR,Culture,2019-10-25,Netalitica,
+http://www.alshamstheater.com/,CULTR,Culture,2019-10-25,Netalitica,
+http://www.film.jo/,CULTR,Culture,2019-10-25,Netalitica,
+http://www.jadalband.com/,CULTR,Culture,2019-10-25,Netalitica,
+http://www.makanhouse.net/,CULTR,Culture,2019-10-25,Netalitica,
+http://www.springsessions.org/,CULTR,Culture,2019-10-25,Netalitica,
+https://daralanda.com/,CULTR,Culture,2019-10-25,Netalitica,
+https://meshkatcommunity.org/,CULTR,Culture,2019-10-25,Netalitica,
+https://queenraniafashion.blogspot.com/,CULTR,Culture,2019-10-25,Netalitica,
+https://queenraniastyle.blogspot.com/,CULTR,Culture,2019-10-25,Netalitica,
+https://www.karamafestival.org/,CULTR,Culture,2019-10-25,Netalitica,
+https://www.layalina.com/,CULTR,Culture,2019-10-25,Netalitica,
+https://www.shoman.org/,CULTR,Culture,2019-10-25,Netalitica,
+http://www.adaleh.info/,COMM,E-commerce        ,2019-10-25,Netalitica,Previously blocked
+https://jamalon.com/,COMM,E-commerce	,2019-10-25,Netalitica,regional MENA relevance
+https://www.bayt.com/,COMM,E-commerce	,2019-10-25,Netalitica,Employement Website
+https://www.talabat.com/,COMM,E-commerce	,2019-10-25,Netalitica,regional MENA relevance
+http://aroundtowncities.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+http://dinarak.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+http://qbank.info/,COMM,E-commerce	,2019-10-25,Netalitica,Previously blocked
+http://www.wheretojo.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+https://inspector.jo/,COMM,E-commerce	,2019-10-25,Netalitica,Previously blocked
+https://jo.opensooq.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+https://madfooat.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+https://qistas.com/,COMM,E-commerce	,2019-10-25,Netalitica,Previously blocked
+https://weedo.me/,COMM,E-commerce	,2019-10-25,Netalitica,
+https://www.basket.jo/,COMM,E-commerce	,2019-10-25,Netalitica,
+https://www.crif.jo/,COMM,E-commerce	,2019-10-25,Netalitica,Previously blocked
+https://www.mrayti.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+https://www.secret.jo/,COMM,E-commerce	,2019-10-25,Netalitica,Previously blocked
+https://www.washywash.com/,COMM,E-commerce	,2019-10-25,Netalitica,
+http://www.aleqt.com/,ECON,Economics,2019-10-25,Netalitica,regional MENA relevance
+https://fbmjo.com/,ECON,Economics,2019-10-25,Netalitica,regional MENA relevance
+https://www.for9a.com/,ECON,Economics,2019-10-25,Netalitica,regional MENA relevance
+http://www.ipark.jo/,ECON,Economics,2019-10-25,Netalitica,
+http://www.microfund.org.jo/,ECON,Economics,2019-10-25,Netalitica,
+http://www.nooralhusseinfoundation.org/,ECON,Economics,2019-10-25,Netalitica,
+http://www.shamalstart.com/,ECON,Economics,2019-10-25,Netalitica,
+https://jordanlens.org/,ECON,Economics,2019-10-25,Netalitica,
+https://oasis500.com/,ECON,Economics,2019-10-25,Netalitica,
+https://tti-jo.org/,ECON,Economics,2019-10-25,Netalitica,
+https://www.jlgc.com/,ECON,Economics,2019-10-25,Netalitica,
+https://www.liwwa.com/,ECON,Economics,2019-10-25,Netalitica,
+http://www.eqtisadnews.com/,ECON,Economics,2019-10-25,Netalitica,
+https://www.wamda.com/,ECON,Economics,2019-10-25,Netalitica,regional MENA relevance
+http://afedmag.com/,ENV,Environment,2019-10-25,Netalitica,regional MENA relevance
+https://arava.org/,ENV,Environment,2019-10-25,Netalitica,regional MENA relevance
+http://apnature.org/,ENV,Environment,2019-10-25,Netalitica,
+http://www.darajati.org/,ENV,Environment,2019-10-25,Netalitica,
+http://www.dibeen.org/,ENV,Environment,2019-10-25,Netalitica,
+http://www.env-awraq.com/,ENV,Environment,2019-10-25,Netalitica,
+https://easep-jo.org/,ENV,Environment,2019-10-25,Netalitica,
+https://edama.jo/,ENV,Environment,2019-10-25,Netalitica,
+https://jordangbc.org/,ENV,Environment,2019-10-25,Netalitica,
+https://www.rscn.org.jo/,ENV,Environment,2019-10-25,Netalitica,
+http://multkasoft.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+http://shamela.ws/index.php/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.5-yal.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.arabyarea.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.doniacomputer.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.th3download.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://ar4up.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://technoarabi.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.alarabydownloads.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.alsindibad.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.androidapps-ar.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.arbprograms.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.bramjfreee.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.bramjzone.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.downloadprogramsline.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.downloadxdriver.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.esm3.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.gulf-up.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.mo7pro.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.mohmal.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
+http://arabian-slotsx.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+http://arabianbetting.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+http://www.onlinearabiccasino.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+http://xn--mgbaad5cxb7deyuu.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://arab-casino.org/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://arabcasinohex.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://arabian-live-casino.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://arabian-roulette.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://casinocairo.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://online-casino-arabic.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.7alalcasino.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.a7lacasino.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.andubai.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.casinoar.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.casinoaraby.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.casinosenarabe.com.ar/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.dubaicasino.org/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.sheikhcasinos.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.viparabcasinos.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://xn--888-nze9cufxaqq.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://zetcasino.com/,GMB,Gambling,2019-10-25,Netalitica,regional MENA relevance
+https://www.jordan-casino.com/,GMB,Gambling,2019-10-25,Netalitica,
+http://tamatem.co/,GAME,Gaming,2019-10-25,Netalitica,Jordanian company making games
+http://www.mod.gov.il/,GOVT,Government,2019-10-25,Netalitica,"Israeli ministry of defence - only works on VPN, not working from Tunis"
+https://www.idf.il/,GOVT,Government,2019-10-25,Netalitica,"Israeli army - only works on VPN, not working from Tunis"
+http://www.energy-sea.gov.il/,GOVT,Government,2019-10-25,Netalitica,Israeli ministry of energy
+http://www.imam-khomeini.ir/,GOVT,Government,2019-10-25,Netalitica,Khomeini official site - Iran
+https://main.knesset.gov.il/,GOVT,Government,2019-10-25,Netalitica,Israeli parliament  site
+https://mfa.ir/,GOVT,Government,2019-10-25,Netalitica,Irani ministry of foreigh affairs
+https://rc.majlis.ir/,GOVT,Government,2019-10-25,Netalitica,Irani parliament research center
+https://www.science.co.il/,GOVT,Government,2019-10-25,Netalitica,Israeli science and technology center
+https://www.terrorism-info.org.il/,GOVT,Government,2019-10-25,Netalitica,Israeli Intelligence and terrorism center
+http://alhacker.mam9.com/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://bl4ck-ghost.hooxs.com/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://dev-hack.ahlamontada.net/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://egypt4hack.ahlamontada.com/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://hacker-arabe.banouta.net/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://hacker-jor.own0.com/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://hackerr.hooxs.com/forum/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://hackers.banouta.net/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://hackerz.ahlamontada.net/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://hakers.arabepro.com/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://school-kings-hacker.7olm.org/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+http://www.aljyyosh.com/vb/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+https://www.alkrsan.net/forum/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+https://www.arab-army.com/,HACK,Hacking Tools,2019-10-25,Netalitica,regional MENA relevance
+https://www.rigala.net/,HOST,Hosting and Blogging Platforms	,2019-10-25,Netalitica,regional MENA relevance
+https://hostjordan.com/,HOST,Hosting and Blogging Platforms	,2019-10-25,Netalitica,
+http://achrip.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,regional MENA relevance
+http://anhri.net/,HUMR,Human Rights Issues,2019-10-25,Netalitica,regional MENA relevance
+http://qanouniyat.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,Women Lawyers Group
+https://cihrs.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,regional MENA relevance
+https://smex.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,regional MENA relevance
+https://www.liberated-t.com/,HUMR,Human Rights Issues,2019-10-25,Netalitica,Syrian feminist group
+http://ahel.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,regional MENA relevance
+http://haqqi.info/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+http://jwu.org.jo/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+http://phenixcenter.net/,HUMR,Human Rights Issues,2019-10-25,Netalitica,Labour Rights Group
+http://sigi-jordan.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,Women Rights Group
+http://tamkeen-jo.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+http://www.jcla-org.com/,HUMR,Human Rights Issues,2019-10-25,Netalitica,Legal Aid Center
+http://www.mizangroup.jo/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+http://www.nchr.org.jo/,HUMR,Human Rights Issues,2019-10-25,Netalitica,National Human Rights Center
+https://cdfj.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,Freedom of Expression
+https://communitymedianetwork.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+https://women.jo/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+https://www.protection-jo.org/,HUMR,Human Rights Issues,2019-10-25,Netalitica,
+http://www.alqaws.org/,LGBT,LGBT,2019-10-25,Netalitica,LGBT group in Palestine
+http://www.helem.net/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
+https://ahwaa.org/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
+https://majal.org/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
+https://www.beirutpride.org/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
+https://www.lgbtarabic.com/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
+http://geekandqueer.org/,LGBT,LGBT,2019-10-25,Netalitica,"presently not working, may sping back - monitor"
+http://www.aswatmag.com/,LGBT,LGTB,2019-10-25,Netalitica,LGBT Magazine from Morocco
+https://thevoiceofthequeer.com/,LGBT,LGTB,2019-10-25,Netalitica,Akaliyat Association/ Morocco
+http://mawjoudin.org/,LGBT,LGTB,2019-10-25,Netalitica,"Tunisian LGBT Rights Group, presently not working, may sping back - monitor"
+https://www.damj.co/,LGBT,LGTB,2019-10-25,Netalitica,"Tunisian LGBT Rights Group, presently not working, may sping back - monitor"
+https://www.youtubeto.com/ar/,MMED,Media sharing,2019-10-25,Netalitica,for control purposes
+http://3arbt.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://anakbnet.co/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://arabsong.top/index.php/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://cima4u.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://cima4up.co/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://melody4arab.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://movizland.online/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://panet.co.il/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.aflamedia.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.al-fann.net/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.nsaem.net/videos/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://www.zeearab.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://724muzik.net/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://arab.phonezik.net/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://arabseed.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://arabtigers.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://douniamp3.co/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://mp3songs.alarab.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://nogomistars.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://rmdan.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://video.mzarita.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.4helal.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.abdwap2.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.dardarkom.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.farfeshplus.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.maghreb.space/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.nghmaty.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://www.series4watch.online/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+https://yomlek.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://ar.farsnews.com/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
+http://assafirarabi.com/ar/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
+http://kayhan.ir/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
+http://sowt.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Podcast Platform
+http://www.alhayat.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform 
+http://www.almayadeen.net/,NEWS,News Media,2019-10-25,Netalitica,Lebanese TV close to hezbollah
+http://www.alnour.com.lb/,NEWS,News Media,2019-10-25,Netalitica,Lebanese Radio close to hezbollah
+http://www.alsharq.net.sa/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+http://www.khamenei.ir/,NEWS,News Media,2019-10-25,Netalitica,Iranian supreme leader
+http://www.musharaka.me,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://al-akhbar.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://arabi21.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
+https://arb.majalla.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://arij.net/,NEWS,News Media,2019-10-25,Netalitica,Regional Investigative Reporting Platform 
+https://elaph.com/,NEWS,News Media,2019-10-25,Netalitica,Regional News website
+https://euroabia.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
+https://jeem.me/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform on Gender and sexuality
+https://kohljournal.press/,NEWS,News Media,2019-10-25,Netalitica,Regional Journal on Body and Gender 
+https://raseef22.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
+https://www.al-akhbar.com/,NEWS,News Media,2019-10-25,Netalitica,Lebanese based newspaper with regional coverage
+https://www.alahednews.com.lb/,NEWS,News Media,2019-10-25,Netalitica,Lebanese website close to hezbollah
+https://www.alalamtv.net/,NEWS,News Media,2019-10-25,Netalitica,a TV station in Arabic based in Tehran
+https://www.alhudood.net/,NEWS,News Media,2019-10-25,Netalitica,Regional satire website in Arabic based in London 
+https://www.almamlakatv.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://www.alquds.co.uk/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform 
+https://www.annahar.com/,NEWS,News Media,2019-10-25,Netalitica,Lebanese newspaper regional coverage
+https://www.arabiaweather.com/,NEWS,News Media,2019-10-25,Netalitica,Regional weather forecast
+https://www.edraak.org/,NEWS,News Media,2019-10-25,Netalitica,Educational Platform
+https://www.eremnews.com/,NEWS,News Media,2019-10-25,Netalitica,Regional media platform close to UAE
+https://www.farsnews.com/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
+https://www.haaretz.co.il/,NEWS,News Media,2019-10-25,Netalitica,Israeli Newspaper
+https://www.ikhtyar.org/,NEWS,News Media,2019-10-25,Netalitica,Regional research Collective producing knowledge  on Gender Studies
+https://www.kooora.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Sport News
+https://www.mc-doualiya.com/,NEWS,News Media,2019-10-25,Netalitica,French based radio in Arabic
+https://www.raialyoum.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
+https://www.rozana.fm/,NEWS,News Media,2019-10-25,Netalitica,Syrian Independent radio
+https://www.skynewsarabia.com/,NEWS,News Media,2019-10-25,Netalitica,regional media platform
+https://www.sotaliraq.com/,NEWS,News Media,2019-10-25,Netalitica,Iraqi media outlet
+https://www.ultrasawt.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
+https://www.watan.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://www.youm7.com/,NEWS,News Media,2019-10-25,Netalitica,Egyptian Newspaper
+http://hajjajcartoons.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://mala3eb.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://www.royanews.tv/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+http://thawra.sy/,NEWS,News Media,2019-10-25,Netalitica,"a newspaper inside Syria and close to Syrian regime, MENA relevant"
+http://akhbarek.com/,NEWS,News Media,2019-10-25,Netalitica,"presently not working, may sping back - monitor"
+http://alsaa.net/,NEWS,News Media,2019-10-25,Netalitica,Local News website
+http://maannasel.net/,NEWS,News Media,2019-10-25,Netalitica,website for transportation reform
+http://naqabat.net/,NEWS,News Media,2019-10-25,Netalitica,Syndicates Complex Website
+http://nayrouz.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.nesannews.net/,NEWS,News Media,2019-10-25,Netalitica,Local News website
+http://www.ahdath24.com/,NEWS,News Media,2019-10-25,Netalitica,Local news website
+http://www.civilsociety-jo.net/,NEWS,News Media,2019-10-25,Netalitica,Guide to civil society in Jordan
+http://www.shuranews.com/,NEWS,News Media,2019-10-25,Netalitica,News website that is linked to political party
+https://alsawt.net/,NEWS,News Media,2019-10-25,Netalitica,Media website based in Istanbul in Arabic
+https://elbalad.news/,NEWS,News Media,2019-10-25,Netalitica,Egyptian Website
+https://eldorar.com/,NEWS,News Media,2019-10-25,Netalitica,news targeted to Syrians 
+https://enjaznews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.3lnar.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.alraqeb.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.alwatanvoice.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.awa2el.net/,NEWS,News Media,2019-10-25,Netalitica,Educational Platform
+https://www.jea.org.jo/,NEWS,News Media,2019-10-25,Netalitica,Syndicate of Engineers 
+https://foodprotection.news/,NEWS,News Media,2019-10-25,Netalitica,
+https://alordoon.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.jn-news.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://balkinews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.rasidnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://difteen.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alshahidonline.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.volt.jo/,NEWS,News Media,2019-10-25,Netalitica,
+https://alawalnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.ammanyatnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://jordanword.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.jordan-law.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://noorjonews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.hashtagarabi.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.almrkeb.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.al-lahtha.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.okathjordan.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.anbaalwatan.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.senaranews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://ainnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://almrfanews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://nateqnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://mahaleyat.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://7areer.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.hala.jo/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.ammantimez.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://arradnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.tomatocartoon.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.raytnanews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alhashmiahnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alqubbahnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://kenanahnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.sa3anews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://shahennews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.karamnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://alnasnews.com.jo/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.telescopejo.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.aqabatodaynews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alarrabnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.kolalarab.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.johinanews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://agwarnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.satelnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://jornews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.shoofenews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://hkjtoday.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.hawajordan.net/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.nebrasnews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://alnahernews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.deeretnanews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.rawafednews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://pheladelphianews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.ajlounnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alrainews.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.ammanjo.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alsafernews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alwakaai.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.alqalahnews.net/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.sarahanews.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://maqar.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://samajordan.com/,NEWS,News Media,2019-10-25,Netalitica,
+https://orobanews.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://amenfm.jo/,NEWS,News Media,2019-10-25,Netalitica,
+https://mybeat.fm/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.mood.fm/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.radiodahab.com/,NEWS,News Media,2019-10-25,Netalitica,
+http://www.hayat.fm/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.sawtelghad.fm/,NEWS,News Media,2019-10-25,Netalitica,
+https://www.aa.com.tr/,NEWS,News Media,2019-10-25,Netalitica,Turkish Media Agency/ Arabic . MENA relevant
+https://www.alaraby.co.uk/,NEWS,News Media,2019-10-25,Netalitica,MENA regional media influenced by Qatar
+https://www.presstv.com/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media. MENA relevant
+https://kerningcultures.com/,NEWS,News Media,2019-10-25,Netalitica,regional podcast network
+https://madamasr.com/,NEWS,News Media,2019-10-25,Netalitica,"Egyptian independent media, MENA relevant"
+http://www.ujrc-jordan.net/,NEWS,News Media,2019-10-25,Netalitica,"regional MENArelevance, does research on Israel"
+http://unfulfilledduty.weebly.com/,NEWS,News Media,2019-10-25,Netalitica,Jihad related content
+http://www.ilmway.com/site/maqdis/index.html,NEWS,News Media,2019-10-25,Netalitica,Jihad related content
+https://bayaan.info/,NEWS,News Media,2019-10-25,Netalitica,Jihad related content
+https://sunnah-magh.blogspot.com/,NEWS,News Media,2019-10-25,Netalitica,Jihad related content
+https://emaad.net/,NEWS,News Media,2019-10-25,Netalitica,Jihad related content
+http://www.maannews.net/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://www.editionarabediplo.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
+https://arablounge.com/,DATE,Online Dating,2019-10-25,Netalitica,regional MENA relevance
+https://www.mawada.net/,DATE,Online Dating,2019-10-25,Netalitica,regional MENA relevance
+https://www.zfafna.com/,DATE,Online Dating,2019-10-25,Netalitica,regional MENA relevance
+https://www.zohradating.com/,DATE,Online Dating,2019-10-25,Netalitica,regional MENA relevance
+https://www.zwjate.com/,DATE,Online Dating,2019-10-25,Netalitica,regional MENA relevance
+http://zwaj-jordan.com/,DATE,Online Dating,2019-10-25,Netalitica,
+https://www.ordon-chat.com/,DATE,Online Dating,2019-10-25,Netalitica,
+https://www.fes-jordan.org/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
+http://arabliberals.org/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
+http://islamion.com/,POLR,Political Criticism,2019-10-25,Netalitica,website focused on political islam movenments news
+http://www.ahewar.org/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
+https://alaalam.org/,POLR,Political Criticism,2019-10-25,Netalitica,Syrian research organization
+https://almohammara.com/,POLR,Political Criticism,2019-10-25,Netalitica,a website in Arabic calling for liberating of ahwaz that mentioned Jordan
+https://www.noonpost.com/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
+http://www.jabha.net/,POLR,Political Criticism,2019-10-25,Netalitica,Monitor. Political Party/ the website is down and last was archived functioning March 2017. the last election was Sept 2016.
+http://www.jpm.jo/,POLR,Political Criticism,2019-10-25,Netalitica,"Parliament Monitor,Civil Society. presently not working, may sping back - monitor"
+http://www.thab7toona.com/,POLR,Political Criticism,2019-10-25,Netalitica,Students rights movenment. Website seems down/ was last functioning Jan 2019. Monitor
+https://www.zamzamparty.jo/,POLR,Political Criticism,2019-10-25,Netalitica,"Political Party, presently not working, may sping back - monitor"
+http://alhayahparty.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+http://elections.rasedjo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Election Monitoring Group
+http://jorpp.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+http://www.eslahparty.net/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+http://www.jdparty.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+http://www.jordanpolitics.org/,POLR,Political Criticism,2019-10-25,Netalitica,Guide to Jordanian Politics
+http://www.ncp-jo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+https://abu-shreek.blogspot.com/,POLR,Political Criticism,2019-10-25,Netalitica,
+https://alb3th1947jordan.wordpress.com/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+https://ardd-jo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Local NGO
+https://furssanparty.blogspot.com/#sthash.9vKGR4Q4.dpuf/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
+https://www.arab-reform.net/,POLR,Political Criticism,2019-10-25,Netalitica,Regional iniative for reform and supporting democracy. MENA relevant
+https://www.arabianchicks.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+http://3arabporn.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://b3bos.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://mitnaka.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://sex4arabxxx.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://sexalarab.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://sexjk.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://sexsaoy.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://www.aflamsexhd.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://www.hot-arab-films.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://xnxxx.cc/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://xxxnxx.me/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://www.tubev.sex/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://www.youporngay.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
+https://neswangy.net/,PORN,Pornography	,2019-10-25,Netalitica,regional MENA relevance
+http://etam.jo/,PROV,Provocative Attire,2019-10-25,Netalitica,
+http://www.laprima.jo/,PROV,Provocative Attire,2019-10-25,Netalitica,
+https://www.zoritalingerie.com/,PROV,Provocative Attire,2019-10-25,Netalitica,
+http://emphnet.net/,PUBH,Public Health,2019-10-25,Netalitica,regional MENA relevance
+http://jordanhealthaid.org/,PUBH,Public Health,2019-10-25,Netalitica,Website is under maintenance
+http://www.jafpp.org/,PUBH,Public Health,2019-10-25,Netalitica,
+https://www.menahra.org/,PUBH,Public Health,2019-10-25,Netalitica,
+http://arabatheistbroadcasting.com/,REL,Religion,2019-10-25,Netalitica,Arab Atheist
+http://shiaonlinelibrary.com/,REL,Religion,2019-10-25,Netalitica,Shia website
+http://www.albainah.net/,REL,Religion,2019-10-25,Netalitica,Sunni criticism of Shia
+http://www.alrased.net/,REL,Religion,2019-10-25,Netalitica,Sunni website
+http://www.aqaedalshia.com/,REL,Religion,2019-10-25,Netalitica,Shia website
+https://www.kasnazan.com/,REL,Religion,2019-10-25,Netalitica,regional MENA relevance
+http://www.bahaijo.org/,REL,Religion,2019-10-25,Netalitica,Bahai in Jordan
+http://www.arabo.com/,SRCH,Search Engines	,2019-10-25,Netalitica,regional MENA relevance
+http://yaarabi.com/,SRCH,Search Engines	,2019-10-25,Netalitica,regional MENA relevance
+https://www.raddadi.com/,SRCH,Search Engines	,2019-10-25,Netalitica,regional MENA relevance
+https://www.yamli.com/,SRCH,Search Engines	,2019-10-25,Netalitica,regional MENA relevance
+http://hayatouki.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://aljens.info/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://lmarabic.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://www.dailymedicalinfo.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://www.e7kky.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://www.webteb.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://www.zanzu.de/ar/,XED,Sex Education,2019-10-25,Netalitica,
+https://3dlat.com/,GRP,Social Networking	,2019-10-25,Netalitica,
+http://www.plf1977.org/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
+https://hamas.ps/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
+https://hsm.news/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
+https://jaishalislam.com/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
+https://www.kataibhezbollah.com/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
+https://www.moqawama.org/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
