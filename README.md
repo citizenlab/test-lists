@@ -20,15 +20,15 @@ Categories are divided among four broad themes:
 * Political (This category is focused primarily on Web sites that express views
 in opposition to those of the current government. Content more broadly related
 to human rights, freedom of expression, minority rights, and religious
-movements is also considered here.) 
+movements is also considered here.)
 
 * Social (This group covers material related
 to sexuality, gambling, and illegal drugs and alcohol, as well as other topics
-that may be socially sensitive or perceived as offensive).  
+that may be socially sensitive or perceived as offensive).
 
 * Conflict/Security
 (Content related to armed conflicts, border disputes, separatist movements, and
-militant groups is included in this category).  
+militant groups is included in this category).
 
 * Internet Tools (Web sites that
 provide e-mail, Internet hosting, search, translation, Voice-over Internet
@@ -52,8 +52,29 @@ Contributing URLs
 
 To learn how to contribute URLs for testing see: https://ooni.torproject.org/get-involved/contribute-test-lists/
 
+Citation
+========
+
+
+If using this dataset in a publication, please see the following [BibTeX File format](http://www.bibtex.org/).
+
+```
+@misc{testlist,
+  title={URL testing lists intended for discovering website censorship},
+  author={Citizen Lab and Others},
+  year={2014},
+  url={https://github.com/citizenlab/test-lists},
+  note={\href{https://github.com/citizenlab/test-lists}{https://github.com/citizenlab/test-lists}}
+}
+```
+
+An example Chicago Style citation is included below:
+
+> Citizen Lab and Others. 2014. _URL Testing Lists Intended for Discovering Website Censorship_. https://github.com/citizenlab/test-lists.
+
 License
 ========
+
 
 All data is provided under Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International and available in full

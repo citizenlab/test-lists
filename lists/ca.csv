@@ -1,6 +1,10 @@
 url,category_code,category_description,date_added,source,notes
-http://adultfriendfinder.com,DATE,Online Dating,2014-04-15,citizenlab,
-http://allpasswords.com,PORN,Pornography,2014-04-15,citizenlab,
-http://cyber.law.harvard.edu,NEWS,News Media,2014-04-15,citizenlab,
-http://de.lirio.us,GRP,Social Networking,2014-04-15,citizenlab,
-http://groups.msn.com,GRP,Social Networking,2014-04-15,citizenlab,
+http://allpasswords.com/,PORN,Pornography,2014-04-15,citizenlab,
+http://cyber.law.harvard.edu/,NEWS,News Media,2014-04-15,citizenlab,
+http://groups.msn.com/,GRP,Social Networking,2014-04-15,citizenlab,
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://pt.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://goldtv.biz/,FILE,File-sharing,2019-11-26,citizenlab,Court ordered blocking of this site
+http://billing.goldtv.biz/,FILE,File-sharing,2019-11-26,citizenlab,Court ordered blocking of this site
+http://www.edge.tm/,FILE,File-sharing,2019-11-26,citizenlab,Court ordered blocking of this site
+http://www.goldtv.ca/,FILE,File-sharing,2019-11-26,citizenlab,Court ordered blocking of this site

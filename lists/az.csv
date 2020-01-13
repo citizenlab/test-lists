@@ -1,23 +1,58 @@
 url,category_code,category_description,date_added,source,notes
-http://azerireport.com,NEWS,News Media,2014-04-15,citizenlab,
-http://azeritoday.com,NEWS,News Media,2014-04-15,citizenlab,
-http://imgur.com,MMED,Media sharing,2014-04-15,citizenlab,
-http://imgur.com/a/cylkb#0,MMED,Media sharing,2014-04-15,citizenlab,
-http://kavkaz.tv,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://par-anoia.net/releases.html,HACK,Hacking Tools,2014-04-15,citizenlab,
-http://par-anoia.net/releases.html#dmx,HACK,Hacking Tools,2014-04-15,citizenlab,
-http://watchtower.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.jw.org,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.kavkazcenter.com,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.kavkazcenter.info,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.onetwotrip.az,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.onetwotrip.com,COMM,E-commerce,2014-04-15,citizenlab,
-https://www.azadliq.info/,NEWS,News Media,2017-04-10,OONI,This site was reported to be blocked in AZ.
-https://www.azadliq.org/,NEWS,News Media,2017-04-10,OONI,This site was reported to be blocked in AZ.
-https://www.meydan.tv/,NEWS,News Media,2017-04-10,OONI,This site was reported to be blocked in AZ.
-http://www.abzas.net/,NEWS,News Media,2017-04-10,OONI,This site was reported to be blocked in AZ.
+http://azerireport.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://azeritoday.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://imgur.com/,MMED,Media sharing,2014-04-15,citizenlab,
+https://kavkazcenter.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+http://www.jw.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://www.onetwotrip.com/,COMM,E-commerce,2014-04-15,citizenlab,
+https://www.azadliq.info/,NEWS,News Media,2017-04-10,OONI,
+https://www.azadliq.org/,NEWS,News Media,2017-04-10,OONI,
+https://www.meydan.tv/,NEWS,News Media,2017-04-10,OONI,
+http://www.abzas.net/,NEWS,News Media,2017-04-10,OONI,
 http://www.cumhuriyyet.net/,NEWS,News Media,2017-04-11,OONI,
 http://www.gununsesi.info/,NEWS,News Media,2017-04-11,OONI,
-http://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,
+https://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,
 http://www.24saat.org/,NEWS,News Media,2017-04-11,OONI,
 https://www.irfs.org/,HUMR,Human Rights Issues,2017-04-11,OONI,
+http://azerbaycansaati.tv/,NEWS,News Media,2017-06-12,OONI,
+http://sonolay.org/,NEWS,News Media,2017-01-12,Community member,
+http://aztoday.az/,NEWS,News Media,2017-01-14,Community member,
+https://www.24saat.org/,NEWS,News Media,2017-01-16,Community member,
+https://www.occrp.org/en,POLR,Political Criticism,2017-01-20,Community member,
+http://masallilar.az/,NEWS,News Media,2017-01-23,Community member,
+http://criminal.az/,NEWS,News Media,2017-01-26,Community member,
+http://kulis.az/,CULTR,Culture,2017-01-30,Community member,
+https://axar.az/news/kult/,CULTR,Culture,2017-02-02,Community member,
+http://bastainfo.com/,NEWS,News Media,2018-03-04,Community member,
+http://www.turan.az/,NEWS,News Media,2018-03-04,Community member,
+http://www.femida.az/,NEWS,News Media,2018-03-04,Community member,
+http://www.gndem.org/,POLR,Political Criticism,2018-03-04,Community member,
+http://gozetci.az/,HUMR,Human Rights Issues,2018-03-04,Community member,
+https://www.humanrightsclub.net/,HUMR,Human Rights Issues,2018-03-04,Community member,
+https://novator.az/,NEWS,News Media,2018-03-04,Community member,
+https://www.xural.com/,NEWS,News Media,2018-03-10,Community member,
+http://smdtaz.org/,NEWS,News Media,2018-03-10,Community member,
+https://az.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://az.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://az.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://az.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.rferl.org/,NEWS,News Media,2018-06-27,Community member,
+https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.azerbaycanrealligi.com/,NEWS,News Media,2019-11-09,Community member,
+http://azpolitika.info/,NEWS,News Media,2019-11-09,Community member,This site was reportedly blocked in AZ
+http://www.kanal13.tv/,NEWS,News Media,2019-11-09,Community member,
+https://cenubxeberleri.com/,NEWS,News Media,2019-11-09,Community member,
+http://arqument.az/,NEWS,News Media,2019-11-09,Community member,
+http://strateq.az/,NEWS,News Media,2019-11-09,Community member,
+http://istiqlal.az/,NEWS,News Media,2019-11-09,Community member,
+http://mia.az/,NEWS,News Media,2019-11-09,Community member,
+https://qaynarinfo.az/,NEWS,News Media,2019-11-09,Community member,
+http://gundeminfo.az/,NEWS,News Media,2019-11-09,Community member,
+https://qafqazinfo.az/,NEWS,News Media,2019-11-09,Community member,
+http://teref.az/,NEWS,News Media,2019-11-09,Community member,
+http://7gun.az/,NEWS,News Media,2019-11-09,Community member,
+http://hefteaz.info/,NEWS,News Media,2019-11-09,Community member,Domain expired but included nonetheless because it was reportedly blocked
+https://www.gununsesi.org/,NEWS,News Media,2019-12-10,OONI,Reportedly blocked by quirium: https://www.qurium.org/alerts/azerbaijan/gununsesi-org-blocked-in-azerbaijan/

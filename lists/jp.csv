@@ -1,0 +1,8 @@
+url,category_code,category_description,date_added,source,notes
+http://www.bbc.com/japanese,NEWS,News Media,2017-07-19,BBC,
+http://www.bbcjapanese.com/,NEWS,News Media,2017-07-19,BBC,
+https://ja.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ja.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ko.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ja.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
