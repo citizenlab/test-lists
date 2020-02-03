@@ -1302,3 +1302,6 @@ https://www.eurobicon.org/,LGBT,LGBT,2019-11-18,OutRight International,
 https://etherscan.io/,COMM,E-commerce,2019-12-04,OONI,blocked in china according to https://www.coindesk.com/chinas-internet-firewall-has-blocked-access-to-ethereum-block-explorer-etherscan-io
 https://dns.google/,HOST,Hosting and Blogging Platforms,2019-12-04,Chelchela,
 https://slate.com/,NEWS,News Media,2020-01-08,OONI,
+https://www.uproxy.org/,ANON,Anonymization and circumvention tools,2020-02-03,tomacat,uProxy website
+https://getlantern.org/,ANON,Anonymization and circumvention tools,2020-02-03,tomacat,Lantern website
+https://massbrowser.cs.umass.edu/,ANON,Anonymization and circumvention tools,2020-02-03,tomacat,Lantern website
