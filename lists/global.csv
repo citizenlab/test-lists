@@ -1074,10 +1074,9 @@ http://www.wftucentral.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updat
 https://www.whatsapp.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-08-05
 http://www.whitepages.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.whitepower.com/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.who.int/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.who.int/influenza/human_animal_interface,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.who.int/reproductivehealth,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.who.int/topics/hiv_aids/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.who.int/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2020-02-04
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019,PUBH,Public Health,2020-02-04,OONI,
+https://www.who.int/health-topics/hiv-aids/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2020-02-04
 http://www.wiesenthal.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wikia.com/fandom,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.wikipedia.org/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1302,8 +1301,4 @@ https://www.eurobicon.org/,LGBT,LGBT,2019-11-18,OutRight International,
 https://etherscan.io/,COMM,E-commerce,2019-12-04,OONI,blocked in china according to https://www.coindesk.com/chinas-internet-firewall-has-blocked-access-to-ethereum-block-explorer-etherscan-io
 https://dns.google/,HOST,Hosting and Blogging Platforms,2019-12-04,Chelchela,
 https://slate.com/,NEWS,News Media,2020-01-08,OONI,
-https://www.uproxy.org/,ANON,Anonymization and circumvention tools,2020-02-03,tomacat,uProxy website
-https://getlantern.org/,ANON,Anonymization and circumvention tools,2020-02-03,tomacat,Lantern website
-https://massbrowser.cs.umass.edu/,ANON,Anonymization and circumvention tools,2020-02-03,tomacat,Lantern website
-https://joinmastodon.org/,GRP,Social Networking,2020-02-03,tomacat,Federated social network: Mastodon
-https://mastodon.social/,GRP,Social Networking,2020-02-03,tomacat,Federated social network: Mastodon
+https://www.caixinglobal.com/2020/coronavirus/,PUBH,Public Health,2020-02-04,OONI,
