@@ -49,7 +49,7 @@ http://www.templeinstitute.org/,REL,Religion,2017-01-23,Alan Orth,Website of Isr
 https://www.globes.co.il/,NEWS,News Media,2017-06-28,reemalmasri,
 https://www.mossad.gov.il/Pages/default.aspx/,GOVT,Government,2017-06-28,reemalmasri,
 https://www.isdefexpo.com/,NEWS,News Media,2017-06-28,reemalmasri,
-https://www.mykalimag.com/,CULTR,Culture,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
+https://www.mykalimag.com/,LGBT,LGBT,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
 https://www.timeout.com/travel/features/1239/jordan-the-highlights/,CULTR,Culture,2018-09-05,OONI,Reportedly blocked
 http://www.ammantoday.com/,CULTR,Culture,2018-09-05,OONI,
 https://www.myjordanjourney.com/,CULTR,Culture,2018-09-05,OONI,
@@ -347,7 +347,7 @@ http://ar.farsnews.com/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
 http://assafirarabi.com/ar/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 http://kayhan.ir/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
 http://sowt.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Podcast Platform
-http://www.alhayat.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform 
+http://www.alhayat.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 http://www.almayadeen.net/,NEWS,News Media,2019-10-25,Netalitica,Lebanese TV close to hezbollah
 http://www.alnour.com.lb/,NEWS,News Media,2019-10-25,Netalitica,Lebanese Radio close to hezbollah
 http://www.alsharq.net.sa/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
@@ -356,18 +356,18 @@ http://www.musharaka.me/,NEWS,News Media,2019-10-25,Netalitica,regional MENA rel
 https://al-akhbar.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
 https://arabi21.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://arb.majalla.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
-https://arij.net/,NEWS,News Media,2019-10-25,Netalitica,Regional Investigative Reporting Platform 
+https://arij.net/,NEWS,News Media,2019-10-25,Netalitica,Regional Investigative Reporting Platform
 https://elaph.com/,NEWS,News Media,2019-10-25,Netalitica,Regional News website
 https://euroabia.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://jeem.me/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform on Gender and sexuality
-https://kohljournal.press/,NEWS,News Media,2019-10-25,Netalitica,Regional Journal on Body and Gender 
+https://kohljournal.press/,NEWS,News Media,2019-10-25,Netalitica,Regional Journal on Body and Gender
 https://raseef22.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://www.al-akhbar.com/,NEWS,News Media,2019-10-25,Netalitica,Lebanese based newspaper with regional coverage
 https://www.alahednews.com.lb/,NEWS,News Media,2019-10-25,Netalitica,Lebanese website close to hezbollah
 https://www.alalamtv.net/,NEWS,News Media,2019-10-25,Netalitica,a TV station in Arabic based in Tehran
-https://www.alhudood.net/,NEWS,News Media,2019-10-25,Netalitica,Regional satire website in Arabic based in London 
+https://www.alhudood.net/,NEWS,News Media,2019-10-25,Netalitica,Regional satire website in Arabic based in London
 https://www.almamlakatv.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
-https://www.alquds.co.uk/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform 
+https://www.alquds.co.uk/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://www.annahar.com/,NEWS,News Media,2019-10-25,Netalitica,Lebanese newspaper regional coverage
 https://www.arabiaweather.com/,NEWS,News Media,2019-10-25,Netalitica,Regional weather forecast
 https://www.edraak.org/,NEWS,News Media,2019-10-25,Netalitica,Educational Platform
@@ -399,13 +399,13 @@ http://www.civilsociety-jo.net/,NEWS,News Media,2019-10-25,Netalitica,Guide to c
 http://www.shuranews.com/,NEWS,News Media,2019-10-25,Netalitica,News website that is linked to political party
 https://alsawt.net/,NEWS,News Media,2019-10-25,Netalitica,Media website based in Istanbul in Arabic
 https://elbalad.news/,NEWS,News Media,2019-10-25,Netalitica,Egyptian Website
-https://eldorar.com/,NEWS,News Media,2019-10-25,Netalitica,news targeted to Syrians 
+https://eldorar.com/,NEWS,News Media,2019-10-25,Netalitica,news targeted to Syrians
 https://enjaznews.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.3lnar.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.alraqeb.net/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.alwatanvoice.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.awa2el.net/,NEWS,News Media,2019-10-25,Netalitica,Educational Platform
-https://www.jea.org.jo/,NEWS,News Media,2019-10-25,Netalitica,Syndicate of Engineers 
+https://www.jea.org.jo/,NEWS,News Media,2019-10-25,Netalitica,Syndicate of Engineers
 https://foodprotection.news/,NEWS,News Media,2019-10-25,Netalitica,
 https://alordoon.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.jn-news.com/,NEWS,News Media,2019-10-25,Netalitica,
