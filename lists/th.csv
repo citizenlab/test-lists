@@ -1,9 +1,9 @@
 url,category_code,category_description,date_added,source,notes
-http://119.59.99.174/~net2519/,CULTR,Culture,43905,thainetizen,Formerly 2519.net
+http://119.59.99.174/~net2519/,CULTR,Culture,2020-03-15,thainetizen,Formerly 2519.net
 http://2bangkok.com/,POLR,Political Criticism,2016-09-20,unknown,"Thai political analysis, underreported news, and Bangkok public transportation"
 http://alliance4democracy.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://bet365.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://change.org/peoplesconstitution,POLR,Political Criticism,43905,thainetizen,Petition for the People’s Constitution #PeoplesConstitutionTH
+http://change.org/peoplesconstitution,POLR,Political Criticism,2020-03-15,thainetizen,Petition for the People’s Constitution #PeoplesConstitutionTH
 http://chaoprayanews.com/,NEWS,News Media,2016-09-20,unknown,Online newspaper
 http://downmerng.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/Bhumibol_Adulyadej,NEWS,News Media,2016-09-20,unknown,Was blocked in 2008
@@ -239,9 +239,7 @@ https://ptp.or.th/,POLR,Political Criticism,2018-11-24,thainetizen,"Pheu Thai Pa
 https://redsiam.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://sameskybooks.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://storylog.co/,HOST,Hosting and Blogging Platforms,2016-09-20,unknown,Thai blogging platform
-https://th.m.wikipedia.org/,NEWS,News Media,2020-03-15,thainetizen,"Thai Wikipedia (HTTPS, mobile)"
 https://th.m.wikipedia.org/,NEWS,News Media,2019-02-18,thainetizen,"Thai Wikipedia (HTTPS, mobile version)"
 https://th.wikipedia.org/,NEWS,News Media,2016-09-20,unknown,Thai Wikipedia (HTTPS)
 https://thainetizen.org/,HUMR,Human Rights Issues,2016-09-20,unknown,NGO on internet and human rights
@@ -250,9 +248,9 @@ https://thaipublica.org/,NEWS,News Media,2016-09-20,unknown,"Thai online newspap
 https://thematter.co/,NEWS,News Media,2017-01-19,unknown,Online news site
 https://themomentum.co/,NEWS,News Media,2017-01-19,unknown,Online news site
 https://thisable.me/,NEWS,News Media,2018-11-24,thainetizen,"News about accessibility, disabled people"
-https://thisrupt.co/,NEWS,News Media,43905,thainetizen,
+https://thisrupt.co/,NEWS,News Media,2020-03-15,thainetizen,
 https://tlhr2014.wordpress.com/,HUMR,Human Rights Issues,2016-09-20,unknown,Thai Lawyers for Human Rights
-https://twitter.com/somsakjeam,POLR,Political Criticism,43905,thainetizen,Somsak Jeamteerasakul – Thai history academic in exile
+https://twitter.com/somsakjeam,POLR,Political Criticism,2020-03-15,thainetizen,Somsak Jeamteerasakul – Thai history academic in exile
 https://twitter.com/WeAreAllHuman,NEWS,News Media,2014-04-15,citizenlab,
 https://uclthailand.blogspot.com/,HUMR,Human Rights Issues,2016-09-20,unknown,Union of Civil Liberty
 https://vimeo.com/prachatai,NEWS,News Media,2014-04-15,citizenlab,
@@ -260,11 +258,10 @@ https://voicefromthais.wordpress.com/,HUMR,Human Rights Issues,2017-01-19,unknow
 https://waymagazine.org/,NEWS,News Media,2018-11-24,thainetizen,Online magazine for alternative life style
 https://www.10bet.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.adb.org/,ECON,Economics,2014-04-15,citizenlab,
-https://www.amazon.co.uk/King-Never-Smiles-Biography-Thailands/dp/0300106823/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
-https://www.amazon.co.uk/King-Never-Smiles-Biography-Thailands/dp/0300228309/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
-https://www.amazon.com/King-Never-Smiles-Biography-Thailands/dp/0300106823/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
-https://www.amazon.com/King-Never-Smiles-Biography-Thailands/dp/0300228309/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
-https://www.amnesty.or.th/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.amazon.co.uk/King-Never-Smiles-Biography-Thailands/dp/0300106823/,POLR,Political Criticism,2020-03-15,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amazon.co.uk/King-Never-Smiles-Biography-Thailands/dp/0300228309/,POLR,Political Criticism,2020-03-15,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amazon.com/King-Never-Smiles-Biography-Thailands/dp/0300106823/,POLR,Political Criticism,2020-03-15,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amazon.com/King-Never-Smiles-Biography-Thailands/dp/0300228309/,POLR,Political Criticism,2020-03-15,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
 https://www.amnesty.or.th/,HUMR,Human Rights Issues,2016-09-20,unknown,Amnesty International Thailand
 https://www.amrc.org.hk/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.asianmigrantcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -302,7 +299,6 @@ https://www.facebook.com/zenjournalist,POLR,Political Criticism,2017-01-19,unkno
 https://www.facebook.com/zenjournalist/posts/10154612355501154,POLR,Political Criticism,2017-01-19,unknown,AMM FB: Facebook restricted this URL to be displayed inside Thailand. Viewable in other countries.
 https://www.fccthai.com/,NEWS,News Media,2016-09-20,unknown,Foreign Correspondents' Club of Thailand
 https://www.foreignaffairs.com/,GOVT,Government,2014-04-15,citizenlab,
-https://www.forum-asia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.forum-asia.org/,HUMR,Human Rights Issues,2017-01-19,unknown,Asian Forum for Human Rights and Development
 https://www.fridae.asia/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.google.co.th/,SRCH,Search Engines,2014-04-15,citizenlab,
