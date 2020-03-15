@@ -1,7 +1,9 @@
 url,category_code,category_description,date_added,source,notes
+http://119.59.99.174/~net2519/,CULTR,Culture,43905,thainetizen,Formerly 2519.net
 http://2bangkok.com/,POLR,Political Criticism,2016-09-20,unknown,"Thai political analysis, underreported news, and Bangkok public transportation"
 http://alliance4democracy.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://bet365.com/,GMB,Gambling,2014-04-15,citizenlab,
+http://change.org/peoplesconstitution,POLR,Political Criticism,43905,thainetizen,Petition for the People’s Constitution #PeoplesConstitutionTH
 http://chaoprayanews.com/,NEWS,News Media,2016-09-20,unknown,Online newspaper
 http://downmerng.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://en.wikipedia.org/wiki/Bhumibol_Adulyadej,NEWS,News Media,2016-09-20,unknown,Was blocked in 2008
@@ -11,7 +13,6 @@ http://en.wikipedia.org/wiki/Monarchy_of_Thailand,NEWS,News Media,2016-09-20,unk
 http://en.wikipedia.org/wiki/Vajiralongkorn,NEWS,News Media,2016-09-20,unknown,Current Crown Prince of Thailand
 http://english.aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://enlawfoundation.org/,ENV,Environment,2016-09-20,unknown,Environmental litigation and advocacy
-http://gamecenter.kapook.com/,GMB,Gambling,2014-04-15,citizenlab,
 http://hirvikatu10.net/timeupthailand,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://hrw.org/,HUMR,Human Rights Issues,2019-02-17,thainetizen,Human Rights Watch
 http://hrw.org/english/docs/2005/01/13/thaila9858.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -32,82 +33,51 @@ http://prachatai.com/english/,NEWS,News Media,2016-09-20,unknown,"Prachatai - En
 http://prachatai.org/,NEWS,News Media,2016-09-20,unknown,"Political, social development, and acvitism news"
 http://prachatai.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://prachatai3.info/,NEWS,News Media,2016-09-20,unknown,"Political, social development, and acvitism news (reserved url, after prachatai.com got blocked)"
-http://program.thaipbs.or.th/live,NEWS,News Media,2019-02-18,thainetizen,ThaiPBS live stream
-http://rajdumnern.ownforum.org/,GRP,Social Networking,2014-04-15,citizenlab,
-http://redsiam.info/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://redsiam.tv/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://redsiam.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://robertamsterdam.com/thailand/,NEWS,News Media,2014-04-15,citizenlab,
 http://sameskybooks.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://sathai.org/,ENV,Environment,2014-04-15,citizenlab,Sustainable Agriculture Foundation
-http://school.obec.go.th/,NEWS,News Media,2014-04-15,citizenlab,
-http://school.obec.go.th/tambol/,NEWS,News Media,2014-04-15,citizenlab,
-http://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://sex.sanook.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://th.macmuslim.com/,HUMR,Human Rights Issues,2017-01-19,unknown,Muslim Attorney Centre Foundation
 http://th.wikipedia.org/,NEWS,News Media,2016-09-20,unknown,Thai Wikipedia (HTTP)
-http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%8A,NEWS,News Media,2016-09-20,unknown,"Thai Wikipeida: Bhumibol Adulyadej, its English conterpart was blocked in 2008"
-http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2,NEWS,News Media,2016-09-20,unknown,"Thai Wikipedia: King of Thailand, its English conterpart was blocked in 2008"
+http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B9%80%E0%B8%94%E0%B8%8A,NEWS,News Media,2016-09-20,unknown,"Thai Wikipeida: Bhumibol Adulyadej (King of Thailand until 2016), its English counterpart was blocked in 2008"
+http://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2,NEWS,News Media,2016-09-20,unknown,"Thai Wikipedia: King of Thailand, its English counterpart was blocked in 2008"
 http://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E.%E0%B8%A8._2549,NEWS,News Media,2016-09-20,unknown,2006 Coup in Thailand
 http://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%9E.%E0%B8%A8._2557,NEWS,News Media,2016-09-20,unknown,2014 Coup in Thailand
-http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93_%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,News Media,2016-09-20,unknown,Current Crown Prince of Thailand
+http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93_%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,News Media,2016-09-20,unknown,Current King of Thailand
 http://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3,NEWS,News Media,2016-09-20,unknown,Crown Prince of Thailand
-http://thai69.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://thaicherry.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://thaienews.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://thaigirls.net/,PORN,Pornography,2014-04-15,citizenlab,
-http://thaigirlsnaked.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://thaiopensource.org/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://thaiuknews.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://times.hankooki.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://tomdy.narak.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://try2hack.siamdev.net/,HACK,Hacking Tools,2014-04-15,citizenlab,
 http://tsthai.com/,PORN,Pornography,2014-04-15,citizenlab,
-http://twitter.com/#!/WeAreAllHuman,NEWS,News Media,2014-04-15,citizenlab,
 http://upload.prachatalk.com/,MMED,Media sharing,2014-04-15,citizenlab,
 http://us.oneworld.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://us.oneworld.net/article/country/970/,NEWS,News Media,2014-04-15,citizenlab,
-http://vimeo.com/prachatai,NEWS,News Media,2014-04-15,citizenlab,
 http://wartani.com/dev/,NEWS,News Media,2017-01-19,unknown,"News website, focus on Deep South"
 http://wartani.com/live/,NEWS,News Media,2019-02-18,thainetizen,Wartani live stream
 http://weareallhuman.info/,NEWS,News Media,2014-04-15,citizenlab,
-http://weareallhuman2.info/,NEWS,News Media,2014-04-15,citizenlab,
-http://webboard.redradio-online.us/,NEWS,News Media,2014-04-15,citizenlab,
-http://willhill.com/,GMB,Gambling,2014-04-15,citizenlab,
+http://weareallhuman2.info/,NEWS,News Media,2014-04-15,citizenlab,"Blocked by Facebook (cannot be posted on the platform, as of 2020-03-15)"
+http://womenforpeaceandjustice.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,International Women's Partnership for Peace and Justice
+http://womenthai.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Foundation for Women (FFW)
 http://www.14tula.com/,CULTR,Culture,2014-04-15,citizenlab,
-http://www.19sep.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.2519.net/,CULTR,Culture,2014-04-15,citizenlab,
-http://www.2519me.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.activeodds.com/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.adb.org/,ECON,Economics,2014-04-15,citizenlab,
 http://www.adeq.or.th/,ENV,Environment,2014-04-15,citizenlab,Association for the Development of Environmental Quality
 http://www.afesip.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.aidsaccess.com/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.akha.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.akhathai.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.all-club.com/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.amazon.co.uk/exec/obidos/ASIN/0300106823/203-4157180-0680751#product-details,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.amnesty.or.th/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.amrc.org.hk/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.aperfectwife.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.apsw-thailand.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.apwld.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.asia-daily.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.asiabynight.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.asiafoundation.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.asiamedia.ucla.edu/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.asian-migrants.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.asianews.it/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.asianpacificpost.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.asiansexgazette.com/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.asiantribune.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.asiaobserver.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.asiapacificnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.asiasentinel.com/,POLR,Political Criticism,2016-09-20,unknown,Thai politics review journal
-http://www.asiasoft.co.th/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.asiatour.com/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.asiaupdate.tv/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.atimes.com/se-asia/se-asia.html,NEWS,News Media,2014-04-15,citizenlab,
 http://www.avert.org/aidsthai.htm,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.bangkokrainbow.org/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.bannok.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -131,7 +101,6 @@ http://www.christianthai.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.consumerthai.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.cpnparty.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.dateinasia.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.deepsouthwatch.org/,HUMR,Human Rights Issues,2017-01-19,unknown,Issues in Deep South of Thailand
 http://www.dek-d.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.dekdek.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.doctorsan.com/,XED,Sex Education,2014-04-15,citizenlab,
@@ -143,26 +112,18 @@ http://www.enlightenjurists.com/,HUMR,Human Rights Issues,2020-03-14,thainetizen
 http://www.exteen.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.facebook.com/somsakjeam/videos/1283095981743678,POLR,Political Criticism,2017-08-31,citizenlab,Controversial video of the King
 http://www.fasiroong.org/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.firstroyalcasino.com/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.flickr.com/people/prachatai/,MMED,Media sharing,2014-04-15,citizenlab,
 http://www.focusweb.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.foreignaffairs.org/,GOVT,Government,2014-04-15,citizenlab,
-http://www.foreignaffairs.org/gs/asia.html,GOVT,Government,2014-04-15,citizenlab,
-http://www.forplu.com/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.forum-asia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.freeproxy.ru/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://www.fridae.com/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.ftawatch.org/,GOVT,Government,2014-04-15,citizenlab,
 http://www.gamebookers.com/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.gboysiam.com/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.gettybuddy.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.goodasyou.net/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.gthai.net/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.gvantage.com/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.hackinthebox.org/,HACK,Hacking Tools,2014-04-15,citizenlab,
 http://www.halalthailand.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.healthtoday.net/,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.himalmag.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.hitb.org/,HACK,Hacking Tools,2014-04-15,citizenlab,
 http://www.hrw.org/asia/thailand,HUMR,Human Rights Issues,2016-09-20,unknown,Human Rights Watch page on Thailand (got blocked once after 2014 Coup)
 http://www.hrw.org/en/languages?filter0=th,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -204,14 +165,8 @@ http://www.siamboy.com/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.siamic.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.siammatch.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.singapore-window.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sjthailand.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.smh.com.au/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.snoopblocker.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://www.state.gov/g/drl/rls/hrrpt/2005/61628.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.storythai.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.surinrelations.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.suriyanchantra.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.tcijthai.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.teenee.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.tei.or.th/,ENV,Environment,2014-04-15,citizenlab,"Thai Environment Institute, a think tank"
 http://www.tei.or.th/tbcsd/,ENV,Environment,2014-04-15,citizenlab,Thai Business Council for Sustainable Development
@@ -240,29 +195,22 @@ http://www.trafcord.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.trclabourunion.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.uddtoday.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.unescap.org/,ECON,Economics,2014-04-15,citizenlab,
-http://www.utopia-asia.com/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.utopia-asia.com/tipsthai.htm,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.wept.org/,POLR,Political Criticism,2014-04-15,citizenlab,The Council of Work and Environment Related Patent’s Network of Thailand (WEPT)
 http://www.whaf.or.th/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Women's Health Advocacy Foundation
-http://www.womenforpeaceandjustice.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,International Women's Partnership for Peace and Justice
-http://www.womenthai.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Foundation for Women (FFW)
 http://www.wwf.or.th/,ENV,Environment,2020-03-14,citizenlab,
-http://www.ymat.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.youtube.com/user/prachatai,NEWS,News Media,2014-04-15,citizenlab,Prachatai newspaper YouTube channel
-http://www.youtube.com/user/shallownewsindepth,POLR,Political Criticism,2017-08-31,citizenlab,Satirical news show
 http://www.zedbooks.net/shop/book/a-kingdom-in-crisis/,POLR,Political Criticism,2017-08-31,citizenlab,Critical book by controversial journalist
 http://www.zocialx.com/,NEWS,News Media,2017-01-19,unknown,Popular news from Thai social media
-http://www.zone-it.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://xat.com/uddtoday,GRP,Social Networking,2014-04-15,citizenlab,
 http://yalepress.yale.edu/yupbooks/book.asp?isbn=0300106823,POLR,Political Criticism,2014-04-15,citizenlab,
 https://alliance4democracy.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://anfrel.org/,HUMR,Human Rights Issues,2019-02-17,thainetizen,Asian Network for Free Elections
+https://asiafoundation.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://asiafriendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,
+https://asiatimes.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://bhumjaithai.com/,POLR,Political Criticism,2018-11-24,thainetizen,"Bhumjai Thai Party, a political party"
 https://biothai.net/,ENV,Environment,2014-04-15,citizenlab,"Biodiversity, sustainable agriculture, food sovereignty group"
 https://bk.asia-city.com/,NEWS,News Media,2016-09-20,unknown,"Bangkok lifestyle, local events"
 https://coconuts.co/bangkok/,NEWS,News Media,2016-09-20,unknown,"News, Bangkok food and drink, lifestyle - in English"
+https://deepsouthwatch.org/,HUMR,Human Rights Issues,2017-01-19,unknown,Issues in Deep South of Thailand
 https://doct6.com/,POLR,Political Criticism,2019-02-18,thainetizen,Documentation of October 6 massacre
 https://downmerng.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://elect.in.th/,POLR,Political Criticism,2018-11-24,thainetizen,Independent site for election information
@@ -271,6 +219,7 @@ https://facthai.wordpress.com/,HUMR,Human Rights Issues,2016-09-20,unknown,Anti-
 https://forum.thaivisa.com/,GRP,Social Networking,2016-09-20,unknown,Expat activities
 https://freedom.ilaw.or.th/,HUMR,Human Rights Issues,2016-09-20,unknown,Freedom of Expression Documentation Center
 https://futureforwardparty.org/,POLR,Political Criticism,2018-11-24,thainetizen,"Future Forward Part, a political party"
+https://gamecenter.kapook.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://groups.google.com/forum/#!forum/redthai,GRP,Social Networking,2014-04-15,citizenlab,
 https://hrw.org/,HUMR,Human Rights Issues,2019-02-17,thainetizen,Human Rights Watch
 https://hrw.org/asia/thailand,HUMR,Human Rights Issues,2019-02-17,thainetizen,"Human Rights Watch page on Thailand (known to be blocked since November 2018, at the CDN edge server level)"
@@ -285,11 +234,14 @@ https://pantip.com/,GRP,Social Networking,2014-04-15,citizenlab,Most popular onl
 https://pantip.com/forum/rajdumnern,GRP,Social Networking,2014-04-15,citizenlab,A section for political discussion in the most popular online forum in Thailand
 https://prachatai.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://prachatai.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://program.thaipbs.or.th/live,NEWS,News Media,2019-02-18,thainetizen,ThaiPBS live stream
 https://ptp.or.th/,POLR,Political Criticism,2018-11-24,thainetizen,"Pheu Thai Party, a major political party"
 https://redsiam.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://sameskybooks.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://storylog.co/,HOST,Hosting and Blogging Platforms,2016-09-20,unknown,Thai blogging platform
+https://th.m.wikipedia.org/,NEWS,News Media,2020-03-15,thainetizen,"Thai Wikipedia (HTTPS, mobile)"
 https://th.m.wikipedia.org/,NEWS,News Media,2019-02-18,thainetizen,"Thai Wikipedia (HTTPS, mobile version)"
 https://th.wikipedia.org/,NEWS,News Media,2016-09-20,unknown,Thai Wikipedia (HTTPS)
 https://thainetizen.org/,HUMR,Human Rights Issues,2016-09-20,unknown,NGO on internet and human rights
@@ -298,13 +250,26 @@ https://thaipublica.org/,NEWS,News Media,2016-09-20,unknown,"Thai online newspap
 https://thematter.co/,NEWS,News Media,2017-01-19,unknown,Online news site
 https://themomentum.co/,NEWS,News Media,2017-01-19,unknown,Online news site
 https://thisable.me/,NEWS,News Media,2018-11-24,thainetizen,"News about accessibility, disabled people"
+https://thisrupt.co/,NEWS,News Media,43905,thainetizen,
 https://tlhr2014.wordpress.com/,HUMR,Human Rights Issues,2016-09-20,unknown,Thai Lawyers for Human Rights
+https://twitter.com/somsakjeam,POLR,Political Criticism,43905,thainetizen,Somsak Jeamteerasakul – Thai history academic in exile
+https://twitter.com/WeAreAllHuman,NEWS,News Media,2014-04-15,citizenlab,
 https://uclthailand.blogspot.com/,HUMR,Human Rights Issues,2016-09-20,unknown,Union of Civil Liberty
+https://vimeo.com/prachatai,NEWS,News Media,2014-04-15,citizenlab,
 https://voicefromthais.wordpress.com/,HUMR,Human Rights Issues,2017-01-19,unknown,Cross Cultural Foundation
 https://waymagazine.org/,NEWS,News Media,2018-11-24,thainetizen,Online magazine for alternative life style
 https://www.10bet.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.adb.org/,ECON,Economics,2014-04-15,citizenlab,
+https://www.amazon.co.uk/King-Never-Smiles-Biography-Thailands/dp/0300106823/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amazon.co.uk/King-Never-Smiles-Biography-Thailands/dp/0300228309/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amazon.com/King-Never-Smiles-Biography-Thailands/dp/0300106823/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amazon.com/King-Never-Smiles-Biography-Thailands/dp/0300228309/,POLR,Political Criticism,43905,thainetizen,"The King Never Smiles: A Biography of Thailand's Bhumibol Adulyadej (2006), banned for importation to Thailand"
+https://www.amnesty.or.th/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.amnesty.or.th/,HUMR,Human Rights Issues,2016-09-20,unknown,Amnesty International Thailand
+https://www.amrc.org.hk/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.asianmigrantcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.asiasentinel.com/,POLR,Political Criticism,2016-09-20,unknown,Thai politics review journal
+https://www.asiasoft.net/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.baanrak.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.bangkokpost.com/,NEWS,News Media,2016-09-20,unknown,"Bangkok Post, one of two major printed newspapers"
 https://www.betbrain.com/,GMB,Gambling,2014-04-15,citizenlab,
@@ -336,9 +301,13 @@ https://www.facebook.com/WeAreAllHuman,NEWS,News Media,2014-04-15,citizenlab,Act
 https://www.facebook.com/zenjournalist,POLR,Political Criticism,2017-01-19,unknown,"Personal Facebook profile of Andrew MacGregor Marshall, Thai political critics. Former foreign correspondent in Thailand."
 https://www.facebook.com/zenjournalist/posts/10154612355501154,POLR,Political Criticism,2017-01-19,unknown,AMM FB: Facebook restricted this URL to be displayed inside Thailand. Viewable in other countries.
 https://www.fccthai.com/,NEWS,News Media,2016-09-20,unknown,Foreign Correspondents' Club of Thailand
+https://www.foreignaffairs.com/,GOVT,Government,2014-04-15,citizenlab,
+https://www.forum-asia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.forum-asia.org/,HUMR,Human Rights Issues,2017-01-19,unknown,Asian Forum for Human Rights and Development
+https://www.fridae.asia/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.google.co.th/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://www.greenpeace.org/thailand/,ENV,Environment,2014-04-15,citizenlab,
+https://www.himalmag.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.hostpacific.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 https://www.hrw.org/thailand,HUMR,Human Rights Issues,2020-03-14,thainetizen,Human Rights Watch page on Thailand (new URL of https://hrw.org/asia/thailand )
 https://www.iias.asia/,GOVT,Government,2014-04-15,citizenlab,
@@ -351,26 +320,29 @@ https://www.kapook.com/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://www.khaosodenglish.com/,NEWS,News Media,2016-09-20,unknown,Khao Sod newspaper - English version
 https://www.konthaiuk.com/,POLR,Political Criticism,2017-01-19,unknown,
 https://www.konthaiuk.com/forum/,POLR,Political Criticism,2017-01-19,unknown,
+https://www.koreatimes.co.kr/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.ladbrokes.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.nationthailand.com/,NEWS,News Media,2020-03-14,thainetizen,"The Nation, one of two major English-language newspapers in Thailand"
 https://www.nationtv.tv/,NEWS,News Media,2019-02-18,thainetizen,Nation TV news channel (free-to-air terrestrial TV)
 https://www.newmandala.org/,POLR,Political Criticism,2019-02-18,thainetizen,Perspectives on Southeast Asia
 https://www.obec.go.th/,NEWS,News Media,2014-04-15,citizenlab,Office of the Basic Education Commission (OBEC)
-https://www.parliament.go.th,GOVT,Government,2016-09-20,unknown,"Parliament of Thailand. Since 2014 Coup, home of National Reform Steering Assembly"
+https://www.parliament.go.th/,GOVT,Government,2016-09-20,unknown,"Parliament of Thailand. Since 2014 Coup, home of National Reform Steering Assembly"
 https://www.pptvhd36.com/,NEWS,News Media,2019-02-18,thainetizen,PPTV news channel (free-to-air terrestrial TV)
 https://www.prachamati.org/,NEWS,News Media,2016-09-20,unknown,Civil society group promote the understanding of the Draft Charter Referendum
 https://www.premierbet.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.ptp.or.th/,POLR,Political Criticism,2014-04-15,citizenlab,"Pheu Thai Party, a major political party"
 https://www.sanook.com/,SRCH,Search Engines,2014-04-15,citizenlab,Portal
 https://www.seapa.org/,NEWS,News Media,2014-04-15,citizenlab,Southeast Asian Press Alliance
-https://www.senate.go.th,GOVT,Government,2016-09-20,unknown,Senate of Thailand
+https://www.senate.go.th/,GOVT,Government,2016-09-20,unknown,Senate of Thailand
 https://www.seub.or.th/,ENV,Environment,2014-04-15,citizenlab,
 https://www.slideshare.net/konthaiuk/,POLR,Political Criticism,2018-11-24,thainetizen,Kon Thai UK group
+https://www.smh.com.au/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.soimilk.com/,CULTR,Culture,2017-01-19,unknown,"Lifestyle and events, in English language"
 https://www.spokedark.tv/,NEWS,News Media,2017-01-19,unknown,"Online television channels, with one program on political criticism"
 https://www.springnews.co.th/,NEWS,News Media,2019-02-18,thainetizen,Spring News channel (free-to-air terrestrial TV)
 https://www.stou.ac.th/,GOVT,Government,2016-09-20,unknown,Open university
 https://www.straitstimes.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.tcijthai.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.telecomasia.net/,NEWS,News Media,2016-09-20,unknown,"Telecom Asia, also cover ICT news in Thailand"
 https://www.thaigov.go.th/,GOVT,Government,2016-09-20,unknown,Royal Thai Government
 https://www.thailandfriends.com/,DATE,Online Dating,2014-04-15,citizenlab,
@@ -384,6 +356,12 @@ https://www.the101.world/,NEWS,News Media,2018-11-24,thainetizen,"Social, politi
 https://www.tlhr2014.com/,HUMR,Human Rights Issues,2017-01-19,unknown,Thai Lawyers for Human Rights (new website)
 https://www.tnews.co.th/,NEWS,News Media,2016-09-20,unknown,News agency
 https://www.tt-torrent.com/,FILE,File-sharing,2018-11-24,thainetizen,"Thailand Torrent (was blocked once in 2014, according to MacThai)"
+https://www.unescap.org/,ECON,Economics,2014-04-15,citizenlab,
+https://www.utopia-asia.com/,LGBT,LGBT,2014-04-15,citizenlab,
+https://www.utopia-asia.com/tipsthai.htm,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.voicetv.co.th/,NEWS,News Media,2014-04-15,citizenlab,Voice TV news channel (free-to-air terrestrial TV)
 https://www.voicetv.co.th/live,NEWS,News Media,2019-02-18,thainetizen,Voice TV live stream
 https://www.who.int/southeastasia,PUBH,Public Health,2020-03-14,thainetizen,World Health Organization Southeast Asia
+https://www.williamhill.com/,GMB,Gambling,2014-04-15,citizenlab,
+https://www.youtube.com/user/prachatai,NEWS,News Media,2014-04-15,citizenlab,Prachatai newspaper YouTube channel
+https://www.youtube.com/user/shallownewsindepth,POLR,Political Criticism,2017-08-31,citizenlab,Satirical news show
