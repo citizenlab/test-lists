@@ -899,7 +899,7 @@ http://www.privaterra.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Update
 http://www.prolife.com/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.prophetofdoom.net/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.protest.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.protonmail.com/,COMT,Communication Tools,2017-10-11,securityfirst,
+https://protonmail.com/,COMT,Communication Tools,2017-10-11,securityfirst,
 http://www.proxyweb.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.purevpn.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.quantico.marines.mil/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1138,7 +1138,6 @@ https://www.bing-amp.com/v0/amp-iframe-0.1.js,HOST,Hosting and Blogging Platform
 https://www.uber.com/,COMM,E-commerce,2018-02-13,OONI,Reportedly blocked in Argentina
 https://pastebin.com/,HOST,Hosting and Blogging Platforms,2017-02-12,Anonymous,Often blocked website
 https://yandex.com/,SRCH,Search Engines,2018-02-23,igorv,
-https://protonmail.com/,HACK,Hacking Tools,2018-03-19,OONI,
 https://getoutline.org/,ANON,Anonymization and circumvention tools,2018-04-06,Duplika,
 http://fteproxy.org/,ANON,Anonymization and circumvention tools,2018-05-21,Community member,
 https://www.thegeekdiary.com/,HACK,Hacking Tools,2018-05-21,Community member,
