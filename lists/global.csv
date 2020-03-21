@@ -1074,7 +1074,7 @@ https://www.whatsapp.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated
 http://www.whitepages.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.whitepower.com/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.who.int/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2020-02-04
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019,PUBH,Public Health,2020-02-04,OONI,
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/,PUBH,Public Health,2020-02-04,OONI,coronavirus
 https://www.who.int/health-topics/hiv-aids/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2020-02-04
 http://www.wiesenthal.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wikia.com/fandom,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1300,8 +1300,8 @@ https://etherscan.io/,COMM,E-commerce,2019-12-04,OONI,blocked in china according
 https://dns.google/,HOST,Hosting and Blogging Platforms,2019-12-04,Chelchela,
 https://slate.com/,NEWS,News Media,2020-01-08,OONI,
 https://getintra.org/,ANON,Anonymization and circumvention tools,2020-02-03,OONI,
-https://www.caixinglobal.com/2020/coronavirus/,PUBH,Public Health,2020-02-04,OONI,
-https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6,PUBH,Public Health,2020-02-04,Community member,
+https://www.caixinglobal.com/2020/coronavirus/,PUBH,Public Health,2020-02-04,OONI,coronavirus
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6,PUBH,Public Health,2020-02-04,Community member,coronavirus
 https://tutanota.com/,COMT,Communication Tools,2020-02-04,OONI,
 https://www.uproxy.org/,ANON,Anonymization and circumvention tools,2020-02-16,tomacat,
 https://getlantern.org/,ANON,Anonymization and circumvention tools,2020-02-16,tomacat,
@@ -1324,6 +1324,27 @@ https://www.dailymail.co.uk/,NEWS,News Media,2020-02-16,tomacat,
 https://www.economist.com/,NEWS,News Media,2020-02-16,tomacat,
 https://www.theatlantic.com/,NEWS,News Media,2020-02-16,tomacat,
 https://www.nbcnews.com/,NEWS,News Media,2020-02-16,tomacat,
-https://www.worldometers.info/,PUBH,Public Health,2020-02-22,Chelchela,
+https://www.worldometers.info/coronavirus/,PUBH,Public Health,2020-02-22,Chelchela,coronavirus
 https://briarproject.org/,COMT,Communication Tools,2020-03-17,thainetizen,Peer-to-peer encrypted messaging and forums
 https://76crimes.com/,LGBT,LGBT,2020-03-19,OONI,
+https://coronavirus.jhu.edu/map.html,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.healthmap.org/covid-19/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://hgis.uw.edu/virus/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://nssac.bii.virginia.edu/covid-19/dashboard/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://app.developer.here.com/coronavirus/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://apps.crowdtangle.com/public-hub/covid19,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://google.org/crisisresponse/covid19-map,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.bing.com/covid,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://covidtracking.com/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.projectbaseline.com/study/covid-19/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html,PUBH,Public Health,2020-03-21,OONI,coronavirus
+http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://nextstrain.org/ncov,PUBH,Public Health,2020-03-21,OONI,coronavirus
