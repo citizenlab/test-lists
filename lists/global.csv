@@ -1348,3 +1348,7 @@ https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html,PUBH,Public
 https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://nextstrain.org/ncov,PUBH,Public Health,2020-03-21,OONI,coronavirus
+http://coronavirus.app/,PUBH,Public Health,2020-03-27,magma,coronavirus; Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
+http://coronavirus-map.com/,PUBH,Public Health,2020-03-27,magma,coronavirus; Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
+http://bit.ly/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/nos-bloqueia-bit-ly/
+http://discord.gg/,COMT,Communication Tools,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
