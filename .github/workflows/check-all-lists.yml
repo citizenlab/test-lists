@@ -1,4 +1,4 @@
-name: check
+name: Check all lists
 on: 
   push:
     paths:
@@ -7,9 +7,9 @@ on:
     paths:
     - "lists/*"
 jobs:
-  build:
+  lint_lists:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: check
+    - name: Run lint lists against all lists
       run: python scripts/lint-lists.py lists/
