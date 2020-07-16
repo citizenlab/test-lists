@@ -1423,3 +1423,15 @@ https://www.spotify.com/,CULTR,Culture,2020-06-04,Chelchela,
 https://www.globalpride2020.org/,LGBT,LGBT,2020-06-18,citizenlab,Global
 http://tanzil.net/,REL,Religion,2017-03-09,CIPIT,Multilingual Quran -- Blocked in China 
 https://quran.com/?local=en,REL,Religion,2020-06-13,Chelchela,Multilingual Quran -- Not accessible in several countries
+https://trello.com/,COMT,Communication Tools,2020-07-16,Chelchela,
+https://dns.adguard.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,Adguard DNS over HTTPS; query is for www.example.com.
+https://doh.opendns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://doh-fi.blahdns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://doh.centraleu.pi-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://private.canadianshield.cira.ca/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://dns9.quad9.net:5053/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://149.112.112.9/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://149.112.112.9:5053/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://9.9.9.9:5053/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://doh.dns.sb/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
+https://mozilla.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-07-16,Chelchela,
