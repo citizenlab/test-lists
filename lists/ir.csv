@@ -824,8 +824,13 @@ https://coocheh.com/,GRP,Social Networking,2019-11-14,Netalitica,
 https://chehre.app/,GRP,Social Networking,2019-11-14,Netalitica,
 https://net.tebyan.net/,GRP,Social Networking,2019-11-14,Netalitica,
 https://facenama.com/,GRP,Social Networking,2019-11-14,Netalitica,
-https://iranrevival.com/,POLR,Political Criticism,2020-02-05,OONI,
+https://iranrevival.com/,POLR,Political Criticism,2020-02-05,OONI,blocked
 https://www.tribunezamaneh.com/,NEWS,News Media,2020-01-30,ZamanehMedia,
 https://www.daadkhast.org/,NEWS,News Media,2020-01-30,ZamanehMedia,
 https://www.bonbast.com/,ECON,Economics,2020-06-22,Chelchela,blocked in Iran
 https://www.foxnews.com/,NEWS,News Media,2020-07-21,OONI,blocked
+http://kinox.to,MMED,Media sharing,2020-07-21,OONI,blocked
+http://movie4k.to,MMED,Media sharing,2020-07-21,OONI,blocked
+https://www.quora.com,GRP,Social Networking,2020-07-21,OONI,blocked
+https://www.ign.com/,GAME,Gaming,2020-07-21,OONI,blocked with SNI
+https://kotaku.com/,GAME,Gaming,2020-07-21,OONI,blocked with SNI
