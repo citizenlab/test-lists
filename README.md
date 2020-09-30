@@ -1,14 +1,14 @@
-Usage
+USAGE
 =====
 
-What Is It?
+Mainly What is it?
 ===========
 
-Contained are URL testing lists intended to help in testing URL censorship,
-divided by country codes.   In addition to these *local* lists, the *global*
-list consists of a wide range of internationally relevant and popular websites,
+Contained in it  are URL testing lists intended to help in testing URL's  censorship,
+divided by country codes.  In addition to these *local* lists, the *global*
+list consists of a wide range of internationaly relevant and popular websites,
 including sites with content that is perceived to be provocative or
-objectionable.  Most of the websites on the global list are in English.  In
+objectionable.  Most of the websites on the global lists are in English.  In
 contrast, the local lists are designed individually for each country by regional
 experts.  They have content representing a wide range of categories at the local
 and regional levels, and content in local languages.  In countries where
@@ -17,22 +17,23 @@ sites that are alleged to have been blocked.
 
 Categories are divided among four broad themes:
 
-* Political (This category is focused primarily on Web sites that express views
+* Political 
+(This category is focused primarily on Web sites that express views
 in opposition to those of the current government. Content more broadly related
-to human rights, freedom of expression, minority rights, and religious
+to human rights, freedom of expression, minorities, and religious
 movements is also considered here.)
 
-* Social (This group covers material related
-to sexuality, gambling, and illegal drugs and alcohol, as well as other topics
-that may be socially sensitive or perceived as offensive).
+* Social 
+(This group covers material related to sexuality, gambling, and illegal drugs and alcohol, as well as other topics
+that may be socially sensitive or perceived as an offence).
 
 * Conflict/Security
 (Content related to armed conflicts, border disputes, separatist movements, and
 militant groups is included in this category).
 
-* Internet Tools (Web sites that
-provide e-mail, Internet hosting, search, translation, Voice-over Internet
-Protocol (VoIP) telephone service, and circumvention methods are grouped in
+* Internet Tools 
+(Web sites that provide e-mail, Internet hosting, search, translation, Voice-over Internet
+Protocol (VOIP) telephone services, and circumvention methods are grouped in
 this category.)
 
 More information about testing methodology can be found
