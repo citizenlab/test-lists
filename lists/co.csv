@@ -1,130 +1,450 @@
-url,category_code,category_description,date_added,source,notes
-http://anncol-brasil.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://congresovisible.org/,POLR,Political Criticism,2014-04-15,citizenlab,Information about the Colombian Congress
-http://corrientelectronica.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://ddhhenlasnoticias.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://dickema24.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://elblogdenesi.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://equinoxio.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://ivan-cepeda.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://lacocalocacompany.blogcindario.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://prensarural.org/spip/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://uribestiario.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://vidasi-muerteno.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.45-rpm.net/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.caracol.com.co/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.censat.org/,ENV,Environment,2014-04-15,citizenlab,
-https://clickafectatumundo.com/,CULTR,Culture,2014-04-15,citizenlab,
-http://www.coalico.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.colectivomaloka.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.colombia.com/radio/,NEWS,News Media,2014-04-15,citizenlab,
-https://colombiareports.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.desdeabajo.info/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ecuavisa.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.flip.org.co/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.gwu.edu/~nsarchiv/colombia/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.hacer.org/latam/category/colombia/,NEWS,News Media,2014-04-15,citizenlab,
-https://lasillavacia.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://moe.org.co/webmoe/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.nocheyniebla.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.onic.org.co/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://alianzaverde.org.co/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://verdadabierta.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://partidomira.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://thecitypaperbogota.com/,NEWS,News Media,2018-09-20,OONI,
-https://todaycolombia.com/,NEWS,News Media,2018-09-20,OONI,
-https://thebogotapost.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.theguardian.com/world/colombia,NEWS,News Media,2018-09-20,OONI,
+url,category_code,category_description,date_added ,source,notes
+http://coalico.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,focused on childhood and armed conflict
+http://colectivomaloka.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"Created with Colombians leaving in Barcelona, Spain. Main focused peace accord"
+https://www.nocheyniebla.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,magazine.
+https://www.onic.org.co/,HUMR,Human Rights Issues,2014-04-15,citizenlab,It gathers mayor indigenous council in Colombia.
+https://colombiareports.com/,NEWS,News Media,2014-04-15,citizenlab,News about Colombia but in English
+https://www.desdeabajo.info/,NEWS,News Media,2014-04-15,citizenlab,independent news
+http://www.hacer.org/latam/category/colombia/,NEWS,News Media,2014-04-15,citizenlab,Info about politics with a right wing view. Not access in Tor
+https://lasillavacia.com/,NEWS,News Media,2014-04-15,citizenlab,Independent media it has a website for different regions of Colombia
+https://partidomira.com/,POLR,Political Criticism,2014-04-15,citizenlab,"Political party, religious view. "
+https://prensarural.org/spip/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Info about HUMR with a left wing point of view and focus on the rural areas.
+https://verdadabierta.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://www.45-rpm.net/,POLR,Political Criticism,2014-04-15,citizenlab,Blog with info focused on HUMR
+https://congresovisible.uniandes.edu.co/,POLR,Political Criticism,2014-04-15,citizenlab, Information about the Colombian Congress. It’s a monitoring and analysis website to the congress from the richest University in the country
+https://flip.org.co/index.php/es/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.ivancepedacastro.com/,POLR,Political Criticism,2014-04-15,citizenlab,The blog (previously on the list hasn’t been updated for years) now the politician has his owns website. 
+https://nsarchive.gwu.edu/project/colombia-project/,POLR,Political Criticism,2014-04-15,citizenlab,info in English. It serves as an archive for the peace agreement and the current government wants to break or slowly disappear the agreement. 
+https://moe.org.co/,HUMR,Human Rights Issues,2014-04-15,citizenlab,election monitoring
+https://www.alianzaverde.org.co/index.php/,POLR,Political Criticism,2014-04-15,citizenlab,one of the main political parties. The mayor of the capital city it’s part of this party. 
+https://censat.org/,ENV,Environment,2014-04-15,citizenlab,Land and environmental defense
+https://corrientelectronica.wordpress.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,it’s a artistic website with a political and HUMR approach
+https://caracol.com.co/,NEWS,News Media,2014-04-15,citizenlab,One of the main news media monopoly in Colombia
+https://www.colombia.com/radio/,NEWS,News Media,2014-04-15,citizenlab,It’s a site that gather all mayor commercial radio broadcast in Colombia
+https://es.wiktionary.org/wiki/Wikcionario:Portada/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wikibooks.org/wiki/Portada/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wikisource.org/wiki/Portada/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://amazonwatch.org/,ENV,Environment,2018-09-20,OONI,indigenous and environmental organization
+https://www.frontlinedefenders.org/en/case/ruth-alicia-lopez-guisao-killed/,HUMR,Human Rights Issues,2018-09-20,OONI,international NGO this entry inside the  web page  talks about the murder of a social leader.  
+https://choco.org/,HUMR,Human Rights Issues,2018-09-20,OONI,info focalized in the pacific coast
+https://www.hrw.org/world-report/2018/country-chapters/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,HRW report for Colombia 2018
+https://www.amnesty.org/es/countries/americas/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,Amnesty site for Colombia. It’s updated with info until early 2020
+https://www.cfr.org/backgrounder/colombias-civil-conflict/,HUMR,Human Rights Issues,2018-09-20,OONI,peace agreement info
+https://www.peaceinsight.org/conflicts/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,Colombia: Conflict profile
+https://minorityrights.org/country/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,General Info about minorities in Colombia. 
+http://www.ideaspaz.org/,HUMR,Human Rights Issues,2018-09-20,OONI,Think thank created to contribute ideas for a susteinable peace 
+https://colombiasupport.net/,HUMR,Human Rights Issues,2018-09-20,OONI,"grassroots organization,  delegations and petitions to educate members of the U.S. government. Not access using Tor"
+http://derechos.org/nizkor/,HUMR,Human Rights Issues,2018-09-20,OONI,HUMR defense LATAM
+https://cabildokankuamo.org/,HUMR,Human Rights Issues,2018-09-20,OONI,Indigenous council website
+https://outincolombiatravel.com/,LGBT,LGBT,2018-09-20,OONI,
+https://actualidadpanamericana.com/,NEWS,News Media,2018-09-20,OONI,
+https://thecitypaperbogota.com/,NEWS,News Media,2018-09-20,OONI,info in English and very propagandistic of USA actions in Colombia. it does has https but it shows a warning for not secure in both tor and firefox 
+https://thebogotapost.com/,NEWS,News Media,2018-09-20,OONI,News in English. General news including culture and arts. 
+https://www.theguardian.com/world/colombia/,NEWS,News Media,2018-09-20,OONI,News in English. 
 https://www.minuto30.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.eltiempo.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.canalrcn.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.elespectador.com/noticias,NEWS,News Media,2018-09-20,OONI,
+https://www.eltiempo.com/,NEWS,News Media,2018-09-20,OONI,one of the main medias part of a monopoly. 
+https://www.canalrcn.com/,NEWS,News Media,2018-09-20,OONI,one of the main medias part of a monopoly. 
 https://www.pulzo.com/,NEWS,News Media,2018-09-20,OONI,
-https://noticias.canalrcn.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.semana.com/,NEWS,News Media,2018-09-20,OONI,
-http://www.elcolombiano.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.elheraldo.co/,NEWS,News Media,2018-09-20,OONI,
-https://www.elpais.com.co/,NEWS,News Media,2018-09-20,OONI,
+https://noticias.canalrcn.com/,NEWS,News Media,2018-09-20,OONI,one of the main media channels part of a monopoly. 
+https://www.semana.com/,NEWS,News Media,2018-09-20,OONI,one of the main medias part of a monopoly. 
+https://www.elcolombiano.com/,NEWS,News Media,2018-09-20,OONI,main media focused in Antioquia region and Medellin second most important city in Colombia 
+https://www.elheraldo.co/,NEWS,News Media,2018-09-20,OONI,News focused on the Caribbean region 
+https://www.elpais.com.co/,NEWS,News Media,2018-09-20,OONI,main media focused in Pacific region and Cali third most important city in Colombia 
 https://www.vanguardia.com/,NEWS,News Media,2018-09-20,OONI,
-http://www.eluniversal.com.co/,NEWS,News Media,2018-09-20,OONI,
-https://www.publimetro.co/,NEWS,News Media,2018-09-20,OONI,
-http://zonacero.com/,NEWS,News Media,2018-09-20,OONI,
+http://zonacero.com/,NEWS,News Media,2018-09-20,OONI,news media focused on the caribbean 
 https://www.kienyke.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.laopinion.com.co/,NEWS,News Media,2018-09-20,OONI,
 https://www.rcnradio.com/,NEWS,News Media,2018-09-20,OONI,
-http://www.lapatria.com/,NEWS,News Media,2018-09-20,OONI,
 https://www.lanacion.com.co/,NEWS,News Media,2018-09-20,OONI,
 https://canal1.com.co/,NEWS,News Media,2018-09-20,OONI,
-http://eldiario.com.co/,NEWS,News Media,2018-09-20,OONI,
-https://opanoticias.com/,NEWS,News Media,2018-09-20,OONI,
+https://opanoticias.com/,NEWS,News Media,2018-09-20,OONI,if requires geolocalization
 https://diariodelhuila.com/,NEWS,News Media,2018-09-20,OONI,
 https://elpilon.com.co/,NEWS,News Media,2018-09-20,OONI,
-http://www.elmundo.com/,NEWS,News Media,2018-09-20,OONI,
-http://www.elnuevodia.com.co/,NEWS,News Media,2018-09-20,OONI,
-https://actualidadpanamericana.com/,NEWS,News Media,2018-09-20,OONI,
-https://karisma.org.co/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://bogotafreeplanet.com/,NEWS,News Media,2018-09-20,OONI,
-https://www.caribbeannewsnow.com/category/countries/colombia/,NEWS,News Media,2018-09-20,OONI,
-http://www.cartagenaherald.com/,NEWS,News Media,2018-09-20,OONI,
-http://www.elmeridiano.co/,NEWS,News Media,2018-09-20,OONI,
 http://www.hoydiariodelmagdalena.com.co/,NEWS,News Media,2018-09-20,OONI,
-http://diariodelsur.com.co/,NEWS,News Media,2018-09-20,OONI,
-http://www.diariodeportes.com.co/,NEWS,News Media,2018-09-20,OONI,
 https://occidente.co/,NEWS,News Media,2018-09-20,OONI,
-http://elcatolicismo.com.co/es/,NEWS,News Media,2018-09-20,OONI,
-https://www.elespectador.com/,NEWS,News Media,2018-09-20,OONI,
-http://www.elfrente.com.co/,NEWS,News Media,2018-09-20,OONI,
 http://www.elinformador.com.co/,NEWS,News Media,2018-09-20,OONI,
-http://elmeridiano.co/,NEWS,News Media,2018-09-20,OONI,
 https://www.elnuevosiglo.com.co/,NEWS,News Media,2018-09-20,OONI,
-https://equitas.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://colombiadiversa.org/,LGBT,LGBT,2018-09-20,OONI,
-https://outincolombiatravel.com/,LGBT,LGBT,2018-09-20,OONI,
-http://www.partidodelau.com/jp/,POLR,Political Criticism,2018-09-20,OONI,Political party
-http://partidoconservador.com/,POLR,Political Criticism,2018-09-20,OONI,Political party
+https://www.bbc.com/news/world-latin-america-19390164/,NEWS,News Media,2018-09-20,OONI,
 http://www.partidoliberal.org.co/,POLR,Political Criticism,2018-09-20,OONI,Political party
 https://www.centrodemocratico.com/,POLR,Political Criticism,2018-09-20,OONI,Political party
-http://www.partidocambioradical.org/,POLR,Political Criticism,2018-09-20,OONI,Political party
-https://partidoopcionciudadana.com/,POLR,Political Criticism,2018-09-20,OONI,Political party
-http://www.polodemocratico.net/,POLR,Political Criticism,2018-09-20,OONI,Political party
-https://www.farc-ep.co/,POLR,Political Criticism,2018-09-20,OONI,
+http://www.partidocambioradical.org/,POLR,Political Criticism,2018-09-20,OONI,Political party. Non secure and blocks tor
+https://www.farc-ep.co/,POLR,Political Criticism,2018-09-20,OONI,Now it’s a political party
 http://www.pacocol.org/,POLR,Political Criticism,2018-09-20,OONI,Political party
-https://www.up.org.co/,POLR,Political Criticism,2018-09-20,OONI,Political party
-http://www.colombia-politics.com/,POLR,Political Criticism,2018-09-20,OONI,
-http://colombiapeace.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://vbouvier.wordpress.com/,POLR,Political Criticism,2018-09-20,OONI,
-https://www.frontlinedefenders.org/en/case/ruth-alicia-lopez-guisao-killed,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://choco.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.centrodememoriahistorica.gov.co/en/,GOVT,Government,2018-09-20,OONI,
-https://www.bbc.com/news/world-latin-america-19390164,NEWS,News Media,2018-09-20,OONI,
-https://www.hrw.org/world-report/2018/country-chapters/colombia,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://www.amnesty.org/es/countries/americas/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://www.transparency.org/country/COL,POLR,Political Criticism,2018-09-20,OONI,
-https://www.cfr.org/backgrounder/colombias-civil-conflict,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://www.peaceinsight.org/conflicts/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://minorityrights.org/country/colombia/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://afrocolombian.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.afrocolombians.com/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.aapf.org/afro-colombian/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://amazonwatch.org/,ENV,Environment,2018-09-20,OONI,
-http://www.cinep.org.co/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://cpdh.free.fr/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.ideaspaz.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://colombiasupport.net/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.derechos.org/esp.html,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.derechos.org/nizkor/,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://cabildokankuamo.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://colombia.unwomen.org/es,HUMR,Human Rights Issues,2018-09-20,OONI,
-http://www.altocomisionadoparalapaz.gov.co/herramientas/Documents/summary-of-colombias-peace-agreement.pdf,HUMR,Human Rights Issues,2018-09-20,OONI,
-https://es.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://es.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://es.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://elcatolicismo.com.co/es/,REL,Religion,2018-09-20,OONI,
+https://colombia.unwomen.org/es/,IGO,Intergovernmental Organizations,2018-09-20,OONI,UN website for Colombia
+https://web.karisma.org.co/en/pagina-principal-2/,HUMR,Human Rights Issues,2018-09-20,OONI,
+http://cpdh.free.fr/todo.htm/,HUMR,Human Rights Issues,2018-09-20,OONI,HUMR defense
+https://www.elespectador.com/,NEWS,News Media,2018-09-20,OONI,one of the main medias part of a monopoly. 
+https://www.publimetro.co/co/,NEWS,News Media,2018-09-20,OONI,
+https://www.laopinion.com.co/#OP/,NEWS,News Media,2018-09-20,OONI,
+http://www.elnuevodia.com.co/nuevodia/,NEWS,News Media,2018-09-20,OONI,
+https://www.elfrente.com.co/web/,NEWS,News Media,2018-09-20,OONI,
+https://partido-up.org/,POLR,Political Criticism,2018-09-20,OONI,Political party. Now it’s part of Colombia humana
+https://centrodememoriahistorica.gov.co/en-2016-para-la-paz-la-educacion/,GOVT,Government,2018-09-20,OONI,Created during the peace accord as a memorial of the armed conflict
+http://afrocolombians.com/Afro-Colombian%20News/Main%20Page.html/,HUMR,Human Rights Issues,2018-09-20,OONI,
+https://www.cinep.org.co/Home2/,HUMR,Human Rights Issues,2018-09-20,OONI,Non profit working with victims and minorities
+https://www.transparency.org/en/countries/colombia/,POLR,Political Criticism,2018-09-20,OONI,Corruption Perceptions Index
+https://colombiapeace.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
+https://aapf.org/afro-colombian/,HUMR,Human Rights Issues,2018-09-20,OONI,"Afro-Colombian Women: Resistance at the Intersection of Racism, Sexism and War"
+https://colombiadiversa.org/,LGBT,LGBT,2018-09-20,OONI,
+https://www.eluniversal.com.co/,NEWS,News Media,2018-09-20,OONI, although it has https it shows a non secure warning
+https://www.lapatria.com/,NEWS,News Media,2018-09-20,OONI,
+https://www.eldiario.com.co/,NEWS,News Media,2018-09-20,OONI,
+https://www.elmundo.com/,NEWS,News Media,2018-09-20,OONI,
+https://www.cartagenaherald.com/,NEWS,News Media,2018-09-20,OONI,it shows a non secure warning
+https://elmeridiano.co/,NEWS,News Media,2018-09-20,OONI,
+https://diariodelsur.com.co/,NEWS,News Media,2018-09-20,OONI,
+https://www.diariodeportes.com.co/,NEWS,News Media,2018-09-20,OONI,
+https://www.partidodelau.com/jp/,POLR,Political Criticism,2018-09-20,OONI,Political party
+https://www.partidoconservador.com/,POLR,Political Criticism,2018-09-20,OONI,Political party
+https://www.polodemocratico.net/,POLR,Political Criticism,2018-09-20,OONI,Political party
+http://www.colombia-politics.com/,POLR,Political Criticism,2018-09-20,OONI,outdated - monitor
+https://vbouvier.wordpress.com/,POLR,Political Criticism,2018-09-20,OONI,outdated - monitor
 http://caribeafirmativo.lgbt/,LGBT,LGBT,2018-10-10,OONI partner,
-https://es-la.facebook.com/pages/category/Community/Red-Comunitaria-Trans-255992844505189/,LGBT,LGBT,2018-10-10,OONI partner,
-https://www.sismamujer.org/,HUMR,Human Rights Issues,2018-10-10,OONI partner,
+https://es-la.facebook.com/pages/category/Community/Red-Comunitaria-Trans-255992844505189/,LGBT,LGBT,2018-10-10,OONI partner,keep for control purposes
+https://www.las2orillas.co/,NEWS,News Media,2018-10-10,OONI partner,This site might present false positives as it takes long to connect
+https://wikileaks.org/wiki/category:colombia/,POLR,Political Criticism,2018-10-10,OONI partner,
 https://www.acciontecnicasocial.com/,PUBH,Public Health,2018-10-10,OONI partner,This site might present false positives as it takes long to connect
-http://pacifista.tv/,HUMR,Human Rights Issues,2018-10-10,OONI partner,
-http://pacifista.co/,HUMR,Human Rights Issues,2018-10-10,OONI partner,
-https://www.las2orillas.co/,NEWS,News Media,2018-10-10,OONI partner,
-https://wikileaks.org/wiki/Category:Colombia,POLR,Political Criticism,2018-10-10,OONI partner,
-https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://www.sismamujer.org/,XED,Sex Education,2018-10-10,OONI partner,it helps people with different issues related to their sex lives and provides different abortion alternatives.
+https://pacifista.tv/,HUMR,Human Rights Issues,2018-10-10,OONI partner,site created around peace in Colombia.
+https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus. This site might present false positives as it takes long to connect
+https://www.mutante.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,it’s a space to start conversation with different actors around HUMR
+https://linternaverde.co/en/,HUMR,Human Rights Issues,2020-07-01,Netalitica,non profit focused on digital rights.
+https://www.colnodo.apc.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,non profit focused on digital rights.
+https://somosenlace.laotrajuventud.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,independent media
+http://centromemoria.gov.co/,HUMR,Human Rights Issues,2020-07-01,Netalitica,Created during the peace accord as a memorial of the armed conflict
+https://www.unidadvictimas.gov.co/,HUMR,Human Rights Issues,2020-07-01,Netalitica,it gathers info about armed conflict victims
+https://acoso.online/co/,HUMR,Human Rights Issues,2020-07-01,Netalitica,"Site focused on giving tips and legal routes for victims of harassment, abuse and online violence "
+https://ciberseguras.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,"Site focused on giving tips and legal routes for victims of harassment, abuse and online violence "
+https://afrofeminas.com/,HUMR,Human Rights Issues,2020-07-01,Netalitica,black women’s rights
+https://www.humanas.org.co/alfa/pg.php?pa=137/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
+https://www.rednacionaldemujeres.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
+https://www.casmujer.com/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
+https://fondolunaria.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
+https://rutapacifica.org.co/wp/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
+https://www.cric-colombia.org/portal/,HUMR,Human Rights Issues,2020-07-07,Netalitica,It gathers different indigenous councils in the south of Colombia. It has big influence in politica decitions.
+https://www.dejusticia.org/en/,HUMR,Human Rights Issues,2020-07-07,Netalitica,non profit focused on digital rights.
+http://centrodememoriahistorica.gov.co/,HUMR,Human Rights Issues,2020-07-07,Netalitica,Created during the peace accord as a memorial of the armed conflict
+https://www.colombiadigital.net/,HUMR,Human Rights Issues,2020-07-07,Netalitica,non profit focused on digital rights.
+http://www.contravia.tv/,HUMR,Human Rights Issues,2020-07-07,Netalitica,"independent media focused on HUMR, government opposition"
+https://alianzatejedorasdevida.org/,HUMR,Human Rights Issues,2020-07-07,Netalitica,NGO women rights
+http://derechoanoobedecer.com/,HUMR,Human Rights Issues,2020-07-07,Netalitica,NGO defending HUMR
+https://www.jep.gov.co/Paginas/Inicio.aspx/,HUMR,Human Rights Issues,2020-07-07,Netalitica,Created after the peace accord as a justice system especially for the armed conflict crimes against humanity without declaring or clarifying
+https://somosdefensores.org/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+http://nomadesc.com/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://codhes.wordpress.com/acerca-de/acerca-de/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://convergenciaxlapaz.wordpress.com/,HUMR,Human Rights Issues,2020-07-12,Netalitica,HUMR/Migrants 
+https://trochandosinfronteras.info/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://humanas.org.co/pazconmujeres/index.php/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://colombiaplural.com/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://www.colombiainteligente.org/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://www.colectivodeabogados.org/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://confluenciademujeres.org/e61/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
+https://co.match.com/,DATE,Online Dating,2020-07-17,Netalitica,
+https://www.colombia-citas.com/,DATE,Online Dating,2020-07-17,Netalitica,
+https://www.dw.com/es/actualidad/colombia/s-35950707/,ENV,Environment,2020-07-17,Netalitica,
+https://enpujanuqui-comunicaciones-com.webnode.com.co/,ENV,Environment,2020-07-17,Netalitica,
+https://www.temblores.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.justiciaypazcolombia.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://emisorawaishanya.com.co/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://unradio.unal.edu.co/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://humanaradio.com.co/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.manosvisibles.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.radioscomunitariasparalapaz.co/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.icesi.edu.co/centros-academicos/ceaf/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://mimemoria.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://fundescodes.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://migravenezuela.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,Could be block in Venezuela for political reason or because they don’t want migrants or refugees to access this info
+https://somospanascolombia.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,Could be block in Venezuela for political reason or because they don’t want migrants or refugees to access this info
+https://www.redpapaz.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://educarconsumidores.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.nocomasmasmentiras.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.fiancolombia.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.dhcolombia.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://seamos.co/logros/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.redperiodistasgenero.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://es.globalvoices.org/category/world/latin-america/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.programadesarrolloparalapaz.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://poderpaz.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.pdpcesar.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.fudehumanos.com/en/inicio-2-2/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://fundacioncompaz.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://entreojos.co/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://mujeresalborde.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://lideralavida.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://casaculturalelchontaduro.wordpress.com/lacasa/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://sipaz.net/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://chis.pa/,HUMR,Human Rights Issues,2020-07-17,Netalitica,"web site it’s in English but useful info about Cali, Colombia"
+http://fedeorewa.org.co/,HUMR,Human Rights Issues,2020-07-17,Netalitica,indigenous gathering of councils
+https://verdadpacifico.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,indigenous and Afro communities. 
+https://pacificocolombia.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,Afro-Colombian 
+https://colombia.unfpa.org/es/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://hechoencali.com/portal/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://ojodeaguacomunicacion.org/ellugarquehabitamos/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+http://www.funprogresar.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.facebook.com/ligasaludtrans/,LGBT,LGBT,2020-07-17,Derechos Digitales,keep for control purposes
+https://autodefensasgaitanistasdecolombia.org/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
+https://www.trackingterrorism.org/group/las-autodefensas-gaitanistas-de-colombia-agc/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
+https://www.insightcrime.org/colombia-organized-crime-news/urabenos-profile/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
+https://primeralinea.com.co/,MILX,Terrorism and Militants,2020-07-17,Netalitica,Created during the 2019 strike to defend massive protest around Colombia. 
+https://eln-voces.net/,MILX,Terrorism and Militants,2020-07-17,Netalitica,It’s the main guerrilla as a right now. No access using Tor
+https://en.wikipedia.org/wiki/Clan_del_Golfo/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
+https://colombiareports.com/rastrojos/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
+https://diarioadn.co/,NEWS,News Media,2020-07-17,Netalitica,Big media form monopoly
+https://www.telecaribe.co/,NEWS,News Media,2020-07-17,Netalitica,
+https://liberaciondelamadretierra.org/libertad-para-la-madre-tierra/,NEWS,News Media,2020-07-17,Netalitica,
+http://anzorc.com/,NEWS,News Media,2020-07-17,Netalitica,
+https://www.unitedforcolombia.com/,NEWS,News Media,2020-07-17,Netalitica,
+http://hacemosmemoria.org/,NEWS,News Media,2020-07-17,Netalitica,
+https://www.univision.com/noticias/,NEWS,News Media,2020-07-17,Netalitica,
+https://www.congresodelospueblos.org/,POLR,Political Criticism,2020-07-17,Netalitica,massive citizen movement
+https://www.colombiahumana.co/,POLR,Political Criticism,2020-07-17,Netalitica,"political part, government opposition it gathers big left wing parties it’s under construction now but the current government it’s always looking ways to censorship this party.  "
+https://www.marchapatriotica.org/,POLR,Political Criticism,2020-07-17,Netalitica,massive citizen movement
+https://renacientes.net/,POLR,Political Criticism,2020-07-17,Netalitica,It gathers different black councils  It has big influence in politica decitions.
+https://hollmanmorris.co/,POLR,Political Criticism,2020-07-17,Netalitica,politician and journalist oposition.
+https://comisiondelaverdad.co/,POLR,Political Criticism,2020-07-17,Netalitica,created during the peace accord for strategist to know the true about Colombia armed conflict with FARC
+https://www.contagioradio.com/,POLR,Political Criticism,2020-07-17,Netalitica,Independent media 
+https://ladirekta.com/,POLR,Political Criticism,2020-07-17,Netalitica,Independent media 
+https://alianzasocialindependiente.org/,POLR,Political Criticism,2020-07-17,Netalitica,political party
+https://www.mais.com.co/,POLR,Political Criticism,2020-07-17,Netalitica,indigenous political party
+https://colombiajustalibres.org/,POLR,Political Criticism,2020-07-17,Netalitica,religious political party 
+https://www.partidocolombiarenaciente.co/web/,POLR,Political Criticism,2020-07-17,Netalitica,black and victims political party
+https://www.redfeministaantimilitarista.org/,POLR,Political Criticism,2020-07-17,Netalitica,women’s rights. conscientious objector
+https://partidofarc.com.co/,POLR,Political Criticism,2020-07-17,Netalitica,
+https://roybarreras.com.co/,POLR,Political Criticism,2020-07-17,Netalitica,
+https://ciudadenmovimiento.org/,POLR,Political Criticism,2020-07-17,Netalitica,not access using Tor
+https://grupoestudiantilanarquista.wordpress.com/quienes-somos/,POLR,Political Criticism,2020-07-17,Netalitica,
+https://ligacontraelsilencio.com/,POLR,Political Criticism,2020-07-17,Netalitica,
+https://losdanieles.com/,POLR,Political Criticism,2020-07-17,Netalitica,
+https://cuartodehora.com/,POLR,Political Criticism,2020-07-17,Netalitica,
+http://www.esperanzagomez.org/,PORN,Pornography,2020-07-17,Netalitica,
+https://www.albastudio.co/,PORN,Pornography,2020-07-17,Netalitica,Mayor webcam site in Colombia. 
+https://diamondgirlstudio.com/,PORN,Pornography,2020-07-17,Netalitica,
+https://www.estudio360.com.co/,PORN,Pornography,2020-07-17,Netalitica,
+https://www.modeloswebcambogota.com/,PORN,Pornography,2020-07-17,Netalitica,
+https://colombianas.webcam/,PORN,Pornography,2020-07-17,Netalitica,
+http://www.vipstudiocali.com/,PORN,Pornography,2020-07-17,Netalitica,
+https://www.malvastudios.com/,PORN,Pornography,2020-07-17,Netalitica,
+https://sinchi.org.co/,ENV,Environment,2020-07-18,Netalitica,
+https://noti5.tv/,NEWS,News Media,2020-07-18,Netalitica,regional broadcast media
+https://telepacifico.com/,NEWS,News Media,2020-07-18,Netalitica,regional broadcast media
+https://citytv.com.co/home?e=Inicio/,NEWS,News Media,2020-07-18,Netalitica,media channel focused on the capital city.
+https://www.canalcapital.gov.co/,NEWS,News Media,2020-07-18,Netalitica,media channel focused on the capital city.
+https://www.portafolio.co/,NEWS,News Media,2020-07-18,Netalitica,
+https://cartelurbano.com/,NEWS,News Media,2020-07-18,Netalitica,Independent media during the 2019 strike was raided by the government
+https://www.lanuevaprensa.com.co/,NEWS,News Media,2020-07-18,Netalitica,independent media most of the journalist are famous for being part of the opposition and cover mayor scandals of the right wing
+https://pluralidadz.com/,NEWS,News Media,2020-07-18,Netalitica,
+https://90minutos.co/,NEWS,News Media,2020-07-18,Netalitica,
+https://canaltrece.com.co/,NEWS,News Media,2020-07-18,Netalitica,
+https://www.aljazeera.com/news/2020/07/colombia-journalist-calls-surveillance-scandal-threat-democracy-200715135451695.html/,NEWS,News Media,2020-07-18,Netalitica,
+https://www.bluradio.com/,NEWS,News Media,2020-07-18,Netalitica,
+https://www.lafm.com.co/,NEWS,News Media,2020-07-18,Netalitica,
+https://www.vokaribe.net/,NEWS,News Media,2020-07-18,Netalitica,
+https://elexpediente.co/,NEWS,News Media,2020-07-18,Netalitica,
+https://www.noticiasuno.com/,NEWS,News Media,2020-07-18,Netalitica,
+https://cerosetenta.uniandes.edu.co/,NEWS,News Media,2020-07-18,Netalitica,
+https://razonpublica.com/,NEWS,News Media,2020-07-18,Netalitica,
+https://www.revistaarcadia.com/,CULTR,Culture,2020-07-19,Netalitica,
+https://www.shock.co/,CULTR,Culture,2020-07-19,Netalitica,
+https://www.elmalpensante.com/,CULTR,Culture,2020-07-19,Netalitica,
+https://www.elpais.com.co/cultura/gaceta/,CULTR,Culture,2020-07-19,Netalitica,
+https://esferapublica.org/nfblog/,CULTR,Culture,2020-07-19,Netalitica,
+https://www.universocentro.com/,CULTR,Culture,2020-07-19,Netalitica,
+https://www.bacanika.com/,CULTR,Culture,2020-07-19,Netalitica,likely blocked by means fo http
+http://lapalabra.univalle.edu.co/,CULTR,Culture,2020-07-19,Netalitica,
+http://www.javerianaestereo.com/,CULTR,Culture,2020-07-19,Netalitica,
+http://emisora.univalle.edu.co/,CULTR,Culture,2020-07-19,Netalitica,
+http://www.ojoalsancocho.org/,CULTR,Culture,2020-07-19,Netalitica,
+http://colectivomejoda.co/relatos/,CULTR,Culture,2020-07-19,Netalitica,
+http://www.silviutiful.com/,CULTR,Culture,2020-07-19,Netalitica,
+https://www.mixticius.net/,CULTR,Culture,2020-07-19,Netalitica,
+https://iiap.org.co/,ENV,Environment,2020-07-19,Netalitica,
+https://sinmiedo.com.co/,HACK,Hacking Tools,2020-07-19,Netalitica,
+https://flisolbogota.org/2020/,HACK,Hacking Tools,2020-07-19,Netalitica,"Hacker tools, privacy and security."
+https://unloquer.org/,HACK,Hacking Tools,2020-07-19,Netalitica,
+https://www.cec.org.co/,REL,Religion,2020-07-19,Netalitica,
+http://cabildointerreligiosodecolombia.mex.tl/,REL,Religion,2020-07-19,Netalitica,
+https://jesuitas.co/,REL,Religion,2020-07-19,Netalitica,
+https://www.jw.org/es/testigos-de-jehov%C3%A1/por-todo-el-mundo/CO/,REL,Religion,2020-07-19,Netalitica,
+https://casaroca.org/,REL,Religion,2020-07-19,Netalitica,
+https://budismocolombia.co/,REL,Religion,2020-07-19,Netalitica,
+http://mesadeapoyo.com/,REL,Religion,2020-07-19,Netalitica,
+https://tolipaz.org/,REL,Religion,2020-07-19,Netalitica,
+http://codechoco.gov.co/portalwp/,ENV,Environment,2020-07-20,Netalitica,
+https://opiac.org.co/,ENV,Environment,2020-07-21,Netalitica,
+https://co.boell.org/,ENV,Environment,2020-07-22,Netalitica,
+https://www.feliz-mente.co/,ALDR,Alcohol & Drugs,2020-07-23,Netalitica,
+https://www.domicilioscannabis.com/,ALDR,Alcohol & Drugs,2020-07-23,Netalitica,
+https://www.pharmacielo.com/,ALDR,Alcohol & Drugs,2020-07-23,Netalitica,
+https://catacoa.com/,ALDR,Alcohol & Drugs,2020-07-23,Netalitica,
+https://growshopcolombia.com/,ALDR,Alcohol & Drugs,2020-07-23,Netalitica,
+https://www.sannabis.co/,ALDR,Alcohol & Drugs,2020-07-23,Netalitica,
+https://amazoniasoy.com/,ENV,Environment,2020-07-23,Netalitica,
+http://www.casinoencolombia.com/,GMB,Gambling,2020-07-23,Netalitica,Blocked by Coljuegos in 2017. it shows non secure in firefox not access using Tor. 
+https://www.casino.com/forbidden/,GMB,Gambling,2020-07-23,Netalitica,Tor shows this: We are sorry. Casino.com is not available in your territory. Blocked by Coljuegos in 2017 info: https://www.xataka.com.co/legislacion-y-derechos/colombianos-no-podran-acceder-a-325-sitios-web-de-apuestas-desde-el-proximo-viernes
+https://www.mariacasino.com/,GMB,Gambling,2020-07-23,Netalitica,Blocked by coljuegos in 2017
+https://www.rushbet.co/?page=all-games#home/,GMB,Gambling,2020-07-23,Netalitica,
+https://www.rivalo.co/es/casino-en-linea/,GMB,Gambling,2020-07-23,Netalitica,
+https://sports.yajuego.co/,GMB,Gambling,2020-07-23,Netalitica,
+https://www.zamba.co/es/,GMB,Gambling,2020-07-23,Netalitica,
+https://www.ejercito.mil.co/,GOVT,Government,2020-07-23,Netalitica,
+https://elempleo.com/,GRP,Social Networking,2020-07-23,Netalitica,
+https://www.computrabajo.com.co/,GRP,Social Networking,2020-07-23,Netalitica,
+https://co.indeed.com/,GRP,Social Networking,2020-07-23,Netalitica,
+https://www.opcionempleo.com.co/ofertas-empleo-colombia-114370.html/,GRP,Social Networking,2020-07-23,Netalitica,
+https://www.hchr.org.co/,IGO,Intergovernmental Organizations,2020-07-23,Netalitica,
+https://www.plan.org.co/,IGO,Intergovernmental Organizations,2020-07-23,Netalitica,
+https://www.savethechildren.org.co/,IGO,Intergovernmental Organizations,2020-07-23,Netalitica,
+https://www.redsomos.org/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.ligasida.org.co/institucional/,PUBH,Public Health,2020-07-23,Netalitica,
+http://calicreativa.com/,CULTR,Culture,2020-07-24,Netalitica,
+http://agendadelmar.com/,ENV,Environment,2020-07-24,Netalitica,
+https://colombia.trabajos.com/,GRP,Social Networking,2020-07-24,Netalitica,
+https://col40.co/638/w3-channel.html/,GRP,Social Networking,2020-07-24,Netalitica,
+https://tupale.co/,HACK,Hacking Tools,2020-07-24,Netalitica,
+https://parqueexplora.org/exploratorio/,HACK,Hacking Tools,2020-07-24,Netalitica,
+https://riosvivoscolombia.org/,ENV,Environment,2020-07-25,Netalitica,
+https://7riosfest.com/,ENV,Environment,2020-07-26,Netalitica,
+https://www.mininterior.gov.co/,GOVT,Government,2020-07-26,Netalitica,
+https://covid19.minsalud.gov.co/,GOVT,Government,2020-07-26,Netalitica,
+https://www.minsalud.gov.co/Ministerio/Paginas/inicio.aspx/,GOVT,Government,2020-07-26,Netalitica,
+https://www.mindefensa.gov.co/irj/portal/Mindefensa/,GOVT,Government,2020-07-26,Netalitica,
+http://www.reincorporacion.gov.co/en/,GOVT,Government,2020-07-26,Netalitica,
+https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx/,GOVT,Government,2020-07-26,Netalitica,
+https://noisradio.co/,HUMR,Human Rights Issues,2020-07-26,Netalitica,"independent media working with grassroots communities focused on black and indigenous councils, it covers massive strikes and protests"
+https://rutasdelconflicto.com/,HUMR,Human Rights Issues,2020-07-26,Netalitica,
+https://cocanasa.org/,HUMR,Human Rights Issues,2020-07-26,Netalitica,it’s a website base in coca plant products
+https://www.citascolombia.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.dinero.com/,ECON,Economics,2020-07-27,Netalitica,
+https://dolar.wilkinsonpc.com.co/divisas/dolar-diario.html/,ECON,Economics,2020-07-27,Netalitica,
+https://www.economiacolombiana.co/,ECON,Economics,2020-07-27,Netalitica,
+https://revistas.unal.edu.co/index.php/ceconomia/,ECON,Economics,2020-07-27,Netalitica,
+https://www.larepublica.co/,ECON,Economics,2020-07-27,Netalitica,
+https://www.valoraanalitik.com/,ECON,Economics,2020-07-27,Netalitica,
+https://economiainstitucional.com/,ECON,Economics,2020-07-27,Netalitica,
+https://lanotaeconomica.com.co/,ECON,Economics,2020-07-27,Netalitica,
+https://revistapym.com.co/,ECON,Economics,2020-07-27,Netalitica,
+https://www.pymas.com.co/,ECON,Economics,2020-07-27,Netalitica,
+http://festivalfincali.com/,ENV,Environment,2020-07-27,Netalitica,
+http://www.cnrcol.co/,ENV,Environment,2020-07-27,Netalitica,
+https://www.canalrcn.com/todogamers/,GAME,Gaming,2020-07-27,Netalitica,
+https://www.colombiagamer.com.co/,GAME,Gaming,2020-07-27,Netalitica,
+https://www.videojuegosclub.com/,GAME,Gaming,2020-07-27,Netalitica,
+https://www.radiomacondo.fm/,NEWS,News Media,2020-07-27,Netalitica,
+https://redmas.com.co/inicio,NEWS,News Media,2020-07-27,Netalitica,
+http://www.notiwayuu.com/,NEWS,News Media,2020-07-27,Netalitica,includes info in wayuu an indigenous lenguage. 
+https://fedemedios.org/,NEWS,News Media,2020-07-27,Netalitica,
+https://www.resander.com/,NEWS,News Media,2020-07-27,Netalitica,
+http://www.redsindamanoy.com/index.php/,NEWS,News Media,2020-07-27,Netalitica,
+https://m.laorejaroja.com/,NEWS,News Media,2020-07-27,Netalitica,
+https://tubarco.news/,NEWS,News Media,2020-07-27,Netalitica,
+https://voragine.co/,NEWS,News Media,2020-07-27,Netalitica,
+https://www.periferiaprensa.com/,NEWS,News Media,2020-07-27,Netalitica,
+http://semanariovoz.com/,NEWS,News Media,2020-07-27,Netalitica,
+http://mariafernandacabal.com/,POLR,Political Criticism,2020-07-27,Netalitica,
+https://www.alvarouribe.com/,POLR,Political Criticism,2020-07-27,Netalitica,likely to be blocked by means of http
+https://juanmanuelsantos.com/en/home-eng/,POLR,Political Criticism,2020-07-27,Netalitica,
+http://www.lalinternaazul.info/,POLR,Political Criticism,2020-07-27,Netalitica,
+https://www.elbogotano.com.co/,POLR,Political Criticism,2020-07-27,Netalitica,
+https://es.panampost.com/temas/america-del-sur/colombia/,POLR,Political Criticism,2020-07-27,Netalitica,
+http://www.angelarobledo.com/,POLR,Political Criticism,2020-07-27,Netalitica,
+https://trabajenvagos.com/,POLR,Political Criticism,2020-07-27,Netalitica,
+https://es.theret.org/wherewework/colombia-2/,POLR,Political Criticism,2020-07-27,Netalitica,
+http://www.comitedesolidaridad.com/,POLR,Political Criticism,2020-07-27,Netalitica,
+https://tabustudios.co/,PORN,Pornography,2020-07-27,Netalitica,
+https://www.diamantewebcam.com/,PORN,Pornography,2020-07-27,Netalitica,
+https://www.dhlestudio.com.co/,PORN,Pornography,2020-07-27,Netalitica,
+http://www.livemodels.co/,PORN,Pornography,2020-07-27,Netalitica,
+https://camstagestudio.com/,PORN,Pornography,2020-07-27,Netalitica,
+https://webcammedellin.co/,PORN,Pornography,2020-07-27,Netalitica,
+http://www.estudiopenthouse.com/,PORN,Pornography,2020-07-27,Netalitica,
+https://www.studioluxus.com/,PORN,Pornography,2020-07-27,Netalitica,
+https://lovemstudios.com/,PORN,Pornography,2020-07-27,Netalitica,
+http://www.majesticstudio.co/,PORN,Pornography,2020-07-27,Netalitica,
+http://lila-mujer.org/,PUBH,Public Health,2020-07-27,Netalitica,
+http://www.ligasida.org.co/,PUBH,Public Health,2020-07-27,Netalitica,
+https://ipuc.org.co/,REL,Religion,2020-07-27,Netalitica,
+http://soyict.org/,REL,Religion,2020-07-27,Netalitica,
+https://mci12.com/,REL,Religion,2020-07-27,Netalitica,
+http://mmmoficial.org/,REL,Religion,2020-07-27,Netalitica,
+https://supresencia.com/,REL,Religion,2020-07-27,Netalitica,
+https://www.observatorioecommerce.com.co/,COMM,E-commerce,2020-07-28,Netalitica,
+https://www.ccce.org.co/,COMM,E-commerce,2020-07-28,Netalitica,
+https://ecommerceaward.org/colombia/,COMM,E-commerce,2020-07-28,Netalitica,
+https://www.colombiaecommerce.com/,COMM,E-commerce,2020-07-28,Netalitica,
+https://www.colombiafintech.co/,COMM,E-commerce,2020-07-28,Netalitica,
+https://www.exito.com/,COMM,E-commerce,2020-07-28,Netalitica,online shopping
+https://www.familiacomepasto.com/,COMM,E-commerce,2020-07-28,Netalitica,online natural products
+https://badoo.com/es-co/contactos/colombia/,DATE,Online Dating,2020-07-28,Netalitica,
+https://www.cvc.gov.co/,ENV,Environment,2020-07-28,Netalitica,Big environmental NGO
+https://codicesc.com/acerca-de/,HUMR,Human Rights Issues,2020-07-28,Netalitica,
+https://colectivajusticiamujer.org/educacion/,HUMR,Human Rights Issues,2020-07-28,Netalitica,
+https://mujeresconfiar.com/,HUMR,Human Rights Issues,2020-07-28,Netalitica,
+https://sentiido.com/,LGBT,LGBT,2020-07-28,Netalitica,
+https://dimensionbi.wixsite.com/inicio/,LGBT,LGBT,2020-07-28,Netalitica,
+https://www.sfcolombia.org/,LGBT,LGBT,2020-07-28,Netalitica,
+https://orgullolgbtcolombia.blogspot.com/,LGBT,LGBT,2020-07-28,Netalitica,
+https://cclgbt.co/nosotros/,LGBT,LGBT,2020-07-28,Netalitica,
+http://www.guiagaycolombia.com/,LGBT,LGBT,2020-07-28,Netalitica,
+https://www.caquetadiversa.org/,LGBT,LGBT,2020-07-28,Netalitica,
+https://radiodiversa.com.co/,LGBT,LGBT,2020-07-28,Netalitica,
+http://fauds.org/,LGBT,LGBT,2020-07-28,Netalitica,
+http://www.derechosmedellin.org/sitio/,LGBT,LGBT,2020-07-28,Netalitica,
+https://fundaciontejidosdiversos.org/,LGBT,LGBT,2020-07-28,Netalitica,
+https://caribeafirmativo.lgbt/tag/colombia-diversa/,LGBT,LGBT,2020-07-28,Netalitica,
+https://www.talentodiverso.com.co/,LGBT,LGBT,2020-07-28,Netalitica,
+https://enterezas.com/,LGBT,LGBT,2020-07-28,Netalitica,
+https://www.prideconnectioncolombia.com/,LGBT,LGBT,2020-07-28,Netalitica,
+http://www.orientame.org.co/,XED,Sex Education,2020-07-28,Netalitica,
+https://profamilia.org.co/,XED,Sex Education,2020-07-28,Netalitica,it helps people with different issues related to their sex lives and provides different abortion alternatives.
+http://comohacerseunaborto.com/es/colombia/,XED,Sex Education,2020-07-28,Netalitica,
+https://cddcolombia.org/es/inicio/,XED,Sex Education,2020-07-28,Netalitica,
+https://preguntale-a-cecilia.hotglue.me/,XED,Sex Education,2020-07-28,Netalitica,
+https://reddesalud.org/,XED,Sex Education,2020-07-28,Netalitica,
+https://www.vyprvpn.com/es/colombia-vpn/,ANON,Anonymization and circumvention tools,2020-07-29,Netalitica,
+https://colombia-vpn.com/,ANON,Anonymization and circumvention tools,2020-07-29,Netalitica,
+https://www.falabella.com.co/falabella-co/,COMM,E-commerce,2020-07-29,Netalitica,online shopping
+https://www.tiendasjumbo.co/,COMM,E-commerce,2020-07-29,Netalitica,online shopping
+https://www.homecenter.com.co/homecenter-co/,COMM,E-commerce,2020-07-29,Netalitica,online shopping
+https://www.dafiti.com.co/,COMM,E-commerce,2020-07-29,Netalitica,online shopping
+https://sportline.com.co/,COMM,E-commerce,2020-07-29,Netalitica,online shopping
+https://www.alkosto.com/,COMM,E-commerce,2020-07-29,Netalitica,online shopping
+https://www.quira-medios.com/giovanni-pua/,CULTR,Culture,2020-07-29,Netalitica,
+https://www.revistacronopio.com/,CULTR,Culture,2020-07-29,Netalitica,
+https://www.icesi.edu.co/papeldecolgadura/,CULTR,Culture,2020-07-29,Netalitica,
+http://www.revistacredencial.com/credencial/,CULTR,Culture,2020-07-29,Netalitica,
+https://fundaciongabo.org/es/,CULTR,Culture,2020-07-29,Netalitica,
+http://www.humboldt.org.co/es/,ENV,Environment,2020-07-29,Netalitica,main environmental NGO
+https://viacampesina.org/es/,ENV,Environment,2020-07-29,Netalitica,
+https://justiciaambientalcolombia.org/,ENV,Environment,2020-07-29,Netalitica,
+https://censat.org/es/inicio/,ENV,Environment,2020-07-29,Netalitica,
+http://hackbo.co/,HACK,Hacking Tools,2020-07-29,Netalitica,
+https://platohedro.org/,HACK,Hacking Tools,2020-07-29,Netalitica,
+https://www.colombiadominios.com/,HOST,Hosting and Blogging Platforms,2020-07-29,Netalitica,
+https://www.neolo.com/colombia/web-hosting/,HOST,Hosting and Blogging Platforms,2020-07-29,Netalitica,
+https://www.colombiahosting.com.co/hosting/,HOST,Hosting and Blogging Platforms,2020-07-29,Netalitica,
+https://www.webempresa.com/hosting-wordpress-colombia.html/,HOST,Hosting and Blogging Platforms,2020-07-29,Netalitica,
+https://www.festivaldelatigra.org/,HUMR,Human Rights Issues,2020-07-29,Netalitica,
+https://www.lavoxpopuli.com/,HUMR,Human Rights Issues,2020-07-29,Netalitica,
+https://twitter.com/Mariquismo/,LGBT,LGBT,2020-07-29,Netalitica,keep for control purposes
+https://www.presuntopodcast.com/,NEWS,News Media,2020-07-29,Netalitica,
+https://twitter.com/HELIODOPTERO/,NEWS,News Media,2020-07-29,Netalitica,It’s an influential and famous journalist he’s work was censored years ago. Keep for control purposes
+https://www.youtube.com/playlist?list=PLhoXG-_szCLvSVFL4GPv_dLcAfMFpsmCo/,POLR,Political Criticism,2020-07-29,Netalitica,keep for control purposes
+https://www.youtube.com/levyrincon/,POLR,Political Criticism,2020-07-29,Netalitica,keep for control purposes
+https://www.youtube.com/channel/UCkcR6LmTzCs93pmZ76bEy_g/,POLR,Political Criticism,2020-07-29,Netalitica,it’s a new web series about Alvaro Uribe the Centro democratico party and Uribe are trying to censor the series since it was announced. Keep for control purposes.
+https://twitter.com/petrogustavo/,POLR,Political Criticism,2020-07-29,Netalitica,it’s the biggest opposition politician and former presidential candidate. The government has tried to censor him multiple times
+https://twitter.com/JulianFMartinez/,POLR,Political Criticism,2020-07-29,Netalitica,keep for control purposes
+https://www.soho.co/,PROV,Provocative Attire,2020-07-29,Netalitica,
+https://www.revistadonjuan.com/,PROV,Provocative Attire,2020-07-29,Netalitica,
+https://playboy.co/,PROV,Provocative Attire,2020-07-29,Netalitica,
+https://bumble.com/es/,DATE,Online Dating,2020-07-29,Netalitica,This dating platform applies for the whole LAC
+https://tinder.com/?lang=es/,DATE,Online Dating,2020-07-29,Netalitica,This dating platform applies for the whole LAC
+https://www.happn.com/es/,DATE,Online Dating,2020-07-29,Netalitica,This dating platform applies for the whole LAC
+https://www.elcampesino.co/,ENV,Environment,2020-07-30,Netalitica,
+https://www.granacuerdovenezuela.com/,HUMR,Human Rights Issues,2020-07-30,Netalitica,Could be block in Venezuela for political reason or because they don’t want migrants or refugees to access this info
+http://nuevailusionfundacion.org/,HUMR,Human Rights Issues,2020-07-30,Netalitica,Could be block in Venezuela for political reason or because they don’t want migrants or refugees to access this info
+https://consejoderedaccion.org/,HUMR,Human Rights Issues,2020-07-30,Netalitica,Regional list it’s an important journalist site popular in LAC
+https://www.elvenezolanocolombia.com/,NEWS,News Media,2020-07-30,Netalitica,it could be block for political reasons
+https://www.telesurtv.net/,NEWS,News Media,2020-07-30,Netalitica,
+https://www.bbc.com/mundo/topics/c7zp57yyz25t/,NEWS,News Media,2020-07-30,Netalitica,
+https://cnnespanol.cnn.com/,NEWS,News Media,2020-07-30,Netalitica,
+https://www.dw.com/es/actualidad/s-30684/,NEWS,News Media,2020-07-30,Netalitica,
