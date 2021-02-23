@@ -1,6 +1,4 @@
 url,category_code,category_description,date_added,source,notes
-http://www.bywhat.com/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.freedomgatepakistan.org/,COMM,E-commerce,2014-04-15,citizenlab,
 https://discomaulvi.wordpress.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.Vtunnel.info/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.hinduhumanrights.org/,CULTR,Culture,2014-04-15,citizenlab,
@@ -73,7 +71,6 @@ http://www.sparcpk.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.ahmadiyya-islam.org/tahirfoundation/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Page not found in Pakistan
 http://www.youngsindhiadults.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://jamatdawa.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Blocked in Pakistan
-http://www.musicpakistan.net/,MMED,Media sharing,2014-04-15,citizenlab,"under construction, monitor"
 http://balouch.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,Blocked in Pakistan
 http://daily.urdupoint.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.balochwarna.com/,NEWS,News Media,2014-04-15,citizenlab,Blocked in Pakistan
@@ -100,7 +97,6 @@ https://www.islam-watch.org/,REL,Religion,2014-04-15,citizenlab,Blocked in Pakis
 http://www.jihadwatch.org/,REL,Religion,2014-04-15,citizenlab,Blocked in Pakistan
 http://www.jihadwatch.org/archives/020472.php,REL,Religion,2014-04-15,citizenlab,Blocked in Pakistan
 http://www.khatm-e-nubuwwat.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.tnfj.org.pk/,REL,Religion,2014-04-15,citizenlab,
 https://www.stop-block.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 https://www.letmeby.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 https://www.surf100.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
@@ -138,7 +134,6 @@ https://www.jasarat.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.khabrain.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.outlookindia.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.pakistanpressfoundation.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.pro-pakistan.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.thenews.com.pk/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.pat.com.pk/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.ppp.org.pk/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -288,7 +283,6 @@ http://brahvitime.blogspot.com/,HUMR,Human Rights Issues,2019-08-03,Netalitica,R
 https://hafsakhawaja.wordpress.com/,HUMR,Human Rights Issues,2019-08-03,Netalitica,Blog on silencing Baluchistan
 http://punjabpunch.blogspot.com/,HUMR,Human Rights Issues,2019-08-03,Netalitica,Regional Blog
 http://spiritual-pakistan-future.blogspot.com/,HUMR,Human Rights Issues,2019-08-03,Netalitica,Blog on spirituality
-https://www.christiantimes.pk/,NEWS,News Media,2019-08-03,Netalitica,Christianity website
 https://www.rabwah.net/,NEWS,News Media,2019-08-03,Netalitica,Website about Ahmeddiya News
 http://guides.library.duq.edu/disappearedpersons/Pakistan/,NEWS,News Media,2019-08-03,Netalitica,Information about enforced disappearances
 https://borgenproject.org/facts-about-human-rights-in-pakistan/,NEWS,News Media,2019-08-03,Netalitica,Blog about Human rights in Pakistan
@@ -376,13 +370,10 @@ http://www.sahe.org.pk/,HUMR,Human Rights Issues,2019-08-22,Netalitica,Website a
 http://hands.org.pk/2019/,HUMR,Human Rights Issues,2019-08-22,Netalitica,Website about Local NGO
 http://www.hope-ngo.com/,HUMR,Human Rights Issues,2019-08-22,Netalitica,Website about NGO 
 https://www.towleroad.com/,LGBT,LGBT,2019-08-22,Netalitica,Global Website- Can be blocked due to content about LGBT
-http://jamatdawa.net/,MILX,Terrorism and Militants,2019-08-22,Netalitica,Website of militant Islami Organization
 http://jdpmps.weebly.com/index.html,MILX,Terrorism and Militants,2019-08-22,Netalitica,Website in support of militant Islami Organization
-http://www.jhuf.net/,MILX,Terrorism and Militants,2019-08-22,Netalitica,Blocked in Pakistan
 http://ihyaekhilafat.blogspot.com/,MILX,Terrorism and Militants,2019-08-22,Netalitica,Blocked in Pakistan 
 http://www.hizb-ut-tahrir.info/,MILX,Terrorism and Militants,2019-08-22,Netalitica,Blocked in Pakistan
 http://www.hizb-pakistan.com/,MILX,Terrorism and Militants,2019-08-22,Netalitica,Blocked in Pakistan
-http://fif.org.pk/,MILX,Terrorism and Militants,2019-08-22,Netalitica,Blocked in Pakistan; Website of Falahe Insaniyat Foundation (FIF)
 http://www.alqalamonline.com/,NEWS,News Media,2019-08-22,Netalitica,Urdu News website
 http://nawaeafghan.weebly.com/16621585157516061746-15881605157515851746.html,NEWS,News Media,2019-08-22,Netalitica,Magazine about Afghanistan
 https://gandhara.rferl.org/,NEWS,News Media,2019-08-22,Netalitica,Can be blocked due to content about regional issues
@@ -390,19 +381,14 @@ https://hamariweb.com/,NEWS,News Media,2019-08-22,Netalitica,Website about Pakis
 https://www.sina.pk/,PUBH,Public Health,2019-08-22,Netalitica,Website about Health
 https://sehatkahani.com/,PUBH,Public Health,2019-08-22,Netalitica,Website about health
 https://sachet.org.pk/,PUBH,Public Health,2019-08-22,Netalitica,Website about local NGO
-http://www.jsopakistan.org/,REL,Religion,2019-08-22,Netalitica,Website about Shia sect
 https://www.facebook.com/pages/Taqwa-Model-School-Official/289934821043393/,REL,Religion,2019-08-22,Netalitica,Facebook page
 http://taqwamodelschool.com/,REL,Religion,2019-08-22,Netalitica,Website about Islamic Education system
 http://momeen.blogspot.com/,REL,Religion,2019-08-22,Netalitica,Blog on Islam
-http://www.fif.org.pk/?page_id=857/,REL,Religion,2019-08-22,Netalitica,Blocked in Pakistan
 http://forum.mohaddis.com/forums/%D8%A8%DA%86%D9%88%DA%BA-%DA%A9%DB%8C-%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA.577/,REL,Religion,2019-08-22,Netalitica,Forum about Islam
-http://www.sadaaeislam.com/,REL,Religion,2019-08-22,Netalitica,Cannot be reached 
-http://www.pasbane-haram.com/,REL,Religion,2019-08-22,Netalitica,Cannot be reached 
 https://www.voice-of-islam.co.cc/,REL,Religion,2019-08-22,Netalitica,Website about Islam
 http://www.musalmanbachay.com/,REL,Religion,2019-08-22,Netalitica,Website about Islam
 http://www.fathuljawwad.com/,REL,Religion,2019-08-22,Netalitica,Content about Jihad
 http://jihadepakistan.blogspot.com/,REL,Religion,2019-08-22,Netalitica,Blocked in Pakistan
-http://www.sunnitehreek.com.pk/,REL,Religion,2019-08-22,Netalitica,Website about Sunni sect
 http://strwp.weebly.com/,REL,Religion,2019-08-22,Netalitica,Website about Sunni sect Rawalpindi
 http://pstislamabad.blogspot.com/p/pakistan-sunni-tehreek-videos.html,REL,Religion,2019-08-22,Netalitica,Website about religion
 http://rangonoor.com/,REL,Religion,2019-08-22,Netalitica,Website about Islam
@@ -451,7 +437,6 @@ http://www.pakalumni.com/,GRP,Social Networking,2019-08-26,Netalitica,Social net
 http://mymfb.com/,GRP,Social Networking,2019-08-26,Netalitica,Muslim Friends book social networking website as alternative to Facebook
 https://www.thedotani.com/,HACK,Hacking Tools,2019-08-26,Netalitica,Blog about technology and digital marketing in Pakistan
 https://pakistanhacker.com/,HACK,Hacking Tools,2019-08-26,Netalitica,Website on hacking/tools in Pakistan
-https://hacktech.com.pk/,HACK,Hacking Tools,2019-08-26,Netalitica,Website on hacking/computer security/technological news
 http://shirkatgah.org/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Website of a human rights organization
 https://www.sparcpk.org/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Website of a human rights organization
 http://www.uksresearch.com/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Website of a human rights organization
@@ -463,7 +448,6 @@ http://www.wluml.org/contact/wrrc/content/womens-action-forum-waf/,HUMR,Human Ri
 http://www.insanfoundationtrust.org/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Website of a human rights organization
 https://www.ar-rahmah.org/,HUMR,Human Rights Issues,2019-08-26,Netalitica,"Website of a human rights INGO, placed under proscribed organizations by PTA"
 https://en.wikipedia.org/wiki/Khidmat-e-Khalq_Foundation/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Wikipedia page of Charitable organization in Pakistan
-http://www.alfazalorganization.com/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Website of banned human rights organization
 https://en.wikipedia.org/wiki/PakTurk_International_Schools_and_Colleges/,HUMR,Human Rights Issues,2019-08-26,Netalitica,Wikipedia page of Pak Turk school systems-declared terror outfit in Pakistan
 http://www.pk.undp.org/,IGO,Intergovernmental Organizations,2019-08-26,Netalitica,UNDP Pakistan website
 https://en.wikipedia.org/wiki/Jamaat-ul-Ahrar/,MILX,Terrorism and Militants,2019-08-26,Netalitica,Wikipedia page of Jamaat ul Ahrar
@@ -480,8 +464,6 @@ http://www.dopel.org/,MILX,Terrorism and Militants,2019-08-26,Netalitica,Databas
 https://www.youtube.com.pk/,MMED,Media sharing,2019-08-26,Netalitica,Pakistani page of Youtube (control purpose)
 https://starzplay.pk/,MMED,Media sharing,2019-08-26,Netalitica,Video sharing website
 http://pknewspaper.com/daily-mashriq-epaper/,NEWS,News Media,2019-08-26,Netalitica,Pakistani  News Group
-https://alsharq.com.pk/pages/dpages/Karachi/khi-2.html,NEWS,News Media,2019-08-26,Netalitica,Pakistani News Paper
-https://dailyintekhab.com.pk/,NEWS,News Media,2019-08-26,Netalitica,Pakistani News Paper
 http://www.waziristantimes.com/,NEWS,News Media,2019-08-26,Netalitica,News about tribal regions
 http://www.eyenewsnetwork.com/,NEWS,News Media,2019-08-26,Netalitica,News website
 https://www.voadeewanews.com/,NEWS,News Media,2019-08-26,Netalitica,Pashto News blog of Voice of America
@@ -515,7 +497,6 @@ http://www.pakistan.gov.pk/,GOVT,Government,2019-08-27,Netalitica,Official websi
 http://senate.gov.pk/en/index.php?id=-1&cattitle=Home/,GOVT,Government,2019-08-27,Netalitica,Official website for Senate of Pakistan
 http://na.gov.pk/en/index.php,GOVT,Government,2019-08-27,Netalitica,Official website for National Assembly of Pakistan
 https://foreignpolicy.com/2017/08/15/why-pakistan-hates-malala/,HATE,Hate Speech,2019-08-27,Netalitica,Global Website- Specific news article about why Malala is not liked in Pakistan
-http://www.sindhunitedparty.org/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Website of Sindhi nationalist party 
 http://jeaysindhqaumimahaz.blogspot.com/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Website of Sindhi nationalist party 
 https://minorityrights.org/fifty/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Minority rights (Global Relevance)
 https://minorityrights.org/minorities/sindhis-and-mohajirs/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Minority rights website (Sindhi & Mohajirs)
@@ -541,7 +522,6 @@ https://www.counterextremism.com/countries/pakistan/,HUMR,Human Rights Issues,20
 https://www.icj.org/country/asia-pacific/south-asia/pakistan/,HUMR,Human Rights Issues,2019-08-27,Netalitica,International Commission of Jurists website (Pakistan specific page)
 https://unic.org.pk/,IGO,Intergovernmental Organizations,2019-08-27,Netalitica,UN Information Centre website for Pakistan
 http://unesco.org.pk/,IGO,Intergovernmental Organizations,2019-08-27,Netalitica,UNESCO Pakistan website
-https://morning.pk/,NEWS,News Media,2019-08-27,Netalitica,News media website of Pakistan
 http://www.pak101.com/,NEWS,News Media,2019-08-27,Netalitica,Website including blog and content in Pakistan
 http://www.awaztoday.pk/,NEWS,News Media,2019-08-27,Netalitica,News website from Pakistan
 https://www.propergaanda.com/,NEWS,News Media,2019-08-27,Netalitica,Website of a digital media company including voices from progressive Pakistanis
@@ -555,7 +535,6 @@ https://www.tanqeed.org/,POLR,Political Criticism,2019-08-27,Netalitica,Website 
 https://lubpak.net/,POLR,Political Criticism,2019-08-27,Netalitica,News website including opinions/criticism 
 https://laalpatti.com/,POLR,Political Criticism,2019-08-27,Netalitica,Website Including Political criticism in Pakistan
 https://haroonriaz.wordpress.com/tag/malala-yousafzai/,POLR,Political Criticism,2019-08-27,Netalitica,Blog post in support of Malala Yousafzai
-https://jibrannasir.com/,POLR,Political Criticism,2019-08-27,Netalitica,Website of human rights activist and independent emerging politician Jibran Nasir
 https://en.wikipedia.org/wiki/Manzoor_Pashteen/,POLR,Political Criticism,2019-08-27,Netalitica,Wikipedia page of Manzoor Pashteen-chairman of Pashtun Tahafuz Movement (PTM)
 https://www.pat.com.pk/english/index.html,POLR,Political Criticism,2019-08-27,Netalitica,"Website of Pakistan Awami Tehreek (PAT), a political party founded by Dr. Tahir ul Qadri"
 https://en.wikipedia.org/wiki/Pakistan_and_state-sponsored_terrorism/,POLR,Political Criticism,2019-08-27,Netalitica,Wikipedia page of Pakistan and terrorism
@@ -569,14 +548,12 @@ http://mariestopespk.org/,XED,Sex Education,2019-08-27,Netalitica,Website of an 
 https://www.olx.com.pk/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
 https://www.zameen.com/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling land property in Pakistan
 https://symbios.pk/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
-http://www.icar.pk/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
 https://egoods.pk/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
 https://www.chasevaluecentre.com/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
 https://www.telemart.pk/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
 https://www.ishopping.pk/,COMM,E-commerce,2019-08-28,Netalitica,Website for buying and selling goods in Pakistan
 https://www.ptv.com.pk/,GOVT,Government,2019-08-28,Netalitica,State owned Television network
 https://rsf.org/en/pakistan/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Reporters Sans Frontières(Pakistan Specific Page)
-https://www.pfuj.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website for union of journalists in Pakistan
 https://www.karachipressclub.com/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of Karachi Press Club
 http://www.fnpk.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of Freedom Network Pakistan
 https://sappk.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of South Asia partnership Pakistan
@@ -587,24 +564,18 @@ http://awampk.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a h
 https://pakistan.savethechildren.net/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Save the Children (Pakistan page)
 https://dchd.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a human rights organization in Pakistan
 https://sahil.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a human rights organization in Pakistan
-https://www.bllfpk.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
-https://upgrademinorities.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://whiteribbon.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 https://sexualharassmentwatch.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
-http://wdo.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 https://aasha.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://www.safma.net/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://crcp.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://crc.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
-http://yfporg.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://sycop.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 https://cdapak.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
-http://www.bargad.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 https://pildat.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://pyo.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://yansrhr.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 http://pya.org.pk/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
-http://oidworld.org/,HUMR,Human Rights Issues,2019-08-28,Netalitica,Website of a Human rights organization in Pakistan
 https://www.ohchr.org/EN/Countries/AsiaRegion/Pages/PKIndex.aspx,IGO,Intergovernmental Organizations,2019-08-28,Netalitica,OHCHR Website (Pakistan specific page)
 https://pk.usembassy.gov/,GOVT,Government,2019-08-28,Netalitica,US Embassy in Pakistan website
 https://www.gov.uk/world/organisations/british-high-commission-islamabad/,GOVT,Government,2019-08-28,Netalitica,British High Commission Pakistan website
@@ -627,7 +598,6 @@ https://www.mjunoon.tv/,NEWS,News Media,2019-08-28,Netalitica,Website containing
 https://abbtakk.tv/,NEWS,News Media,2019-08-28,Netalitica,Website of Abb Takk News
 http://www.publicnews.com/,NEWS,News Media,2019-08-28,Netalitica,Website of Public News
 https://publictv.in/,NEWS,News Media,2019-08-28,Netalitica,Website of Public TV
-http://hewad.org/,NEWS,News Media,2019-08-28,Netalitica,Website of an Afghanistan News Channel
 https://www.tolonews.com/,NEWS,News Media,2019-08-28,Netalitica,Website of an Afghanistan News Channel
 https://shamshadtv.tv/,NEWS,News Media,2019-08-28,Netalitica,Website of an Afghanistan News Channel
 https://www.pajhwok.com/,NEWS,News Media,2019-08-28,Netalitica,Wesbite of an Afghanistan News Channel
@@ -653,7 +623,6 @@ http://cii.gov.pk/,GOVT,Government,2019-09-12,Netalitica,Council of Islamic Ideo
 https://www.girlsnotbrides.org/child-marriage/pakistan/,HUMR,Human Rights Issues,2019-09-12,Netalitica,Country specific page of Girls not Brides organizations (They work against child marriages and have a wide network present through local organizations in Pakistan)
 https://www.hive.org.pk/,HUMR,Human Rights Issues,2019-09-12,Netalitica,Website of a community space for hosting events and projects in Pakistan related to counter extremism
 https://stratagem.pk/,HUMR,Human Rights Issues,2019-09-12,Netalitica,Presents analyses on various human rights issues in Pakistan
-http://pakistanmission-un.org/,IGO,Intergovernmental Organizations,2019-09-12,Netalitica,Website of  Mission of Pakistan to UN
 https://timesofindia.indiatimes.com/,NEWS,News Media,2019-09-12,Netalitica,Indian News Website
 https://www.ndtv.com/,NEWS,News Media,2019-09-12,Netalitica,Indian News Website (Not accessible currently in Pakistan)
 https://www.timesnownews.com/,NEWS,News Media,2019-09-12,Netalitica,Indian News Website

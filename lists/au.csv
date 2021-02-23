@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://blog.mish.re/,HACK,Hacking Tools,2020-02-21,anonymous,Reportedly blocked in Australia
 https://mishresec.wordpress.com/,HACK,Hacking Tools,2020-03-16,anonymous,
 https://health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://www.health.nsw.gov.au/news/Pages/20200317_01.aspx,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
