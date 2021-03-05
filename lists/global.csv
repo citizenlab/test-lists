@@ -1437,3 +1437,4 @@ https://www.namecoin.org/,ANON,Anonymization and circumvention tools,2021-02-04,
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Generic_Camera_Icon.svg/100px-Generic_Camera_Icon.svg.png,CULTR,Culture,2021-02-22,Wikimedia,URL provided by Wikimedia based on recent traffic events
 https://www.joinclubhouse.com/,GRP,Social Networking,2021-03-03,OONI,Reportedly blocked in UAE but worth testing globally
 https://nordvpn.com/,ANON,Anonymization and circumvention tools,2021-03-05,OONI,Appears to be blocked in Myanmar but worth testing globally
+https://1.1.1.1/,ANON,Anonymization and circumvention tools,2021-03-05,OONI,Might be blocked in Myanmar but worth testing globally
