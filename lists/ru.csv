@@ -29,11 +29,9 @@ http://milli-mejlis.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab
 http://slon.ru/,NEWS,News Media,2014-04-15,citizenlab,"domain nredirects to another respurce, not blocked keep monitoring"
 http://vk.com/minitrue/,NEWS,News Media,2014-04-15,citizenlab,"critical blog, outdated"
 http://www.chechentimes.net/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.gulag.ipvnews.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"blocked, dead site, monitor"
 http://www.islamdin.biz/,HATE,Hate Speech,2014-04-15,citizenlab,dead website but still blocked
 http://www.mashina.org/,NEWS,News Media,2014-04-15,citizenlab,"projects temporarily stopped, keep monitoring"
 http://www.minjust.net/,NEWS,News Media,2014-04-15,citizenlab,dead site but still blocked
-http://www.national-socialist.tk/,HATE,Hate Speech,2014-04-15,citizenlab,"blocked, temporaly unavailable"
 http://www.owl.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"outdated but generates some traffic, monitor"
 http://www.resistance88.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"blocked, temporarily closed for maintenance, monitor"
 http://www.reuters.com/article/2010/03/21/russia-olympics-protest-iduslde62k02s20100321/,NEWS,News Media,2014-04-15,citizenlab,"2010 Sochi Olympics article, generates traffic, monitor"
@@ -83,7 +81,6 @@ https://cannabisnature.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,about can
 https://echo.msk.ru/,NEWS,News Media,2014-04-15,citizenlab,popular Russian radio station
 https://freedomhouse.org/russia-eve-sochi/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://inosmi.ru/,NEWS,News Media,2014-04-15,citizenlab,
-https://legalrc.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 https://opervzakone.livejournal.com/,NEWS,News Media,2014-04-15,citizenlab,personal blog
 https://passiya.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.pictureview.com/,MMED,Media sharing,2014-04-15,citizenlab,
@@ -176,7 +173,6 @@ https://twitter.com/openrussia_org/,NEWS,News Media,2017-12-14,OONI,Ordered to g
 https://www.youtube.com/channel/UC5DWMy_XjL3v3VfLIZFZvpw/,CULTR,Culture,2017-12-14,OONI,Reportedly blocked
 http://imrussia.org/en/,HUMR,Human Rights Issues,2017-12-16,oonitarian,foreign agent law
 https://openrussia.org/,NEWS,News Media,2017-12-16,oonitarian,foreign agent law
-https://ov.openrussia.org/,HUMR,Human Rights Issues,2017-12-16,oonitarian,"foreign agent law, project put on hold"
 https://www.youtube.com/watch?time_continue=850&v=RQZr2NgKPiU/,POLR,Political Criticism,2018-02-10,igorv,corruption scandal video
 https://ok.ru/,GRP,Social Networking,2018-02-23,igorv,one of most popular social networking platforms
 http://www.kerch.com/,NEWS,News Media,2018-02-23,igorv,"Blocked in Crimea, page under construction"
@@ -187,7 +183,6 @@ http://ru.rfi.fr/,NEWS,News Media,2018-09-13,OONI,
 https://www.bbc.com/russian/,NEWS,News Media,2018-09-13,OONI,
 https://www.dw.com/ru/,NEWS,News Media,2018-09-13,OONI,
 https://ru.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://b.growerz.online/,ALDR,Alcohol & Drugs,2019-05-25,Netalitica,
 http://cameleo.xyz/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
 http://www.freeproxy.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
 http://www.mysites.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
@@ -219,7 +214,6 @@ https://amnesty.org.ru/,HUMR,Human Rights Issues,2019-05-25,Netalitica,Amnesty p
 https://medianet.kz/,HUMR,Human Rights Issues,2019-05-25,Netalitica,focus on journalism and freedom of speech in Central Asia
 http://gaia.ru/,LGBT,LGBT,2019-05-25,Netalitica,
 http://gay.kz/,LGBT,LGBT,2019-05-25,Netalitica,
-http://www.gayvideo.ru/,LGBT,LGBT,2019-05-25,Netalitica,
 http://www.lesbi.ru/,LGBT,LGBT,2019-05-25,Netalitica,
 http://xs.gay.ru/,LGBT,LGBT,2019-05-25,Netalitica,
 https://gaycity.love/,LGBT,LGBT,2019-05-25,Netalitica,
@@ -427,7 +421,6 @@ http://www.akm.ru/,NEWS,News Media,2019-12-09,Netalitica,
 http://www.compromat.ru/,NEWS,News Media,2019-12-09,Netalitica,
 http://www.flb.ru/,NEWS,News Media,2019-12-09,Netalitica,
 https://www.inopressa.ru/,NEWS,News Media,2019-12-09,Netalitica,foreign media on Russia
-http://www.molgvardia.ru/,NEWS,News Media,2019-12-09,Netalitica,
 https://www.obozrevatel.com/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 http://www.pravdabeslana.ru/,NEWS,News Media,2019-12-09,Netalitica,"Beslan tragedy - outdated, monitor"
 http://www.strana.ru/,NEWS,News Media,2019-12-09,Netalitica,
@@ -530,7 +523,6 @@ https://hi-news.ru/,NEWS,News Media,2019-12-10,Netalitica,medical and science ne
 https://www.iguides.ru/,NEWS,News Media,2019-12-10,Netalitica,technology news
 https://mail.rambler.ru/,COMT,Communication Tools,2019-12-18,Netalitica,popular email service
 https://www.msn.com/ru-ru,COMT,Communication Tools,2019-12-18,Netalitica,MSN service for Russia
-https://www.ulmart.ru/,COMM,E-commerce,2019-12-18,Netalitica,online shopping
 https://www.rbc.ru/,NEWS,News Media,2019-12-18,Netalitica,Business news
 https://vz.ru/,NEWS,News Media,2019-12-18,Netalitica,Business news
 https://www.banki.ru/,NEWS,News Media,2019-12-18,Netalitica,Business news
@@ -548,7 +540,6 @@ http://www.finmarket.ru/,NEWS,News Media,2019-12-18,Netalitica,Business news
 https://realty.ria.ru/,NEWS,News Media,2019-12-18,Netalitica,Business news
 https://www.rbc.ru/newspaper/,NEWS,News Media,2019-12-18,Netalitica,Business news
 https://adindex.ru/,NEWS,News Media,2019-12-18,Netalitica,Business news
-http://finam.info/,NEWS,News Media,2019-12-18,Netalitica,Business news
 https://mirtesen.ru/,NEWS,News Media,2019-12-18,Netalitica,
 https://golbis.com/,NEWS,News Media,2019-12-18,Netalitica,infotainment
 https://na-svyazi.ru/,NEWS,News Media,2019-12-18,Netalitica,regional news and infrmation portal for Chuvashia
@@ -591,7 +582,6 @@ https://islam-today.ru/,REL,Religion,2019-12-18,Netalitica,Orthodox Church
 http://ruskline.ru/,REL,Religion,2019-12-18,Netalitica,Orthodox Church
 https://go.mail.ru/,SRCH,Search Engines,2019-12-18,Netalitica,
 https://www.sputnik.ru/,SRCH,Search Engines,2019-12-18,Netalitica,search engine and news platform
-http://webalta.ru/,SRCH,Search Engines,2019-12-18,Netalitica,search engine and news platform
 https://fotostrana.ru/,GRP,Social Networking,2019-12-18,Netalitica,
 https://qip.ru/,GRP,Social Networking,2019-12-18,Netalitica,news and email service
 https://professionali.ru/,GRP,Social Networking,2019-12-18,Netalitica,connects proffesionals

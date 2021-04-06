@@ -19,7 +19,6 @@ http://www.heineken.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,blocked with
 http://www.hemid.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.homa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code. Redirected to http://www.go-stuttgart-hotels.com/en/homa.html
 http://www.iran-newspaper.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.irangroup.bravepages.com/,POLR,Political Criticism,2014-04-15,citizenlab,blocked
 http://www.islamport.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,language is Arabic
 http://www.jebhemelli.net/,MILX,Terrorism and Militants,2014-04-15,citizenlab,blocked
 http://www.kasr-alsanam.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code.
@@ -70,10 +69,8 @@ https://coreos.com/,COMM,E-commerce,2017-05-16,ASL19,CoreOS is a part of Red Hat
 http://degarbavaran.net/,CULTR,Culture,2017-05-16,ASL19,site use blogspot iframe. Support https but http iframe not allowed
 http://dehnamaki.blogfa.com/,CULTR,Culture,2017-05-16,ASL19,blocked with 503 error code.
 http://dmnazarimehr.blogfa.com/,CULTR,Culture,2017-05-16,ASL19,blocked with 503 error code.
-http://ecoto.ir/,CULTR,Culture,2017-05-16,ASL19,
 http://enghelabe-eslami.com/,NEWS,News Media,2017-05-16,ASL19,
 http://ghanoondaily.ir/fa/,NEWS,News Media,2017-05-16,ASL19,
-http://hadianalborz.ir/,NEWS,News Media,2017-05-16,ASL19,
 https://home.pearsonvue.com/,HACK,Hacking Tools,2017-05-16,ASL19,
 http://hosseinsanapour.blogfa.com/,CULTR,Culture,2017-05-16,ASL19,
 http://iranefardalive.com/,NEWS,News Media,2017-05-16,ASL19,blocked with timeout error.
@@ -142,7 +139,6 @@ https://www.instagram.com/masih.alinejad/,HUMR,Human Rights Issues,2019-06-04,ch
 https://www.instagram.com/p/BxcElVMhBAH/,HUMR,Human Rights Issues,2019-06-04,chelchela,
 https://termux.org/,HOST,Hosting and Blogging Platforms,2019-08-06,chelchela,This address provides the main termux app files that it needs to get started. Ignore error 404.
 https://termux.net/,HOST,Hosting and Blogging Platforms,2019-08-06,chelchela,
-http://www.afsaran.ir/,CULTR,Culture,2017-05-16,ASL19,GOVT-CULTR
 http://www.cyberfreehost.com/,CULTR,Culture,2014-04-15,citizenlab,blocked. fake site
 http://www.iran-e-azad.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Blocked. this site related to mojahedin. Just provide few links
 http://persian.kamangir.net/,CULTR,Culture,2017-05-16,ASL19,blocked
@@ -196,7 +192,6 @@ http://sook.ir/,NEWS,News Media,2017-05-16,ASL19,
 http://tadbir24.ir/,GOVT,Government,2017-05-16,ASL19,GOVT-NEWS
 http://taghato.net/,POLR,Political Criticism,2017-05-16,ASL19,blocked
 http://www.aliakbarnaseri.ir/,GOVT,Government,2017-05-16,ASL19,The site is for a government official.
-http://www.am-ahmadi.ir/,GOVT,Government,2017-05-16,ASL19,The site is for a government official.
 http://www.asafari.ir/,GOVT,Government,2017-05-16,ASL19,The site is for a government official.
 http://www.biglari53.ir/,GOVT,Government,2017-05-16,ASL19,
 http://www.drtala.com/,GOVT,Government,2017-05-16,ASL19,The site is for a government official.
@@ -213,7 +208,6 @@ https://thetehrantimes.com/,CULTR,Culture,2017-05-16,ASL19,https://thetehranot n
 https://www.dellemc.com/en-ca/index.htm/,HOST,Hosting and Blogging Platforms,2017-05-16,ASL19,The site has blocked Iranian ip.
 https://www.tabnak.ir/fa/news/184641/%D8%B4%D8%B5%D8%AA-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%AE%D8%B4%DA%A9%DB%8C%D8%AF/,ENV,Environment,2014-04-15,citizenlab,
 https://www.istripper.com/,PORN,Pornography,2014-04-15,citizenlab,blocked
-http://blog.hasanagha.net/,HATE,Hate Speech,2014-04-15,citizenlab,blocked
 https://persianbooks2.blogspot.com/,CULTR,Culture,2014-04-15,citizenlab,blocked. blogspot.com and all its subdomains are blocked
 https://www.webs.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,blocked with timeout error.
 https://sayt.ws/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,does not provide free service.
@@ -225,7 +219,6 @@ https://www2.illinois.gov/sites/agr/Pages/default.aspx/,ENV,Environment,2016-04-
 http://naba-news.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code.
 https://www.sadacom.news/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 https://babakdad.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,blocked with 503 error code.
-http://www.rajaei.org/fa/,CULTR,Culture,2017-05-16,ASL19,GOVT-CULTR
 https://www.holakoueearchive.co/,CULTR,Culture,2017-05-16,ASL19,
 https://www.jazzaab.net/,CULTR,Culture,2017-05-16,ASL19,
 https://www.manototv.com/news/,NEWS,News Media,2017-05-16,ASL19,blocked with RST injection: ERR_CONNECTION_RESET.
@@ -393,7 +386,6 @@ https://www.youjizz.com/,PORN,Pornography,2017-09-05,OONI,blocked
 https://donyayebahai.org/,REL,Religion,2018-05-14,Nima,Prosecuted religious minority. Blocked
 https://balatarin.com/,NEWS,News Media,2014-04-15,citizenlab,blocked
 https://www.tapesh.com/,CULTR,Culture,2014-04-15,citizenlab,blocked. Music
-https://www.webwarper.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,blocked
 https://maryaminaa.blogspot.com/,CULTR,Culture,2017-05-16,ASL19,blocked. blogspot.com and all its subdomains are blocked
 https://osyan.net/,CULTR,Culture,2017-05-16,ASL19,blocked
 https://www.gooshe.net/,CULTR,Culture,2017-05-16,ASL19,blocked
@@ -434,17 +426,13 @@ http://speed-vpn.com/,ANON,Anonymization and circumvention tools,2019-11-14,Neta
 https://www.keriomaker.com/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://www.wevpn.pw/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,
 http://tiknetvpn.net/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
-http://tehing.xyz/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 http://hotkerio.com/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://hivpn.in/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
-https://cloudu.xyz/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked with SNI
-http://ilccvpn.info/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,
 http://finasterideblog.com/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://20speed.co/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://vpnlike.asia/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://fitnets.net/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://iran-safe.cf/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,
-https://proxvp.shop/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,
 http://parsvpn.online/,ANON,Anonymization and circumvention tools,2019-11-14,Netalitica,blocked
 https://bale.ai/,COMT,Communication Tools,2019-11-14,Netalitica,
 https://gap.im/,COMT,Communication Tools,2019-11-14,Netalitica,
@@ -500,21 +488,17 @@ https://streamershow.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://pay.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://streamx.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://hamibash.com/,ECON,Economics,2019-11-14,Netalitica,
-https://stream-pay.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://hamijoo.com/,ECON,Economics,2019-11-14,Netalitica,
 https://mehrabane.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://ippafoundation.com/,ECON,Economics,2019-11-14,Netalitica,
-https://mellifund.com/fa/,ECON,Economics,2019-11-14,Netalitica,
 http://www.childf.com/,ECON,Economics,2019-11-14,Netalitica,
 https://sosapoverty.org/,ECON,Economics,2019-11-14,Netalitica,
 https://bazaremali.com/,ECON,Economics,2019-11-14,Netalitica,
-http://bghaem.ir/,ECON,Economics,2019-11-14,Netalitica,
 http://setak.sharif.ir/,ECON,Economics,2019-11-14,Netalitica,
 http://avatech.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://dmondgroup.com/,ECON,Economics,2019-11-14,Netalitica,
 https://shetabdehi.com/,ECON,Economics,2019-11-14,Netalitica,
 https://qstartups.ir/,ECON,Economics,2019-11-14,Netalitica,
-https://tac.ir/fa/,ECON,Economics,2019-11-14,Netalitica,
 http://ticacc.ir/,ECON,Economics,2019-11-14,Netalitica,
 http://axell.ir/,ECON,Economics,2019-11-14,Netalitica,
 http://karinovin.com/,ECON,Economics,2019-11-14,Netalitica,
@@ -522,13 +506,11 @@ http://synapseplus.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://ferdowsiaccelerator.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://porteghal.org/fa/,ECON,Economics,2019-11-14,Netalitica,
 https://finnova.ir/,ECON,Economics,2019-11-14,Netalitica,
-http://maxelerator.ir/,ECON,Economics,2019-11-14,Netalitica,
 http://technovation.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://ponisha.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://facdemoday.ir/,ECON,Economics,2019-11-14,Netalitica,
 https://www.sanbaplus.com/,ECON,Economics,2019-11-14,Netalitica,
 https://trigup.com/,ECON,Economics,2019-11-14,Netalitica,
-https://www.fundyab.com/,ECON,Economics,2019-11-14,Netalitica,
 https://tse.ir/,ECON,Economics,2019-11-14,Netalitica,
 http://donyayebourse.com/,ECON,Economics,2019-11-14,Netalitica,
 http://www.boursenegar.ir/,ECON,Economics,2019-11-14,Netalitica,
@@ -571,7 +553,6 @@ https://parsget.com/,FILE,File-sharing,2019-11-14,Netalitica,
 http://uploadboy.ir/,FILE,File-sharing,2019-11-14,Netalitica,
 https://rapidpars.com/,FILE,File-sharing,2019-11-14,Netalitica,
 http://uupload.ir/,FILE,File-sharing,2019-11-14,Netalitica,
-https://8upload.ir/,FILE,File-sharing,2019-11-14,Netalitica,
 https://up.20script.ir/,FILE,File-sharing,2019-11-14,Netalitica,
 https://up.facenama.com/,FILE,File-sharing,2019-11-14,Netalitica,
 https://upinja.com/,FILE,File-sharing,2019-11-14,Netalitica,
@@ -626,8 +607,6 @@ https://spy24.ir/,HACK,Hacking Tools,2019-11-14,Netalitica,
 https://vortex-team.org/,HACK,Hacking Tools,2019-11-14,Netalitica,
 https://esecurity.ir/,HACK,Hacking Tools,2019-11-14,Netalitica,
 http://www.paac.ir/,HACK,Hacking Tools,2019-11-14,Netalitica,
-http://lithon.ir/,HACK,Hacking Tools,2019-11-14,Netalitica,
-https://sechouse.ir/,HACK,Hacking Tools,2019-11-14,Netalitica,
 https://koneshtech.academy/,HACK,Hacking Tools,2019-11-14,Netalitica,
 https://tech.tavaana.org/,HACK,Hacking Tools,2019-11-14,Netalitica,blocked with timeout error.
 https://itresan.com/,HACK,Hacking Tools,2019-11-14,Netalitica,
@@ -701,7 +680,6 @@ https://dojensgara.org/,LGBT,LGBT,2019-11-14,Netalitica,blocked with SNI
 https://iran.outrightinternational.org/,LGBT,LGBT,2019-11-14,Netalitica,blocked with SNI
 http://www.irqo.org/persian/,LGBT,LGBT,2019-11-14,Netalitica,blocked
 http://6rang.org/,LGBT,LGBT,2019-11-14,Netalitica,blocked
-http://www.mahtaa.com/,LGBT,LGBT,2019-11-14,Netalitica,
 https://www.irqr.ca/,LGBT,LGBT,2019-11-14,Netalitica,
 https://www.dalfak.com/,MMED,Media sharing,2019-10-23,Netalitica,
 https://shenoto.com/,MMED,Media sharing,2019-11-14,Netalitica,
@@ -713,13 +691,11 @@ https://donya-e-eqtesad.com/,NEWS,News Media,2019-10-23,Netalitica,
 https://www.independentpersian.com/,NEWS,News Media,2019-11-14,Netalitica,blocked with RST injection: ERR_CONNECTION_RESET.
 https://www.mehrnews.com/,NEWS,News Media,2019-11-14,Netalitica,
 https://www.yjc.ir/,NEWS,News Media,2019-11-14,Netalitica,
-https://www.farsnews.com/,NEWS,News Media,2019-11-14,Netalitica,
 https://afghanistantoday.net/,NEWS,News Media,2019-11-14,Netalitica,
 https://khabarcanada.ca/,NEWS,News Media,2019-11-14,Netalitica,
 https://jalebh.com/,NEWS,News Media,2019-11-14,Netalitica,
 https://atlaspress.af/,NEWS,News Media,2019-11-14,Netalitica,
 https://anfpersian.com/,NEWS,News Media,2019-11-14,Netalitica,blocked with RST injection: ERR_CONNECTION_RESET.
-https://www.goiranian.com/per/,DATE,Online Dating,2019-11-14,Netalitica,blocked
 https://www.delbara.com/,DATE,Online Dating,2019-11-14,Netalitica,blocked
 http://a9p.ir/,DATE,Online Dating,2019-11-14,Netalitica,
 https://telecloob.ir/,DATE,Online Dating,2019-11-14,Netalitica,
@@ -732,7 +708,6 @@ https://4bn.ir/,DATE,Online Dating,2019-11-14,Netalitica,
 https://www.iraniansinglesconnection.com/,DATE,Online Dating,2019-11-14,Netalitica,blocked with SNI
 http://rezapahlavi.org/,POLR,Political Criticism,2019-10-23,Netalitica,blocked
 http://fa.rezapahlavi.org/,POLR,Political Criticism,2019-10-23,Netalitica,blocked
-https://whiteroseiran.com/,POLR,Political Criticism,2019-10-23,Netalitica,
 http://www.elohimleaks.org/fa/,POLR,Political Criticism,2019-11-14,Netalitica,
 https://www.kir2kos.net/,PORN,Pornography,2019-11-14,Netalitica,blocked
 https://sexiranian.party/,PORN,Pornography,2019-11-14,Netalitica,blocked with SNI
@@ -741,7 +716,6 @@ https://shahvani.site/,PORN,Pornography,2019-11-14,Netalitica,blocked
 https://shahvani.com/,PORN,Pornography,2019-11-14,Netalitica,blocked
 https://sex021.net/,PORN,Pornography,2019-11-14,Netalitica,blocked with SNI
 https://sexbebin.com/,PORN,Pornography,2019-11-14,Netalitica,blocked
-https://www.dastanhi.sexy/,PORN,Pornography,2019-11-14,Netalitica,blocked with SNI
 https://www.qombol.com/,PORN,Pornography,2019-11-14,Netalitica,blocked
 https://avizoone.com/,PORN,Pornography,2019-11-14,Netalitica,blocked
 https://clipseksi.com/,PORN,Pornography,2019-11-14,Netalitica,blocked
@@ -758,10 +732,8 @@ https://mahak-charity.org/main/fa/,PUBH,Public Health,2019-11-14,Netalitica,
 https://fa.wfp.org/,PUBH,Public Health,2019-11-14,Netalitica,
 https://behnamcharity.org.ir/,PUBH,Public Health,2019-11-14,Netalitica,
 http://ehda.sbmu.ac.ir/,PUBH,Public Health,2019-11-14,Netalitica,blocked
-https://ehda.center/,PUBH,Public Health,2019-11-14,Netalitica,
 http://swi.ir/,PUBH,Public Health,2019-11-14,Netalitica,
 https://zezito.ir/,PUBH,Public Health,2019-11-14,Netalitica,
-https://www.infosalamat.com/,PUBH,Public Health,2019-11-14,Netalitica,
 https://www.iranhiv.com/,PUBH,Public Health,2019-11-14,Netalitica,
 http://aids.ir/,PUBH,Public Health,2019-11-14,Netalitica,
 http://www.behzisti.ir/,PUBH,Public Health,2019-11-14,Netalitica,
@@ -786,7 +758,6 @@ https://mfa.gov.il/,REL,Religion,2019-11-14,Netalitica,blocked with timeout erro
 http://www.iranjewish.com/,REL,Religion,2019-11-14,Netalitica,
 http://www.farsicrc.com/,REL,Religion,2019-11-14,Netalitica,blocked
 http://7dorim.com/Home.asp/,REL,Religion,2019-11-14,Netalitica,blocked
-https://iranian-deist.com/,REL,Religion,2019-11-14,Netalitica,
 http://w-atheism.123website.nl/,REL,Religion,2019-11-14,Netalitica,blocked
 https://fa.rael.org/home/,REL,Religion,2019-11-14,Netalitica,blocked with timeout error.
 https://wrldrels.org/fa/,REL,Religion,2019-11-14,Netalitica,blocked with timeout error.
@@ -811,11 +782,9 @@ https://mashhadcondom.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://www.qomcandom.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://kala724.net/,XED,Sex Education,2019-11-14,Netalitica,
 https://hiss.market/,XED,Sex Education,2019-11-14,Netalitica,
-https://jen30shop.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://byeenini.com/,XED,Sex Education,2019-11-14,Netalitica,blocked with SNI
 https://roombedivar.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://zanan909.com/,XED,Sex Education,2019-11-14,Netalitica,
-https://misoprost9.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://drnedasalarieh.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://madar365.com/,XED,Sex Education,2019-11-14,Netalitica,
 https://stds.ir/,XED,Sex Education,2019-11-14,Netalitica,
