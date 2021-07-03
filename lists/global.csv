@@ -1460,6 +1460,15 @@ https://blog.mozilla.org/,HACK,Hacking Tools,2021-04-04,Chelchela,
 https://download-installer.cdn.mozilla.net/,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://dl.google.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://www.gstatic.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
+https://webcache.googleusercontent.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Google web cache
+https://yandexwebcache.net/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Yandex web cache
+https://cc.bingj.com/cache.aspx?q=nothing,SRCH,Search Engines,2021-07-03,Chelchela,Bing web cache
+https://encrypted-tbn0.gstatic.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Google image thumbnail cache
+https://im0-tub-com.yandex.net/i?id=462f375c96139f1e41d919b44be2d780&n=13&exp=1,SRCH,Search Engines,2021-07-03,Chelchela,Yandex image thumbnail cache
+https://th.bing.com/th/id/OIP.YnpdokcN_OQYn3n41AlqZAHaEe?w=250&h=180&c=7&o=5&pid=1.7,SRCH,Search Engines,2021-07-03,Chelchela,Bing image thumbnail cache
+https://external-content.duckduckgo.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Duckduckgo image cache
+https://miro.medium.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-07-03,Chelchela,
+https://cdn-client.medium.com/lite/static/js/manifest.ef5f44d2.js,HOST,Hosting and Blogging Platforms,2021-07-03,Chelchela,
 https://www.clubhouseapi.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://clubhouse.pubnub.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://brave.com/,HACK,Hacking Tools,2021-06-24,Chelchela,
