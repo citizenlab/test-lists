@@ -107,7 +107,7 @@ http://obozrevatel.ru/,NEWS,News Media,2017-09-28,igorv,
 http://uapolitics.com/,POLR,Political Criticism,2017-09-28,igorv,Ukrainina resource
 https://ua.krymr.com/,NEWS,News Media,2017-09-28,igorv,RFE/RL Ukrainian service for Crimea
 http://noblockme.ru/,ANON,Anonymization and circumvention tools,2017-09-28,igorv,
-https://navalny.com/,POLR,Political Criticism,2017-09-28,igorv,
+https://navalny.com/,POLR,Political Criticism,2017-09-28,igorv,Reportedly blocked in July 2021
 https://vk.com/navalny/,POLR,Political Criticism,2017-09-28,igorv,
 http://kinozal.tv/,FILE,File-sharing,2017-09-28,igorv,
 http://kinovolt.ru/,FILE,File-sharing,2017-09-28,igorv,
@@ -626,3 +626,9 @@ https://www.shutterstock.com/,MMED,Media sharing,2019-12-14,magma,https://reestr
 http://xn--80aaifmgl1achx.xn--p1ai/,GMB,Gambling,2014-04-15,citizenlab,
 https://o-zine.ru/,LGBT,LGBT,2020-01-20,OONI,Reportedly blocked by some ISPs in Russia
 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14025,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://fbk.info/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://shtab.navalny.com/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://teachers-union.ru/,HUMR,Human Rights Issues,2021-07-29,OONI,Reportedly blocked
+https://www.navalny.com/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://stepanov2021.org/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://www.leonidvolkov.ru/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
