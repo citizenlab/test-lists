@@ -34,7 +34,6 @@ http://bitcoin.sipa.be/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking o
 http://bittornado.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blackberry.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blog.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.blogger.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated on 2021-09-11
 http://blogmarks.net/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://blueskyswimwear.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://bnaibrith.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -221,8 +220,8 @@ https://rsf.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-0
 http://russia.tv/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://sakhr.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.scmp.com/,NEWS,News Media,2021-09-10,citizenlab,
-https://sci-hub.tw/,FILE,File-sharing,2019-09-27,Community Member,New sci-hub domain
 https://sci-hub.se/,FILE,File-sharing,2019-09-27,Community Member,New sci-hub domain
+https://sci-hub.st/,FILE,File-sharing,2021-09-14,citizenlab,
 http://search.aol.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://seclists.org/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://secfirst.org/,HUMR,Human Rights Issues,2018-07-05,Security First,
@@ -279,7 +278,7 @@ http://ultrasurf.us/,ANON,Anonymization and circumvention tools,2014-04-15,citiz
 https://ultrasurf.us/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://unpo.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://uploaded.to/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://veracrypt.codeplex.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://veracrypt.fr/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2021-09-14
 http://vho.org/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://video.google.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://vimeo.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1111,10 +1110,10 @@ https://9.9.9.9/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,
 https://soundcloud.com/,CULTR,Culture,2018-07-23,OONI,
 https://signal.org/,COMT,Communication Tools,2018-04-19,OONI,
 https://www.tunnelbear.com/,ANON,Anonymization and circumvention tools,2018-04-19,OONI,
-https://www.vice.com/en_us,NEWS,News Media,2018-06-08,RSF,
-https://tytnetwork.com/,NEWS,News Media,2018-06-08,RSF,
-https://www.nbc.com/,NEWS,News Media,2018-06-08,RSF,
-https://abcnews.go.com/,NEWS,News Media,2018-06-08,RSF,Updated on 2021-09-10
+https://www.vice.com/,NEWS,News Media,2018-06-08,RSF,Updated on 2021-09-14
+https://tyt.com/,NEWS,News Media,2018-06-08,RSF,Updated on 2021-09-14
+https://www.cnbc.com/,NEWS,News Media,2018-06-08,RSF,Updated on 2021-09-14
+https://abcnews.go.com/,NEWS,News Media,2018-06-08,RSF,Updated on 2021-09-14
 https://threema.ch/,ANON,Anonymization and circumvention tools,2018-08-01,OONI,
 https://wickr.com/,ANON,Anonymization and circumvention tools,2018-08-01,OONI,
 https://commons.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -1144,7 +1143,7 @@ https://icq.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
 https://tinder.com/,GRP,Social Networking,2018-09-18,DefendDefenders,
 https://www.meetme.com/,GRP,Social Networking,2018-09-18,DefendDefenders,
 https://ifacetimeapp.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
-https://messages.android.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
+https://messages.google.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,Updated on 2021-09-14
 https://www.messenger.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
 https://www.textra.me/,COMT,Communication Tools,2018-09-18,DefendDefenders,
 https://web.wechat.com/,COMT,Communication Tools,2018-09-18,DefendDefenders,
