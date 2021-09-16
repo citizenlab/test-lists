@@ -277,11 +277,13 @@ http://gazwah.net/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
 https://bangladeshdefence.blogspot.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
 https://lookeast.in/,NEWS,News Media,2018-12-13,OONI,Reported to be blocked
 https://womenchapter.com/,HUMR,Human Rights Issues,2018-12-13,OONI,Reported to be blocked
-https://vk.com ,GRP,Social Networking,2021-08-30,OONI,Reported to be blocked
-https://reddit.com ,GRP,Social Networking,
-https://medium.com ,HOST,2021-08-30,OONI,Reported to be blocked
-https://bit.ly ,MISC,2021-08-30,OONI,Reported to be blocked
-https://archive.org ,MISC,2021-08-30,OONI,Reported to be blocked
-https://issuu.com ,MISC,2021-08-30,OONI,Reported to be blocked
-https://mediafire.com ,FILE2021-08-30,OONI,Reported to be blocked
-https://change.org ,POLR,2021-08-30,OONI,Reported to be blocked
+https://vk.com/,GRP,Social Networking,2021-08-30,OONI,Reported to be blocked
+-->https://reddit.com/,GRP,Social Networking,
+https://medium.com/,HOST,2021-08-30,OONI,Reported to be blocked
+https://bit.ly/,MISC,Miscelaneous content/Link Shortener,2021-08-30,OONI,Reported to be blocked
+https://archive.org/,MISC,Miscelaneous content/Archive website,2021-08-30,OONI,Reported to be blocked
+https://issuu.com/,MISC,2021-08-30,OONI,Reported to be blocked
+https://mediafire.com/,FILE,File-sharing,2021-08-30,OONI,Reported to be blocked
+https://change.org/,POLR,Political Criticism,2021-08-30,OONI,Reported to be blocked
+https://ff.garena.com/,GAME,Gaming,2021-09-16,OONI,Reported to be blocked
+https://pubg.com/,GAME,Gaming,2021-09-16,OONI,Reported to be blocked
