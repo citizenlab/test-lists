@@ -277,11 +277,11 @@ http://gazwah.net/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
 https://bangladeshdefence.blogspot.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
 https://lookeast.in/,NEWS,News Media,2018-12-13,OONI,Reported to be blocked
 https://womenchapter.com/,HUMR,Human Rights Issues,2018-12-13,OONI,Reported to be blocked
-https://vk.com ,GRP,Social Networking,
+https://vk.com ,GRP,Social Networking,2021-08-30,OONI,Reported to be blocked
 https://reddit.com ,GRP,Social Networking,
-https://medium.com ,HOST,
-https://bit.ly ,MISC,
-https://archive.org ,MISC,
-https://issuu.com ,MISC,
-https://mediafire.com ,FILE
-https://change.org ,POLR
+https://medium.com ,HOST,2021-08-30,OONI,Reported to be blocked
+https://bit.ly ,MISC,2021-08-30,OONI,Reported to be blocked
+https://archive.org ,MISC,2021-08-30,OONI,Reported to be blocked
+https://issuu.com ,MISC,2021-08-30,OONI,Reported to be blocked
+https://mediafire.com ,FILE2021-08-30,OONI,Reported to be blocked
+https://change.org ,POLR,2021-08-30,OONI,Reported to be blocked
