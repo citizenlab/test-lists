@@ -109,6 +109,7 @@ http://gawker.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-0
 http://gaytoday.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://geti2p.net/,ANON,Anonymization and circumvention tools,2019-02-27,Philipp Winter on behalf of Sadie Doreen, Popular anonymity and circumvention tool
 https://global.blackberry.com/en/home.html,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.globaleaks.org/,HUMR,Human Rights Issues,2021-07-13,GlobaLeaks,
 https://globalwitness.org/,ENV,Environment,2018-07-05,Security First,
 https://globalvoices.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://gmail.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -369,7 +370,6 @@ https://www.army.mil/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2
 https://www.article19.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.aseansec.org/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ask.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.askmoses.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.asterisk.org/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.atheistalliance.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.atheists.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1460,6 +1460,15 @@ https://blog.mozilla.org/,HACK,Hacking Tools,2021-04-04,Chelchela,
 https://download-installer.cdn.mozilla.net/,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://dl.google.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://www.gstatic.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
+https://webcache.googleusercontent.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Google web cache
+https://yandexwebcache.net/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Yandex web cache
+https://cc.bingj.com/cache.aspx?q=nothing,SRCH,Search Engines,2021-07-03,Chelchela,Bing web cache
+https://encrypted-tbn0.gstatic.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Google image thumbnail cache
+https://im0-tub-com.yandex.net/i?id=462f375c96139f1e41d919b44be2d780&n=13&exp=1,SRCH,Search Engines,2021-07-03,Chelchela,Yandex image thumbnail cache
+https://th.bing.com/th/id/OIP.YnpdokcN_OQYn3n41AlqZAHaEe?w=250&h=180&c=7&o=5&pid=1.7,SRCH,Search Engines,2021-07-03,Chelchela,Bing image thumbnail cache
+https://external-content.duckduckgo.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Duckduckgo image cache
+https://miro.medium.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-07-03,Chelchela,
+https://cdn-client.medium.com/lite/static/js/manifest.ef5f44d2.js,HOST,Hosting and Blogging Platforms,2021-07-03,Chelchela,
 https://www.clubhouseapi.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://clubhouse.pubnub.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://brave.com/,HACK,Hacking Tools,2021-06-24,Chelchela,
@@ -1469,3 +1478,4 @@ http://www.qhtyzx.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outsi
 http://www.qhnews.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outside China
 http://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 http://www.mnr.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
+https://www.clubhouse.com/,GRP,Social Networking,2021-07-06,rayasharbain,Alternative URL for Clubhouse app's homepage
