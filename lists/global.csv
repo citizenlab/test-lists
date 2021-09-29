@@ -1465,7 +1465,7 @@ https://clubhouse.pubnub.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://brave.com/,HACK,Hacking Tools,2021-06-24,Chelchela,
 https://search.brave.com/,SRCH,Search Engines,2021-06-24,Chelchela,
 https://startpage.com/,SRCH,Search Engines,2021-06-24,Chelchela,
-https://external.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19
-https://fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19
-https://scontent.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19
-https://staticxx.facebook.com/robots.txt,GRP,Social Networking,2021-08-19
+https://external.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
+https://fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
+https://scontent.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
+https://staticxx.facebook.com/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
