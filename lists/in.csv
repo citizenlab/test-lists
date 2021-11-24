@@ -494,7 +494,6 @@ http://www.supermechachampions.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chin
 https://www.lifeafter.game/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020
 https://www.dawn-of-isles.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020
 https://www.chessrushgame.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020
-https://www.pubg.com/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020
 http://gos.mechanist.co/,GAME,Gaming,2021-03-22,Netalitica,Game; Chinese app ban order in September 2020
 https://www.kwai.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020
 http://www.helo-app.com/,GRP,Social Networking,2021-03-22,Netalitica,Chinese app ban order in July 2020
@@ -553,7 +552,6 @@ https://www.comdotgame.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic
 https://www.nutaku.net/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
 https://1escorts.net/,PROV,Provocative Attire,2021-03-22,Netalitica,"Sex work website, reportedly blocked on ACT"
 https://translate.baidu.com/,SRCH,Search Engines,2021-03-22,Netalitica,Chinese app ban order in July 2020
-https://www.baidu.com/,SRCH,Search Engines,2021-03-22,Netalitica,Chinese app ban order in September 2020
 https://duckdudckgo.com/,SRCH,Search Engines,2021-03-22,Netalitica,Reportedly blocked across multiple ISPs for a short duration
 https://www.shop101.com/,COMM,E-commerce,2021-03-23,Netalitica,"Reselling website, reportedly blocked on ACT"
 https://stdfireworks.com/,COMM,E-commerce,2021-03-23,Netalitica,Buy firecrackers online; reportedly blocked on ISPs
@@ -596,7 +594,6 @@ https://www.gov.cn/english/,GOVT,Government,2021-04-30,Netalitica ,Chinese Gover
 https://www.fmprc.gov.cn/mfa_eng/,GOVT,Government,2021-04-30,Netalitica ,Foreign Ministry of China
 https://www.mod.gov.pk/,GOVT,Government,2021-04-30,Netalitica ,"Ministry of Defence, Pakistan"
 http://www.mofept.gov.pk/,GOVT,Government,2021-04-30,Netalitica ,"Ministry of Federal Education and Professional Training, Pakistan"
-https://thehackernews.com/,HACK,Hacking Tools,2021-04-30,Netalitica ,Hacking and security news website based in India
 https://www.covid19india.org/,PUBH,Public Health,2021-04-30,Netalitica ,Covid 19 dashboard India
 https://covid19.india.gov.in/,PUBH,Public Health,2021-04-30,Netalitica ,Updates on government notifications on Covid 19
 https://phfi.org/,PUBH,Public Health,2021-04-30,Netalitica ,Public Health Foundation of India
@@ -615,7 +612,7 @@ https://www.sensualkart.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toy
 https://www.thatspersonal.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toys E-commerce
 https://www.aliexpress.com/,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website
 https://in.imbesharam.com/,COMM,E-commerce,2021-10-10,workshop india,Adult toys E-commerce
-https://www.banggood.com,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website
+https://www.banggood.com/,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website
 https://www.banggood.in/,COMM,E-commerce,2021-10-10,workshop india,Chinese e-commerce website
 https://www.dalitcamera.com/,NEWS,News Media,2021-10-10,Nadika,News and current affairs from Dalit perspectives
 https://www.bbc.com/tamil/,NEWS,News Media,2021-10-10,Nadika,BBC's Tamil News Service
@@ -628,7 +625,7 @@ https://www.puthiyathalaimurai.com/,NEWS,News Media,2021-10-10,Nadika,Tamil lang
 https://www.adivasilivesmatter.com/,NEWS,News Media,2021-10-10,workshop india,News and information portal
 https://ruralindiaonline.org/en/,NEWS,News Media,2021-10-10,Nadika,People's Archive of Rural India - news and reporting from Rural India
 https://thekashmirwalla.com/,NEWS,News Media,2021-10-10,Maansi,kashmir based digital media platform
-https://blrqueerfilmfest.com/ ,CULTR,Culture,2021-10-10,Nadika,Website of Bangalore Queer Film Festival
+https://blrqueerfilmfest.com/,CULTR,Culture,2021-10-10,Nadika,Website of Bangalore Queer Film Festival
 https://www.ciqff.org/,CULTR,Culture,2021-10-10,Nadika,Website of Chennai Internation Queer Film Festival
 https://neelambooks.com/magazine/,CULTR,Culture,2021-10-10,Nadika,Long form and reportage in Tamil
 https://indiaink.org/,CULTR,Culture,2021-10-10,workshop india,Simple articles and explainer videos about Indian history that are relevant to today’s debates.
@@ -643,7 +640,7 @@ http://www.dravidapalli.com/,CULTR,Culture,2021-10-10,Nadika,A virtual classroom
 https://indiaculture.nic.in/,CULTR,Culture,2021-10-10,OONI,Government site
 http://www.iccrindia.net/,CULTR,Culture,2021-10-10,OONI,Top tanking Indian culture site
 http://ccrtindia.gov.in/,CULTR,Culture,2021-10-10,Mythili Srinivasamurthy,Centre for Ceultural Research and Training
-https://www.totalsportek.com,CULTR,Culture,2021-10-10,workshop in India,"Sports blog, reportedly blocked on ACT"
+https://www.totalsportek.com/,CULTR,Culture,2021-10-10,workshop in India,"Sports blog, reportedly blocked on ACT"
 https://indianculturalforum.in/,CULTR,Culture,2021-10-10,Mythili Srinivasamurthy,
 https://www.bollywoodhungama.com/,CULTR,Culture,2021-10-10,OONI,
 http://bolly-zone.me/,CULTR,Culture,2021-10-10,workshop india,"Bollywood Discussion Forum, reportedly blocked on ACT"
@@ -686,17 +683,16 @@ https://gramvaani.org/?p=1629,PUBH,Public Health,2021-10-10,OONI,Rural health ca
 https://cghs.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Central Government Health Scheme
 https://ncdc.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,National Center for Disease Control
 https://www.helpageindia.org/covid-19-emergency-response/,PUBH,Public Health,2021-10-10,OONI,Listed as one of NGOs that have revolutionised healthcare in India
-https://censusindia.gov.in,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Office of the Registrar General & Census Commissioner
+https://censusindia.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Office of the Registrar General & Census Commissioner
 https://leprasociety.in/,PUBH,Public Health,2021-10-10,OONI,NGO
 https://www.ruralhealthcarefoundation.com/,PUBH,Public Health,2021-10-10,OONI,NGO
 https://www.udaanwelfare.org/,PUBH,Public Health,2021-10-10,OONI,NGO
 https://poovulagu.org/,ENV,Environment,2021-10-10,Nadika,Poovulagin Nanbargal: Friends of the Environment activism and support group
 https://www.ncf-india.org/,ENV,Environment,2021-10-10,Nadika,National Conservation Fund
 https://www.thermalwatch.org.in/,ENV,Environment,2021-10-10,Nadika,"From CAG: Watching for climate change, environment etc"
-https://www.worldwildlife.org/,ENV,Environment,2021-10-10,workshop india,World Wildlife Fund
 https://www.cag.org.in/,ENV,Environment,2021-10-10,Nadika,Consumer and Environmental rights activism
 https://science.thewire.in/environment/wildlife-institute-of-india-environment-ministry/,ENV,Environment,2021-10-10,Workshop India,News article on govt cutting funds for a environmental research institute
-http://envis.nic.in,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,Environmental Information System (ENVIS) Scheme
+http://envis.nic.in/,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,Environmental Information System (ENVIS) Scheme
 http://parivesh.nic.in/,ENV,Environment,2021-10-10,Mythili Srinivasamurthy,"Online submission and monitoring of the proposals submitted by the proponents for seeking Environment, Forest, Wildlife and CRZ Clearances from Central, State and district level authorities"
 https://www.teriin.org/,ENV,Environment,2021-10-10,workshop india,Energy Institute in India
 https://kalpavriksh.org/,ENV,Environment,2021-10-10,workshop india,environmental & social research & advocacy group
