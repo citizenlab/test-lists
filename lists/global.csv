@@ -1507,3 +1507,6 @@ https://mobile.element.io/,COMT,Communication Tools,2021-10-03,Chelchela,
 https://matrix-client.matrix.org/_matrix/client/versions,COMT,Communication Tools,2021-10-03,Chelchela,
 https://vector.im/_matrix/identity/api/v1,COMT,Communication Tools,2021-10-03,Chelchela,
 https://www.icij.org/,NEWS,News Media,2021-10-04,Chelchela,
+https://mask.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
+https://mask-h2.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
+https://disclose.ngo/,POLR,Political Criticism,2021-11-24,OONI,Reportedly blocked in Egypt but worth testing worldwide
