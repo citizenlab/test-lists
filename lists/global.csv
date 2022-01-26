@@ -1443,6 +1443,14 @@ https://clubhouse.pubnub.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://brave.com/,HACK,Hacking Tools,2021-06-24,Chelchela,
 https://search.brave.com/,SRCH,Search Engines,2021-06-24,Chelchela,
 https://startpage.com/,SRCH,Search Engines,2021-06-24,Chelchela,
+http://detectportal.firefox.com/success.txt,CTRL,Control content,2021-06-29,Chelchela,Firefox Captive portal
+http://www.apple.com/library/test/success.html,CTRL,Control content,2021-06-29,Chelchela,Apple Captive portal
+http://nmcheck.gnome.org/check_network_status.txt,CTRL,Control content,2021-06-29,Chelchela,Gnome desktop environment Captive portal
+http://networkcheck.kde.org/,CTRL,Control content,2021-06-29,Chelchela,KDE desktop environment Captive portal
+http://start.ubuntu.com/connectivity-check.html,CTRL,Control content,2021-06-29,Chelchela,Ubuntu Captive portal
+http://ping.archlinux.org/,CTRL,Control content,2021-06-29,Chelchela,Arch Linux Captive portal
+http://www.msftncsi.com/ncsi.txt,CTRL,Control content,2021-06-29,Chelchela,Windows Captive portal
+http://www.msftconnecttest.com/connecttest.txt,CTRL,Control content,2021-06-29,Chelchela,Windows Captive portal
 http://canna.to/,FILE,File-sharing,2021-07-30,mhombach,CUII-Recommendation (cuii.info)
 https://nsw2u.com/,FILE,File-sharing,2021-07-30,mhombach,CUII-Recommendation (cuii.info)
 https://newalbumreleases.net/,FILE,File-sharing,2021-07-30,mhombach,CUII-Recommendation (cuii.info)
