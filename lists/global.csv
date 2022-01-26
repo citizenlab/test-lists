@@ -1451,6 +1451,10 @@ http://www.qhnews.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outsi
 http://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 http://www.mnr.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 https://www.clubhouse.com/,GRP,Social Networking,2021-07-06,rayasharbain,Alternative URL for Clubhouse app's homepage
+https://external.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
+https://fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
+https://scontent.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
+https://staticxx.facebook.com/robots.txt,GRP,Social Networking,2021-08-19,anonymous,Facebook CDN domains entries
 https://ntc.party/,GRP,Social Networking,2021-09-21,Chelchela,
 https://slack.com/,COMT,Communication Tools,2021-09-21,Chelchela,
 https://app.slack.com/robots.txt,COMT,Communication Tools,2021-09-21,Chelchela,
