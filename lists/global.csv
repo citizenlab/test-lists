@@ -1451,10 +1451,34 @@ http://www.qhnews.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outsi
 http://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 http://www.mnr.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 https://www.clubhouse.com/,GRP,Social Networking,2021-07-06,rayasharbain,Alternative URL for Clubhouse app's homepage
-https://2600.com/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2022-01-26
+https://ntc.party/,GRP,Social Networking,2021-09-21,Chelchela,
+https://slack.com/,COMT,Communication Tools,2021-09-21,Chelchela,
+https://app.slack.com/robots.txt,COMT,Communication Tools,2021-09-21,Chelchela,
+https://a.slack-edge.com/f70ec/img/test_cdn_pixel.gif,COMT,Communication Tools,2021-09-21,Chelchela,
+https://slack-imgs.com/,COMT,Communication Tools,2021-09-21,Chelchela,
+https://openobservatory.slack.com/,COMT,Communication Tools,2021-09-21,Chelchela,
+https://earth.google.com/web/,CTRL,Control content,2021-09-21,Chelchela,
+https://apis.google.com/robots.txt,CTRL,Control content,2021-09-21,Chelchela,
+https://clients5.google.com/robots.txt,CTRL,Control content,2021-09-21,Chelchela,
+https://kh.google.com/rt/earth/PlanetoidMetadata,CTRL,Control content,2021-09-21,Chelchela,
+https://maps.gstatic.com/tactile/basepage/grid-image.png,CTRL,Control content,2021-09-21,Chelchela,
+https://khms1.google.com/kh/v=908?x=327&y=414&z=10,CTRL,Control content,2021-09-21,Chelchela,
+https://khms0.google.com/kh/v=908?x=81&y=103&z=8,CTRL,Control content,2021-09-21,Chelchela,
+https://www.knapsackforhope.org/,ANON,Anonymization and circumvention tools,2021-09-21,Chelchela,
+https://o0.ingest.sentry.io/api/0,CTRL,Control content,2021-09-21,Chelchela,
+https://sentry.io/api/0/,CTRL,Control content,2021-09-21,Chelchela,
+https://matrix.to/,COMT,Communication Tools,2021-10-03,Chelchela,
+https://matrix.org/,COMT,Communication Tools,2021-10-03,Chelchela,
+https://element.io/,COMT,Communication Tools,2021-10-03,Chelchela,
+https://app.element.io/,COMT,Communication Tools,2021-10-03,Chelchela,
+https://mobile.element.io/,COMT,Communication Tools,2021-10-03,Chelchela,
+https://matrix-client.matrix.org/_matrix/client/versions,COMT,Communication Tools,2021-10-03,Chelchela,
+https://vector.im/_matrix/identity/api/v1,COMT,Communication Tools,2021-10-03,Chelchela,
+https://www.icij.org/,NEWS,News Media,2021-10-04,Chelchela,
 https://mask.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
 https://mask-h2.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
 https://disclose.ngo/,POLR,Political Criticism,2021-11-24,OONI,Reportedly blocked in Egypt but worth testing worldwide
+https://2600.com/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2022-01-26
 https://remailer.paranoici.org/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 https://fleegle.mixmin.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 http://redjohn.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
