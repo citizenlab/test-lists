@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://www.cyemen.com/vb/forum.php,CULTR,Culture,2016-04-18,citizenlab,Yemen youth
-http://www.yemenkooora.com/,CULTR,Culture,2016-04-18,citizenlab,Sports news
 https://www.lahamag.com/,CULTR,Culture,2017-10-19,citizenlab,Cultural content
 http://www.lahaonline.com/,CULTR,Culture,2017-10-19,citizenlab,Cultural content
 http://aleqtisad-news.net/,ECON,Economics,2016-04-18,citizenlab,Local media
@@ -55,14 +54,12 @@ https://www.salamatech.org/,ANON,Anonymization and circumvention tools,2019-04-3
 https://ar.vpnmentor.com/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
 https://ara.privateinternetaccess.com/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
 https://weneedprivacy.com/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
-https://kaserproxy.net/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
 https://xn--ngbsg7dyao.xyz/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
 http://www.proxyarab.com/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
 https://www.proteachin.com/,ANON,Anonymization and circumvention tools,2019-04-30,Netalitica,
 http://yemensoft.com/ar/,COMM,E-commerce,2019-04-30,Netalitica,
 http://www.goyemen.com/,COMM,E-commerce,2019-04-30,Netalitica,
 https://ye.opensooq.com/ar,COMM,E-commerce,2019-04-30,Netalitica,
-http://www.souq-alyemen.net/,COMM,E-commerce,2019-04-30,Netalitica,
 https://quicksoooq.com/ye/,COMM,E-commerce,2019-04-30,Netalitica,
 https://warazan.com/,COMM,E-commerce,2019-04-30,Netalitica,
 https://yemendeal.com/,COMM,E-commerce,2019-04-30,Netalitica,
@@ -79,11 +76,9 @@ http://www.teleyemen.com.ye/ar/,CTRL,Control content,2019-04-30,Netalitica,
 https://www.rasheed.school/,CTRL,Control content,2019-04-30,Netalitica,
 http://www.ycb.com.ye/,CTRL,Control content,2019-04-30,Netalitica,
 http://www.ndc.ye/,CTRL,Control content,2019-04-30,Netalitica,
-http://www.e-yemen.com/ar/,CTRL,Control content,2019-04-30,Netalitica,
 http://www.ayemen.com/,CULTR,Culture,2019-04-30,Netalitica,
 http://www.al-saeed.net/,CULTR,Culture,2019-04-30,Netalitica,
 http://yemengate.org/,CULTR,Culture,2019-04-30,Netalitica,
-http://shibamonline.net/wp/en/home/,CULTR,Culture,2019-04-30,Netalitica,
 http://www.adab.com/,CULTR,Culture,2019-04-30,Netalitica,
 http://www.awttar.com/,CULTR,Culture,2019-04-30,Netalitica,
 https://www.aljasraculture.com/,CULTR,Culture,2019-04-30,Netalitica,
@@ -97,8 +92,6 @@ https://www.alukah.net/,CULTR,Culture,2019-04-30,Netalitica,
 https://www.zahratalkhaleej.ae/,CULTR,Culture,2019-04-30,Netalitica,
 https://www.sayidaty.net/,CULTR,Culture,2019-04-30,Netalitica,
 https://www.marefa.org/,CULTR,Culture,2019-04-30,Netalitica,
-http://www.xn--mgbai3a1bycq.net/,DATE,Online Dating,2019-04-30,Netalitica,
-https://www.betrallyelarab.com/,DATE,Online Dating,2019-04-30,Netalitica,
 https://www.buzzarab.com/,DATE,Online Dating,2019-04-30,Netalitica,
 https://www.zohradating.com/,DATE,Online Dating,2019-04-30,Netalitica,
 https://badoo.com/ar/dating/,DATE,Online Dating,2019-04-30,Netalitica,
@@ -145,7 +138,6 @@ http://www.consumeryemen.org/,ENV,Environment,2019-04-30,Netalitica,
 http://www.nfdhr.org/,ENV,Environment,2019-04-30,Netalitica,
 https://ar4up.com/,FILE,File-sharing,2019-05-02,Netalitica,
 http://www.th3download.com/,FILE,File-sharing,2019-05-02,Netalitica,
-https://www.downloadxdriver.com/,FILE,File-sharing,2019-05-02,Netalitica,
 http://www.arabyarea.com/,FILE,File-sharing,2019-05-02,Netalitica,
 https://www.bramjfreee.com/,FILE,File-sharing,2019-05-02,Netalitica,
 https://www.arbprograms.com/,FILE,File-sharing,2019-05-02,Netalitica,
@@ -229,7 +221,6 @@ http://hakers.arabepro.com/,HACK,Hacking Tools,2019-04-30,Netalitica,
 http://egypt4hack.ahlamontada.com/,HACK,Hacking Tools,2019-04-30,Netalitica,
 http://alhacker.mam9.com/,HACK,Hacking Tools,2019-04-30,Netalitica,
 http://yemen.arabepro.com/,HACK,Hacking Tools,2019-04-30,Netalitica,
-https://www.ye1.org/forum/threads/34848/,HACK,Hacking Tools,2019-04-30,Netalitica,
 http://gxvxyemen.yoo7.com/,HACK,Hacking Tools,2019-04-30,Netalitica,
 http://www.v4-team.com/cc/index.php,HACK,Hacking Tools,2019-04-30,Netalitica,
 http://dev-hack.ahlamontada.net/,HACK,Hacking Tools,2019-04-30,Netalitica,
@@ -250,7 +241,6 @@ http://www.alsaeda.com/,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitic
 https://tawahi.host/,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
 http://wwsites.net/,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
 https://tawahihost.com/index.html,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
-https://www.yemenw3.com/,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
 https://www.yemenbusiness.net/index.htm,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
 https://onlinksoft.net/,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
 https://takamul4it.com/index.php,HOST,Hosting and Blogging Platforms,2019-04-30,Netalitica,
@@ -259,7 +249,6 @@ http://www.yemenmonitor.com/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://mwatana.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.yohr.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 https://www.samrl.org/ar/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
-http://www.hurryat.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://aohr.net/portal/?cat=83,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://aohr.net/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.hoodonline.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
@@ -289,13 +278,11 @@ http://raqeep.org/newsite/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.maonah.org/maonah/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://wedyan.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.yocht.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
-http://www.yemenoppy.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.srdcyemen.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.opiyemen.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.attanweer.org/ar/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.soul-yemen.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 https://yamaan.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
-http://www.athar-foundation.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.cdf-ye.org/Home/index.aspx,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 http://www.womenpress.net/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 https://yemeniwomen.org/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
@@ -307,7 +294,6 @@ http://www.majalforum.com/,HUMR,Human Rights Issues,2019-04-30,Netalitica,
 https://www.trianglegh.org/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
 https://www.nrc.no/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
 https://mrds.org/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
-http://www.chfyemen.org/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
 http://www.careyemen.org/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
 https://adra.org/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
 http://adrayemen.org/,IGO,Intergovernmental Organizations,2019-04-30,Netalitica,
@@ -351,7 +337,6 @@ http://anakbnet.co/,MMED,Media sharing,2019-04-30,Netalitica,
 https://www.series4watch.online/,MMED,Media sharing,2019-04-30,Netalitica,
 https://www.farfeshplus.com/,MMED,Media sharing,2019-04-30,Netalitica,
 https://arabtigers.com/,MMED,Media sharing,2019-04-30,Netalitica,
-https://www.4helal.tv/,MMED,Media sharing,2019-04-30,Netalitica,
 http://3arbt.com/,MMED,Media sharing,2019-04-30,Netalitica,
 http://melody4arab.com/,MMED,Media sharing,2019-04-30,Netalitica,
 https://mp3songs.alarab.com/,MMED,Media sharing,2019-04-30,Netalitica,
@@ -365,7 +350,6 @@ http://altnmiapress.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://al-hekmah.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://ababiil.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://alriadi.com/,NEWS,News Media,2019-04-30,Netalitica,
-http://alshawka-press.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://thelinkyemen.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.alshahedpress.net/arabic/,NEWS,News Media,2019-04-30,Netalitica,
 https://alasimahonline.com/,NEWS,News Media,2019-04-30,Netalitica,
@@ -383,7 +367,6 @@ http://watannews-ye.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.adenlife.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.bakeel-press.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.alteef.info/,NEWS,News Media,2019-04-30,Netalitica,
-http://www.soqotra.org/dim/,NEWS,News Media,2019-04-30,Netalitica,
 http://sampress.net/portal/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.26sepnews.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://saba-online.com/,NEWS,News Media,2019-04-30,Netalitica,
@@ -399,7 +382,6 @@ http://aden-online.info/,NEWS,News Media,2019-04-30,Netalitica,
 http://adenalghad.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://yemen-tv.net/index.php,NEWS,News Media,2019-04-30,Netalitica,
 https://ghamdannews.com/,NEWS,News Media,2019-04-30,Netalitica,
-http://adenfuture.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://yen-news.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://sanaa-tv.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://shabab-news.com/,NEWS,News Media,2019-04-30,Netalitica,
@@ -410,15 +392,11 @@ http://wefaqpress.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.wattenagency.com/ar/,NEWS,News Media,2019-04-30,Netalitica,
 http://yamannews.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://yemenshabab.net/,NEWS,News Media,2019-04-30,Netalitica,
-https://www.24press.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://26sep.net/,NEWS,News Media,2019-04-30,Netalitica,
-https://www.sahafah24.ne/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.etgahat.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://akhbary.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.sanaaradio.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://asrarpy.com/,NEWS,News Media,2019-04-30,Netalitica,
-https://alanpress.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://eradatshab.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://alittihadpress.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.albida-today.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://eventpress.net/,NEWS,News Media,2019-04-30,Netalitica,
@@ -427,13 +405,11 @@ http://www.raqebpress.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.alkhabaralyemeni.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://alsjl-news.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.al-arabpost.com/,NEWS,News Media,2019-04-30,Netalitica,
-http://www.alfajralyemeni.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.alsabahalyemeni.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://alsalam-news.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://almoheetpress.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://almrasel.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.future-fm.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://www.almashhadalakhir.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.salmashhad.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.almonadel.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.almshhadalyemeni.net/,NEWS,News Media,2019-04-30,Netalitica,
@@ -444,7 +420,6 @@ https://www.almahrahnews.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.alyemenalghad.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://yemen-now.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.alwahdahnews.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://www.nthnews.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://al-naba.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.alwfaqnews.net/index,NEWS,News Media,2019-04-30,Netalitica,
 http://www.alhudhud.net/,NEWS,News Media,2019-04-30,Netalitica,
@@ -456,10 +431,8 @@ https://www.pressbee.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://tasafah.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.toshkanews.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://tehamapress.com/,NEWS,News Media,2019-04-30,Netalitica,
-http://m.gohinanews.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://dot-yemen.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.altsahih.org/,NEWS,News Media,2019-04-30,Netalitica,
-http://khawlanonline.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.rdfanpress.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://4may.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.sahafatak.net/,NEWS,News Media,2019-04-30,Netalitica,
@@ -467,12 +440,9 @@ http://yemen.sahafahn.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.shaabaljazeera.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://sa.sahafahn.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.sadaalahdathe.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://azaal-today.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://sadaalmawakea.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.almasirahnews.com/,NEWS,News Media,2019-04-30,Netalitica,
-https://sadapress.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://sautsaba.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://www.shabwahvoice.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://adenobserver.com/main,NEWS,News Media,2019-04-30,Netalitica,
 http://adennews.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://adnlng.info/,NEWS,News Media,2019-04-30,Netalitica,
@@ -487,7 +457,6 @@ http://www.msader-ye.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.alsomoud.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.motabaat.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://cratersky.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://www.yemenpress.org/,NEWS,News Media,2019-04-30,Netalitica,
 https://yemenalghad.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://wtn-news.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.nabdhadhramout.com/,NEWS,News Media,2019-04-30,Netalitica,
@@ -500,7 +469,6 @@ http://al-ahd.net/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.ypagency.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://www.nabdaden.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://yemen-window.com/,NEWS,News Media,2019-04-30,Netalitica,
-https://naspress.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://yeniyemen.com/,NEWS,News Media,2019-04-30,Netalitica,
 https://theyemen.net/,NEWS,News Media,2019-04-30,Netalitica,
 https://republicanyemen.net/,NEWS,News Media,2019-04-30,Netalitica,
@@ -509,9 +477,7 @@ http://www.dhamarnews.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.ibb-news.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.taiz-news.com/,NEWS,News Media,2019-04-30,Netalitica,
 http://www.aljawf.net/,NEWS,News Media,2019-04-30,Netalitica,
-http://arabic.farsnews.com/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
 http://kayhan.ir/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
-https://www.farsnews.com/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
 https://www.tabnak.ir/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
 http://www.khamenei.ir/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
 https://www.asriran.com/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
@@ -529,16 +495,13 @@ http://siasatrooz.ir/ar/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
 http://www.hamshahrionline.ir/,NEWS,News Media,2019-05-02,Netalitica,Iran-aligned
 https://www.aa.com.tr/ar,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 https://www.turk-now.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
-http://www.turkey-post.net/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 https://arabturkey.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
-https://www.turkeytoday.net/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 https://www.zamanarabic.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.turkpress.co/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.akhbarturkiya.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.turkishpress.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.hurriyetdailynews.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 https://www.turk.life/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
-https://www.dailysabah.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://aletejahtv.com/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
 http://alwelayah.net/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
 https://www.islamtimes.org/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
@@ -552,7 +515,6 @@ http://jamahir.alwehda.gov.sy/,NEWS,News Media,2019-05-02,Netalitica,Syrian-alig
 http://moia.gov.sy/portal/site/arabic/,NEWS,News Media,2019-05-02,Netalitica,Syrian-aligned
 http://thawra.sy/,NEWS,News Media,2019-05-02,Netalitica,Syrian-aligned
 http://fedaa.alwehda.gov.sy/,NEWS,News Media,2019-05-02,Netalitica,Syrian-aligned
-http://www.syria-scope.com/,NEWS,News Media,2019-05-02,Netalitica,Syrian-aligned
 https://www.al-sharq.com/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 http://www.al-watan.com/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 https://www.alarab.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
@@ -631,7 +593,6 @@ http://www.albaath-as-party.org/,POLR,Political Criticism,2019-04-30,Netalitica,
 http://alrshad.net/,POLR,Political Criticism,2019-04-30,Netalitica,
 http://www.aleshteraki.net/,POLR,Political Criticism,2019-04-30,Netalitica,
 http://www.ansarollah.com/,POLR,Political Criticism,2019-04-30,Netalitica,
-http://alkaramahnews.com/,POLR,Political Criticism,2019-04-30,Netalitica,
 http://hizb-ut-tahrir.info/,POLR,Political Criticism,2019-04-30,Netalitica,
 http://ikhwanonline.info/,POLR,Political Criticism,2019-04-30,Netalitica,
 https://www.ikhwanwiki.com/,POLR,Political Criticism,2019-04-30,Netalitica,
@@ -764,7 +725,6 @@ https://yementel.info/,SRCH,Search Engines,2019-04-30,Netalitica,
 https://www.sahafah24.net/index.php,SRCH,Search Engines,2019-04-30,Netalitica,
 https://www.directory.ye/,SRCH,Search Engines,2019-04-30,Netalitica,
 https://www.yemenna.com/,SRCH,Search Engines,2019-04-30,Netalitica,
-http://taleem-ye.com/,SRCH,Search Engines,2019-04-30,Netalitica,
 http://www.yemensites.net/,SRCH,Search Engines,2019-04-30,Netalitica,
 http://www.akhbarye24.net/,SRCH,Search Engines,2019-04-30,Netalitica,
 http://www.feedo.net/Default.htm,XED,Sex Education,2019-04-30,Netalitica,
@@ -837,7 +797,6 @@ https://irshadmanji.com/,REL,Religion,2017-10-19,citizenlab,Critical of Islam
 https://www.islamway.com/,REL,Religion,2017-10-19,citizenlab,
 https://www.hrw.org/ar,HUMR,Human Rights Issues,2017-10-19,citizenlab,human rights organization's arabic page
 https://www.tarjem.com/,COMT,Communication Tools,2017-10-19,citizenlab,
-http://thissitedoesnotexist.il/,CTRL,Control content,2016-04-18,citizenlab,This is a fake site
 http://thiswebsitedoesnotexistyet.tumblr.com/,CTRL,Control content,2016-04-18,citizenlab,to test of certain blogs on tumblr are blocked
 http://www.arabicpoems.com/,CULTR,Culture,2017-10-19,citizenlab,Arabic literature
 http://www.nancyajram.com/,CULTR,Culture,2017-10-19,citizenlab,Celebrity Website
@@ -890,7 +849,6 @@ https://alomanaa.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://alrshadpress.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 https://www.alsulta-alrabea.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://awraqpress.net/portal/,NEWS,News Media,2016-04-18,citizenlab,Local media
-http://azaal.tv/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://dhal3.com/,NEWS,News Media,2016-04-18,citizenlab,Dhal3 News Portal
 http://www.elmaam.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://hadrmoutpress.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
@@ -912,11 +870,9 @@ https://www.samapress.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.sanaanews.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://suhail.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 https://www.alaraby.co.uk/portal,NEWS,News Media,2016-04-18,citizenlab,Local media
-http://www.albaidanews.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.alestethmar.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.alganob.net/g/index.asp,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://algomhoriah.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
-http://alhadath-yemen.com/,NEWS,News Media,2016-04-18,citizenlab,Al-Hadath news portal
 http://www.alhawyah.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
 https://alheyad.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.aljmaheerpress.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
@@ -943,7 +899,6 @@ http://www.sadaaden.com/main,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.shaabonline.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.taiznet.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 https://voice-yemen.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
-https://www.ye1.org/,NEWS,News Media,2016-04-18,citizenlab,Yemeni Council
 https://yemen-press.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://yemenat.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://www.yemeniamerican.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
@@ -955,7 +910,6 @@ https://www.yemen-24.com/,NEWS,News Media,2016-04-18,citizenlab,Local media
 https://www.yemennewsgate.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
 http://yemenonline.info/,NEWS,News Media,2016-04-18,citizenlab,Local media
 https://yementalk.net/,NEWS,News Media,2016-04-18,citizenlab,Local media
-http://muharernet.com/,NEWS,News Media,2016-04-19,citizenlab,Local media
 https://thawrah2day.com/,NEWS,News Media,2017-10-19,citizenlab,
 http://almayadeen.net/,NEWS,News Media,2017-10-19,citizenlab,
 https://arabic.arabianbusiness.com/,NEWS,News Media,2017-10-19,citizenlab,
@@ -982,7 +936,6 @@ https://angryarab.blogspot.com/,POLR,Political Criticism,2016-04-18,citizenlab,A
 http://armiesofliberation.com/,POLR,Political Criticism,2016-04-18,citizenlab,Armies of Liberation
 http://revolutionyemen.7olm.org/,POLR,Political Criticism,2016-04-18,citizenlab,Yemen revolution
 http://www.ahewar.org/,POLR,Political Criticism,2016-04-18,citizenlab,Arabic secular news and views
-http://www.baath-party.org/,POLR,Political Criticism,2016-04-18,citizenlab,Pan-Arab opposition political party
 http://www.freearabvoice.org/,POLR,Political Criticism,2016-04-18,citizenlab,Promotes political reform
 http://www.pdf-yemen.com/,POLR,Political Criticism,2016-04-18,citizenlab,Yemen political development forum
 http://arabanticorruption.org/,POLR,Political Criticism,2017-10-19,citizenlab,
@@ -1006,6 +959,5 @@ http://www.al-ketab.net/,REL,Religion,2017-10-19,citizenlab,
 http://www.biblequery.org/,REL,Religion,2017-10-19,citizenlab,
 http://www.christianmuslimanswers.com/,REL,Religion,2017-10-19,citizenlab,
 http://www.debate.org.uk/,REL,Religion,2017-10-19,citizenlab,
-http://www.islamreview.com/,REL,Religion,2017-10-19,citizenlab,
 http://www.mahdi-alumma.com/,REL,Religion,2017-10-19,citizenlab,Cntroversial religious content
 http://www.thekoran.com/,REL,Religion,2017-10-19,citizenlab,

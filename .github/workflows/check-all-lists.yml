@@ -1,0 +1,15 @@
+name: Check all lists
+on: 
+  push:
+    paths:
+    - "lists/*"
+  pull_request:
+    paths:
+    - "lists/*"
+jobs:
+  lint_lists:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run lint lists against all lists
+      run: python scripts/lint-lists.py lists/

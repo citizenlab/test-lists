@@ -11,23 +11,15 @@ https://www.meydan.tv/,NEWS,News Media,2017-04-10,OONI,
 http://www.abzas.net/,NEWS,News Media,2017-04-10,OONI,
 http://www.cumhuriyyet.net/,NEWS,News Media,2017-04-11,OONI,
 http://www.gununsesi.info/,NEWS,News Media,2017-04-11,OONI,
-http://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,
+https://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,
 http://www.24saat.org/,NEWS,News Media,2017-04-11,OONI,
 https://www.irfs.org/,HUMR,Human Rights Issues,2017-04-11,OONI,
 http://azerbaycansaati.tv/,NEWS,News Media,2017-06-12,OONI,
-http://sonolay.org/,NEWS,News Media,2017-01-12,Community member,
 http://aztoday.az/,NEWS,News Media,2017-01-14,Community member,
 https://www.24saat.org/,NEWS,News Media,2017-01-16,Community member,
-https://www.occrp.org/en,POLR,Political Criticism,2017-01-20,Community member,
 http://masallilar.az/,NEWS,News Media,2017-01-23,Community member,
-http://ekivan.az/,NEWS,News Media,2017-01-24,Community member,
-http://infoaz.org/,NEWS,News Media,2017-01-25,Community member,
 http://criminal.az/,NEWS,News Media,2017-01-26,Community member,
-https://euroasia-news.com/,NEWS,News Media,2017-01-27,Community member,
-http://euroasianews.blog/,NEWS,News Media,2017-01-28,Community member,
-http://euroasiainfo.com/,NEWS,News Media,2017-01-29,Community member,
 http://kulis.az/,CULTR,Culture,2017-01-30,Community member,
-http://ailem.az/,CULTR,Culture,2017-01-31,Community member,
 https://axar.az/news/kult/,CULTR,Culture,2017-02-02,Community member,
 http://bastainfo.com/,NEWS,News Media,2018-03-04,Community member,
 http://www.turan.az/,NEWS,News Media,2018-03-04,Community member,
@@ -36,7 +28,6 @@ http://www.gndem.org/,POLR,Political Criticism,2018-03-04,Community member,
 http://gozetci.az/,HUMR,Human Rights Issues,2018-03-04,Community member,
 https://www.humanrightsclub.net/,HUMR,Human Rights Issues,2018-03-04,Community member,
 https://novator.az/,NEWS,News Media,2018-03-04,Community member,
-http://vizualaz.org/,NEWS,News Media,2018-03-10,Community member,
 https://www.xural.com/,NEWS,News Media,2018-03-10,Community member,
 http://smdtaz.org/,NEWS,News Media,2018-03-10,Community member,
 https://az.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -45,7 +36,33 @@ https://az.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by w
 https://az.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://az.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://realliq.info/,NEWS,News Media,2018-06-27,Community member,This was was reported to be blocked in AZ
 https://www.rferl.org/,NEWS,News Media,2018-06-27,Community member,
 https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.azerbaycanrealligi.com/,NEWS,News Media,2019-11-09,Community member,
+http://azpolitika.info/,NEWS,News Media,2019-11-09,Community member,This site was reportedly blocked in AZ
+http://www.kanal13.tv/,NEWS,News Media,2019-11-09,Community member,
+http://arqument.az/,NEWS,News Media,2019-11-09,Community member,
+http://strateq.az/,NEWS,News Media,2019-11-09,Community member,
+http://istiqlal.az/,NEWS,News Media,2019-11-09,Community member,
+http://mia.az/,NEWS,News Media,2019-11-09,Community member,
+https://qaynarinfo.az/,NEWS,News Media,2019-11-09,Community member,
+http://gundeminfo.az/,NEWS,News Media,2019-11-09,Community member,
+https://qafqazinfo.az/,NEWS,News Media,2019-11-09,Community member,
+http://teref.az/,NEWS,News Media,2019-11-09,Community member,
+http://7gun.az/,NEWS,News Media,2019-11-09,Community member,
+http://hefteaz.info/,NEWS,News Media,2019-11-09,Community member,Domain expired but included nonetheless because it was reportedly blocked
+https://www.gununsesi.org/,NEWS,News Media,2019-12-10,OONI,Reportedly blocked by quirium: https://www.qurium.org/alerts/azerbaijan/gununsesi-org-blocked-in-azerbaijan/
+https://gay.az/,LGBT,LGBT,2020-01-20,OONI,
+http://www.azadaz.org/,LGBT,LGBT,2020-01-20,OONI,
+https://azadliq1.azureedge.net/,NEWS,News Media,2020-07-17,Community member,RFERL
+https://d6hnm3uzmmstw.cloudfront.net/,NEWS,News Media,2020-07-17,Community member,RFERL
+https://ovqat.com/,NEWS,News Media,2020-07-17,Community member,
+https://yukselis.info/,NEWS,News Media,2020-07-17,Community member,
+https://d9mc3ts4czbpr.cloudfront.net/az/,NEWS,News Media,2020-07-17,Community member,Meydan TV
+http://mtv.re/,NEWS,News Media,2020-07-17,Community member,Meydan TV
+https://storage.googleapis.com/qurium/gununsesi.org/index.html,NEWS,News Media,2020-07-17,Community member,Gununesesi
+https://storage.googleapis.com/qurium/24saat.org/index.html,NEWS,News Media,2020-07-17,Community member,24saat
+https://storage.googleapis.com/qurium/azerbaycansaati.tv/index.html,NEWS,News Media,2020-07-17,Community member,Azerbaycan saati
+https://storage.googleapis.com/qurium/abzas.net/index.html,NEWS,News Media,2020-07-17,Community member,Abzas
+https://storage.googleapis.com/qurium/azadliq.info/index.html,NEWS,News Media,2020-07-17,Community member,azadliq newspaper
