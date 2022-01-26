@@ -1,9 +1,6 @@
 url,category_code,category_description,date_added,source,notes
 http://234next.com/,NEWS,News Media,2016-06-14,OONI,
 http://dailyindependentnig.com/,NEWS,News Media,2016-06-14,OONI,
-http://e-expressnigeria.com/,NEWS,News Media,2016-06-14,OONI,
-http://friendzdiary.com/,GRP,Social Networking,2016-06-14,OONI,
-http://newlagostimes.com/,NEWS,News Media,2016-06-14,OONI,
 http://newsjournal.com.ng/,NEWS,News Media,2016-06-14,OONI,
 http://newtelegraphonline.com/,NEWS,News Media,2016-06-14,OONI,
 http://nigerianobservernews.com/,NEWS,News Media,2016-06-14,OONI,
@@ -16,8 +13,6 @@ http://www.championnews.com.ng/,NEWS,News Media,2016-06-14,OONI,
 http://www.compassnewspaper.com.ng/,NEWS,News Media,2016-06-14,OONI,
 http://www.completesportsnigeria.com/,NEWS,News Media,2016-06-14,OONI,
 http://www.dailytimes.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.daylight.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.gnaija.net/,GRP,Social Networking,2016-06-14,OONI,
 http://www.guardian.ng/,NEWS,News Media,2016-06-14,OONI,
 http://www.hallmarknews.com/,NEWS,News Media,2016-06-14,OONI,
 http://www.leadership.ng/nga/,NEWS,News Media,2016-06-14,OONI,
@@ -38,7 +33,6 @@ http://www.thetidenewsonline.com/,NEWS,News Media,2016-06-14,OONI,
 http://www.thisdaylive.com/,NEWS,News Media,2016-06-14,OONI,
 http://www.tribuneonlineng.com/,NEWS,News Media,2016-06-14,OONI,
 http://www.vanguardngr.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.yarnme.com.ng/,GRP,Social Networking,2016-06-14,OONI,
 http://www.bbc.com/hausa/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbchausa.com/,NEWS,News Media,2017-07-19,BBC,
 http://www.igbofocus.co.uk/,CULTR,Culture,2017-11-20,OONI,Reportedly blocked
@@ -54,7 +48,6 @@ http://www.biafranigeriaworld.com/,NEWS,News Media,2017-11-20,OONI,Reportedly bl
 http://www.ekwenche.org/,POLR,Political Criticism,2017-11-20,OONI,Reportedly blocked
 http://www.gobiafra.com/,GRP,Social Networking,2017-11-20,OONI,Reportedly blocked
 http://www.ustream.tv/channel/biafra-television,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://www.biafrasay.com/,GRP,Social Networking,2017-11-20,OONI,Reportedly blocked
 http://www.bafmembers.com/,POLR,Political Criticism,2017-11-20,OONI,Reportedly blocked
 http://www.thebiafrapost.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
 http://www.naij.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
@@ -63,7 +56,6 @@ http://www.biafra.com/,POLR,Political Criticism,2018-01-22,OONI,
 http://www.biafra.net/,POLR,Political Criticism,2018-01-22,OONI,
 http://www.biafra.club/,POLR,Political Criticism,2018-01-22,OONI,
 http://www.freennamdikanu.com/,POLR,Political Criticism,2018-01-22,OONI,
-http://www.restoringbiafranationhood.info/,POLR,Political Criticism,2018-01-22,OONI,
 http://saharareporters.com/,NEWS,News Media,2018-01-22,OONI,
 https://www.islamicmovement.org/,REL,Religion,2018-01-22,OONI,
 http://imnig.org/,REL,Religion,2018-01-22,OONI,
@@ -73,7 +65,6 @@ http://www.bisialimifoundation.org/,LGBT,LGBT,2018-01-22,OONI,
 https://ig.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://wikimediafoundation.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.vanguardngr.com/,NEWS,News Media,2018-09-04,OONI,
 http://dailypost.ng/,NEWS,News Media,2018-09-04,OONI,
@@ -103,7 +94,6 @@ https://www.naijaturnup.com/,NEWS,News Media,2018-09-04,OONI,
 https://tell.ng/,NEWS,News Media,2018-09-04,OONI,
 http://www.imotrumpeta.com/,NEWS,News Media,2018-09-04,OONI,
 http://www.networkafrica.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.nigeriannews.com/,NEWS,News Media,2018-09-04,OONI,
 https://www.pulse.ng/,NEWS,News Media,2018-09-04,OONI,
 http://informationng.com/,NEWS,News Media,2018-09-04,OONI,
 https://www.thecable.ng/,NEWS,News Media,2018-09-04,OONI,
@@ -116,7 +106,6 @@ http://www.ladunliadinews.com/,CULTR,Culture,2018-09-04,OONI,
 https://www.thetrentonline.com/,NEWS,News Media,2018-09-04,OONI,
 https://www.lindaikejisblog.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
 http://www.ogbongeblog.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-https://www.360nobs.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
 https://www.bellanaija.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
 https://notjustok.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
 http://omojuwa.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
@@ -141,19 +130,16 @@ https://goonerdaily.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
 https://www.thenigerianvoice.com/,NEWS,News Media,2018-09-04,OONI,
 https://nigerianstalk.org/,CULTR,Culture,2018-09-04,OONI,
 https://nigerianpolity.blogspot.com/,POLR,Political Criticism,2018-09-04,OONI,
-http://nigeriapoliticsonline.com/,POLR,Political Criticism,2018-09-04,OONI,
 http://www.inecnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,National Electoral Commission
 https://www.ifes.org/nigeria,POLR,Political Criticism,2018-09-04,OONI,International Foundation for Electoral Systems
 http://atiku.org/,POLR,Political Criticism,2018-09-04,OONI,Politician
 https://paradigmhq.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
 https://aacparty.com/,POLR,Political Criticism,2018-09-04,OONI,New political party formed by human rights activist
-https://kowaparty.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
 https://www.anrp.org.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
 https://alliancefornewnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,Political party
 https://apc.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
 http://www.socialistnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,Political party
 http://www.jmpp.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
-http://labourparty.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
 https://www.nationalinterestparty.com/,POLR,Political Criticism,2018-09-04,OONI,Political party
 http://peoplesdemocraticparty.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
 https://youthpartyng.com/,POLR,Political Criticism,2018-09-04,OONI,Political party
@@ -226,16 +212,12 @@ http://www.biafratv.co/,POLR,Political Criticism,2018-09-17,OONI partner,
 http://biafranigeriaworld.com/,POLR,Political Criticism,2018-09-17,OONI partner,
 http://www.waado.org/,POLR,Political Criticism,2018-09-17,OONI partner,
 http://www.nigerdeltaavengers.org/,MILX,Terrorism and Militants,2018-09-17,OONI partner,
-http://www.easternsun.tk/,POLR,Political Criticism,2018-09-17,OONI partner,
 https://www.lnctoday.com/,POLR,Political Criticism,2018-09-17,OONI partner,
 https://www.actionallianceng.org/,POLR,Political Criticism,2018-09-17,OONI partner,
 https://sowore2019.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://abp.org.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
 https://nationinprogress.org/,POLR,Political Criticism,2018-09-17,OONI partner,
 http://adcparty.org.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
 https://www.adp.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://agap.org.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://apdang.org/,POLR,Political Criticism,2018-09-17,OONI partner,
 http://www.nlcng.org/,POLR,Political Criticism,2018-09-17,OONI partner,
 http://www.nigerianbar.org.ng/,HUMR,Human Rights Issues,2018-09-19,OONI partner,
 http://tundebakare.com/,POLR,Political Criticism,2018-09-19,OONI partner,
@@ -243,29 +225,16 @@ http://www.femiaribisala.com/,REL,Religion,2018-09-19,OONI partner,
 https://www.icirnigeria.org/,NEWS,News Media,2018-09-19,OONI partner,
 http://atiku.org/aa/,POLR,Political Criticism,2018-09-21,OONI partner,
 http://www.atikuabubakar2019.org/,POLR,Political Criticism,2018-09-21,OONI partner,
-https://new.iamatikulated.com/,POLR,Political Criticism,2018-09-21,OONI partner,
 http://www.reubenabati.com.ng/,NEWS,News Media,2018-09-22,OONI partner,
 http://www.abubakarbukolasaraki.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://dpc.com.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://gdpn.com.ng/index,POLR,Political Criticism,2018-09-22,OONI partner,
-https://northeaststaronline.com/,NEWS,News Media,2018-09-22,OONI partner,
 http://thepolitico.com.ng/,NEWS,News Media,2018-09-22,OONI partner,
 http://legacypartyofnigeria.blogspot.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://mdp.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://nationalactioncouncil.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
 https://feladurotoye.net/,POLR,Political Criticism,2018-09-22,OONI partner,
 https://kingsleycmoghalu.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://www.ncp.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://www.npm.com.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
 https://www.nrm.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://providencepeoplescongress.org/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://www.ngrwailers.com/,POLR,Political Criticism,2018-09-22,OONI partner,
 http://www.wailersng.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://www.rebuildnigeriaparty.org/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://restorationparty.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
 http://www.pppnigeria.org/,POLR,Political Criticism,2018-09-22,OONI partner,
 https://prp.com.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://peoplestrust.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
 https://election.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
 https://www.mercycorps.org/countries/nigeria,HUMR,Human Rights Issues,2018-12-30,OONI partner,
 http://www.nnngo.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
@@ -301,7 +270,6 @@ https://odili.net/,NEWS,News Media,2018-12-30,OONI partner,
 https://1push.ng/,NEWS,News Media,2018-12-30,OONI partner,
 http://pointblanknews.com/pbn/,NEWS,News Media,2018-12-30,OONI partner,
 https://bounce.ng/,NEWS,News Media,2018-12-30,OONI partner,
-https://www.247nigerianewsupdate.co/,NEWS,News Media,2018-12-30,OONI partner,
 http://www.cnsng.org/,NEWS,News Media,2018-12-30,OONI partner,
 https://newsflash.ng/,NEWS,News Media,2018-12-30,OONI partner,
 https://persecondnews.com/,NEWS,News Media,2018-12-30,OONI partner,
@@ -322,3 +290,5 @@ http://www.theequalityhub.com/,LGBT,LGBT,2020-01-29,OONI partner,
 https://feministcoalition2020.com/,HUMR,Human Rights Issues,2020-11-30,OONI,Reportedly blocked
 https://endsars.com/,HUMR,Human Rights Issues,2020-12-15,OONI,Reportedly blocked
 https://radioisiaq.com/,POLR,Political Criticism,2020-12-15,OONI,Reportedly blocked
+https://www.peoplesgazette.com/,NEWS,News Media,2021-02-05,OONI,Reportedly blocked
+https://www.gazettengr.com/,NEWS,News Media,2021-02-05,OONI,Reportedly blocked

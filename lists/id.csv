@@ -43,8 +43,6 @@ https://id.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wi
 https://ms.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country 
 https://id.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country 
-https://www.komnasham.go.id/,GOVT,Government,2019-09-19,OONI,National Commission on Human Rights in Indonesia
-http://www.posmetropadang.com/,DATE,Online Dating,2019-09-19,OONI,There is a news website https://posmetropadang.co.id. Posmetropadang.com is an online dating site.
 https://www.dream.co.id/,CULTR,Culture,2019-09-19,OONI,
 https://www.viva.co.id/,CULTR,Culture,2019-09-19,OONI,
 https://www.kapanlagi.com/,CULTR,Culture,2019-09-19,OONI,
@@ -112,7 +110,6 @@ https://www.thejakartapost.com/,NEWS,News Media,2019-09-19,OONI,
 https://www.jakartanews.net/,NEWS,News Media,2019-09-19,OONI,
 http://www.koran-jakarta.com/,NEWS,News Media,2019-09-19,OONI,
 http://koran-sindo.com/,NEWS,News Media,2019-09-19,OONI,
-https://sp.beritasatu.com/,NEWS,News Media,2019-09-19,OONI,
 http://www.jambiekspres.co.id/,NEWS,News Media,2019-09-19,OONI,
 https://jabar.tribunnews.com/,NEWS,News Media,2019-09-19,OONI,
 https://pontianak.tribunnews.com/,NEWS,News Media,2019-09-19,OONI,
@@ -140,6 +137,9 @@ https://www.aseantoday.com/category/indonesia/,NEWS,News Media,2019-09-19,OONI,
 https://www.newmandala.org/category/indonesia-politics/,POLR,Political Criticism,2019-09-19,OONI,
 https://www.unaids.org/en/regionscountries/countries/indonesia/,PUBH,Public Health,2019-09-19,OONI,
 https://www.aidshealth.org/global/indonesia/,PUBH,Public Health,2019-09-19,OONI,
+https://www.womenonweb.org/en/page/16338/safe-abortion-network-in-indonesia,XED,Sex Education,2019-09-19,OONI,
+http://gis.bnpb.go.id/arcgis/apps/webappviewer/index.html?id=9b8d73c9874a4fda983ddf4f4b2dbac4,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://aborsionline.org/,XED,Sex Education,2020-08-21,OONI,Related to Women on Web
 https://www.eramuslim.com/,REL,Religion,2019-09-19,OONI,
 https://www.dakwatuna.com/,REL,Religion,2019-09-19,OONI,
 https://quranicaudio.com/,REL,Religion,2019-09-19,OONI,
@@ -172,14 +172,12 @@ https://analisadaily.com/,NEWS,News Media,2019-09-19,OONI,
 https://harianandalas.com/,NEWS,News Media,2019-09-19,OONI,
 https://www.hariansib.com/,NEWS,News Media,2019-09-19,OONI,
 https://thepersecution.org/,REL,Religion,2019-09-19,OONI,
-http://upeks.fajar.co.id/,NEWS,News Media,2019-09-19,OONI,appears dead but generates traffic - monitor
 https://indonesial-bodoh.blogspot.com/,HATE,Hate Speech,2020-04-15,Netalitica,
 https://exmuslims.org/,HUMR,Human Rights Issues,2020-04-15,Netalitica,
 https://upeks.co.id/,NEWS,News Media,2020-04-15,Netalitica,
 https://www.beritamuslim.info/,NEWS,News Media,2020-04-15,Netalitica,
 https://jubi.co.id/,NEWS,News Media,2020-04-15,Netalitica,
 https://www.suara.com/news/,NEWS,News Media,2020-04-15,Netalitica,
-https://suaranews.co.id/,NEWS,News Media,2020-04-15,Netalitica,
 https://www.suaranews.id/,NEWS,News Media,2020-04-15,Netalitica,
 https://indahsuaranews.co/,NEWS,News Media,2020-04-15,Netalitica,
 https://poskota.id/,NEWS,News Media,2020-04-15,Netalitica,
@@ -195,7 +193,6 @@ http://www.medanbisnisonline.com/,GMB,Gambling,2020-04-20,Netalitica,"It is list
 https://www.indotelko.com/,HACK,Hacking Tools,2020-04-20,Netalitica,
 https://www.tek.id/,HACK,Hacking Tools,2020-04-20,Netalitica,
 https://www.cnnindonesia.com/,NEWS,News Media,2020-04-20,Netalitica,
-https://rri-online.com/,NEWS,News Media,2020-04-20,Netalitica,
 https://news.google.com/topstories?hl=id&gl=ID&ceid=ID:id/,NEWS,News Media,2020-04-20,Netalitica,
 https://id.taiwantoday.tw/index.php/,NEWS,News Media,2020-04-20,Netalitica,
 https://www.indonesianews.net/,NEWS,News Media,2020-04-20,Netalitica,
@@ -216,7 +213,6 @@ https://suryamalang.tribunnews.com/,NEWS,News Media,2020-04-20,Netalitica,
 https://sapos.co.id/,NEWS,News Media,2020-04-20,Netalitica,
 https://kepri.haluan.co/,NEWS,News Media,2020-04-20,Netalitica,
 https://radarjogja.co/,NEWS,News Media,2020-04-20,Netalitica,
-https://www.padek.jawapos.com/,NEWS,News Media,2020-04-20,Netalitica,
 https://hariansinggalang.co.id/,NEWS,News Media,2020-04-20,Netalitica,
 https://papuanews.id/,NEWS,News Media,2020-04-20,Netalitica,
 https://katadata.co.id/,NEWS,News Media,2020-04-20,Netalitica,
@@ -235,7 +231,6 @@ https://id.rti.org.tw/,NEWS,News Media,2020-04-20,Netalitica,
 https://www.goriau.com/,NEWS,News Media,2020-04-20,Netalitica,
 https://www.rmolbanten.com/,NEWS,News Media,2020-04-20,Netalitica,
 http://www.harnas.co/,NEWS,News Media,2020-04-20,Netalitica,
-https://www.rmoljakarta.com/,NEWS,News Media,2020-04-20,Netalitica,
 http://www.satuharapan.com/,NEWS,News Media,2020-04-20,Netalitica,
 https://www.suarakarya.id/,NEWS,News Media,2020-04-20,Netalitica,
 https://www.bernas.id/,NEWS,News Media,2020-04-20,Netalitica,
@@ -298,7 +293,6 @@ https://www.primevideo.com/,MMED,Media sharing,2020-04-21,Netalitica,
 https://www.catchplay.com/id/,MMED,Media sharing,2020-04-21,Netalitica,
 https://www.viu.com/,MMED,Media sharing,2020-04-21,Netalitica,
 http://dewabioskop21.org/,MMED,Media sharing,2020-04-21,Netalitica,
-http://cinemaindo.web.id/,MMED,Media sharing,2020-04-21,Netalitica,
 https://filmapik.fun/,MMED,Media sharing,2020-04-21,Netalitica,
 http://filmapik.club/,MMED,Media sharing,2020-04-21,Netalitica,
 http://bioskopkerenin.com/,MMED,Media sharing,2020-04-21,Netalitica,
@@ -393,7 +387,6 @@ https://www.worldbank.org/en/country/indonesia,IGO,Intergovernmental Organizatio
 https://www.id.undp.org/content/indonesia/,IGO,Intergovernmental Organizations,2020-04-24,Netalitica,
 http://jurnal.unissula.ac.id/index.php/makna/article/view/2782/,LGBT,LGBT,2020-04-24,Netalitica,
 https://gayanusantara.or.id/,LGBT,LGBT,2020-04-24,Netalitica,
-http://www.plush.or.id/,LGBT,LGBT,2020-04-24,Netalitica,
 http://smeru.or.id/en/content/arus-pelangi/,LGBT,LGBT,2020-04-24,Netalitica,
 https://sumbar.kemenag.go.id/v2/post/53670/problematika-lgbt-dalam-perspektif-hukum-islam-dan-ham/,LGBT,LGBT,2020-04-24,Netalitica,
 http://aruspelangi.pbworks.com/w/page/9723216/Profile%20%28English%29/,LGBT,LGBT,2020-04-24,Netalitica,
@@ -458,7 +451,6 @@ https://www.dropbox.com/id/,FILE,File-sharing,2020-04-29,Netalitica,
 https://rarbgtor.org/torrents.php/,FILE,File-sharing,2020-04-29,Netalitica,
 https://kat.sx/,FILE,File-sharing,2020-04-29,Netalitica,
 https://yts.mx/,FILE,File-sharing,2020-04-29,Netalitica,
-https://eztv.io/,FILE,File-sharing,2020-04-29,Netalitica,
 https://www.onlinegame.co.id/,GAME,Gaming,2020-04-29,Netalitica,
 https://www.minecraft.net/,GAME,Gaming,2020-04-29,Netalitica,
 https://www.callofduty.com/,GAME,Gaming,2020-04-29,Netalitica,
@@ -468,9 +460,7 @@ https://www.mortalkombat.com/,GAME,Gaming,2020-04-29,Netalitica,
 https://www.blackdesertonline.com/,GAME,Gaming,2020-04-29,Netalitica,
 https://store.steampowered.com/app/612930/Fight_of_Gods/,GAME,Gaming,2020-04-29,Netalitica,
 https://axiooqq.online/,GMB,Gambling,2020-04-29,Netalitica,
-https://www.scbet88.com/,GMB,Gambling,2020-04-29,Netalitica,
 https://bwinkasino.com/,GMB,Gambling,2020-04-29,Netalitica,
-https://langitdominoqq.org/,GMB,Gambling,2020-04-29,Netalitica,
 http://198.96.92.14/,GMB,Gambling,2020-04-29,Netalitica,
 http://206.189.185.159/,GMB,Gambling,2020-04-29,Netalitica,
 http://180.215.14.121/,GMB,Gambling,2020-04-29,Netalitica,
@@ -507,7 +497,6 @@ https://giphy.com/indonesia/,MMED,Media sharing,2020-04-29,Netalitica,
 https://www.konfrontasi.com/,NEWS,News Media,2020-04-29,Netalitica,
 https://mojok.co/penulis/nil/,POLR,Political Criticism,2020-04-29,Netalitica,
 http://alisina.org/,REL,Religion,2020-04-29,Netalitica,
-http://posronda.net/,CULTR,Culture,2020-04-30,Netalitica,A satire Indonesian website. Last updated in July 2017.
 https://tinder.com/?lang=id/,DATE,Online Dating,2020-04-30,Netalitica,"Messaging apps, online dating, social networking sites are often used for online prostitution in Indonesia. Meanwhile, prostitution is illegal in Indonesia - https://today.line.me/id/pc/article/Tinder+tourists+Indonesian+sex+workers+turn+to+online+dating+apps+for+safety+and+to+set+their+own+rules-Z9xlRL"
 https://www.michat.sg/,COMT,Communication Tools,2020-04-30,Netalitica,
 https://artspace.id/,CULTR,Culture,2020-04-30,Netalitica,
@@ -516,7 +505,6 @@ https://dkj.or.id/,CULTR,Culture,2020-04-30,Netalitica,
 https://montasefilm.com/,CULTR,Culture,2020-04-30,Netalitica,
 http://mualaf-alhamdulillah.blogspot.com/,CULTR,Culture,2020-04-30,Netalitica,
 https://mualafbarokah.blogspot.com/,CULTR,Culture,2020-04-30,Netalitica,
-https://www.romadecade.org/,CULTR,Culture,2020-04-30,Netalitica,
 http://g30s-pki.com/,CULTR,Culture,2020-04-30,Netalitica,
 https://www.thejuicemedia.com/honest-government-ad-visit-west-papua-2/,CULTR,Culture,2020-04-30,Netalitica,
 https://kompas.id/baca/hiburan/2020/03/15/konpopilan-521/,CULTR,Culture,2020-04-30,Netalitica,
@@ -548,7 +536,6 @@ https://www.theroadtohomefilm.com/,MILX,Terrorism and Militants,2020-04-30,Netal
 https://oppb.webs.com/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
 http://freepapua.com/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
 http://oppb.org/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
-http://ambonekspres.fajar.co.id/,NEWS,News Media,2020-04-30,Netalitica,
 https://ambon.antaranews.com/,NEWS,News Media,2020-04-30,Netalitica,
 https://www.satumaluku.id/,NEWS,News Media,2020-04-30,Netalitica,
 http://samudranesia.id/,NEWS,News Media,2020-04-30,Netalitica,
@@ -614,31 +601,18 @@ https://www.adugames.com/,GAME,Gaming,2020-05-02,Netalitica,
 http://human-rights-for-all.org/,GMB,Gambling,2020-05-02,Netalitica,
 https://ofhumanrights.org/,GMB,Gambling,2020-05-02,Netalitica,
 https://www.bluewafflesdisease.org/,GMB,Gambling,2020-05-02,Netalitica,
-https://www.investinclimate.org/,GMB,Gambling,2020-05-02,Netalitica,
-http://www.akunprohack.tk/,HACK,Hacking Tools,2020-05-02,Netalitica,
-http://pass-fan.com/faq.php/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
-http://forums.sawomatang.net/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
-http://www.gajahnungging.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
 http://www.asianbookie.com/ch/index.cfm?/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,found to be blocked
 http://passvipclub.com/,COMM,E-commerce,2020-08-20,Netalitica,found to be blocked
-http://zixzaxteam.net/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
-http://ceriwis.us/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,found to be blocked
-http://ceriwis.us/forumdisplay.php?f=127/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,found to be blocked
-http://theoldtigersden.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
 http://bravo-pass.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
-http://www.mahasiswaonline.info/,NEWS,News Media,2020-08-20,Netalitica,dead website but found to be blocked
 http://www.warungbebas.com/,NEWS,News Media,2020-08-20,Netalitica,domain for sale now but still blocked
 http://crito.jw.lt/,NEWS,News Media,2020-08-20,Netalitica,dead website but found to be blocked
 http://zheg.nastie.co.uk/,GAME,Gaming,2020-08-20,Netalitica,domain is for sale but remains blocked
 http://9nagatangkas.com/,GAME,Gaming,2020-08-20,Netalitica,found to be blocked
-http://danteam.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
-http://www.heavens-lounge.net/lounge/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
 http://mupeng.com/forums/198-18-Tahun-Aza/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
 http://ceritacerita.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,domain is for sale but remains blocked
 http://www.krucil.com/forumdisplay.php?f=5/,COMM,E-commerce,2020-08-20,Netalitica,dead website but found to be blocked
 http://www.ph-store.com/,COMM,E-commerce,2020-08-20,Netalitica,domain is for sale but remains blocked
 http://indonbodoh.blogspot.com/,POLR,Political Criticism,2020-08-20,Netalitica,content from 2009 - blocked
-http://muhammadture.com/,REL,Religion,2020-08-20,Netalitica,dead website but found to be blocked
 http://beritamuslim.wordpress.com/,REL,Religion,2020-08-20,Netalitica,found to be blocked in Indonesia
 http://trulyislam.blogspot.com/,REL,Religion,2020-08-20,Netalitica,found to be blocked in Indonesia
 http://indonesia.faithfreedom.org/forum/muhammad-bukan-nabi-t1901/,REL,Religion,2020-08-20,Netalitica,dead page but found to be blocked
@@ -651,7 +625,6 @@ http://www.glbtq.com/,LGBT,LGBT,2020-08-20,Netalitica,blocked
 http://www.bodylingerie.com/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
 http://beritapanasselebritis.blogspot.com/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
 http://www.purenudism.net/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
-http://novel4u.com/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
 http://www.trashy.com/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
 http://profilselebryti.blogspot.com/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
 http://www.fotoartis.in/,PROV,Provocative Attire,2020-08-20,Netalitica,blocked
@@ -683,11 +656,10 @@ http://hardsextube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://pridetube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://spankwire.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.ashemaletube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
-http://pasarbola2.com/,GMB,Gambling,2020-08-20,Netalitica,dead website but still blocked
 http://88bola.com/,GMB,Gambling,2020-08-20,Netalitica,domain for sale but still blocked
 http://taruhan.org/,GMB,Gambling,2020-08-20,Netalitica,dead website but still blocked
 http://bolanaga.com/,GMB,Gambling,2020-08-20,Netalitica,dead website but still blocked
 http://bolauntung.com/,GMB,Gambling,2020-08-20,Netalitica,domain for sale but still blocked
 http://fifabola.com/,GMB,Gambling,2020-08-20,Netalitica,domain for sale but still blocked
 http://bolazoom.com/,GMB,Gambling,2020-08-20,Netalitica,blocked
-https://aborsionline.org/,XED,Sex Education,2020-08-20,OONI,
+https://www.internationalrivers.org/news,ENV,Environment,2021-08-24,Arky,blocked

@@ -1,4 +1,8 @@
 url,category_code,category_description,date_added,source,notes
+https://golos2020.org/,POLR,Political Criticism,2021-03-19,community member,alternative voting
+https://pages.github.com/,HOST,Hosting and Blogging Platforms,2021-03-12,community member,software development platform
+https://mediazona.by/,POLR,Political Criticism,2021-03-05,community member,
+https://cet.eurobelarus.info/,POLR,Political Criticism,2021-01-18,community member,policy analytics
 https://zubr.cc/,POLR,Political Criticism,2020-11-30,community member,citizen court monitoring
 https://lurkmore.to/,CULTR,Culture,2019-11-15,community member,
 https://catholic.by/,REL,Religion,2015-04-14,citizenlab,
@@ -10,7 +14,6 @@ http://www.radabnr.org/,GOVT,Government,2015-04-14,citizenlab,site of the Belaru
 http://spring96.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
 http://www.un.by/,IGO,Intergovernmental Organizations,2015-04-14,citizenlab,site of UN for Belarus
 https://www.lastrada.by/,NEWS,News Media,2015-04-14,citizenlab,website for immigration
-http://sieviarynets.net/,POLR,Political Criticism,2015-04-14,citizenlab,site of a political dissident
 http://www.vstrecha.by/,PUBH,Public Health,2015-04-14,citizenlab,site about men's health
 http://hram.by/,REL,Religion,2015-04-14,citizenlab,
 https://baptist.by/,REL,Religion,2015-04-14,citizenlab,Baprist church site
@@ -38,7 +41,6 @@ https://malady-front.blogspot.com/,NEWS,News Media,2015-04-14,citizenlab,
 http://external.polskieradio.pl/,NEWS,News Media,2015-04-14,citizenlab,
 http://luther.by/,REL,Religion,2015-04-14,citizenlab,
 http://www.ciwr.org/zavadsky_en.html,POLR,Political Criticism,2015-04-14,citizenlab,site of the personal cameraman of Lukashenko
-http://www.wolnabialorus.org/,NEWS,News Media,2015-04-14,citizenlab,former site of Free Belarus Initiative NGO
 http://www.leader.ru/,ANON,Anonymization and circumvention tools,2015-04-14,citizenlab,
 http://shaternikart.org/,CULTR,Culture,2015-04-14,citizenlab,
 http://www.voka.tk/,CULTR,Culture,2015-04-14,citizenlab,
@@ -55,7 +57,6 @@ http://www.ourbelarus.org/,POLR,Political Criticism,2015-04-14,citizenlab,
 http://lipkovich.livejournal.com/,NEWS,News Media,2015-04-14,citizenlab,personal blog
 https://vk.com/humanrights_by,HUMR,Human Rights Issues,2015-10-17,igorv,FB channel of critical human rights org
 https://ru-ru.facebook.com/charter97.org/,NEWS,News Media,2015-10-17,igorv,FB channel of critical human rights org
-https://simple.wikipedia.org/,CULTR,Culture,2016-07-18,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://liberaly.org/,POLR,Political Criticism,2019-04-04,Netalitica,Belarusian Liberal Party of Freedom and Progress - opposition
 https://belayarus.by/,GOVT,Government,2019-04-04,Netalitica,Political formation loyal to President Lukashenkko
 http://www.comparty.by/,GOVT,Government,2019-04-04,Netalitica,Communist party of Belarus -  loyal to President Lukashenkko
@@ -128,7 +129,6 @@ http://ciwr.org/,HUMR,Human Rights Issues,2019-04-07,Netalitica,Organization for
 http://belngo.info/,HUMR,Human Rights Issues,2019-04-07,Netalitica,Assembly of Pro-Democratic NGOs of Belarus
 http://www.msd-mh.info/,HUMR,Human Rights Issues,2019-04-07,Netalitica,
 http://studrada.org/,HUMR,Human Rights Issues,2019-04-07,Netalitica,student organization
-http://gaybelarus.by/,LGBT,LGBT,2019-04-07,Netalitica,
 https://gender.do.am/,LGBT,LGBT,2019-04-07,Netalitica,
 http://www.parniplus.ru/,LGBT,LGBT,2019-04-07,Netalitica,Russian LGBT organization
 http://lgbt.by/,LGBT,LGBT,2019-04-07,Netalitica,
@@ -137,8 +137,6 @@ http://sunshine.by/,LGBT,LGBT,2019-04-07,Netalitica,
 http://bluesystem.ru/,LGBT,LGBT,2019-04-07,Netalitica,popular Russian platform blocked in Russia
 http://torrent.by/,MMED,Media sharing,2019-04-07,Netalitica,
 https://www.futurevideo.pro/,MMED,Media sharing,2019-04-07,Netalitica,
-http://beltak.info/,MMED,Media sharing,2019-04-07,Netalitica,
-http://igru-torrent.ru/,MMED,Media sharing,2019-04-07,Netalitica,
 http://nnm-club.me/,MMED,Media sharing,2019-04-07,Netalitica,
 http://kinozal.tv/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 https://rutracker.org/forum/index.php,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
@@ -147,14 +145,12 @@ http://new-rutor.org/search/,MMED,Media sharing,2019-04-07,Netalitica,Russian pl
 https://hdreactor.club/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://tapochek.net/index.php,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 https://www.limetorrents.info/,MMED,Media sharing,2019-04-07,Netalitica,
-https://www.torrentz2.eu/,MMED,Media sharing,2019-04-07,Netalitica,
 http://seedoff4.innal.top/,MMED,Media sharing,2019-04-07,Netalitica,
 http://torrent-games.info/,MMED,Media sharing,2019-04-07,Netalitica,
 http://filmpotok.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://films-torrent.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://halyavin.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://torrents3d.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://n-torrents.name/,MMED,Media sharing,2019-04-07,Netalitica,
 https://1337x.to/,MMED,Media sharing,2019-04-07,Netalitica,
 http://minda.by/,REL,Religion,2019-04-07,Netalitica,Site of the Minsk Theological academy
 http://www.church.by/,REL,Religion,2019-04-07,Netalitica,site of Belarussian Orthodox church
@@ -163,7 +159,6 @@ http://www.belapc.org/,REL,Religion,2019-04-07,Netalitica,site of Belarusian Aut
 http://nunciature.catholic.by/,REL,Religion,2019-04-07,Netalitica,
 https://www.winner.com/,GMB,Gambling,2019-04-09,Netalitica,popular in BY.
 https://ru.888casino-game.com/exclusive-mob/double-1500.htm,GMB,Gambling,2019-04-09,Netalitica,
-https://www.europru.com/,GMB,Gambling,2019-04-09,Netalitica,
 https://casino.betway.com/ru/,GMB,Gambling,2019-04-09,Netalitica,
 http://www.eaeunion.org/,IGO,Intergovernmental Organizations,2019-04-09,Netalitica,site of the Eurasian Economic Union
 https://odkb-csto.org/,IGO,Intergovernmental Organizations,2019-04-09,Netalitica,site of the Collective Security Treaty Organization
@@ -173,7 +168,6 @@ http://glavcom.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked 
 https://glavnoe.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
 http://censor.net.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
 https://www.rbc.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-http://sled.net.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
 https://myrotvorets.center/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
 https://graniru.org/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
 http://www.ej.ru/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
@@ -217,7 +211,6 @@ https://belaruspartisan.by/,NEWS,News Media,2016-12-17,OONI,main independent med
 http://knihi.com/,CULTR,Culture,2015-04-14,citizenlab,
 http://ulis.by/,CULTR,Culture,2015-04-14,citizenlab,
 http://www.nobility.by/,CULTR,Culture,2015-04-14,citizenlab,resource about Belarusian nobility
-http://loveplaneta.by/,DATE,Online Dating,2015-04-14,citizenlab,
 http://www.info.belreform.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
 http://www.ngo.by/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
 http://www.gayly.ru/,LGBT,LGBT,2015-04-14,citizenlab,
@@ -299,7 +292,6 @@ https://help.honestpeople.by/,POLR,Political Criticism,2020-07-28,ifreedombelaru
 https://primaries.by/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
 https://masheka.by/,SRCH,Search Engines,2020-08-24,OONI,Reportedly blocked
 https://progomel.by/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://tip.by/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
 https://virtualbrest.by/,SRCH,Search Engines,2020-08-24,OONI,Reportedly blocked
 https://vkurier.by/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
 https://015.by/search/,SRCH,Search Engines,2020-08-24,OONI,Reportedly blocked
@@ -313,7 +305,6 @@ https://narodny-opros.info/,POLR,Political Criticism,2020-08-24,OONI,Reportedly 
 https://statkevich.org/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
 https://belarus.regnum.ru/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
 https://eurobelarus.info/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-http://mfront.net/,PUBH,Public Health,2020-08-24,OONI,Reportedly blocked
 http://spring96.org/ru/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
 https://ucpb.info/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
 http://svaboda2.net/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
@@ -333,12 +324,9 @@ https://cock.li/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 http://txti.es/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 https://www.liveu.tv/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 https://mssg.me/proxy/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://proxy-gram.tk/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 https://zharov-lox.telegramproxy.me/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 https://catalog-telegram.ru/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 http://telegram-socks.tk/,ANON,Anonymization and circumvention tools,2020-08-24,OONI,Reportedly blocked
-http://prx.nmja/,ANON,Anonymization and circumvention tools,2020-08-24,OONI,Reportedly blocked
-http://tlgrm.mnja/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 http://telegramproxy.online/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-http://telegram.veesecurity.com/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
 https://www.vamtlgrm.com/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
+https://www.zerkalo.io/,NEWS,News Media,2021-08-16,community member,Reportedly blocked
