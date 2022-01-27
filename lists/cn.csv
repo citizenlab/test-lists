@@ -26,7 +26,6 @@ http://www.kaixin001.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.qq.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.tianya.cn/,GRP,Social Networking,2014-04-15,citizenlab,
 https://thediplomat.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://foreignpolicy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.fordfoundation.org/our-work-around-the-world/china/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://chinadigitaltimes.net/chinese/,NEWS,News Media,2014-04-15,citizenlab,
 https://globalnetworkinitiative.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,promoting freedom of expression
@@ -217,7 +216,6 @@ http://map.sogou.com/,ENV,Environment,2019-09-10,Netalitica,Map
 https://www.dytt8.net/index.htm/,FILE,File-sharing,2019-09-10,Netalitica,Movie piracy site
 https://linux.cn/,FILE,File-sharing,2019-09-10,Netalitica,Linux news site
 https://www.csdn.net/,FILE,File-sharing,2019-09-10,Netalitica,IT Developer news site
-https://www.cr173.com/,FILE,File-sharing,2019-09-10,Netalitica,Software download site
 http://xiazai.sogou.com/,FILE,File-sharing,2019-09-10,Netalitica,Software download site
 http://btbit.org/,FILE,File-sharing,2019-09-10,Netalitica,Bittorrent search engine
 http://guazicili.com/,FILE,File-sharing,2019-09-10,Netalitica,Bittorrent search engine
@@ -384,7 +382,6 @@ https://bwh88.net/,HOST,Hosting and Blogging Platforms,2019-09-20,Netalitica,Pop
 https://www.vultr.com/,HOST,Hosting and Blogging Platforms,2019-09-20,Netalitica,Popular hosting provider to host VPN servers
 https://www.digitalocean.com/,HOST,Hosting and Blogging Platforms,2019-09-20,Netalitica,Popular hosting provider to host VPN servers
 http://wanfangdata.com.cn/index.html/,SRCH,Search Engines,2019-09-20,Netalitica,Academic paper search
-https://bangdream.0x77.cf/,GRP,Social Networking,2019-09-20,Netalitica,One of China's Mastodon instance
 https://sn.angry.im/,GRP,Social Networking,2019-09-20,Netalitica,One of China's Mastodon instance
 https://pawoo.net/,GRP,Social Networking,2019-09-20,Netalitica,"Big Mastodon instance in Japan, used by some Chinese netizens"
 http://culture.taiwan.cn/,NEWS,News Media,2019-09-21,Netalitica,Media operated by the Taiwan Affairs Office
@@ -423,7 +420,6 @@ http://www.eyny.com/,FILE,File-sharing,2019-09-27,Netalitica,HK and TW file shar
 https://www.ubisoft.com.cn/,GAME,Gaming,2019-09-27,Netalitica,"International game production company, China branch"
 https://cn.blizzard.com/zh-cn/,GAME,Gaming,2019-09-27,Netalitica,"International game production company, China branch"
 https://redcandlegames.com/,GAME,Gaming,2019-09-27,Netalitica,Taiwanese game company that produced satirical historic games
-https://www.wegame.com.cn/,GAME,Gaming,2019-09-27,Netalitica,Game store
 https://www.ciga.me/,GAME,Gaming,2019-09-27,Netalitica,China indie game alliance
 https://www.komica.org/,HOST,Hosting and Blogging Platforms,2019-09-27,Netalitica,Taiwanese and HK anime and politics discussion board
 http://smldf.org/ch/,HUMR,Human Rights Issues,2019-09-27,Netalitica,Promoting South Mongolian independence
@@ -510,17 +506,14 @@ https://user.guancha.cn/main/content?id=238473&s=fwzxfbbt,PUBH,Public Health,202
 https://2019-ncov.tsing-care.com/survey.html,PUBH,Public Health,2020-02-07,OONI Partner,
 https://boxmy.hayoou.com/1580562806855/city.html,PUBH,Public Health,2020-02-07,OONI Partner,
 https://2019.ncov.wtf/,PUBH,Public Health,2020-02-07,OONI Partner,
-https://2019ncov.tk/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://www.gov.cn/fuwu/2020-01/27/content_5472389.htm,PUBH,Public Health,2020-02-07,OONI Partner,
 https://onwh.51rry.com/#/,PUBH,Public Health,2020-02-07,OONI Partner,
-https://feiyan.help/#/,PUBH,Public Health,2020-02-07,OONI Partner,
 https://wuhan.support/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://charity.foodblockchain.com.cn/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://rescue.sitiits.com:9966/visur/#/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://wuhan2020.org.cn/#/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://nav.werty.cn/,PUBH,Public Health,2020-02-07,OONI Partner,
 https://wuhan2020.kaiyuanshe.cn/#,PUBH,Public Health,2020-02-07,OONI Partner,
-http://2019.davup.com/,PUBH,Public Health,2020-02-07,OONI Partner,
 https://news.qq.com/zt2020/page/feiyan.htm#news,PUBH,Public Health,2020-02-07,OONI Partner,
 http://tieba.baidu.com/f?kw=%E6%AD%A6%E6%B1%89&ie=utf-8&tab=main,PUBH,Public Health,2020-02-07,OONI Partner,
 http://dm.hayoou.com/danmu.php?channel_id=63&channel_name=%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85%E5%AE%9E%E6%97%B6%E9%9C%80%E6%B1%82%E5%AF%B9%E6%8E%A5,PUBH,Public Health,2020-02-07,OONI Partner,
@@ -529,7 +522,6 @@ https://vp.fact.qq.com/home,PUBH,Public Health,2020-02-07,OONI Partner,
 https://mapmiao.com/ncov/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://cuihuan.net/wuhan/news.html,PUBH,Public Health,2020-02-07,OONI Partner,
 https://ncovis.github.io/choropleth/,PUBH,Public Health,2020-02-07,OONI Partner,
-http://ncov.firslov.cn/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://hayoou.com/cx/,PUBH,Public Health,2020-02-07,OONI Partner,
 https://www.wuhancrisis.com/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://github.com/2019ncovmemory/nCovMemory,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
@@ -567,7 +559,6 @@ https://www.cecc.gov/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly b
 https://www.uscirf.gov/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
 https://www.govtrack.us/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
 https://thewire.in/,NEWS,News Media,2020-11-04,Phong - OTF fellow,Reportedly blocked
-https://ccpcoronavirus.com/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
 https://covid-19truth.info/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
 http://covid19song.info/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
 https://covidcon.org/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block

@@ -16,7 +16,6 @@ http://www.blogdir.ru/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab
 http://hrights.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://publicverdict.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.hrpublishers.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.gayvideo.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.lesbi.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://xs.gay.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://freeware32.ru/,MMED,Media sharing,2014-04-15,citizenlab,
@@ -43,7 +42,6 @@ https://www.novayagazeta.ru/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.passion.ru/,NEWS,News Media,2014-04-15,citizenlab,light content
 https://www.themoscowtimes.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://dating.ru/,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.dost-olaq.biz/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.lubovy.ru/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.prison.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.sovest.org/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -103,7 +101,6 @@ https://www.hrw.org/ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://gaycity.love/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.youtube.com/?gl=AZ&hl=az/,MMED,Media sharing,2014-04-15,citizenlab,
 http://radiomayak.ru/,NEWS,News Media,2014-04-15,citizenlab,RU media
-http://www.molgvardia.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.xalqcebhesi.az/,NEWS,News Media,2014-04-15,citizenlab,Azerbaijan focus
 http://zerkalo.az/,NEWS,News Media,2014-04-15,citizenlab,
 https://centrasia.org/,NEWS,News Media,2014-04-15,citizenlab,independent regional news
@@ -163,22 +160,18 @@ https://mosclinic.ru/,XED,Sex Education,2014-04-15,citizenlab,
 http://www.alco.ru/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://scripts.protoplex.ru/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,blocked. Abandoned project
 http://www.diary.ru/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.zurna.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,dead website but still blocked
 http://soft-ru.fatal.ru/,MMED,Media sharing,2014-04-15,citizenlab,blocked. URL cannot be reached
 http://www.filex.com/,MMED,Media sharing,2014-04-15,citizenlab,"problem loading page, blocked in TM"
-http://www.mentig.com/,MMED,Media sharing,2014-04-15,citizenlab,blocked. Dead website
 http://www.mp3-az.com/,MMED,Media sharing,2014-04-15,citizenlab,"blocked, suspended account"
 http://meidan.narod.ru/,NEWS,News Media,2014-04-15,citizenlab,blockked. Now called Virtual Monitor. Not updated
 http://www.monitorjournal.com/,NEWS,News Media,2014-04-15,citizenlab,"outdated, blocked"
 http://www.turaninfo.com/,NEWS,News Media,2014-04-15,citizenlab,"blocked in TM, not accessible"
-http://www.zaman.com.az/,NEWS,News Media,2014-04-15,citizenlab,
 http://nblog.in/,POLR,Political Criticism,2014-04-15,citizenlab,blocked. Now provides access to irrelevant content in English about Visual Studio
 http://www.bakmil.com/,POLR,Political Criticism,2014-04-15,citizenlab,blocked. Now provides access to irrelevant content in Chinese.
 https://www.bbc.com/kyrgyz/,NEWS,News Media,2017-07-19,BBC,
 https://www.bbc.com/uzbek/,NEWS,News Media,2017-07-19,BBC,
 http://ca-news.org/,NEWS,News Media,2017-09-29,igorv,Central Asia focus
 http://www.asiaterra.info/,NEWS,News Media,2017-09-29,igorv,
-http://www.centrasia.ru/,NEWS,News Media,2017-09-29,igorv,"blocked in TM, not accessible"
 https://centre1.com/,NEWS,News Media,2017-09-29,igorv,
 https://en.hronikatm.com/,NEWS,News Media,2017-09-29,igorv,
 https://habartm.org/,NEWS,News Media,2017-09-29,igorv,Independent Turkmen news media
@@ -213,7 +206,6 @@ https://rus.ozodi.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL - Tajic serv
 https://vz.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian medium Vzglyad
 https://www.azattyk.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL - Kyrgyz service (there is a Kyrgyz minority in UZ)
 https://www.facebook.com/Kasparov.Ru/,NEWS,News Media,2019-05-25,Netalitica,Political dissident -for control purposes
-https://b.growerz.online/,ALDR,Alcohol & Drugs,2019-06-15,Netalitica,
 http://noblockme.ru/,ANON,Anonymization and circumvention tools,2019-06-15,Netalitica,
 https://hidemy.name/ru/,ANON,Anonymization and circumvention tools,2019-06-15,Netalitica,
 http://samlib.ru/,CULTR,Culture,2019-06-15,Netalitica,Portal for publishing author literature

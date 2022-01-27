@@ -5,7 +5,6 @@ https://www.tsa-arabi.com/,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by
 https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://arz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.algeriepatriotique.com/,NEWS,News Media,2019-09-20,Anonymous,
@@ -55,9 +54,7 @@ https://www.aljazeera.com/topics/country/algeria.html/,NEWS,News Media,2019-09-2
 https://tv.echoroukonline.com/,NEWS,News Media,2019-09-26,OONI,
 https://www.akhbardzair.com/ar/,NEWS,News Media,2019-09-26,OONI,
 https://aljazair1.com/,NEWS,News Media,2019-09-26,OONI,
-http://aljazair24.com/,NEWS,News Media,2019-09-26,OONI,
 https://www.aljazairalyoum.com/,NEWS,News Media,2019-09-26,OONI,
-https://aljazaircom.com/,NEWS,News Media,2019-09-26,OONI,
 http://www.algeriapressonline.com/,NEWS,News Media,2019-09-26,OONI,
 http://www.algeriatimes.net/,NEWS,News Media,2019-09-26,OONI,
 https://algerie7.com/,NEWS,News Media,2019-09-26,OONI,
@@ -140,7 +137,6 @@ https://bmmishops.com/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,
 https://www.drinkies.net/,ALDR,Alcohol & Drugs,2020-06-30,Netalitica,
 https://ar.vpnmentor.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,
 https://beheard.salamatech.org/ar/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,
-https://kaserproxy.net/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,
 https://mahjooob.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,
 https://nottrees.com/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,
 https://salamatechwiki.org/,ANON,Anonymization and circumvention tools,2020-06-30,Netalitica,
@@ -167,7 +163,6 @@ http://www.mae.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government web
 http://www.education.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government website for control purposes
 https://www.crbt.dz/,CTRL,Control content,2020-06-30,Netalitica,Non-political website for control purposes
 https://ensh.dz/,CTRL,Control content,2020-06-30,Netalitica,Non-political website for control purposes
-https://www.mdrl-ar.com/,CULTR,Culture,2020-06-30,Netalitica,
 https://www.marefa.org/,CULTR,Culture,2020-06-30,Netalitica,
 https://www.nikahsearch.com/,DATE,Online Dating,2020-06-30,Netalitica,
 http://www.zawagislamy.com/,DATE,Online Dating,2020-06-30,Netalitica,
@@ -212,7 +207,6 @@ https://www.androidapps-ar.com/,FILE,File-sharing,2020-06-30,Netalitica,"These a
 https://www.bramjfreee.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns"
 https://www.bramjzone.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns"
 https://www.downloadprogramsline.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns"
-https://www.downloadxdriver.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns"
 https://www.esm3.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns"
 https://www.mo7pro.com/,FILE,File-sharing,2020-06-30,Netalitica,"These are pan-Arab filesharing websites, some of which have been blocked in the region over copyrights concerns"
 http://game-game.ma/,GAME,Gaming,2020-06-30,Netalitica,
@@ -358,12 +352,10 @@ http://hmsalgeria.net/ar/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://www.ffs-dz.net/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://islah-dz.com/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://www.apn.dz/,POLR,Political Criticism,2020-06-30,Netalitica,
-http://frontelmoustakbal.dz/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://plj.dz/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://fc.dz/,POLR,Political Criticism,2020-06-30,Netalitica,
 https://jiljadid.org/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://el-wassit.orgfree.com/,POLR,Political Criticism,2020-06-30,Netalitica,
-http://www.albaath-dz.com/,POLR,Political Criticism,2020-06-30,Netalitica,
 https://elbinaa.com/,POLR,Political Criticism,2020-06-30,Netalitica,
 https://carnegie-mec.org/,POLR,Political Criticism,2020-06-30,Netalitica,
 https://www.facebook.com/PSTDZ/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages
@@ -416,7 +408,6 @@ https://www.altibbi.com/,PUBH,Public Health,2020-06-30,Netalitica,
 https://www.doctoori.net/,PUBH,Public Health,2020-06-30,Netalitica,
 https://www.se7a4evryone.com/,PUBH,Public Health,2020-06-30,Netalitica,
 https://www.seha-tok.com/,PUBH,Public Health,2020-06-30,Netalitica,
-https://www.sehaama.com/,PUBH,Public Health,2020-06-30,Netalitica,
 https://www.webteb.com/,PUBH,Public Health,2020-06-30,Netalitica,
 https://www.meddy.com/ar/,PUBH,Public Health,2020-06-30,Netalitica,
 https://www.islamweb.net/,REL,Religion,2020-06-30,Netalitica,
@@ -437,7 +428,6 @@ http://arabatheistbroadcasting.com/,REL,Religion,2020-06-30,Netalitica,
 https://www.facebook.com/Il7ad/,REL,Religion,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages
 http://www.faithfreedom.org/,REL,Religion,2020-06-30,Netalitica,
 https://www.il7ad.org/vb/index.php/,REL,Religion,2020-06-30,Netalitica,
-http://islamreview.com/,REL,Religion,2020-06-30,Netalitica,
 http://www.islamway.com/,REL,Religion,2020-06-30,Netalitica,
 http://www.light-of-life.com/,REL,Religion,2020-06-30,Netalitica,
 https://the-good-way.com/,REL,Religion,2020-06-30,Netalitica,
@@ -468,6 +458,5 @@ https://www.h24info.ma/,NEWS,News Media,2020-10-04,Netalitica,
 https://www.voaafrique.com/,NEWS,News Media,2020-10-04,Netalitica,
 https://www.radio-m.net/,NEWS,News Media,2020-10-04,Netalitica,
 https://www.liberte-algerie.com/,NEWS,News Media,2020-10-04,Netalitica,
-https://www.reflexiondz.net/,NEWS,News Media,2020-10-04,Netalitica,
 https://ar.hibapress.com/,NEWS,News Media,2020-10-04,Netalitica,
 https://fr.hibapress.com/,NEWS,News Media,2020-10-04,Netalitica,
