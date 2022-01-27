@@ -19,7 +19,6 @@ http://wpolityce.pl/,POLR,Political Criticism,2017-04-09,unknown,
 http://www.ruchkod.pl/,POLR,Political Criticism,2017-04-09,unknown,
 http://krytykapolityczna.pl/,POLR,Political Criticism,2017-04-09,unknown,
 http://wolnekonopie.org/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
-http://www.thc-detox.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
 http://www.hemp.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
 http://plantsklep.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
 http://wujo.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
@@ -61,7 +60,6 @@ http://www.bookmaker.eu/,GMB,Gambling,2017-04-09,unknown,
 http://www.goalbetint.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.188bet.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.bodog.eu/,GMB,Gambling,2017-04-09,unknown,
-http://www.betrally.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.gamebookers.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.doxxbet.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.intertops.eu/,GMB,Gambling,2017-04-09,unknown,
@@ -79,7 +77,6 @@ http://www.888poker.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.winamax.fr/,GMB,Gambling,2017-04-09,unknown,
 http://www.24hbet.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.offsidebet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.pokermira.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.casinoclub.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.mrgreen.com/,GMB,Gambling,2017-04-09,unknown,
 http://www.polskialarmsmogowy.pl/,PUBH,Public Health,2017-04-09,unknown,
@@ -107,6 +104,7 @@ https://pl.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wi
 https://pl.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.gov.pl/web/zdrowie/co-musisz-wiedziec-o-koronawirusie,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://aborcja-polska.org/,XED,Sex Education,2020-08-21,OONI,Related to Women on Web
 https://stopbzdurom.pl/,LGBT,LGBT,2020-08-17,citizenlab,LGBT activist group
 https://lgbtfreezones.pl/,LGBT,LGBT,2020-08-17,citizenlab,Project that maps LGBT-free zones in the country
 https://atlasnienawisci.pl/,LGBT,LGBT,2020-08-17,citizenlab,Project that maps places that discriminate against LGBT folks in the country
@@ -128,3 +126,6 @@ http://pis.org.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political part
 https://www.psl.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Polskie Stronnictwo Ludowe
 https://platforma.org/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Platforma Obywatelska
 https://ruchnarodowy.net/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Ruch Narodowy
+https://sub1.blocked-site-hole-cert.pl/,CTRL,Control content,2021-04-06,unknown,CTRL for https://www.cert.pl/posts/2020/03/ostrzezenia_phishing/
+https://sub2.blocked-site-hole-cert.pl/,CTRL,Control content,2021-04-06,unknown,CTRL for https://www.cert.pl/posts/2020/03/ostrzezenia_phishing/
+https://sub3.blocked-site-hole-cert.pl/,CTRL,Control content,2021-04-06,unknown,CTRL for https://www.cert.pl/posts/2020/03/ostrzezenia_phishing/
