@@ -30,7 +30,6 @@ https://www.orvosikannabiszolaj.hu/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,M
 https://techwok.hu/,ANON,Anonymization and circumvention tools,2021-11-19,Netalitica,Online anonymization page
 https://arx.deidentifier.org/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online anonymization tool
 https://hide.me/en/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online circumvention tool
-https://nordvpn.com/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online circumvention tool
 https://protonvpn.com/hu/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online circumvention tool
 https://bookline.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for books
 https://edigital.hu/keszletkisopres?/,COMM,E-commerce,2021-12-28,Netalitica,Online store for electronic goods
@@ -457,7 +456,6 @@ https://www.policysolutions.hu/,POLR,Political Criticism,2021-11-14,Netalitica,C
 https://www.szikramozgalom.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
 https://www.youtube.com/channel/UC_fAjvoGnqySaNM6DRfFiCA/,POLR,Political Criticism,2021-11-14,Netalitica,"Critical political influencer, ex-politician "
 https://www.justiceinitiative.org/litigation/open-society-institute-budapest-v-hungary,POLR,Political Criticism,2021-11-19,Netalitica,Litigation of OSI-Budapest against the state of Hungary
-https://www.opensocietyfoundations.org/,POLR,Political Criticism,2021-11-19,Netalitica,Open Society Foundation - targeted by Hungarian authorities
 http://liberalisok.hu/,POLR,Political Criticism,2022-01-06,Netalitica,opposition party 
 https://ajtk.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Government organized NGO
 https://alapjogokert.hu/en/home/,POLR,Political Criticism,2022-01-06,Netalitica,Government organized NGO
@@ -497,7 +495,7 @@ https://vakcinainfo.gov.hu/,PUBH,Public Health,2021-11-19,Netalitica,Information
 https://www.eeszt.gov.hu/oldalvalaszto.jsp/,PUBH,Public Health,2021-11-19,Netalitica,Public health database
 https://www.neak.gov.hu/,PUBH,Public Health,2021-11-19,Netalitica,Public health service
 https://www.nnk.gov.hu/,PUBH,Public Health,2021-11-19,Netalitica,Public health service
-https://koronavirus.gov.hu/ ,PUBH,Public Health,2022-01-06,citizenlab,Coronavirus
+https://koronavirus.gov.hu/,PUBH,Public Health,2022-01-06,citizenlab,Coronavirus
 https://katolikus.hu/,REL,Religion,2021-11-11,Netalitica,Catholic church
 https://www.reformatus.hu/,REL,Religion,2021-11-12,Netalitica,Reformed Church in Hungary 
 https://metegyhaz.hu/,REL,Religion,2021-11-13,Netalitica,Hungarian Evangelical Fellowship
