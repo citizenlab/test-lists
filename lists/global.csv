@@ -1514,6 +1514,7 @@ https://vector.im/_matrix/identity/api/v1,COMT,Communication Tools,2021-10-03,Ch
 https://www.icij.org/,NEWS,News Media,2021-10-04,Chelchela,
 https://mask.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
 https://mask-h2.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
+https://mask-api.icloud.com/,ANON,Anonymization and circumvention tools,2022-02-17,anonymous,DNS name necessary for iCloud Private Relay
 https://disclose.ngo/,POLR,Political Criticism,2021-11-24,OONI,Reportedly blocked in Egypt but worth testing worldwide
 https://spiegel.de/,NEWS,News Media,2021-12-17,,Popular german news website with articles in german and english
 https://2600.com/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2022-01-26
