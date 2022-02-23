@@ -58,7 +58,6 @@ https://cites.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017
 https://citizenlab.ca/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by citizenlab on 2017-11-09
 http://cocaine.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.common-fund.org/,ECON,Economics,2014-04-15,citizenlab,Updated on 2022-02-21
-http://community.livejournal.com/anorexicqueen/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://company.wizards.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://craigslist.org/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://creativecommons.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -88,10 +87,8 @@ https://evernote.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI o
 https://www.exitinternational.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on 2022-02-21
 https://explorer.ooni.io/,HUMR,Human Rights Issues,2017-05-31,ADEF,probably blocked in Egypt as of 2017-05-31
 http://exscn.net/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://extratorrent.cc/,FILE,File-sharing,2016-08-11,sinarproject,Updated by OONI on 2017-02-14
 https://www.fanfiction.net/,CULTR,Culture,2017-10-12,sinarproject,
 http://feministing.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://flirtylingerie.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://forum.grasscity.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://foursquare.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://freedns.afraid.org/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -253,7 +250,6 @@ http://timesofindia.indiatimes.com/,NEWS,News Media,2014-04-15,citizenlab,Update
 https://tinyurl.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://tor.eff.org/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://torah.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://torrentz.eu/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://translate.google.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://translate.reference.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://translation2.paralink.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -545,7 +541,6 @@ http://www.gamingday.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 
 http://www.gatesfoundation.org/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.gay.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.gayegypt.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.gayhealth.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.gayscape.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.gearthblog.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.genderandaids.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -700,8 +695,6 @@ http://www.learningpartnership.org/,HUMR,Human Rights Issues,2014-04-15,citizenl
 https://www.leaseweb.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.lemonde.fr/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.lesbiansubmission.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.lingerieatlarge.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.lingeriebowl.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.lingo.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.linkedin.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.linkedin.com/,GRP,Social Networking,2016-11-11,citizenlab,Updated by OONI on 2017-02-14
@@ -735,7 +728,6 @@ http://www.metacrawler.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by
 http://www.metal-archives.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.microsofttranslator.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.mideastyouth.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.mininova.org/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.mizzima.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.moderndrunkardmagazine.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.monacogoldcasino.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -861,7 +853,6 @@ http://www.rockstargames.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI 
 http://www.rollingstone.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.rollitup.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.rotten.com/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.roxypalace.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.royalvegas.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rt.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ruf-ch.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -913,7 +904,6 @@ https://www.state.gov/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 
 https://www.state.gov/j/drl/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.stopstreetharassment.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.stratcom.mil/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.stumbleupon.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.submission.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.survive.org.uk/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.systranbox.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -988,7 +978,6 @@ http://www.warhammeronline.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OON
 http://www.washingtontimes.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wcicc.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.webbox.com/index.php,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.webspawner.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.weebly.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.weforum.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.well.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
