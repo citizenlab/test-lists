@@ -15,7 +15,7 @@ http://anonnews.org/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on
 http://anonym.to/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://anonymizer.secuser.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://anonymouse.org/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://archive.org/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://archive.org/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://archive.org/web/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://archiveofourown.org/,CULTR,Culture,2017-10-25,sinarproject,
 https://www.asstr.org/,CULTR,Culture,2019-10-17,sinarproject,erotic fiction
@@ -1270,7 +1270,7 @@ https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus
 https://nextstrain.org/ncov,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://coronavirus.app/,PUBH,Public Health,2020-03-27,magma,coronavirus; Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
 https://coronavirus-map.com/,PUBH,Public Health,2020-03-27,magma,coronavirus; Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
-http://bit.ly/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/nos-bloqueia-bit-ly/
+https://bit.ly/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/nos-bloqueia-bit-ly/
 https://bitly.com/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,
 http://discord.gg/,COMT,Communication Tools,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
 https://discordapp.com/,COMT,Communication Tools,2020-03-27,magma,
