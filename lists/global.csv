@@ -207,7 +207,6 @@ http://rapidgator.net/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI 
 https://www.rarbg.to/,FILE,File-sharing,2016-08-11,sinarproject,Updated on 2022-02-21
 http://reliefweb.int/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://repo1.maven.org/,CTRL,Control content,2022-01-24,Community Member,OSSRH Maven Central
-http://risebroadband.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://riseup.net/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://rsf.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://russia.tv/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -364,7 +363,7 @@ https://www.baidu.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI
 http://www.barmeister.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.barnesandnoble.com/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.bat.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.bbc.com/news,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.bbc.com/news,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2018-07-25
 http://www.beer.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.beerinfo.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.benedelman.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1080,7 +1079,6 @@ https://liveuamap.com/,NEWS,News Media,2020-12-12,Jarrousse,
 https://foreignpolicy.com/,NEWS,News Media,2020-12-12,Jarrousse,
 https://simple.wikipedia.org/,CULTR,Culture,2021-10-01,Wikimedia,
 https://cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2018-10-16,David Fifield,Cloudflare DNS over HTTPS; query is for www.example.com: https://developers.cloudflare.com/1.1.1.1/dns-over-https/wireformat/#using-get
-https://www.bbc.com/news,NEWS,News Media,2018-07-25,OONI,
 https://www.dw.com/,NEWS,News Media,2018-09-13,OONI,Updated on 2022-02-26
 https://www.betternet.co/,ANON,Anonymization and circumvention tools,2018-09-18,DefendDefenders,
 https://www.getoutline.org/,ANON,Anonymization and circumvention tools,2018-09-18,DefendDefenders,
@@ -1464,7 +1462,7 @@ http://www.qhnews.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outsi
 http://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 http://www.mnr.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 https://www.clubhouse.com/,GRP,Social Networking,2021-07-06,rayasharbain,Alternative URL for Clubhouse app's homepage
-https://www.spiegel.de/,NEWS,News Media,2021-11-20,,large german news website
+https://www.spiegel.de/,NEWS,News Media,2021-11-20,,large German news website
 https://hackerspaces.org/,CULTR,Culture,2021-11-20,,informal volunteer network of hackspaces maintaining community services and providing information about hackspaces all over the world
 https://posteo.de/,COMT,Communication Tools,2021-11-20,,"independent email service oncerned with sustainability, security, privacy and usability"
 https://fridaysforfuture.org/,ENV,Environment,2021-11-20,,youth-led and -organised global climate strike movement
@@ -1502,7 +1500,6 @@ https://mask.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,D
 https://mask-h2.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
 https://mask-api.icloud.com/,ANON,Anonymization and circumvention tools,2022-02-17,anonymous,DNS name necessary for iCloud Private Relay
 https://disclose.ngo/,POLR,Political Criticism,2021-11-24,OONI,Reportedly blocked in Egypt but worth testing worldwide
-https://spiegel.de/,NEWS,News Media,2021-12-17,,Popular german news website with articles in german and english
 https://remailer.paranoici.org/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 https://fleegle.mixmin.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 http://redjohn.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
