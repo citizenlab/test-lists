@@ -1506,3 +1506,12 @@ https://www.ideasbeyondborders.org/,CULTR,Culture,2022-03-16,OONI,
 https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://dailystormer.name/,POLR,Political Criticism,2022-03-18,community member,American far-right website; supposedly blocked in Europe
 https://www.microsoft.com/,COMT,Communication Tools,2022-03-30,OONI,Reportedly blocked in Tunisia but worth testing globally
+https://teams.microsoft.com/,COMT,Communication Tools,2022-03-31,OONI,
+https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration,COMT,Communication Tools,2022-03-31,OONI,
+https://statics.teams.cdn.office.net/hashed/favicon/prod/favicon-9e2b8f1.ico,COMT,Communication Tools,2022-03-31,OONI,
+https://login.live.com/Me.htm?v=3,COMT,Communication Tools,2022-03-31,OONI,
+https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico,COMT,Communication Tools,2022-03-31,OONI,
+https://explore.zoom.us/docs/aboutAssets/img/ZoomLogo.png,COMT,Communication Tools,2022-03-31,OONI,
+https://st1.zoom.us/zoom.ico,COMT,Communication Tools,2022-03-31,OONI,
+https://st2.zoom.us/zoom.ico,COMT,Communication Tools,2022-03-31,OONI,
+https://st3.zoom.us/zoom.ico,COMT,Communication Tools,2022-03-31,OONI,
