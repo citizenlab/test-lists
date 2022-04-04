@@ -37,7 +37,6 @@ http://www.stupidcensorship.com/,ANON,Anonymization and circumvention tools,2014
 http://footballitarin.com/,CULTR,Culture,2015-03-20,OONI,Blocked. Sport news
 http://biladi-sa.com/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
 http://tabuk-news.com/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
-http://www.aaci.org.il/,CULTR,Culture,2016-04-20,citizenlab,blocked with 503 error code.
 http://www.afifnp.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code.
 https://ajel.sa/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
 http://www.al-jazirah.com/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
@@ -47,10 +46,7 @@ https://www.alhayat.com/,NEWS,News Media,2016-04-20,citizenlab,language is Arabi
 http://www.alsharq.net.sa/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 http://www.altaif.org/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 https://www.alyaum.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
-http://www.antiquities.org.il/,CULTR,Culture,2016-04-20,citizenlab,blocked. About Archaeologica. Language is Hebrew
 http://www.arabicmagazine.com/arabic/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
-http://www.basket.co.il/,CULTR,Culture,2016-04-20,citizenlab,blocked. Language is Hebrew. Site about sport
-https://www.google.co.il/,SRCH,Search Engines,2016-04-20,citizenlab,blocked
 http://www.juof7.com/,NEWS,News Media,2016-04-20,citizenlab,
 http://www.kharjhome.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 http://www.nshrs.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. After 3 minute not blocked. Language is Arabic
@@ -160,7 +156,6 @@ https://www.sologen.net/weblog/,CULTR,Culture,2014-04-15,citizenlab,http blocked
 https://www.waqfeya.com/,REL,Religion,2014-04-15,citizenlab,language is Arabic
 https://arriyadiyah.com/,CULTR,Culture,2016-04-20,citizenlab,language is Arabic. Site about football news
 https://www.shura.gov.sa/wps/wcm/connect/ShuraArabic/internet/Home/,GOVT,Government,2016-04-20,citizenlab,Language is Arabic
-https://www.sqlserver.co.il/,COMM,E-commerce,2016-04-20,citizenlab,blocked. Language is Hebrew. Site about company services
 https://aminbozorgian.wordpress.com/,POLR,Political Criticism,2017-05-16,ASL19,wordpress.com and all its subdomains are blocked
 https://divanesara2.blogspot.com/,POLR,Political Criticism,2017-05-16,ASL19,blocked. blogspot.com and all its subdomains are blocked
 https://nargesstavassolian.blogspot.com/,HUMR,Human Rights Issues,2017-05-16,ASL19,blocked. blogspot.com and all its subdomains are blocked
@@ -209,7 +204,6 @@ https://www.dellemc.com/en-ca/index.htm/,HOST,Hosting and Blogging Platforms,201
 https://www.tabnak.ir/fa/news/184641/%D8%B4%D8%B5%D8%AA-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%AE%D8%B4%DA%A9%DB%8C%D8%AF/,ENV,Environment,2014-04-15,citizenlab,
 https://www.istripper.com/,PORN,Pornography,2014-04-15,citizenlab,blocked
 https://persianbooks2.blogspot.com/,CULTR,Culture,2014-04-15,citizenlab,blocked. blogspot.com and all its subdomains are blocked
-https://www.webs.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,blocked with timeout error.
 https://sayt.ws/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,does not provide free service.
 https://network.newsensations.com/tour_ns/,PORN,Pornography,2014-04-15,citizenlab,blocked
 https://cpimlm.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked. New address not blocked
@@ -226,7 +220,6 @@ https://www.mizanonline.com/,NEWS,News Media,2017-05-16,ASL19,
 https://www.mosalasonline.com/,NEWS,News Media,2017-05-16,ASL19,
 https://www.presstv.com/,NEWS,News Media,2017-05-16,ASL19,
 https://aawsat.com/persian/,NEWS,News Media,2017-05-16,ASL19,blocked
-https://friends.walla.co.il/login/,COMT,Communication Tools,2017-09-05,OONI,blocked
 https://gayroom.com/,PORN,Pornography,2017-09-05,OONI,blocked with 503 error code.
 https://www.fandom.com/,MMED,Media sharing,2017-09-05,OONI,blocked with 503 error code.
 https://uk.match.com/,DATE,Online Dating,2017-09-05,OONI,blocked
@@ -242,7 +235,6 @@ https://www.alwakad.net/,NEWS,News Media,2016-04-20,citizenlab,language is Arabi
 http://www.alriyadh.com/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 http://kurdpress.com/,NEWS,News Media,2017-05-16,ASL19,
 https://sverigesradio.se/radioswedenfarsidari,NEWS,News Media,2017-05-16,ASL19,
-http://www.isa.gov.il/Pages/default.aspx,GOVT,Government,2016-04-20,citizenlab,blocked with timeout error.
 http://www.femirani.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code.
 https://www.muslm.org/,NEWS,News Media,2014-04-15,citizenlab,blocked. Language is Arabic
 https://www.paymentwall.com/,COMM,E-commerce,2017-05-16,ASL19,
@@ -255,14 +247,8 @@ https://www.carlsberg.com/en/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,blocked
 https://www.dd-sunnah.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked
 https://neshatshop.com/shop/Default.aspx/,XED,Sex Education,2014-04-15,citizenlab,
 https://www.dw.com/fa-ir/%D8%AF%D9%88%DB%8C%DA%86%D9%87-%D9%88%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/s-9993/,NEWS,News Media,2015-03-20,OONI,dw.de and dw.com blocked. Persian content: https://www.dw.com/fa-ir/%D8%AF%D9%88%DB%8C%DA%86%D9%87-%D9%88%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/s-9993
-https://elyon1.court.gov.il/eng/home/index.html/,GOVT,Government,2016-04-20,citizenlab,blocked with timeout error.
 https://albiladdaily.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with timeout error. Language is Arabic
-https://www.boi.org.il/en/Pages/Default.aspx/,GOVT,Government,2016-04-20,citizenlab,blocked.
-https://www.bus.co.il/otobusimmvc?Language=en/,CULTR,Culture,2016-04-20,citizenlab,blocked with timeout error.. Israel Public Transportation Information
-https://www.cbs.gov.il/en/Pages/default.aspx/,GOVT,Government,2016-04-20,citizenlab,blocked with timeout error.
 https://hailnews.net/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
-https://www.mod.gov.il/Pages/default.aspx/,GOVT,Government,2016-04-20,citizenlab,blocked. Language is Hebrew
-https://www.tase.co.il/en/,COMM,E-commerce,2016-04-20,citizenlab,blocked. Language is Hebrew
 https://www.ahmadbatebi.com/fa/,POLR,Political Criticism,2017-05-16,ASL19,blocked
 https://www.beytoote.com/,CULTR,Culture,2017-05-16,ASL19,
 https://www.glwiz.com/Pages/HomePage/HomePage.aspx/,MMED,Media sharing,2017-05-16,ASL19,
@@ -290,8 +276,6 @@ https://persianblog.ir/,HOST,Hosting and Blogging Platforms,2015-03-20,OONI,pers
 https://www.varzesh3.com/,CULTR,Culture,2015-03-20,OONI,
 https://aawsat.com/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 https://alraynews.net/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
-https://minuf.co.il/,ECON,Economics,2016-04-20,citizenlab,blocked. Language is Hebrew
-https://rhr.org.il/eng/,HUMR,Human Rights Issues,2016-04-20,citizenlab,blocked with 503 error code.
 https://sabq.org/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 https://www.afifnews.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code.
 https://www.al-madina.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
@@ -301,17 +285,11 @@ https://www.alwatan.com.sa/,NEWS,News Media,2016-04-20,citizenlab,blocked with 5
 https://www.alweeam.com.sa/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
 https://www.anaween.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 https://www.belgarn.com/,NEWS,News Media,2016-04-20,citizenlab,Only blocked by SNI. Language is Arabic
-https://www.galilcol.ac.il/,ECON,Economics,2016-04-20,citizenlab,http blocked.
-https://www.greenbo.co.il/,CULTR,Culture,2016-04-20,citizenlab,blocked. About home design. Language is Hebrew
 https://www.hasatoday.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with timeout error. Language is Arabic
 https://www.jazannews.org/,NEWS,News Media,2016-04-20,citizenlab,blocked
 https://www.makkahnews.net/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
-https://www.mossad.gov.il/default.aspx/,GOVT,Government,2016-04-20,citizenlab,blocked. Language is Hebrew
 https://www.okaz.com.sa/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 https://www.oswego.lib.il.us/,CULTR,Culture,2016-04-20,citizenlab,
-https://www.rafael.co.il/,GOVT,Government,2016-04-20,citizenlab,blocked with 503 error code.
-https://www.ramla.muni.il/,GOVT,Government,2016-04-20,citizenlab,blocked. Language is Hebrew
-https://www.science.co.il/,GOVT,Government,2016-04-20,citizenlab,blocked. GOVT-CULTR
 https://www.spa.gov.sa/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 https://farsi.euronews.com/,NEWS,News Media,2016-05-12,berkman,blocked
 https://www.bbc.com/persian/,NEWS,News Media,2016-05-12,berkman,blocked
@@ -754,7 +732,6 @@ https://islamhouse.com/fa/,REL,Religion,2019-11-14,Netalitica,blocked with timeo
 http://www.whatsislam.com/,REL,Religion,2019-11-14,Netalitica,
 http://www.almoslim.net/,REL,Religion,2019-11-14,Netalitica,blocked
 http://www.al-eman.com/index.htm/,REL,Religion,2019-11-14,Netalitica,
-https://mfa.gov.il/,REL,Religion,2019-11-14,Netalitica,blocked with timeout error.
 http://www.iranjewish.com/,REL,Religion,2019-11-14,Netalitica,
 http://www.farsicrc.com/,REL,Religion,2019-11-14,Netalitica,blocked
 http://7dorim.com/Home.asp/,REL,Religion,2019-11-14,Netalitica,blocked
@@ -793,9 +770,26 @@ https://coocheh.com/,GRP,Social Networking,2019-11-14,Netalitica,
 https://chehre.app/,GRP,Social Networking,2019-11-14,Netalitica,
 https://net.tebyan.net/,GRP,Social Networking,2019-11-14,Netalitica,
 https://facenama.com/,GRP,Social Networking,2019-11-14,Netalitica,
-https://iranrevival.com/,POLR,Political Criticism,2020-02-05,OONI,
+https://iranrevival.com/,POLR,Political Criticism,2020-02-05,OONI,Reportedly blocked
 https://www.tribunezamaneh.com/,NEWS,News Media,2020-01-30,ZamanehMedia,
 https://www.daadkhast.org/,NEWS,News Media,2020-01-30,ZamanehMedia,
 https://www.bonbast.com/,ECON,Economics,2020-06-22,Chelchela,blocked in Iran
 https://irandarkhamooshi.net/fa,HACK,Hacking Tools,2020-11-05,Chelchela,
 https://filter.watch/,POLR,Political Criticism,2021-09-07,Chelchela,
+https://www.toosheh.org/,ANON,Anonymization and circumvention tools,2021-09-21,Chelchela,
+http://kinox.to/,MMED,Media sharing,2020-07-21,oonitarian,blocked
+http://movie4k.to/,MMED,Media sharing,2020-07-21,oonitarian,blocked
+https://www.ign.com/,GAME,Gaming,2020-07-21,oonitarian,blocked with SNI
+https://kotaku.com/,GAME,Gaming,2020-07-21,oonitarian,blocked with SNI
+https://n4g.com/,GAME,Gaming,2020-07-21,oonitarian,blocked with SNI
+https://www.bigfishgames.com/blog/,GAME,Gaming,2020-07-21,oonitarian,blocked with SNI
+https://www.moddb.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://www.destructoid.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://www.gamespew.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://www.indiedb.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://indiewatch.net/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://videochums.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://jayisgames.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://www.newgamenetwork.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://doctorsofgaming.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
+https://indiegamesplus.com/,GAME,Gaming,2020-07-21,oonitarian,blocked
