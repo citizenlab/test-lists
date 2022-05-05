@@ -1,75 +1,328 @@
 url,category_code,category_description,date_added,source,notes
-http://abclider.com/,PORN,Pornography,2014-04-15,citizenlab,
-http://bestmaza.biz/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://blanki.net.ua/,COMM,E-commerce,2014-04-15,citizenlab,
-http://borgie.net/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://childrenscinema.com/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://cones.tv/,COMM,E-commerce,2014-04-15,citizenlab,
-http://diplomaticsecondpassport.com/,COMM,E-commerce,2014-04-15,citizenlab,
-http://fast-die.kiev.ua/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://gayzona.com/,LGBT,LGBT,2014-04-15,citizenlab,
+http://fast-die.kiev.ua/,PUBH,Public Health,2014-04-15,citizenlab,
+http://www.shram.kiev.ua/,CULTR,Culture,2014-04-15,citizenlab,
+http://fei.ru/,PORN,Pornography,2014-04-15,citizenlab,
+https://psyplants.info/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
+https://www.pictureview.com/,MMED,Media sharing,2014-04-15,citizenlab,
+http://abclider.com/,PORN,Pornography,2014-04-15,citizenlab,File-sharing platform for porn
+http://diplomaticsecondpassport.com/,COMM,E-commerce,2014-04-15,citizenlab,English site about getting dual citizenship
 http://go-krit.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://growclub.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://hoteljans.nl/,COMM,E-commerce,2014-04-15,citizenlab,
-https://jahforum.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://kolebcev.v-teme.com/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://konoplya.2anekdots.ru/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://krauzes.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://krown-products.net/,COMM,E-commerce,2014-04-15,citizenlab,
-http://legalrc.biz/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://liability-insurance-company.com/,COMM,E-commerce,2014-04-15,citizenlab,
-http://limonova.v-teme.com/,COMM,E-commerce,2014-04-15,citizenlab,
-http://onlinefilms.com.ua/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://pictureview.com/,MMED,Media sharing,2014-04-15,citizenlab,
-http://psyplants.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://rchemlab.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://seedjah.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://semyanich.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://sibspice.biz/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://tor4.su/,PORN,Pornography,2014-04-15,citizenlab,
-http://ufa.realstaf.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://video-one.com/,PORN,Pornography,2014-04-15,citizenlab,
-http://vresearche.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://weedhash.biz/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://www.bakerlawfirm.com/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.narkotiki.name/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://www.samsunggalaxynote2.info/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://www.visatovietnam.us/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.weedy.be/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://yesche.biz/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://zabormozga.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
+https://jahforum.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.bbc.com/kyrgyz/,NEWS,News Media,2017-07-19,BBC,
 http://www.bbckyrgyz.com/,NEWS,News Media,2017-07-19,BBC,
-http://www.bbc.com/uzbek/,NEWS,News Media,2017-07-19,BBC,
-https://www.bbc.com/uzbek/,NEWS,News Media,2018-07-23,OONI,
-http://www.bbzuzbek.com/,NEWS,News Media,2017-07-19,BBC,
-http://birdamlik.info/,POLR,Political Criticism,2017-09-28,igorv,
+http://birdamlik.info/,POLR,Political Criticism,2017-09-28,igorv,"blocked, outdated - keep monitoring"
+http://fromuz.com/,POLR,Political Criticism,2017-09-28,igorv,"blocked, outdated - keep monitoring"
+https://eltuz.com/,NEWS,News Media,2017-09-28,igorv,
 http://ca-news.org/,NEWS,News Media,2017-09-28,igorv,
-http://eltuz.com/,NEWS,News Media,2017-09-28,igorv,
-http://fromuz.com/,POLR,Political Criticism,2017-09-28,igorv,
-http://harakat.net/,NEWS,News Media,2017-09-28,igorv,
+http://harakat.net/,NEWS,News Media,2017-09-28,igorv,independent news - blocked
+http://uzxalqharakati.com/,POLR,Political Criticism,2017-09-28,igorv,oppositional political movement of UZ
+http://www.asiaterra.info/,NEWS,News Media,2017-09-28,igorv,blocked
+http://www.fergananews.com/,NEWS,News Media,2017-09-28,igorv,archive of the news site. New address is: https://fergana.agency/
+http://www.uzmetronom.com/,NEWS,News Media,2017-09-28,igorv,
 https://centre1.com/,NEWS,News Media,2017-09-28,igorv,
 https://jahonnoma.com/,POLR,Political Criticism,2017-09-28,igorv,
-https://rus.ozodlik.org/,NEWS,News Media,2017-09-28,igorv,
-https://www.rferl.org/,NEWS,News Media,2017-09-28,igorv,
+https://rus.ozodlik.org/,NEWS,News Media,2017-09-28,igorv,RFE/RL service for UZ in Russian
 https://turonzamin.org/,POLR,Political Criticism,2017-09-28,igorv,
-http://uzxalqharakati.com/,POLR,Political Criticism,2017-09-28,igorv,
-http://www.asiaterra.info/,NEWS,News Media,2017-09-28,igorv,
-http://www.centrasia.ru/,NEWS,News Media,2017-09-28,igorv,
-http://www.dw.com/,NEWS,News Media,2017-09-28,igorv,
-http://www.fergananews.com/,NEWS,News Media,2017-09-28,igorv,
 https://www.golos-ameriki.ru/,NEWS,News Media,2017-09-28,igorv,
-http://www.uzmetronom.com/,NEWS,News Media,2017-09-28,igorv,
-https://uz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://uz.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://kk.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://rus.ozodlik.org/,NEWS,News Media,2018-07-23,OONI,
-https://kun.uz/,NEWS,News Media,2018-07-05,OONI,Reportedly blocked temporarily
-https://uzreport.uz/,NEWS,News Media,2018-07-05,OONI,Reportedly blocked temporarily
 http://fikr.uz/,NEWS,News Media,2018-07-05,OONI,Reportedly blocked temporarily
+https://kun.uz/,NEWS,News Media,2018-07-05,OONI,Reportedly blocked temporarily
+https://uzreport.uz/,NEWS,News Media,2018-07-05,OONI,Reportedly blocked temporarily. Not accessible - keep monitoring
+https://kk.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://uz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://uz.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://www.cnews.ru/,NEWS,News Media,2018-07-11,OONI,Reportedly blocked
-https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://rus.ozodlik.org/,NEWS,News Media,2018-07-23,OONI,
+https://www.bbc.com/uzbek/,NEWS,News Media,2018-07-23,OONI,
+http://bride.ru/,DATE,Online Dating,2019-05-25,Netalitica,
+http://buddhist.ru/,REL,Religion,2019-05-25,Netalitica,
+http://cameleo.xyz/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+http://compromat.ru/,NEWS,News Media,2019-05-25,Netalitica,
+http://donbass.ua/,NEWS,News Media,2019-05-25,Netalitica,Ukrainian news media
+http://eurasia.org.ru/,NEWS,News Media,2019-05-25,Netalitica,Central Asia regional news
+http://flibusta.is/,MMED,Media sharing,2019-05-25,Netalitica,sharing books
+http://gaia.ru/,LGBT,LGBT,2019-05-25,Netalitica,
+http://gamsoft.ru/,GMB,Gambling,2019-05-25,Netalitica,
+http://gay.kz/,LGBT,LGBT,2019-05-25,Netalitica,
+http://gazeta.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+http://islam.plus/ru/,REL,Religion,2019-05-25,Netalitica,
+http://islam.ru/,REL,Religion,2019-05-25,Netalitica,
+http://kinovolt.ru/,FILE,File-sharing,2019-05-25,Netalitica,
+http://kinozal.tv/,FILE,File-sharing,2019-05-25,Netalitica,
+http://lurkmore.to/,NEWS,News Media,2019-05-25,Netalitica,Russia version of Wikipedia
+http://mega-intell.ru/,COMM,E-commerce,2019-05-25,Netalitica,
+http://namba.kz/#!/,FILE,File-sharing,2019-05-25,Netalitica,
+http://new-rutor.org/,FILE,File-sharing,2019-05-25,Netalitica,
+http://noblockme.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+http://radiomayak.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+http://rutracker.org/forum/index.php/,FILE,File-sharing,2019-05-25,Netalitica,popular torrent sharing service
+http://samlib.ru/,CULTR,Culture,2019-05-25,Netalitica,Samizdat journal
+http://seedoff.zannn.top/,FILE,File-sharing,2019-05-25,Netalitica,
+http://tushkan.club/,FILE,File-sharing,2019-05-25,Netalitica,
+http://www.agentura.ru/,POLR,Political Criticism,2019-05-25,Netalitica,Critical Russia site
+http://www.aif.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+http://www.annacasino.ru/,GMB,Gambling,2019-05-25,Netalitica,
+http://www.blogdir.ru/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
+http://www.buddhism.ru/,REL,Religion,2019-05-25,Netalitica,
+http://www.casinoking.com/,GMB,Gambling,2019-05-25,Netalitica,
+http://www.compromat.ru/,NEWS,News Media,2019-05-25,Netalitica,
+http://www.fairhost.ru/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
+http://www.filesearch.ru/,SRCH,Search Engines,2019-05-25,Netalitica,
+http://www.filex.com/,MMED,Media sharing,2019-05-25,Netalitica,"problem loading page, blocked in TM"
+http://www.freeproxy.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+http://www.fresher.ru/,NEWS,News Media,2019-05-25,Netalitica,Daily summary of popular Runet content
+http://www.hateit.ru/,HATE,Hate Speech,2019-05-25,Netalitica,
+http://www.islam.ru/,REL,Religion,2019-05-25,Netalitica,
+http://www.islamdin.com/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
+http://www.lesbi.ru/,LGBT,LGBT,2019-05-25,Netalitica,
+http://www.moviesarena.com/,PORN,Pornography,2019-05-25,Netalitica,
+http://www.mysites.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+http://www.nkr.am/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
+http://www.nkrusa.org/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
+http://www.otbm.com/,PORN,Pornography,2019-05-25,Netalitica,
+http://www.pkkonline.org/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
+http://www.radiomayak.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+http://www.xgay.ru/,LGBT,LGBT,2019-05-25,Netalitica,
+http://xs.gay.ru/,LGBT,LGBT,2019-05-25,Netalitica,
+http://zagony.ru/,CULTR,Culture,2019-05-25,Netalitica,blocked in KZ
+http://zhurnal.lib.ru/,CULTR,Culture,2019-05-25,Netalitica,Portal for publishing author literature
+http://xn--80aaifmgl1achx.xn--p1ai/,GMB,Gambling,2019-05-25,Netalitica,
+https://2ip.ru/anonim/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://amnesty.org.ru/,HUMR,Human Rights Issues,2019-05-25,Netalitica,Amnesty page for Eastern Europe and Central Asia
+https://blogs.voanews.com/,NEWS,News Media,2019-05-25,Netalitica,VOA blog
+https://browsec.com/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://ca.yahoo.com/,SRCH,Search Engines,2019-05-25,Netalitica,
+https://carnegie.ru/,POLR,Political Criticism,2019-05-25,Netalitica,
+https://centrasia.org/,NEWS,News Media,2019-05-25,Netalitica,Central Asia regional news
+https://deeprism.com/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://distant.msu.ru/,CULTR,Culture,2019-05-25,Netalitica,
+https://dni.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+https://eurasianet.org/,NEWS,News Media,2019-05-25,Netalitica,
+https://fergana.agency/,NEWS,News Media,2019-05-25,Netalitica,Central Asia regional news
+https://fri-gate.org/ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://gaycity.love/,LGBT,LGBT,2019-05-25,Netalitica,
+https://hidemy.name/ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://hronikatm.com/,NEWS,News Media,2019-05-25,Netalitica,Critical Turkmen medium
+https://hunafa.com/,MILX,Terrorism and Militants,2019-05-25,Netalitica,Islamist site
+https://inosmi.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media
+https://iz.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+https://jino.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,Domain registration service
+https://kavkazcenter.com/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
+https://leader.ru/secure/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,reportedly blocked in KZ
+https://medianet.kz/,HUMR,Human Rights Issues,2019-05-25,Netalitica,focus on journalism and freedom of speech in Central Asia
+https://navalny.com/,POLR,Political Criticism,2019-05-25,Netalitica,Russian opposition leader
+https://netmap.su/proxy/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://passport.yandex.ru/,COMT,Communication Tools,2019-05-25,Netalitica,
+https://pornoelena.net/,PORN,Pornography,2019-05-25,Netalitica,
+https://proza.ru/,CULTR,Culture,2019-05-25,Netalitica,
+https://regnum.ru/,NEWS,News Media,2019-05-25,Netalitica,
+https://ria.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+https://ru.wikiquote.org/,CULTR,Culture,2019-05-25,Netalitica,
+https://ru.wikisource.org/,CULTR,Culture,2019-05-25,Netalitica,
+https://rus.azathabar.com/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL service for TM
+https://rus.azattyq.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL - Kazakh service (there is Kazack minority in UZ)
+https://rus.ozodi.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL - Tajic service (there is Tajic minority in UZ)
+https://russia.googleblog.com/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,Google's official blog for Russia
+https://rutor.org/,FILE,File-sharing,2019-05-25,Netalitica,
+https://spid.center/ru/,XED,Sex Education,2019-05-25,Netalitica,
+https://stoloto.ru/,GMB,Gambling,2019-05-25,Netalitica,Lotto Russia
+https://thesnipergodproxy.github.io/ru/anonymizer/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://top.jdu.ru/,DATE,Online Dating,2019-05-25,Netalitica,
+https://transparency.org.ru/,NEWS,News Media,2019-05-25,Netalitica,
+https://vz.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian medium Vzglyad
+https://www.almatinki.com/,PROV,Provocative Attire,2019-05-25,Netalitica,
+https://www.anonymox.net/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://www.apn.ru/,NEWS,News Media,2019-05-25,Netalitica,
+https://www.avast.ru/secureline-vpn#pc/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
+https://www.azadliq.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL site - Azerbaijan service
+https://www.azathabar.com/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL - Turkmen service (there is a Turkmen minority in UZ)
+https://www.azattyk.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL - Kyrgyz service (there is a Kyrgyz minority in UZ)
+https://www.azattyq.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL Kazakh service
+https://www.facebook.com/Kasparov.Ru/,NEWS,News Media,2019-05-25,Netalitica,Political dissident -for control purposes
+https://www.gazeta.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian news media
+https://www.google.ru/,SRCH,Search Engines,2019-05-25,Netalitica,
+https://www.jw.org/,REL,Religion,2019-05-25,Netalitica,
+https://www.kavkazcenter.com/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
+https://www.liveinternet.ru/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
+https://www.livejournal.com/community/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
+https://www.novayagazeta.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+https://www.obozrevatel.com/,NEWS,News Media,2019-05-25,Netalitica,popular UA media
+https://www.passion.ru/,NEWS,News Media,2019-05-25,Netalitica,light content
+https://www.putin-itogi.ru/,POLR,Political Criticism,2019-05-25,Netalitica,critical of Putin
+https://www.russiancasino.com/,GMB,Gambling,2019-05-25,Netalitica,
+https://www.svoboda.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL service - Russian language
+https://www.themoscowtimes.com/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
+http://eco.uz/uz/,GOVT,Government,2019-07-22,Netalitica,Ecological Movement of Uzbekistan
+http://uza.uz/,NEWS,News Media,2019-07-22,Netalitica,national news agency
+http://www.harakat.net/,NEWS,News Media,2019-07-22,Netalitica,independent news agency
+http://www.narodnoeslovo.uz/,NEWS,News Media,2019-07-22,Netalitica,"major newspaper, state owned"
+http://www.uzlidep.uz/,GOVT,Government,2019-07-22,Netalitica,Liberl Democratic Party
+http://www.xdp.uz/,GOVT,Government,2019-07-22,Netalitica,Peoples Democratic Party
+http://www.xs.uz/uz,NEWS,News Media,2019-07-22,Netalitica,"major newspaper, state owned"
+https://www.pv.uz/,NEWS,News Media,2019-07-22,Netalitica,"major newspaper, state owned"
+http://bluesystem.ru/,LGBT,LGBT,2019-08-15,Netalitica,blocked in Russia
+http://censor.net.ua/,NEWS,News Media,2019-08-15,Netalitica,Ukrainian medium - blocked in Russia - upstream filtering test
+http://kasparov.ru/,POLR,Political Criticism,2019-08-15,Netalitica,Russian opposition leader - blocked in Russia. For control purposes
+http://khodorkovsky.ru/,POLR,Political Criticism,2019-08-15,Netalitica,Russian opposition leader - blocked in Russia. For control purposes
+http://stv.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://utronews.org/,NEWS,News Media,2019-08-15,Netalitica,Liberal Russian media - blocked in Russia
+http://uza.uz/ar/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media - Arabic service
+http://uza.uz/oz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media - Uzbek service
+http://uzbekistonovozi.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://uzhurriyat.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://vozrojdenie.crimea.ua/index.php/,MILX,Terrorism and Militants,2019-08-15,Netalitica,
+http://www.ej.ru/,NEWS,News Media,2019-08-15,Netalitica,Liberal Russian media - blocked in Russia
+http://www.jahonnews.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://www.kruz.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://www.pv.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://www.pv.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://www.samarkandnews.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media - Samarkand area
+http://www.uza.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://www.uza.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media - Russian service
+http://www.uzdaily.com/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://xs.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://15minut.org/,NEWS,News Media,2019-08-15,Netalitica,Tatar minority medium - blocked in Russia
+https://asr.uz/RU/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://daryo.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://fergana.news/,NEWS,News Media,2019-08-15,Netalitica,Central Asia regional medium
+https://glavnoe.ua/,NEWS,News Media,2019-08-15,Netalitica,Ukrainian medium - blocked in Russia - for control purposes
+https://graniru.org/,NEWS,News Media,2019-08-15,Netalitica,Liberal Russian media - blocked in Russia
+https://hordiq.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://kun.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://lgbti-ep.eu/,LGBT,LGBT,2019-08-15,Netalitica,
+https://meduza.io/,NEWS,News Media,2019-08-15,Netalitica,Liberal Russian media - blocked in Kazakhstan
+https://mtrk.uz/uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://openrussia.org/,HUMR,Human Rights Issues,2019-08-15,Netalitica,blocked in Russia - for upstrem filtering test
+https://or.team/,HUMR,Human Rights Issues,2019-08-15,Netalitica,blocked in Russia - for upstrem filtering test
+https://oz.sputniknews-uz.com/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://podrobno.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://president.uz/,NEWS,News Media,2019-08-15,Netalitica,President website
+https://qalampir.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://roskomsvoboda.org/,HUMR,Human Rights Issues,2019-08-15,Netalitica,largest digital rights org in Russia
+https://ru.krymr.com/,NEWS,News Media,2019-08-15,Netalitica,
+https://sputniknews-uz.com/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://tvrain.ru/,NEWS,News Media,2019-08-15,Netalitica,Russian critical medium
+https://uz.sputniknews.ru/,NEWS,News Media,2019-08-15,Netalitica,Russian news service for UZ news media
+https://uzreport.news/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.amerikaovozi.com/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.anons.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.fergananews.com/,NEWS,News Media,2019-08-15,Netalitica,Central Asia regional medium - archive
+https://www.gazeta.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.ozodlik.org/,NEWS,News Media,2019-08-15,Netalitica,RFE/RL service for UZ in Uzbek
+https://www.publika.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.radiosvoboda.org/,NEWS,News Media,2019-08-15,Netalitica,RFE/RL -service in Russian
+https://www.rbth.com/lgbt-in-russia/,LGBT,LGBT,2019-08-15,Netalitica,
+https://www.review.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media with focus on economy
+https://www.sof.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.usrf.us/,HUMR,Human Rights Issues,2019-08-15,Netalitica,US foundation blocked in Russia
+https://www.uz24.uz/ru/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.uzbekistannews.net/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.uznews.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://www.xabar.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+https://zamin.uz/,NEWS,News Media,2019-08-15,Netalitica,Uzbek news media
+http://afew.org/ru/,PUBH,Public Health,2019-12-09,Netalitica,
+http://a-sadov.livejournal.com/,POLR,Political Criticism,2019-12-09,Netalitica,
+http://buddhism.org.ru/,REL,Religion,2019-12-09,Netalitica,
+http://dating.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+http://doctorvic.ru/,PUBH,Public Health,2019-12-09,Netalitica,
+http://fca.narod.ru/,NEWS,News Media,2019-12-09,Netalitica,Caucasus information portal
+http://forum.lingvolive.com/,COMT,Communication Tools,2019-12-09,Netalitica,forum for linguists
+http://geo.orthodoxy.ru/,REL,Religion,2019-12-09,Netalitica,Georgia Orthodox Church
+http://irex.ru/,NEWS,News Media,2019-12-09,Netalitica,international business news
+http://kavkaz.tv/,MILX,Terrorism and Militants,2019-12-09,Netalitica,
+http://mamadu.ru/transl.htm/,COMT,Communication Tools,2019-12-09,Netalitica,online dictionaries
+http://ru.onlinecasinos5.ru/,GMB,Gambling,2019-12-09,Netalitica,
+http://shaman.aha.ru/,REL,Religion,2019-12-09,Netalitica,
+http://stalinism.ru/,POLR,Political Criticism,2019-12-09,Netalitica,about Stalin
+http://www.bitnet.ru/,PUBH,Public Health,2019-12-09,Netalitica,psychological development focus
+http://www.diary.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,blogs
+http://www.euro.who.int/ru/home/,PUBH,Public Health,2019-12-09,Netalitica,World Health Organiztion - Russian page
+http://www.europaplus.ru/,CULTR,Culture,2019-12-09,Netalitica,online radio stations
+http://www.forest.ru/,ENV,Environment,2019-12-09,Netalitica,focus on forestry in Russia
+http://www.holiday.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+http://www.hrpublishers.org/,HUMR,Human Rights Issues,2019-12-09,Netalitica,
+http://www.iucn.ru/,ENV,Environment,2019-12-09,Netalitica,
+http://www.kasparov.ru/,NEWS,News Media,2019-12-09,Netalitica,critical Russian news media
+http://www.libertarium.ru/libertarium/sorm/,POLR,Political Criticism,2019-12-09,Netalitica,
+http://www.lubovy.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+http://www.mideast.ru/,NEWS,News Media,2019-12-09,Netalitica,news and email service
+http://www.mydarling.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+http://www.narkotiki.ru/,ALDR,Alcohol & Drugs,2019-12-09,Netalitica,
+http://www.netman.ru/,COMT,Communication Tools,2019-12-09,Netalitica,
+http://www.nextmail.ru/,COMT,Communication Tools,2019-12-09,Netalitica,email service
+http://www.ng.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+http://www.nodrugs.ru/,ALDR,Alcohol & Drugs,2019-12-09,Netalitica,
+http://www.patriarchia.ru/,REL,Religion,2019-12-09,Netalitica,Russian Orthodox Church
+http://www.russianorthodoxchurch.ws/,REL,Religion,2019-12-09,Netalitica,Russian church - aborad
+http://www.satanistsite.narod.ru/,REL,Religion,2019-12-09,Netalitica,
+http://www.scepsis.ru/,CULTR,Culture,2019-12-09,Netalitica,
+http://www.softilla.ru/,MMED,Media sharing,2019-12-09,Netalitica,
+http://www.trud.org/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,domain registration
+http://www.who.int/topics/family_planning/ru/,PUBH,Public Health,2019-12-09,Netalitica,WHO - Russian language
+http://wwwoman.ru/,XED,Sex Education,2019-12-09,Netalitica,
+http://wwwoman.ru/bezopasnyi-seks-razlichnye-sredstva-kontratsetsii-755.htm/,XED,Sex Education,2019-12-09,Netalitica,
+https://accounts.google.com/signup/,COMT,Communication Tools,2019-12-09,Netalitica,
+https://aif.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://araxgroup.ru/,COMM,E-commerce,2019-12-09,Netalitica,business software
+https://civitas.ru/,POLR,Political Criticism,2019-12-09,Netalitica,civil society resource
+https://damochka.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+https://download.ru/about/,MMED,Media sharing,2019-12-09,Netalitica,
+https://echo.msk.ru/,NEWS,News Media,2019-12-09,Netalitica,critical Russian news media
+https://ecodefense.ru/,ENV,Environment,2019-12-09,Netalitica,green organization
+https://elhosting.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,Hosting and domain registration
+https://eurasia.amnesty.org/,HUMR,Human Rights Issues,2019-12-09,Netalitica,Amnesty Eurasia
+https://goldfishka68.com/,GMB,Gambling,2019-12-09,Netalitica,
+https://grand-casino0.com/grand/,GMB,Gambling,2019-12-09,Netalitica,
+https://greenpeace.ru/,ENV,Environment,2019-12-09,Netalitica,Greenpeace Russia
+https://habr.com/ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,blogs
+https://hc.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,Hosting services
+https://holmogor.livejournal.com/,POLR,Political Criticism,2019-12-09,Netalitica,Russia focus
+https://itblogs.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
+https://lenta.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://livemy.info/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
+https://love.mail.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+https://loveplanet.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+https://mail.km.ru/,COMT,Communication Tools,2019-12-09,Netalitica,email service
+https://mail.rambler.ru/,COMT,Communication Tools,2019-12-09,Netalitica,email service
+https://mchost.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
+https://migrant.ru/,HUMR,Human Rights Issues,2019-12-09,Netalitica,refugee orgs forum
+https://mospat.ru/ru/,REL,Religion,2019-12-09,Netalitica,Russian Orthodox Church
+https://my.mail.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,email service
+https://novayagazeta.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://omen.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+https://perevedem.ru/,COMT,Communication Tools,2019-12-09,Netalitica,online translation service
+https://provokator.com.ua/,NEWS,News Media,2019-12-09,Netalitica,
+https://radiomayak.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian radio station
+https://refugee.ru/,HUMR,Human Rights Issues,2019-12-09,Netalitica,refugee focus
+https://rg.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://ru.yahoo.com/,SRCH,Search Engines,2019-12-09,Netalitica,
+https://tass.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian information agency TASS
+https://www.1c-bitrix.ru/,COMM,E-commerce,2019-12-09,Netalitica,
+https://www.1tv.ru/,NEWS,News Media,2019-12-09,Netalitica,1st TV channel - Russia
+https://www.7ya.ru/,PUBH,Public Health,2019-12-09,Netalitica,
+https://www.alexhost.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
+https://www.bbc.com/russian/,NEWS,News Media,2019-12-09,Netalitica,BBC Russia service
+https://www.blogger.com/about/?hl=ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,blogging platform
+https://www.buddhism.ru/,REL,Religion,2019-12-09,Netalitica,
+https://www.goldfishka.ru/,GMB,Gambling,2019-12-09,Netalitica,
+https://www.interfax.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://www.khodorkovsky.ru/,POLR,Political Criticism,2019-12-09,Netalitica,
+https://www.kommersant.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://www.kp.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://www.mamba.ru/,DATE,Online Dating,2019-12-09,Netalitica,
+https://www.med2000.ru/,XED,Sex Education,2019-12-09,Netalitica,
+https://www.memo.ru/,HUMR,Human Rights Issues,2019-12-09,Netalitica,
+https://www.ntv.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://www.pochta.ru/,COMT,Communication Tools,2019-12-09,Netalitica,Russian Post site
+https://www.rbc.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
+https://www.reg.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
+https://www.sova-center.ru/,HUMR,Human Rights Issues,2019-12-09,Netalitica,anallytical portal
+https://www.ucoz.ru/,GRP,Social Networking,2019-12-09,Netalitica,website building service
+https://xakep.ru/,HACK,Hacking Tools,2019-12-09,Netalitica,
+https://yandex.ru/,NEWS,News Media,2019-12-09,Netalitica,Yandex news and mail service
+https://yandex.ru/blogs/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,
+https://yandex.ru/soft/punto/,SRCH,Search Engines,2019-12-09,Netalitica,keyboard layout app

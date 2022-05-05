@@ -1,93 +1,538 @@
 url,category_code,category_description,date_added,source,notes
-https://pt.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://es.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://es.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://www.eldeber.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://www.lostiempos.com/,NEWS,News Media,2019-01-15,OONI,
-http://www.la-razon.com/,NEWS,News Media,2019-01-15,OONI,Doesn't work well
-https://www.paginasiete.bo/,NEWS,News Media,2019-01-15,OONI,
-http://www.eldiario.net/,NEWS,News Media,2019-01-15,OONI,
-http://www.diez.bo/,NEWS,News Media,2019-01-15,OONI,
-http://www.opinion.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://www.lapatriaenlinea.com/,NEWS,News Media,2019-01-15,OONI,
-http://correodelsur.com/,NEWS,News Media,2019-01-15,OONI,
-http://www.sociales.com.bo/,NEWS,News Media,2019-01-15,OONI,
-https://www.eldia.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://www.cambio.bo/,NEWS,News Media,2019-01-15,OONI,
-https://elpotosi.net/,NEWS,News Media,2019-01-15,OONI,
-http://www.boliviatv.bo/,NEWS,News Media,2019-01-15,OONI,
-http://www.laprensa.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://elmundo.com.bo/,NEWS,News Media,2019-01-15,OONI,
-https://www.elpaisonline.com/,NEWS,News Media,2019-01-15,OONI,
-http://elperiodico-digital.com/,NEWS,News Media,2019-01-15,OONI,
-https://jornadanet.com/,NEWS,News Media,2019-01-15,OONI,
-http://www.diarionuevosur.com/,NEWS,News Media,2019-01-15,OONI,
-http://www.laestrelladeloriente.com/,NEWS,News Media,2019-01-15,OONI,
-http://www.la-epoca.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://diarioandaluz.com/,NEWS,News Media,2019-01-15,OONI,
-http://eju.tv/,NEWS,News Media,2019-01-15,OONI,
-http://erbol.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://noticiasfides.com/,NEWS,News Media,2019-01-15,OONI,
-http://hoybolivia.com/,NEWS,News Media,2019-01-15,OONI,
-https://notibol.com/,NEWS,News Media,2019-01-15,OONI,
-http://eabolivia.com/,NEWS,News Media,2019-01-15,OONI,
-http://laestrelladeloriente.com/,NEWS,News Media,2019-01-15,OONI,
-http://fmbolivia.com.bo/,NEWS,News Media,2019-01-15,OONI,
-http://fmbolivia.net/,NEWS,News Media,2019-01-15,OONI,
-http://radiofides.com/,NEWS,News Media,2019-01-15,OONI,
-http://panamericana.bo/,NEWS,News Media,2019-01-15,OONI,
-http://unitel.tv/,NEWS,News Media,2019-01-15,OONI,
-https://www.reduno.com.bo/,NEWS,News Media,2019-01-15,OONI,
-https://cinecenter.com.bo/,CULTR,Culture,2019-01-15,OONI,
-https://www.boliviaentusmanos.com/,SRCH,Search Engines,2019-01-15,OONI,
-http://www.bolivia.com/,CULTR,Culture,2019-01-15,OONI,
-http://www.boliviaweb.com/,SRCH,Search Engines,2019-01-15,OONI,
-http://mirabolivia.com/,SRCH,Search Engines,2019-01-15,OONI,
-https://practicalaction.org/bolivia,ENV,Environment,2019-01-15,OONI,
-https://internetbolivia.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://unirbolivia.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-https://performinglifebolivia.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://fundacion-jala.org/,HACK,Hacking Tools,2019-01-15,OONI,
-http://www.irfabolivia.org/,CULTR,Culture,2019-01-15,OONI,Not sure how to categorize this
-http://boliviadigna.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://fundacionredes.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-https://www.es.amnesty.org/en-que-estamos/paises/pais/show/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
-https://www.hrw.org/americas/bolivia,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://www.bolivian.com/adn/,POLR,Political Criticism,2019-01-15,OONI,
-http://www.bolivian.com/mbl/,POLR,Political Criticism,2019-01-15,OONI,
-http://www.partidoverdebolivia.org/,POLR,Political Criticism,2019-01-15,OONI,
-https://freedomhouse.org/report/freedom-world/2018/bolivia,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://www.sustainablebolivia.org/,ENV,Environment,2019-01-15,OONI,
-http://www.gaiapacha.org/,ENV,Environment,2019-01-15,OONI,
-http://bolivianamphibianinitiative.org/,ENV,Environment,2019-01-15,OONI,
-http://www.alertaverde.org/,ENV,Environment,2019-01-15,OONI,
-http://infante.com.bo/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://mosojyan.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://procasha.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://movimientosonrisa.com/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://www.ninosconvalor.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
-http://www.vivoenpositivo.org/,PUBH,Public Health,2019-01-15,OONI,
-http://www.smilesforever.org/,PUBH,Public Health,2019-01-15,OONI,
+https://www.talkingdrugs.org/es/,ALDR,Alcohol & Drugs,2021-05-15,Netalitica,"Devoted to news and dialogues about drugs, use and regulation. Harm reduction"
+https://pisatahua.org/es/,ALDR,Alcohol & Drugs,2021-05-15,Netalitica,A retreat to do medicial drugs such as Ayahuasca
+https://es.casadepawua.com/,ALDR,Alcohol & Drugs,2021-05-15,Netalitica,A retreat to do medicial drugs such as Ayahuasca
+https://sacharuna.com/,ALDR,Alcohol & Drugs,2021-05-15,Netalitica,A retreat to do medicial drugs such as Ayahuasca
+http://www.plantaforma.org/,ALDR,Alcohol & Drugs,2021-05-15,Netalitica,Platform to defend and protect Ayahuasca
+https://buyperuviancocaseedsonline.wordpress.com/,ALDR,Alcohol & Drugs,2021-05-09,Netalitica,A site to buy coca seeds. From Peru but worth listing it because Peru and Bolivia collaborate regarding coca commerce and traffic at the border.
+http://www.fundacioncsz.org/ArchivosPublicaciones/148.pdf/,ALDR,Alcohol & Drugs,2021-05-09,Netalitica,"This is a link to a book titled ""from coca leaves to cocaine"""
+https://buybolivianonline.com/,ALDR,Alcohol & Drugs,2021-05-09,Netalitica,
+https://isoc.bo/,ANON,Anonymization and circumvention tools,2021-05-14,Netalitica,Bolivian chapter of the Internet Society. The Bolivian chapter seems in early stages and focuses on promote the use of internet
+https://colectivodisonancia.net/,ANON,Anonymization and circumvention tools,2021-05-14,Netalitica,"cooperative tools for digital and technological autonomy (Encryption, anonymity)"
 https://www.trabajopolis.bo/,COMM,E-commerce,2019-01-15,OONI,
-http://www.boliviabella.com/,CULTR,Culture,2019-01-15,OONI,
-https://www.igualdadlgbt.org/,LGBT,LGBT,2019-01-15,OONI,
-http://lac.unwomen.org/es,IGO,Intergovernmental Organizations,2019-01-15,OONI,
-http://www.nu.org.bo/,IGO,Intergovernmental Organizations,2019-01-15,OONI,
-https://latinamericanpost.com/es/,NEWS,News Media,2019-01-15,OONI,
-https://minorityrights.org/country/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://www.boliviahop.com/,COMM,E-commerce,2019-01-15,OONI,The website offers commercial tourism services
+http://www.farmaciasbolivia.com.bo/,COMM,E-commerce,2021-05-09,Netalitica,
+https://www.farmaciachavez.com.bo/,COMM,E-commerce,2021-05-09,Netalitica,
+https://www.comex.bo/index.php/,COMM,E-commerce,2021-05-09,Netalitica,Digital System to help Bolivian companies exporting goods and services
+https://tumercadazo.com/,COMM,E-commerce,2021-05-09,Netalitica,"buy and sell products in Bolivia, like with Amazon"
+https://www.pedidosya.com.bo/,COMM,E-commerce,2021-05-09,Netalitica,Order food and beverages including alcohol
+https://www.traguitoveloz.com/,COMM,E-commerce,2021-05-09,Netalitica,Order alcohol online. Usually under the local legality
+https://boliviaplaza.com.bo/,COMM,E-commerce,2021-05-09,Netalitica,
+https://www.megalicor.bo/,COMM,E-commerce,2021-05-09,Netalitica,Order alcohol online. Usually under the local legality.
+https://tuquantum.com/,COMM,E-commerce,2021-05-14,Netalitica,bolivian company pioneer in the marketing of electric vehicles
+https://venbo.shop/,COMM,E-commerce,2021-05-14,Netalitica,
+http://www.madidijungle.com/,COMM,E-commerce,2021-05-14,Netalitica,Touristic services in the jungle of Madidi
+https://www.delizia.com.bo/,COMM,E-commerce,2021-05-14,Netalitica,One of the biggest companies about dairy products
+https://www.casaideas.com.bo/,COMM,E-commerce,2021-05-14,Netalitica,Home products
+https://www.dismac.com.bo/,COMM,E-commerce,2021-05-15,Netalitica,Home appliances
+https://bgamer.pro/tienda-gaming/,COMM,E-commerce,2021-05-15,Netalitica,Gamers shop
+https://sologamerbolivia.com/,COMM,E-commerce,2021-05-15,Netalitica,Gamers' shop
+http://www.incaworldbolivia.com/es/,COMM,E-commerce,2021-05-15,Netalitica,Tourism tours and packages
+https://boliviamia.net/,COMM,E-commerce,2021-05-15,Netalitica,Tours and transfers
+http://latebolivia.com/es/Inicio/,COMM,E-commerce,2021-05-15,Netalitica,Tours and packages
+https://www.mercadolibre.com.bo/,COMM,E-commerce,2021-05-15,Netalitica,Website to buy things
+https://www.alibaba.com/,COMM,E-commerce,2021-05-15,Netalitica,Alibaba's web is in Bolivia too
+https://boliviaturistica.org/,COMM,E-commerce,2021-05-09,Netalitica,Tourism website
+https://www.flowcode.com/,COMT,Communication Tools,2021-05-13,Netalitica,Free QR code that never expires. Used by Bolivian groups.
+https://cinecenter.com.bo/,CULTR,Culture,2019-01-15,OONI,movie tickets purchase platfrom
 http://www.thebigbrowneyes.com/,CULTR,Culture,2019-01-15,OONI,
-https://www.boliviahop.com/,CULTR,Culture,2019-01-15,OONI,
-http://blogs.worldbank.org/category/countries/bolivia,ECON,Economics,2019-01-15,OONI,
-https://nacla.org/,POLR,Political Criticism,2019-01-15,OONI,
-http://www.bahai.org.bo/,REL,Religion,2019-01-15,OONI,
-http://www.bahaiprayers.org/ay/index.htm,REL,Religion,2019-01-15,OONI,
-http://www.bahaiprayers.org/qu/index.htm,REL,Religion,2019-01-15,OONI,
-https://www.noticiasmormonas.org.bo/,REL,Religion,2019-01-15,OONI,
-http://www.bolivianexpress.org/,CULTR,Culture,2019-01-15,OONI,
-https://www.transparency.org/country/BOL,POLR,Political Criticism,2019-01-15,OONI,
-https://www.heritage.org/index/country/bolivia,POLR,Political Criticism,2019-01-15,OONI,
+https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wikibooks.org/wiki/Portada/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://es.wiktionary.org/wiki/Wikcionario:Portada/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.boliviabella.com/,CULTR,Culture,2019-01-15,OONI,
+https://bolivianexpress.org/,CULTR,Culture,2019-01-15,OONI,
+http://www.marchingpowder.net/,CULTR,Culture,2021-05-09,Netalitica,A book's website about prison conditions in La Paz
+https://www.educa.com.bo/,CULTR,Culture,2021-05-13,Netalitica,Educational content
+https://pueblosoriginarios.com/enlaces/culturas2.php/,CULTR,Culture,2021-05-13,Netalitica,Educational content about indigenous groups
+https://www.uasb.edu.bo/,CULTR,Culture,2021-05-13,Netalitica,Andean University
+http://www.sobrasselectas.com/,CULTR,Culture,2021-05-13,Netalitica,Publisher house
+https://lalibrelibreriasocial.com/,CULTR,Culture,2021-05-13,Netalitica,"Publisher house - social, political, feminist themes"
+https://www.editorialelcuervo.com/,CULTR,Culture,2021-05-13,Netalitica,"Publisher house - social, political, feminist themes"
+https://mantisnarrativa.com/,CULTR,Culture,2021-05-13,Netalitica,Publisher house - feminist focus
+https://museonacionaldearte.gob.bo/,CULTR,Culture,2021-05-13,Netalitica,National museum of art
+http://musef.org.bo/,CULTR,Culture,2021-05-13,Netalitica,National museum of folklore
+https://cedib.org/,CULTR,Culture,2021-05-13,Netalitica,Archive of Bolivian history and documents
+https://www.digimente.org/,CULTR,Culture,2021-05-13,Netalitica,media education for students in latam
+http://www.fundacionculturalbcb.gob.bo/,CULTR,Culture,2021-05-13,Netalitica,Cultural foundation to promote and admin cultural centers in the country. Public organization.
+http://www.flaviadas.org/,CULTR,Culture,2021-05-13,Netalitica,Music sessions
+https://sopocachi.org/,CULTR,Culture,2021-05-13,Netalitica,Promotion of cultural events and things
+http://wlm.wikimedia.org.bo/,CULTR,Culture,2021-05-13,Netalitica,Bolivian site to promote Bolivian entries and content in wikipedia
+https://pachakamani.com/,CULTR,Culture,2021-05-13,Netalitica,Community to promote Aymara culture
+https://elementalschool.com/#home/,CULTR,Culture,2021-05-14,Netalitica,Tech school for children 
+http://radiodeseo.com/,CULTR,Culture,2021-05-14,Netalitica,"Radio from the movement ""Women creating"". Music and culture with feminist touch. "
+http://www.artecampo.org/,CULTR,Culture,2021-05-14,Netalitica,Museum of indigenous art
+http://www.rqp.com.bo/,CULTR,Culture,2021-05-14,Netalitica,Commercial Music radio station
+https://casautama.wixsite.com/lectura/,CULTR,Culture,2021-05-14,Netalitica,educational resources and literature community
+https://centropatino.fundacionpatino.org/,CULTR,Culture,2021-05-14,Netalitica,Promotion of cultural expressions
+https://pirateca.com/,CULTR,Culture,2021-05-14,Netalitica,"Books for ""free"" that have been  Hacked, stolen, etc. To promote knowledge."
+https://miga.org.bo/,CULTR,Culture,2021-05-14,Netalitica,Promotion of Bolivian gastronomy
+http://www.imagendocs.com/,CULTR,Culture,2021-05-14,Netalitica,Film critics and reviews
+http://gentedigital.es/comunidad/anderiza/,CULTR,Culture,2021-05-14,Netalitica,"Spanish journalist's website with strong ties to Bolivia. He wrote ""Potosi"""
+http://www.cinematecaboliviana.net/,CULTR,Culture,2021-05-14,Netalitica,Film archive and movie theater
+http://rockbolivianisimo.blogspot.com/,CULTR,Culture,2021-05-14,Netalitica,Bolivian rock music
+http://www.sdb.bo/sdb/,CULTR,Culture,2021-05-14,Netalitica,Catholic school
+http://camaralibrolapaz.org.bo/web_v1/,CULTR,Culture,2021-05-14,Netalitica,Chamber of books - International Book Fair 
+https://angloboliviansociety.org/,CULTR,Culture,2021-05-14,Netalitica,"Promote and encourage social, cultural and commercial links between Bolivia and the United Kingdom"
+http://cholitasfilm.com/,CULTR,Culture,2021-05-15,Netalitica,"Website of the movie ""Cholitas"". Bolivian women who climb"
+https://play.google.com/store/apps/details?id=com.ruetgmail.taufiqur.aymara&hl=en&gl=US/,CULTR,Culture,2021-05-15,Netalitica,App to learn Aymara
+https://www.elproxeneta.com/,CULTR,Culture,2021-05-15,Netalitica,"Website of the movie ""The pimp"", based in Latam"
+https://www.bivica.org/site/index/,CULTR,Culture,2021-05-15,Netalitica,Cultural library from the German cooperation
+https://revistacool.com/,CULTR,Culture,2021-05-15,Netalitica,Entertainment and social magazine
+http://www.socialesvip.com/,CULTR,Culture,2021-05-15,Netalitica,Entertainment and fashion magazine
+http://www.biblioteca.iseatbolivia.org/,CULTR,Culture,2021-05-15,Netalitica,Religious library from theological institute
+https://blogs.worldbank.org/search?keyword=bolivia,ECON,Economics,2019-01-15,OONI,
+https://www.sembramedia.org/,ECON,Economics,2021-05-13,Netalitica,Organization that helps independent digital media to find and develop sustainable business models.
+https://blogs.worldbank.org/latinamerica/,ECON,Economics,2021-05-08,Netalitica,
+http://www.cerdet.org.bo/,ECON,Economics,2021-05-13,Netalitica,Rural development of the region of Tarija
+https://cipca.org.bo/,ECON,Economics,2021-05-13,Netalitica,Rural economic development
+http://www.ciac-idr.com/,ECON,Economics,2021-05-13,Netalitica,Economic development
+https://boliviaemprende.com/,ECON,Economics,2021-05-14,Netalitica,Organization to promote entrepeneurship
+https://www.cainco.org.bo/,ECON,Economics,2021-05-14,Netalitica,Santa Cruz's chamber of commerce and industry
+https://gran-chaco.org/,ECON,Economics,2021-05-14,Netalitica,"Economic development of communities in Gran Chaco, especially women"
+http://www.mujeresyjusticiafiscal.org/,ECON,Economics,2021-05-14,Netalitica,Platform to study and promote fiscal justice among women
+https://latin.weeffect.org/,ECON,Economics,2021-05-14,Netalitica,"Biggest cooperation network to end poverty. Big Latam focus, including Bolivia"
+http://www.iisec.ucb.edu.bo/,ECON,Economics,2021-05-14,Netalitica,Institute of Socio-Economic Research of Universidad Catolica Boliviana San Pablo. Poverty reduction and development focus.
+https://www.sebol.org/,ECON,Economics,2021-05-14,Netalitica,Bolivian Society of Economists
+https://aipe.org.bo/,ECON,Economics,2021-05-14,Netalitica,building economic and social development from the local level
+https://www.fondodemujeresbolivia.org.bo/index.php/,ECON,Economics,2021-05-14,Netalitica,Economic resources for women 
+http://www.winaybolivia.org/,ECON,Economics,2021-05-14,Netalitica,Economic Development of communties through sustainable means
+https://www.bancosol.com.bo/es/,ECON,Economics,2021-05-15,Netalitica,Bank
+https://www.americaeconomia.com/,ECON,Economics,2021-05-15,Netalitica,Economics news site
+https://www.globaltradealert.org/country/25/,ECON,Economics,2021-05-15,Netalitica,Economic data about Bolivia
+https://www.indexmundi.com/es/datos/bolivia/,ECON,Economics,2021-05-15,Netalitica,Economic data
+https://latinvestment.org/,ECON,Economics,2021-05-15,Netalitica,"Observatory for Latam investments. Now, focus on the situation of Chinese investment in Bolivia."
+https://www.americaeconomia.com/bolivia/,ECON,Economics,2021-05-15,Netalitica,Economic magazine. Bolivia's edition
+https://www.chinaenamericalatina.info/principal/,ECON,Economics,2021-05-15,Netalitica,List of Chinese investments in Latam
+https://tradingeconomics.com/bolivia/forecast/,ECON,Economics,2021-05-15,Netalitica,Trade data about Bolivia
+https://www.sudamericarural.org/,ECON,Economics,2021-05-13,Netalitica,Rural and indigenous development
+http://www.sustainablebolivia.org/,ENV,Environment,2019-01-15,OONI,
+http://www.alertaverde.org/,ENV,Environment,2019-01-15,OONI,
+https://practicalaction.org/where-we-work/bolivia/,ENV,Environment,2019-01-15,OONI,
+https://gaiapacha.org/,ENV,Environment,2019-01-15,OONI,
+https://bolivianamphibianinitiative.org/,ENV,Environment,2019-01-15,OONI,
+https://biobol.org/,ENV,Environment,2021-05-13,Netalitica,"Protected areas, environmental education"
+https://www.iceabolivia.org/,ENV,Environment,2021-05-13,Netalitica,Protection of water ecosystems
+https://observatorioambientaluagrm.org/,ENV,Environment,2021-05-13,Netalitica,environmental observatory
+https://www.arabolivia.org/,ENV,Environment,2021-05-13,Netalitica,bolivian network for conservation and sustainable use of amazonian ecosystems
+http://museonoelkempff.org/museo/,ENV,Environment,2021-05-13,Netalitica,center for basic and applied research in biodiversity conservation in Bolivia
+https://ibifbolivia.org.bo/,ENV,Environment,2021-05-13,Netalitica,forestry research
+http://www.naturabolivia.org/,ENV,Environment,2021-05-13,Netalitica,NGO to promote and protect biodiversity
+http://www.herencia.org.bo/,ENV,Environment,2021-05-13,Netalitica,Bolivian amazonia protection
+https://www.lidema.org.bo/,ENV,Environment,2021-05-13,Netalitica,Network of organizations that protect environment
+https://www.raibolivia.org/,ENV,Environment,2021-05-13,Netalitica,News site to raise awareness about environment issues
+https://fundacionsemilla.org/,ENV,Environment,2021-05-13,Netalitica,Dedicated to the preservation of biodiversity
+http://www.sbda.org.bo/,ENV,Environment,2021-05-13,Netalitica,To promote good enviromental policies
+https://asociacionnayrapacha.wordpress.com/,ENV,Environment,2021-05-13,Netalitica,strengthening social-productive management of natural resources in the Aymara and Quechua communities
+https://nativabolivia.org/,ENV,Environment,2021-05-14,Netalitica,Preservation of the environment
+http://www.granchacoproadapt.org/portal/principal/,ENV,Environment,2021-05-14,Netalitica,Resilience solutions at the Gran Chaco region. Very important area due ot its unique ecosystem
+https://obccd.org/,ENV,Environment,2021-05-14,Netalitica,"Bolivian Observatory of Climate Change and ""Development"". "
+https://wwf.panda.org/es/dondetrabajamos/amazonia/,ENV,Environment,2021-05-14,Netalitica,WWF work in the Amazon
+https://ccjusticiabolivia.org/,ENV,Environment,2021-05-14,Netalitica,working group on climate change and justice
+https://web.probioma.org.bo/,ENV,Environment,2021-05-14,Netalitica,Promotes food security and sovereignty
+https://cambioclimatico.org.bo/,ENV,Environment,2021-05-14,Netalitica,Network of orgs againts climate change with a focus on indigenous peoples.
+https://www.ocmal.org/,ENV,Environment,2021-05-14,Netalitica,Latin American Mining Conflict Observatory founded in Bolivia
+http://www.tipnisesvida.net/,ENV,Environment,2021-05-14,Netalitica,Protection of the region of Tipnis. Controversial area due to the construction of a road
+https://www.tribunalagroambiental.bo/,ENV,Environment,2021-05-14,Netalitica,Agro-environmental Tribunal and Courts responsible for imparting specialized justice in environmental matters
+https://actionforbolivia.org/,ENV,Environment,2021-05-14,Netalitica,"International grassroots movemen, dedicated to protecting Bolivia's ecosystems and their indigenous communities"
+https://amazonwatch.org/,ENV,Environment,2021-05-14,Netalitica,to protect the rainforest and advance the rights of Indigenous peoples in the Amazon Basin
+http://piensaverdebolivia.org/,ENV,Environment,2021-05-14,Netalitica,Environmental platform to protect protected areas and forests
+https://www.pecesdebolivia.com/index.html/,ENV,Environment,2021-05-15,Netalitica,Information about Bolivian fish
+https://www.biodiversidadla.org/,ENV,Environment,2021-05-15,Netalitica,Network of orgs working for biodiversity in Latam
+http://www.bolivian-mountains.org/,ENV,Environment,2021-05-15,Netalitica,Bolivian Mountain Institute
+https://www.gamerconbolivia.com/,GAME,Gaming,2021-05-15,Netalitica,Gamercon in Bolivia
+https://bolivia-bonusesfinder.com/,GMB,Gambling,2021-05-15,Netalitica,Casino games
+https://www.betfair.es/sport/,GMB,Gambling,2021-05-15,Netalitica,Sports betting
+https://www.apuestasdeportivaslatinoamerica.com/,GMB,Gambling,2021-05-15,Netalitica,Sports betting
+https://www.rivalo.com/en/sportsbook/,GMB,Gambling,2021-05-15,Netalitica,Sports betting
+https://www.dafabet.es/es/sports,GMB,Gambling,2021-05-15,Netalitica,Sports betting
+http://geo.gob.bo/portal/,GOVT,Government,2021-05-14,Netalitica,Maps of Bolivia. Geospacial information. There is an online movement asking for its reinstatement as it helped with transparency issues. Monitor
+https://www.aecid.bo/portal/,GOVT,Government,2021-05-13,Netalitica,Spanish cooperation in Bolivia
+http://ccelp.bo/,GOVT,Government,2021-05-13,Netalitica,Spanish cultural center in La Paz
+https://bo.usembassy.gov/es/,GOVT,Government,2021-05-14,Netalitica,US Embassy in Bolivia
+https://alemaniaparati.diplo.de/,GOVT,Government,2021-05-14,Netalitica,German's Official Channel of Foreign relations to Latam
+http://www.conalpedis.gob.bo/,GOVT,Government,2021-05-14,Netalitica,National committee for people with dissabilities
+https://www.defensoria.gob.bo/,GOVT,Government,2021-05-14,Netalitica,Omnbusdman 
+https://bo.ambafrance.org/,GOVT,Government,2021-05-14,Netalitica,French Embassy in Bolivia
+http://www.comibol.gob.bo/,GOVT,Government,2021-05-15,Netalitica,Bolivian mining corporation
+http://fundacion-jala.org/#/en/home/,HACK,Hacking Tools,2019-01-15,OONI,
+https://encriptados.io/,HACK,Hacking Tools,2021-05-09,Netalitica,Encription services
+http://www.hacklabcbba.org/,HACK,Hacking Tools,2021-05-14,Netalitica,Hacking lab
+https://www.eldesarmador.org/,HACK,Hacking Tools,2021-05-13,Netalitica,"Using hacker tools to combat violence againts women, surveillance, etc."
+https://sosdigital.noblogs.org/,HACK,Hacking Tools,2021-05-14,Netalitica,Cyberbrigadists against online violence. Cybersecurity news and tools. 
+https://ciberseguras.org/,HACK,Hacking Tools,2021-05-14,Netalitica,"Cybersecurity and feminism. Also some circumventions tools. Several countries, Bolivia among them. "
+https://www.takebackthetech.net/es/,HACK,Hacking Tools,2021-05-14,Netalitica,Taking control of technology to end violence against women. Spanish speaking public. 
+http://www.softwarelibre.org.bo/,HACK,Hacking Tools,2021-05-14,Netalitica,Open software made in Bolivia
+https://www.mediachicas.org/,HACK,Hacking Tools,2021-05-14,Netalitica,"Argentinian site for women who want to learn about tech, code, programming Regional focus."
+https://ia-latam.com/,HACK,Hacking Tools,2021-05-14,Netalitica,First Latam community focused on AI
+https://pyladies.com/,HACK,Hacking Tools,2021-05-14,Netalitica,International group with office in El Alto. Promoting Pytho code among women.
+https://socialtic.org/,HACK,Hacking Tools,2021-05-14,Netalitica,"Infoactivism (use of tech and information for social change), data and digital security. Regional"
+https://www.antiphishing.la/es-ar/,HACK,Hacking Tools,2021-05-14,Netalitica,"Denounce, tools and news against phishing"
+https://www.neothek.com/bo/#/,HOST,Hosting and Blogging Platforms,2021-05-09,Netalitica,"Hosting, email, website services"
+https://internetbolivia.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://performinglifebolivia.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+http://boliviadigna.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://www.es.amnesty.org/en-que-estamos/paises/pais/show/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://www.hrw.org/americas/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
+http://mosojyan.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+http://movimientosonrisa.com/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://minorityrights.org/country/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://freedomhouse.org/country/bolivia/freedom-world/2018/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://www.unirbolivia.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://infante.com.bo/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://procasha.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://ninosconvalor.org/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://hrp.law.harvard.edu/tag/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://acoso.online/bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Regional. Counseling for victims of non-consensual dissemination of intimate images on the internet
+https://freedomhouse.org/country/bolivia/freedom-world/2021/,HUMR,Human Rights Issues,2021-05-08,Netalitica,Freedom House report on HR for 2021
+https://freedomhouse.org/country/bolivia/freedom-world/2020/,HUMR,Human Rights Issues,2021-05-08,Netalitica,Freedom House report on HR for 2020
+https://freedomhouse.org/country/bolivia/freedom-world/2019/,HUMR,Human Rights Issues,2021-05-08,Netalitica,Freedom House report on HR for 2019
+https://freedomhouse.org/country/bolivia/,HUMR,Human Rights Issues,2021-05-08,Netalitica,Freedom House report on HR for 2021
+https://bolivia.fes.de/,HUMR,Human Rights Issues,2021-05-10,Netalitica,
+http://www.radionizkor.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Online radio to expose human rights violations
+https://www.fundacionconstruir.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,NGO to promote social participation and democratic development
+https://cedla.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Labor issues with incidence in the public debate and in the action of workers and their organizations.
+https://bolivia.ird.fr/,HUMR,Human Rights Issues,2021-05-13,Netalitica,French Institute to promote development
+https://www.rimisp.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Human development
+https://ceresbolivia.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,"Research, analysis and communication of national issues"
+https://www.red-habitat.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Urban planification and development of the city El Alto
+https://www.gregorias.org.bo/,HUMR,Human Rights Issues,2021-05-13,Netalitica,To promote women rights
+https://jubileobolivia.org.bo/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Catholic institution to promote social and political participation
+https://redunitas.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Network for development and human right issues in urban and rural areas
+http://www.casadelamujer.org.bo/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Feminist organization to empower women
+https://www.cejis.org/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Human rights from a Judicial perspective 
+https://www.isalp.org.bo/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Judicial assistance and legal advise for vulnerable people
+http://www.dni-bolivia.org.bo/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Defense of children's rights
+https://redeschaco.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,A network of organizations that promote the Gran Chaco. Based in Argentina.
+http://www.coordinadoradelamujer.org.bo/web/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Network of organizations to promote equality and against patriarchy
+http://observatorioparidaddemocratica.oep.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Public institution. Promoting women's participation in democracy and politics
+https://www.kas.de/es/web/bolivien/home/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Bolivia's office of the KAS. Promotion of democracy.
+http://www.aru.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Develops research for public policy and promotes high quality applied research.
+https://www.oxfam.org/es/que-hacemos/donde-trabajamos/paises/bolivia/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Oxfam in Bolivia
+https://comunidad.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Strengthening democratic institutions
+https://alianzalibressinviolencia.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Network to promote women's rights
+https://apcob.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Promotion of indigenous rights
+https://asociacionaguayo.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,"guarantees the rights and citizenship of Children, Youth and Women through the development of the Arts"
+https://colmenajuvenil.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,"Focused on children and youth, fights discrimination"
+https://acai.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Integration-Inclusion of people with Special Needs in society.
+http://jachaurubolivia.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Rights of people with disabilities.
+https://anp-bolivia.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,National Press Association. Denouncing press violations
+http://www.derechoshumanosbolivia.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,"It is part of the Inter-American Platform for Human Rights, Democracy and Development"
+https://www.cadic.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Empowerment of afrobolivian community
+http://www.cebiaebolivia.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Religious organization dedicated to education of children
+http://caephorizontes.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Helping communities in the region of Oruro
+https://cecasem.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Promoting women's rights in rural communities
+https://www.ecojovenes.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Promoting children's and youth's rights using ICTs
+https://centrojuanaazurduy.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Promoting women's rights and fighting sexual oppression.
+https://coalicionboliviana.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Children's and youth rights
+https://www.cidob.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Defending the rights of lowland indigenous peoples
+http://ecam.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Women's rights and creation of content related to feminism
+https://febos-bo.blogspot.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Bolivian federarion of deaf people
+https://fenaciebo.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Bolivian federation of blinded people
+http://www.fundacionalalay.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Social reintegration of children and adolescents in highly vulnerable situations.
+http://www.fundacioncompa.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Using art for self-development and empowerment.
+http://fundacionperiodismo.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Promoting good journalism and training
+https://www.mayapayakimsa.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,initiative for children and adolescents living on the street
+https://www.pazyesperanza.org/bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Working with the poor to prevent them from violence and exploitation
+https://www.realidadesbolivia.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Against exclusion - area of Chuqisaca
+https://www.caritasbolivia.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Catholic organization focused on helping communities
+http://www.siembrajuventud.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Empowering young people
+http://grus.org.bo/,HUMR,Human Rights Issues,2021-05-14,Netalitica,"Coordination space made up of bilateral, intergovernmental and multilateral organizations in Bolivia."
+https://coica.org.ec/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Coordinator of the Indigenous Organizations of the Amazon Basin
+https://aguaconsult.co.uk/,HUMR,Human Rights Issues,2021-05-15,Netalitica,basic services for marginalised people in the global south.
+https://www.ircwash.org/tools/tools-costing-everyone-forever-bolivia/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Water services for Bolivians
+https://www.territorioindigenaygobernanza.com/web/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Information about different indigenous territories in Latam to promote good Governance. Regional.
+http://www.annaobserva.org/es/,HUMR,Human Rights Issues,2021-05-15,Netalitica,International project against sexual exploitation and human trafficking
+https://www.redtrasex.org/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Promoting sex workers rights
+https://munasimkullakita.org/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Catholic organization. Prevention of sexual exploitation and harassment
+https://educo.org.bo/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Children's rights
+https://www.worldvision.bo/,HUMR,Human Rights Issues,2021-05-15,Netalitica,"Children's rights, prevention of children's exploitation"
+http://ommncides.edu.bo/ommn/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Observatory for Maternal and Neonatal Mortality
+https://www.proyectoesperanza.org/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Protecting women from human trafficking networks
+https://www.culturalsurvival.org/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Advocates for indigenous people globally
+https://justiciaalimentaria.org/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Food sovereignty in Bolivia and other countries
+http://redesdeprevenciondelconsumodedrogas.com/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Prevention of drug comsumption
+https://fundacion-rama.com/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Promotion of democracy and social participation
+https://ojmbolivia.org/,HUMR,Human Rights Issues,2021-05-15,Netalitica,Legal defense for women
+https://www.ticbolivia.net/,HUMR,Human Rights Issues,2021-05-09,Netalitica,A group of NGOS dedicated to promote the use of TICs
+https://www.opendemocracy.net/es/,HUMR,Human Rights Issues,2021-05-10,Netalitica,Regional Focus
+http://www.derechos.net/links/esp/,HUMR,Human Rights Issues,2021-05-13,Netalitica,Other Human rights organizations links from the team at derechos.org
+https://www.survival.es/,HUMR,Human Rights Issues,2021-05-13,Netalitica,To protect indigenous population worldwide
+https://odila.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,observatory of computer crimes in Latam
+https://www.dominemoslatecnologia.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Helping women navegate the internet and protect themselves against online sexist violence
+https://www.redinnovacion.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,exchange of political and social experiences in Latam to promote democracy
+https://afrofeminas.com/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Anti-racist and black-women feminist media in Spanish.
+https://globalinitiative.net/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Transnational organized crime
+https://chicaspoderosas.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Women empowerment in the media. Regional focus.
+https://www.girlsnotbrides.es/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Global Focus. Against child marriage.
+https://www.derechosdigitales.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,"Regional focus. To promote Human rights online: freedom of expression, personal data"
+https://labtecnosocial.org/,HUMR,Human Rights Issues,2021-05-14,Netalitica,Researching how new technologies contribute to social good
+http://www.nu.org.bo/,IGO,Intergovernmental Organizations,2019-01-15,OONI,
+https://lac.unwomen.org/es/,IGO,Intergovernmental Organizations,2019-01-15,OONI,This is the UN Women website for Latinoamerica in general
+https://www.unodc.org/bolivia/es/El-Informe-de-Monitoreo-2019-de-la-UNODC-reporta-un-incremento-en-los-cultivos-de-coca-en-Bolivia.html/,IGO,Intergovernmental Organizations,2021-05-13,Netalitica,UN report on coca growing in Bolivia
+https://www.unodc.org/bolivia/es/unodc_en_bolivia.html/,IGO,Intergovernmental Organizations,2021-05-13,Netalitica,UN office on drugs and crime in Bolivia
+https://www.oas.org/es/cidh/,IGO,Intergovernmental Organizations,2021-05-13,Netalitica,Interamerican commission on human rights
+http://www.filac.org/,IGO,Intergovernmental Organizations,2021-05-13,Netalitica,Fund for the Development of the Indigenous Peoples of Latin America and the Caribbean 
+https://www.iadb.org/es/,IGO,Intergovernmental Organizations,2021-05-14,Netalitica,Interamerican development bank
+https://www.segib.org/,IGO,Intergovernmental Organizations,2021-05-14,Netalitica,The Ibero-American General Secretariat
+https://www.unwomen.org/es/,IGO,Intergovernmental Organizations,2021-05-14,Netalitica,UN Women Spanish
+https://bolivia.unfpa.org/,IGO,Intergovernmental Organizations,2021-05-14,Netalitica,UNFPA
+https://www.clacso.org/,IGO,Intergovernmental Organizations,2021-05-14,Netalitica,Brings together research and postgraduate centers in the field of social sciences and humanities in Latam
+https://eeas.europa.eu/delegations/bolivia_es/,IGO,Intergovernmental Organizations,2021-05-14,Netalitica,EU in Bolivia
+https://www.parlamentoandino.org/,IGO,Intergovernmental Organizations,2021-05-15,Netalitica,Andean Parliament. Countries represented: Andean territory
+https://igualdadlgbt.org/,LGBT,LGBT,2019-01-15,OONI,
+https://redtrebol.org/,LGBT,LGBT,2021-05-13,Netalitica,To fight discrimination against trans population of Bolivia
+http://www.colectivotlgbbolivia.org.bo/,LGBT,LGBT,2021-05-14,Netalitica,Promoting lgbt rights
+https://igualbolivia.com/,LGBT,LGBT,2021-05-14,Netalitica,lgbt rights
+http://www.observatoriolgbt.org.bo/,LGBT,LGBT,2021-05-14,Netalitica,LGBT Observatory
+https://laperiodica.net/,LGBT,LGBT,2021-05-14,Netalitica,First feminist and lgbt digital magazine in Ecuador. Regional focus. 
+https://www.libertadglbt.org/,LGBT,LGBT,2021-05-14,Netalitica,"promotes the participation and projection of lgbt people in different areas (social, political, cultural and economic)."
+https://manodiversabo.org/,LGBT,LGBT,2021-05-14,Netalitica,Enphasis on bisexual people
+https://www.achacachi.com/,MILX,Terrorism and Militants,2021-05-13,Netalitica,"It seems like a news site, but the section ""Ponchos Rojos"" is dedicated to an indigenous movement considered a militia."
+http://www.laprensa.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://www.paginasiete.bo/,NEWS,News Media,2019-01-15,OONI,
+https://www.eldia.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://elpotosi.net/,NEWS,News Media,2019-01-15,OONI,
+https://jornadanet.com/,NEWS,News Media,2019-01-15,OONI,
+http://erbol.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://notibol.com/,NEWS,News Media,2019-01-15,OONI,
+https://www.reduno.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://latinamericanpost.com/es/,NEWS,News Media,2019-01-15,OONI,"Regional news media, not Bolivian"
+http://www.irfabolivia.org/,NEWS,News Media,2019-01-15,OONI,This is a news media site created by a religious group to help communities. It's a community news site.
+https://eldeber.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://www.lostiempos.com/,NEWS,News Media,2019-01-15,OONI,
+https://www.la-razon.com/,NEWS,News Media,2019-01-15,OONI,Doesn't work well
+https://www.opinion.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://www.ahoraelpueblo.bo/,NEWS,News Media,2019-01-15,OONI,
+http://www.boliviatv.bo/principal/,NEWS,News Media,2019-01-15,OONI,
+https://elmundo.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://elpais.bo/,NEWS,News Media,2019-01-15,OONI,The website itself announces a new and more new website
+https://unitel.bo/,NEWS,News Media,2019-01-15,OONI,
+https://eldeber.com.bo/diez/,NEWS,News Media,2019-01-15,OONI,
+https://www.eldiario.net/portal/,NEWS,News Media,2019-01-15,OONI,
+https://impresa.lapatria.bo/,NEWS,News Media,2019-01-15,OONI,
+https://correodelsur.com/,NEWS,News Media,2019-01-15,OONI,
+https://eldeber.com.bo/sociales/,NEWS,News Media,2019-01-15,OONI,"This website is part of the news media outlet El Deber, which has a specific section for Social/celebrity news. Apparently it used to be a different website, but now it's a section of El Deber"
+https://www.elperiodico-digital.com/,NEWS,News Media,2019-01-15,OONI,
+https://diarionuevosur.com/,NEWS,News Media,2019-01-15,OONI,
+https://www.la-epoca.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://diarioandaluz.com/,NEWS,News Media,2019-01-15,OONI,
+https://eju.tv/,NEWS,News Media,2019-01-15,OONI,
+https://www.noticiasfides.com/,NEWS,News Media,2019-01-15,OONI,
+https://www.hoybolivia.com/,NEWS,News Media,2019-01-15,OONI,
+https://eabolivia.com/,NEWS,News Media,2019-01-15,OONI,
+https://fmbolivia.com.bo/,NEWS,News Media,2019-01-15,OONI,
+https://www.radiofides.com/,NEWS,News Media,2019-01-15,OONI,
+https://www.panamericana.bo/,NEWS,News Media,2019-01-15,OONI,
+https://www.bolivia.com/,NEWS,News Media,2019-01-15,OONI,News media site
+http://boliviawebtv.tv/,NEWS,News Media,2021-05-08,Netalitica,
+https://www.innovapressnoticias.com/,NEWS,News Media,2021-05-09,Netalitica,
+https://ciudad4mil.com/,NEWS,News Media,2021-05-09,Netalitica,
+https://www.elmundo.es/internacional/bolivia.html/,NEWS,News Media,2021-05-09,Netalitica,
+https://elpais.com/america/,NEWS,News Media,2021-05-09,Netalitica,
+https://elpais.com/noticias/latinoamerica/,NEWS,News Media,2021-05-09,Netalitica,
+https://www.efe.com/efe/america/2,NEWS,News Media,2021-05-09,Netalitica,"Regional edition, not just about Bolivia"
+https://lavozdebolivia.com/,NEWS,News Media,2021-05-09,Netalitica,
+https://kawsachuncoca.com/,NEWS,News Media,2021-05-10,Netalitica,
+https://www.bolpress.com/,NEWS,News Media,2021-05-10,Netalitica,
+https://www.dw.com/es/bolivia/t-17411684/,NEWS,News Media,2021-05-10,Netalitica,
+https://www.telesurtv.net/index.html/,NEWS,News Media,2021-05-13,Netalitica,Venezuelan TV with regional info
+https://www.pieb.com.bo/,NEWS,News Media,2021-05-13,Netalitica,Investigative journalism
+https://boliviaverifica.bo/,NEWS,News Media,2021-05-13,Netalitica,Fact-checking site
+https://www.chequeabolivia.bo/,NEWS,News Media,2021-05-13,Netalitica,Fact-checking site
+https://reportechaco.com/,NEWS,News Media,2021-05-13,Netalitica,Region of Tarija
+https://muywaso.com/,NEWS,News Media,2021-05-13,Netalitica,first feminist publication of entertainment and culture in our country.
+https://alertabolivia.com/,NEWS,News Media,2021-05-13,Netalitica,
+https://lapalabradelbeni.com.bo/,NEWS,News Media,2021-05-13,Netalitica,Region of Beni
+https://subversiones.org/,NEWS,News Media,2021-05-13,Netalitica,"Independent news media. They are active, although don't update the website that much."
+https://ceprabolivia.org/,NEWS,News Media,2021-05-13,Netalitica,Radio for developing communities. Social mean. 
+https://radioambulante.org/,NEWS,News Media,2021-05-13,Netalitica,Narrative podcast that tells the stories of Latin America in Spanish. Distributed by NPR (USA)
+https://verdadcontinta.com/,NEWS,News Media,2021-05-13,Netalitica,Independent news media
+https://www.brujuladigital.net/,NEWS,News Media,2021-05-13,Netalitica,
+https://aclo.org.bo/,NEWS,News Media,2021-05-13,Netalitica,Independent news site
+https://www.radiopio12.com.bo/,NEWS,News Media,2021-05-13,Netalitica,Network of catholic radios
+http://oxigeno.bo/,NEWS,News Media,2021-05-14,Netalitica,
+https://www.laregion.bo/,NEWS,News Media,2021-05-14,Netalitica,Focus on environmental news
+https://www.elaltoesnoticia.com/,NEWS,News Media,2021-05-14,Netalitica,
+https://urgente.bo/,NEWS,News Media,2021-05-14,Netalitica,
+https://revistapuntobo.com/,NEWS,News Media,2021-05-14,Netalitica,Focus on technology
+https://rimaypampa.org/,NEWS,News Media,2021-05-14,Netalitica,
+https://rcbolivia.com/,NEWS,News Media,2021-05-14,Netalitica,
+https://laciudaddelasdiosas.blogspot.com/,NEWS,News Media,2021-05-14,Netalitica,Blog about feminist issues
+https://www.mujeresenred.net/,NEWS,News Media,2021-05-14,Netalitica,Feminist newspaper
+http://www.radiorkm.com/,NEWS,News Media,2021-05-14,Netalitica,
+https://www.radiosplendid.bo/,NEWS,News Media,2021-05-14,Netalitica,
+https://piedraenelzapato.com/,NEWS,News Media,2021-05-14,Netalitica,Investigative reporting and fact-checking
+http://gocommunicationbolivia.com/,NEWS,News Media,2021-05-14,Netalitica,
+https://bocado.lat/,NEWS,News Media,2021-05-14,Netalitica,Investigative reporting about food and land
+http://laportadatvdigital.com/,NEWS,News Media,2021-05-14,Netalitica,
+https://laantigona.com/,NEWS,News Media,2021-05-14,Netalitica,It defends women's space and dissidence in the Peruvian public sphere. Interesting due to the ties between countries.
+https://www.radiopachamama.com/,NEWS,News Media,2021-05-14,Netalitica,
+http://www.forbesbolivia.com/page/index.html/,NEWS,News Media,2021-05-14,Netalitica,Forbes Bolivia
+https://www.ramonacultural.com/,NEWS,News Media,2021-05-14,Netalitica,Focus on culture
+https://www.nodal.am/,NEWS,News Media,2021-05-14,Netalitica,Regional focus
+https://www.lapublica.org.bo/,NEWS,News Media,2021-05-14,Netalitica,Feminist news and political analysis
+https://www.atb.com.bo/,NEWS,News Media,2021-05-14,Netalitica,
+https://es.mongabay.com/,NEWS,News Media,2021-05-14,Netalitica,Focused on environment
+https://viralbolivia.info/,NEWS,News Media,2021-05-14,Netalitica,
+https://www.elderribador.com/,NEWS,News Media,2021-05-15,Netalitica,Sports media
+http://revistaanfibia.com/cronica/cholitas-marinas-3/,NEWS,News Media,2021-05-15,Netalitica,Article about the meaning of the sea for Bolivian people
+https://www.bbc.com/mundo/noticias-america-latina-43459908/,NEWS,News Media,2021-05-15,Netalitica,Article about how Bolivia lost the sea. Big issue in the country
+https://guardiana.com.bo/,NEWS,News Media,2021-05-15,Netalitica,News site with a especial focus on violence against women
+https://www.visorbolivia.com/,NEWS,News Media,2021-05-15,Netalitica,
+https://www.vea.global/,NEWS,News Media,2021-05-15,Netalitica,
+https://yungas.com.bo/,NEWS,News Media,2021-05-15,Netalitica,Region of Yungas
+https://amn.bo/,NEWS,News Media,2021-05-15,Netalitica,National news agency
+http://www.libreempresa.com.bo/index.php/,NEWS,News Media,2021-05-15,Netalitica,Magazine focused on business topics
+http://www.energiabolivia.com/index.php/,NEWS,News Media,2021-05-15,Netalitica,Magazine focused on energy in Bolivia
+https://elbolivianoenvivo.com/,NEWS,News Media,2021-05-15,Netalitica,
+https://www.lapatilla.com/,NEWS,News Media,2021-05-15,Netalitica,Venezuelan news site. Apparently has had web connectivity problems in Venezuela
+https://www.entornointeligente.com/,NEWS,News Media,2021-05-10,Netalitica,Regional Focus
+https://atalayar.com/,NEWS,News Media,2021-05-13,Netalitica,Spanish news media with international focus. Regional importance
+https://mundo.sputniknews.com/america-latina/,NEWS,News Media,2021-05-14,Netalitica,Russian news media with global focus.
+https://www.connectas.org/,NEWS,News Media,2021-05-14,Netalitica,Media development program for Latam. It's a logistic hub.
+https://lexlatin.com/,NEWS,News Media,2021-05-15,Netalitica,News site focused on law issues in Latam
+https://elordenmundial.com/,NEWS,News Media,2021-05-15,Netalitica,Spanish news site focused on international issues
+https://alnavio.es/,NEWS,News Media,2021-05-15,Netalitica,Venezuelan news site
+https://www.connectas.org/paises/bolivia/,NEWS,News Media,2021-05-15,Netalitica,News platform for Latam journalists
+https://www.eulixe.com/,NEWS,News Media,2021-05-15,Netalitica,"First infotainment site in Spanish (from Spain, global views)"
+https://alainet.org/es/,NEWS,News Media,2021-05-15,Netalitica,Regional focus
+https://energialimpiaparatodos.com/,NEWS,News Media,2021-05-15,Netalitica,Focused on energy in Latam
+http://miningpress.com/,NEWS,News Media,2021-05-15,Netalitica,"Focused on energy and mining sector in Peru, Argentina and Chile. Interesting for Bolivia"
+https://dialogochino.net/es/,NEWS,News Media,2021-05-15,Netalitica,Independent media focused on China-Latam relations. Bolivia has huge independence on China.
+http://spanish.china.org.cn/,NEWS,News Media,2021-05-15,Netalitica,News about China in Spanish. Chinese media
+http://spanish.peopledaily.com.cn/,NEWS,News Media,2021-05-15,Netalitica,News about China in Spanish. Chinese media
+http://spanish.xinhuanet.com/,NEWS,News Media,2021-05-15,Netalitica,Chinese media. News in Spanish
+http://espanol.cri.cn/,NEWS,News Media,2021-05-15,Netalitica,China radio international in Spanish
+https://espanol.cgtn.com/,NEWS,News Media,2021-05-15,Netalitica,Chinese global TV station in Spanish
+https://www.infobae.com/america/,NEWS,News Media,2021-05-15,Netalitica,Regional importance.
+https://weeksnotice.blogspot.com/,POLR,Political Criticism,2019-01-15,OONI,Blog without any update since nov 2020
+http://www.bolivian.com/adn/,POLR,Political Criticism,2019-01-15,OONI,
+https://www.transparency.org/country/BOL/,POLR,Political Criticism,2019-01-15,OONI,Human Rights Issues too
+https://www.heritage.org/index/country/bolivia/,POLR,Political Criticism,2019-01-15,OONI,
 https://boliviarising.blogspot.com/,POLR,Political Criticism,2019-01-15,OONI,
-https://weeksnotice.blogspot.com/,POLR,Political Criticism,2019-01-15,OONI,
-https://boliviadiary.wordpress.com/,POLR,Political Criticism,2019-01-15,OONI,
 https://woborders.blog/,POLR,Political Criticism,2019-01-15,OONI,
-http://hrp.law.harvard.edu/tag/bolivia/,HUMR,Human Rights Issues,2019-01-15,OONI,
+https://nacla.org/,POLR,Political Criticism,2019-01-15,OONI,"Regional news media, not Bolivian."
+https://partidoverdeecologico.org/,POLR,Political Criticism,2019-01-15,OONI,
+https://www.bolivian.com/mbl/,POLR,Political Criticism,2019-01-15,OONI,
+https://boliviadiary.wordpress.com/,POLR,Political Criticism,2019-01-15,OONI,Blog without any update since 2013 - Keep as the content is political criticism
+https://rutadelademocracia.org/,POLR,Political Criticism,2021-05-13,Netalitica,To check and control democratic processes and elections
+https://www.katari.org/,POLR,Political Criticism,2021-05-15,Netalitica,Blog about political issues
+https://kaosenlared.net/category/america-latina/bolivia/,POLR,Political Criticism,2021-05-10,Netalitica,
+https://rebelion.org/categoria/territorios/america-latina-y-caribe/bolivia/,POLR,Political Criticism,2021-05-10,Netalitica,
+http://www.derechos.org/nizkor/bolivia/narcos.html/,POLR,Political Criticism,2021-05-13,Netalitica,"Reports on drug trafficking, coca growers, organized crime and human trafficking."
+http://indigenasciudadsc.org/,POLR,Political Criticism,2021-05-13,Netalitica,Indigenous claims
+https://porlatierra.org/,POLR,Political Criticism,2021-05-13,Netalitica,"Movement to promote a change of perspective with respect to rural areas, their populations, etc."
+https://campsite.bio/estonoeschacota/,POLR,Political Criticism,2021-05-13,Netalitica,first podcats in Bolivia about politics.
+https://ftierra.org/,POLR,Political Criticism,2021-05-13,Netalitica,Activist group to empower vulnerable communities and fight socio-environmental conflicts.
+https://www.cenda.org/,POLR,Political Criticism,2021-05-13,Netalitica,Questioning the current development model promoted by the State and many NGOs.
+http://www.iptk.org.bo/,POLR,Political Criticism,2021-05-13,Netalitica,"Nationalist movement. Their mission: ""a political-social instrument of liberation""."
+https://aula.fundaciondeloscomunes.net/,POLR,Political Criticism,2021-05-14,Netalitica,"Online courses and webinars about critical thinking, new constitional models, feminism"
+https://www.itei.org.bo/,POLR,Political Criticism,2021-05-14,Netalitica,Organization focused on preventing torture. 
+https://www.comiteprosantacruz.org.bo/,POLR,Political Criticism,2021-05-14,Netalitica,"Political arm of the Union Juvenil Cruceista movement, an anti-communist Bolivian paramilitary organization."
+https://www.laizquierdadiario.com.bo/Bolivia/,POLR,Political Criticism,2021-05-15,Netalitica,News site from the Trotskyist Faction for the Fourth International:
+https://www.laizquierdadiario.com/Iglesia-catolica-la-cuarta-pata-del-golpe-de-Estado-en-Bolivia/,POLR,Political Criticism,2021-05-15,Netalitica,Article from the same site analizing the church and Bolivia's coup d'etat 
+https://intercontinentalcry.org/evo-morales-and-the-bolivian-spring/,POLR,Political Criticism,2021-05-15,Netalitica,Article critizising Evo Morale's and his turn into authoritarianism
+https://es.insightcrime.org/noticias-crimen-organizado-bolivia/,POLR,Political Criticism,2021-05-15,Netalitica,Analysis and news of organized crime in Bolivia
+https://misdatos.internetbolivia.org/,POLR,Political Criticism,2021-05-15,Netalitica,A website to pressure for a Data protection law
+https://razonyrevolucion.org/,POLR,Political Criticism,2021-05-15,Netalitica,Left wing Political organization/movement. Political analysis. 
+http://conamaq.nativeweb.org/,POLR,Political Criticism,2021-05-15,Netalitica,National council of a group of indigneous population
+https://www.portafolio.co/opinion/andres-oppenheimer/evo-morales-presidente-autoritario-de-bolivia-o-dictador-535040/,POLR,Political Criticism,2021-05-15,Netalitica,Article about Evo and his authoritarian turn
+https://es.metapedia.org/wiki/P%C3%A1gina_principal/,POLR,Political Criticism,2021-05-15,Netalitica,Alternative wikipedia. Right wing views
+https://elcondortk.blogspot.com/,POLR,Political Criticism,2021-05-15,Netalitica,Critical points of view about politics in Bolivia
+https://revistapolemica.org/,POLR,Political Criticism,2021-05-15,Netalitica,Left wing blog
+https://fundacionsolon.org/,POLR,Political Criticism,2021-05-15,Netalitica,Artistic activism to change the system
+https://podemos.info/,POLR,Political Criticism,2021-05-15,Netalitica,Spanish political party with ties to Evo Morales and MAS party
+https://eprints.ucm.es/id/eprint/14574/1/T33089.pdf/,POLR,Political Criticism,2021-05-15,Netalitica,Doctoral thesis from Spanish politician about Bolivia and MAS political Party
+https://www.publico.es/publico-tv/en-la-frontera/,POLR,Political Criticism,2021-05-15,Netalitica,Left wing analysis and critical points of view from Spanish politician with ties to Bolivia
+https://politica-china.org/,POLR,Political Criticism,2021-05-15,Netalitica,Observatory of Chinese policy
+https://www.business-humanrights.org/en/latest-news/bolivia-study-on-environmental-and-social-guidelines-for-chinese-investments-warns-about-projects-in-indigenous-territories-and-protected-areas-2/,POLR,Political Criticism,2021-05-15,Netalitica,Study about how chinese investments in Bolivia harm indigenous communities
+https://mineriaenergia.com/bolivia-el-pais-donde-la-mineria-tiene-tres-caras-muy-diferentes/,POLR,Political Criticism,2021-05-15,Netalitica,Article from energy magazine critizising the Bolivian mining industry
+https://femen.org/,POLR,Political Criticism,2021-05-15,Netalitica,They have actions in Bolivia
+http://www.abcp.org.bo/,POLR,Political Criticism,2021-05-15,Netalitica,Platform to debate about democracy in Bolivia
+http://www.grupo-prisma.org/,POLR,Political Criticism,2021-05-15,Netalitica,Promotes social dialogue and analysis to fight inequality and strenghten geopolitics
+https://www.lahaine.org/mundo.php/bolivia/,POLR,Political Criticism,2021-05-10,Netalitica,"Spanish website focused on left-wing opinions (Marxist). Important because it features articles to promote this ideology and usually agreeing with the left-wing governments of Latam, including Bolivia's goverment. If at some point the government changes, it'd be interesting to see how this website performs. They have a section for Bolivia."
+https://www.aporrea.org/,POLR,Political Criticism,2021-05-10,Netalitica,"Venezuelan website. Left-wing opinions. According to the website itself, in Venezuela the url is blocked. Given the current similarities between Bolivia and Venezuela, I believe it's worth keeping it if it's so controversial. "
+https://www.tercerainformacion.es/internacional/,POLR,Political Criticism,2021-05-10,Netalitica,Spanish website of interest for people in Latam
+https://www.alasbarricadas.org/noticias/,POLR,Political Criticism,2021-05-10,Netalitica,"Anarchist news site that covers news internationally, but based in Spain"
+https://www.albatv.org/,POLR,Political Criticism,2021-05-10,Netalitica,"A project to connect community tv stations of the continent: against imperialism, creating an identity of the south, promoting socialism."
+https://nuso.org/,POLR,Political Criticism,2021-05-10,Netalitica,Progressive currents of thought and advocates of social democracy in the region.
+https://www.politicaexterior.com/,POLR,Political Criticism,2021-05-10,Netalitica,Spanish media and magazine focused on the relationship betweeen Latam and Spain
+http://izquierdaweb.com/,POLR,Political Criticism,2021-05-10,Netalitica,Left-wing news media based in Argentina
+https://www.tni.org/es/el-transnational-institute/,POLR,Political Criticism,2021-05-13,Netalitica,Research Institute with global focus: social movements and drugs policy
+http://www.desaparecidos.org/main.html/,POLR,Political Criticism,2021-05-13,Netalitica,"A project focused on memory, justice and truth for those affected by terrorism in Latam"
+https://es.insightcrime.org/,POLR,Political Criticism,2021-05-13,Netalitica,Media outlet and think tank about organized crime. There ir a Bolivian section
+https://aquelarresubversiva.net/,POLR,Political Criticism,2021-05-13,Netalitica,Feminist movement
+https://rebelion.org/,POLR,Political Criticism,2021-05-13,Netalitica,"Alternative news site, anticapitalist. Regional focus."
+https://revistalabrava.com/,POLR,Political Criticism,2021-05-13,Netalitica,Investigative journalism with human rights focus and to expose wrongdoings
+https://salvaginas.org/,POLR,Political Criticism,2021-05-14,Netalitica,Ecofeminist movement
+http://mujerescreando.org/,POLR,Political Criticism,2021-05-14,Netalitica,Activist group for women's rights. Denouncing sexism and against patriarchy
+https://dialogopolitico.org/,POLR,Political Criticism,2021-05-14,Netalitica,Political dialogue in Latam
+https://volcanicas.com/,POLR,Political Criticism,2021-05-14,Netalitica,Feminist journalism/opinion. Big focus on exposing sexual harasment. Regional focus. 
+http://fes-minismos.com/,POLR,Political Criticism,2021-05-14,Netalitica,Regional focus. Feminism and economy dialogues and activism
+https://www.mujeresdelsur-afm.org/,POLR,Political Criticism,2021-05-14,Netalitica,Development of a feminist political field at the regional and global level. Uruguay based.
+https://activismofeministadigital.org/,POLR,Political Criticism,2021-05-14,Netalitica,Political aim. Digital feminist activism. Asking for new regulations.
+http://www.ciudadaniabolivia.org/,POLR,Political Criticism,2021-05-14,Netalitica,Community for Social Studies and Political Action. Production of knowledge and public action to influence social processes
+http://www.colectivorebeldia.com/,POLR,Political Criticism,2021-05-14,Netalitica,Feminist activists. Creation and discussion of feminisms
+https://www.revolutionarycommunist.org/americas/bolivia/,POLR,Political Criticism,2021-05-14,Netalitica,"Communist news site, against imperialism and capitalism"
+https://ecofeminismobolivia.blogspot.com/,POLR,Political Criticism,2021-05-15,Netalitica,Feminist activism blog
+https://kaosenlared.net/,POLR,Political Criticism,2021-05-15,Netalitica,News site and political analysis anti capitalist. Regional importance
+https://vdeveganismo.blogspot.com/,POLR,Political Criticism,2021-05-15,Netalitica,"Ultranationalists and vengan group, mixing extrem right wing views and vegan culture. From Chile, Bolivia and Peru"
+https://elcomun.es/,POLR,Political Criticism,2021-05-15,Netalitica,"Left wing news site from Spain, but with big Latam section"
+https://nuevarevolucion.es/,POLR,Political Criticism,2021-05-15,Netalitica,Left wing news site
+https://aldescubierto.org/,POLR,Political Criticism,2021-05-15,Netalitica,Left wing news site
+https://www.falange-autentica.es/,POLR,Political Criticism,2021-05-15,Netalitica,Extreme right wing political party from Spain with a chapter in Bolivia
+https://www.derechoareplica.org/,POLR,Political Criticism,2021-05-15,Netalitica,Blog with left-wing opinions and political analysis. Indigenous content too
+https://www.voxespana.es/,POLR,Political Criticism,2021-05-15,Netalitica,Spanish right wing political party. Trying to interfere in what they consider socialist countries
+https://www.celag.org/,POLR,Political Criticism,2021-05-15,Netalitica,Geopolitical analysis from Latam. 
+https://www.mundoobrero.es/,POLR,Political Criticism,2021-05-15,Netalitica,Newspaper from Spanish Communist Party
+http://liberal-venezolano.net/,POLR,Political Criticism,2021-05-15,Netalitica,"Blocked in Venezuela. Critical news site pro liberal ideas, individualism, capitalism"
+https://pornoboliviaxxx.com/,PORN,Pornography,2021-05-15,Netalitica,
+https://xxxbolivianas.com/,PORN,Pornography,2021-05-15,Netalitica,
+https://pornodebolivia.net/,PORN,Pornography,2021-05-15,Netalitica,
+https://www.xvideos.com/,PORN,Pornography,2021-05-15,Netalitica,
+https://www.smilesforever.org/,PUBH,Public Health,2019-01-15,OONI,
+https://www.procosi.org.bo/es/,PUBH,Public Health,2021-05-13,Netalitica,To coordinate and achieve a greater impact on child survival actions.
+https://aprosarbolivia.org.bo/,PUBH,Public Health,2021-05-13,Netalitica,To promote the prevention of health issues in poor communities
+http://postpsiquiatria.blogspot.com/,PUBH,Public Health,2021-05-14,Netalitica,Mental health issues.
+https://psinergia.com.bo/,PUBH,Public Health,2021-05-14,Netalitica,Psychological help and personal development. Sexual harassment project. 
+http://ceprosi.org/,PUBH,Public Health,2021-05-14,Netalitica,Promoting integral health
+https://cruzrojaboliviana.org/,PUBH,Public Health,2021-05-14,Netalitica,Bolivian red cross
+https://www.mision-adulam.nl/es/,PUBH,Public Health,2021-05-14,Netalitica,Helping people with addictions
+https://enfermerasparaelmundo.org/bolivia/,PUBH,Public Health,2021-05-15,Netalitica,Organization Nurses around the world in Bolivia
+https://www.masabrazos.bo/,PUBH,Public Health,2021-05-15,Netalitica,Information for pregnant women and future moms
+https://www.fundacionprobitas.org/es/home/,PUBH,Public Health,2021-05-15,Netalitica,Promoting access to health in vulnerable communities. Project in Bolivia
+https://primeravocal.org/,PUBH,Public Health,2021-05-14,Netalitica,Mental health issues and criticism to capitalism. Latam region
+https://noticias.laiglesiadejesucristo.org/?country=bolivia/,REL,Religion,2019-01-15,OONI,
+https://bahai.org.bo/,REL,Religion,2019-01-15,OONI,
+https://www.bahaiprayers.org/ay/index.htm/,REL,Religion,2019-01-15,OONI,
+https://www.bahaiprayers.org/qu/index.htm/,REL,Religion,2019-01-15,OONI,
+http://casadeoracion.com.bo/,REL,Religion,2021-05-15,Netalitica,Evangelical movement
+https://santidadamigosbolivia.blogspot.com/,REL,Religion,2021-05-15,Netalitica,Evangelical church
+http://iemb.org.bo/,REL,Religion,2021-05-15,Netalitica,Methodist Community
+https://anabaptistwiki.org/mediawiki/index.php?title=La_Iglesia_Evang%C3%A9lica_Anabautista_en_Bolivia/,REL,Religion,2021-05-15,Netalitica,Evangelical church
+https://protestantedigital.com/,REL,Religion,2021-05-15,Netalitica,News site to promote dialogue between Protestantism and society.
+http://iacymbolivia.org/index.html,REL,Religion,2021-05-15,Netalitica,Church
+https://www.maranata.org/donde-estamos/bolivia/,REL,Religion,2021-05-15,Netalitica,Christian Maranata church
+https://sudamericanoroeste.laiglesiadejesucristo.org/?lang=spa/,REL,Religion,2021-05-15,Netalitica,Church
+https://www.franciscanosdetarija.com/,REL,Religion,2021-05-13,Netalitica,Franciscans 
+https://fuentedevida.info/,REL,Religion,2021-05-15,Netalitica,Evangelical church in Santa Cruz
+https://www.ekklesia.net/,REL,Religion,2021-05-15,Netalitica,Christian church
+https://www.boliviaentusmanos.com/,SRCH,Search Engines,2019-01-15,OONI,
+https://www.mirabolivia.com/,SRCH,Search Engines,2019-01-15,OONI,
+https://bolivia.infoleyes.com/,SRCH,Search Engines,2021-05-09,Netalitica,A website to search Bolivian laws
+http://www.scielo.org.bo/scielo.php/,SRCH,Search Engines,2021-05-09,Netalitica,Scientific electronic library online
+https://bo.pepejob.com/,SRCH,Search Engines,2021-05-09,Netalitica,Job listing related to tech jobs
+https://nuevosmedios.es/#/,SRCH,Search Engines,2021-05-13,Netalitica,Observatory of new news site. Listing. Bolivia and other interesting countries included.
+https://podcastbo.com/,SRCH,Search Engines,2021-05-14,Netalitica,Bolivian community of podcasters
+https://www.evisos.com.bo/,SRCH,Search Engines,2021-05-14,Netalitica,Clasifieds
+https://amarillas-bolivia.com/,SRCH,Search Engines,2021-05-15,Netalitica,"Listings, clasified"
+https://www.localprayers.com/BO/,SRCH,Search Engines,2021-05-15,Netalitica,List of churches in Bolivia
+https://bolivia.justia.com/,SRCH,Search Engines,2021-05-15,Netalitica,Listing of lawyers and laws in Bolivia
+http://www.puebloindio.org/organizaciones/Organizaciones_en_Bolivia.htm/,SRCH,Search Engines,2021-05-15,Netalitica,List of indigenous groups in Bolivia
+https://www.monografias.com/,SRCH,Search Engines,2021-05-15,Netalitica,"The place to find school papers, university papers, thesis... "
+http://www.cies.org.bo/,XED,Sex Education,2021-05-14,Netalitica,Sexual health services and news
+http://educacionsexualmoderna.blogspot.com/,XED,Sex Education,2021-05-14,Netalitica,"Blog about sex education regarding how to please people, how to practice sex, etc."
+https://catolicasbolivia.org/,XED,Sex Education,2021-05-14,Netalitica,"Catholic website to promote sex education and sexual rights, including the right to abort"
+https://protegerlasya.com/,XED,Sex Education,2021-05-14,Netalitica,"Rape prevention, abortion, sexual rights. Latam focus."
+https://www.ipasbolivia.org/,XED,Sex Education,2021-05-14,Netalitica,Sexual and reproductive rights
+https://iniciativaidea.org/,XED,Sex Education,2021-05-14,Netalitica,Reproductive rights in Latam

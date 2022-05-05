@@ -38,7 +38,7 @@ this category.)
 More information about testing methodology can be found
 [here](https://opennet.net/oni-faq).
 
-The only testing list that applies regionally (more than one country) is the
+The only testing list that applies regionally (more than one or more  country) is the
 CIS testing list which is intended for testing former Commonwealth of
 Independent States nations.
 

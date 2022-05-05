@@ -15,10 +15,8 @@ https://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,
 http://www.24saat.org/,NEWS,News Media,2017-04-11,OONI,
 https://www.irfs.org/,HUMR,Human Rights Issues,2017-04-11,OONI,
 http://azerbaycansaati.tv/,NEWS,News Media,2017-06-12,OONI,
-http://sonolay.org/,NEWS,News Media,2017-01-12,Community member,
 http://aztoday.az/,NEWS,News Media,2017-01-14,Community member,
 https://www.24saat.org/,NEWS,News Media,2017-01-16,Community member,
-https://www.occrp.org/en,POLR,Political Criticism,2017-01-20,Community member,
 http://masallilar.az/,NEWS,News Media,2017-01-23,Community member,
 http://criminal.az/,NEWS,News Media,2017-01-26,Community member,
 http://kulis.az/,CULTR,Culture,2017-01-30,Community member,
@@ -44,7 +42,6 @@ https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by
 https://www.azerbaycanrealligi.com/,NEWS,News Media,2019-11-09,Community member,
 http://azpolitika.info/,NEWS,News Media,2019-11-09,Community member,This site was reportedly blocked in AZ
 http://www.kanal13.tv/,NEWS,News Media,2019-11-09,Community member,
-https://cenubxeberleri.com/,NEWS,News Media,2019-11-09,Community member,
 http://arqument.az/,NEWS,News Media,2019-11-09,Community member,
 http://strateq.az/,NEWS,News Media,2019-11-09,Community member,
 http://istiqlal.az/,NEWS,News Media,2019-11-09,Community member,
@@ -56,3 +53,17 @@ http://teref.az/,NEWS,News Media,2019-11-09,Community member,
 http://7gun.az/,NEWS,News Media,2019-11-09,Community member,
 http://hefteaz.info/,NEWS,News Media,2019-11-09,Community member,Domain expired but included nonetheless because it was reportedly blocked
 https://www.gununsesi.org/,NEWS,News Media,2019-12-10,OONI,Reportedly blocked by quirium: https://www.qurium.org/alerts/azerbaijan/gununsesi-org-blocked-in-azerbaijan/
+https://gay.az/,LGBT,LGBT,2020-01-20,OONI,
+http://www.azadaz.org/,LGBT,LGBT,2020-01-20,OONI,
+https://azadliq1.azureedge.net/,NEWS,News Media,2020-07-17,Community member,RFERL
+https://d6hnm3uzmmstw.cloudfront.net/,NEWS,News Media,2020-07-17,Community member,RFERL
+https://ovqat.com/,NEWS,News Media,2020-07-17,Community member,
+https://yukselis.info/,NEWS,News Media,2020-07-17,Community member,
+https://d9mc3ts4czbpr.cloudfront.net/az/,NEWS,News Media,2020-07-17,Community member,Meydan TV
+http://mtv.re/,NEWS,News Media,2020-07-17,Community member,Meydan TV
+https://storage.googleapis.com/qurium/gununsesi.org/index.html,NEWS,News Media,2020-07-17,Community member,Gununesesi
+https://storage.googleapis.com/qurium/24saat.org/index.html,NEWS,News Media,2020-07-17,Community member,24saat
+https://storage.googleapis.com/qurium/azerbaycansaati.tv/index.html,NEWS,News Media,2020-07-17,Community member,Azerbaycan saati
+https://storage.googleapis.com/qurium/abzas.net/index.html,NEWS,News Media,2020-07-17,Community member,Abzas
+https://storage.googleapis.com/qurium/azadliq.info/index.html,NEWS,News Media,2020-07-17,Community member,azadliq newspaper
+https://www.az-netwatch.org/,HUMR,Human Rights Issues,2022-02-01,,
