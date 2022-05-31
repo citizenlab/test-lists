@@ -6,7 +6,7 @@ http://abpr2.railfan.net/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OO
 https://addons.mozilla.org/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://adium.im/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://adultfriendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://advocacy.globalvoicesonline.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://advox.globalvoices.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on 2022-05-31
 http://alt.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://amphetamines.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://amygoodloe.com/lesbian-dot-org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -28,7 +28,7 @@ https://noblogs.org/,HOST,Hosting and Blogging Platforms,2017-08-08,samba,create
 https://bebo.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://beeg.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://beyondexgay.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated on 2022-02-21
-https://bisexual.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://bi.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated on 2022-05-31
 https://bitcoin.org/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://bitcoin.sipa.be/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. This domain is hardcoded in the bitcoin source code as an addressed used to bootstrap.
 http://www.bittornado.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated on 2022-02-21
@@ -51,7 +51,7 @@ http://cartercenter.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated 
 https://www.casino.com/,GMB,Gambling,2014-04-15,citizenlab,Updated on 2022-02-21
 https://www.ccc.de/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated on 2022-02-21
 http://ccrjustice.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://cdt.org/,HUMR,Human Rights Issue,2014-04-15,citizenlab,Updated on 2022-05-31
+https://cdt.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on 2022-05-31
 https://censorship.no/,ANON,Anonymization and circumvention tools,2021-09-02,equalitie,
 https://www.chinadaily.com.cn/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-02-21
 http://christwire.org/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -131,7 +131,7 @@ http://insecure.org/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on
 https://ipi.media/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://isaalmasih.net/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://islamonline.net/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-05-31
-http://iyfnet.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://iyfglobal.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on 2022-05-31
 http://jainworld.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://jezebel.com/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-05-31
 http://justicewomen.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -200,7 +200,7 @@ http://proxy.org/,ANON,Anonymization and circumvention tools,2014-04-15,citizenl
 http://proxytools.sourceforge.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://prq.se/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://psiphon.ca/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://radiofreetexas.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://radiofreetexas.com/,CULTR,Culture,2014-04-15,citizenlab,Updated on 2022-05-31
 https://rapidgator.net/,FILE,File-sharing,2014-04-15,citizenlab,Updated on 2022-05-31
 https://www.rarbg.to/,FILE,File-sharing,2016-08-11,sinarproject,Updated on 2022-02-21
 http://reliefweb.int/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -228,7 +228,7 @@ https://slashdot.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2
 https://sourceforge.net/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://sourceforge.net/projects/loic/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://spideroak.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://spys.ru/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://spys.one/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2022-05-31
 http://store.steampowered.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://strongvpn.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://support.therapytribe.com/hivaids-support-group/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
