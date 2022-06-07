@@ -215,7 +215,7 @@ http://seclists.org/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on
 https://secfirst.org/,HUMR,Human Rights Issues,2018-07-05,Security First,
 http://secondlife.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://secure.flickr.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://secure.friendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://friendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,Updated on 2022-05-31
 https://www.logmein.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2022-02-21
 https://sexetc.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.sfsi.org/,XED,Sex Education,2014-04-15,citizenlab,Updated on 2022-02-21
@@ -556,7 +556,7 @@ http://www.google.com/search?q=lesbian,SRCH,Search Engines,2014-04-15,citizenlab
 http://www.google.com/search?q=transsexual,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://transparencyreport.google.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated on 2022-02-17
 http://www.gotgayporn.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.grandonline.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.goldenpalace.com/,GMB,Gambling,2014-04-15,citizenlab,Updated on 2022-05-31
 http://www.granma.cu/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.greennet.org.uk/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.greenpeace.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -821,7 +821,7 @@ http://www.realbeer.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by O
 https://www.reddit.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.refugeesinternational.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.religioustolerance.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.reproductiverights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://reproductiverights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2019-09-05
 http://www.repubblica.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rescue.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rfa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1147,7 +1147,6 @@ https://protonvpn.com/,ANON,Anonymization and circumvention tools,2019-09-11,OON
 https://antivigilancia.org/,HUMR,Human Rights Issues,2019-09-14,OONI,Covering surveillance and privacy issues in Latin America
 https://myabortionstory.tumblr.com/,XED,Sex Education,2019-09-05,OONI,
 https://vesselthefilm.com/,XED,Sex Education,2019-09-05,OONI,
-https://reproductiverights.org/,XED,Sex Education,2019-09-05,OONI,
 https://aidaccess.org/,XED,Sex Education,2019-09-05,OONI,
 https://www.omct.org/,HUMR,Human Rights Issues,2019-09-16,OONI,
 http://www.worldcoalition.org/,HUMR,Human Rights Issues,2019-09-16,OONI,
@@ -1474,8 +1473,8 @@ https://www.mc-doualiya.com/,NEWS,News Media,2022-02-23,OONI,
 https://mega.io/,ANON,Anonymization and circumvention tools,2022-02-27,rayasharbain,
 https://www.facebook.com/RTNews,GRP,Social Networking,2022-03-06,OONI,
 https://www.ideasbeyondborders.org/,CULTR,Culture,2022-03-16,OONI,
-https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://dailystormer.name/,POLR,Political Criticism,2022-03-18,community member,American far-right website; supposedly blocked in Europe
+https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://www.microsoft.com/,COMT,Communication Tools,2022-03-30,OONI,Reportedly blocked in Tunisia but worth testing globally
 https://s.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread assets
 https://i.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread assets
