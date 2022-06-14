@@ -1210,7 +1210,7 @@ https://www.pinkcupid.com/,LGBT,LGBT,2020-04-01,OONI,URL shared by community mem
 https://freespeechdebate.com/,POLR,Political Criticism,2020-04-01,OONI,URL shared by community member
 https://yandex.com/,COMT,Communication Tools,2020-04-01,OONI,URL shared by community member
 https://www.eea.europa.eu/,ENV,Environment,2020-04-01,OONI,URL shared by community member
-https://www.quora.com/,COMT,Communication Tools,2020-04-01,OONI,URL shared by community member
+https://www.quora.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.patreon.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.meetup.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.goodreads.com/,CULTR,Culture,2020-04-01,OONI,URL shared by community member
@@ -1446,3 +1446,13 @@ https://i.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread a
 http://ria.ru/,NEWS,News Media,2022-06-07,OONI,RIA Novosti reportedly blocked in Azerbaijan and also blocked in EU countries
 https://www.business-humanrights.org/,HUMR,Human Rights Issues,2022-05-25,citizenlab,
 https://www.gofundme.com/,ECON,Economics,2022-06-11,OONI,Reportedly blocked in Algeria but worth testing globally
+https://triller.co/,GRP,Social Networking,2022-06-11,OONI,
+https://valence.community/,GRP,Social Networking,2022-06-11,OONI,
+https://untappd.com/,GRP,Social Networking,2022-06-11,OONI,
+https://elpha.com/,GRP,Social Networking,2022-06-11,OONI,
+https://www.yubo.live/,GRP,Social Networking,2022-06-11,OONI,
+https://delta.chat/,COMT,Communication Tools,2022-06-11,OONI,
+https://mattermost.com/,COMT,Communication Tools,2022-06-11,OONI,
+https://www.imqq.com/,GRP,Social Networking,2022-06-11,OONI,
+https://www.douyin.com/,GRP,Social Networking,2022-06-11,OONI,
+https://weibo.com/,GRP,Social Networking,2022-06-11,OONI,
