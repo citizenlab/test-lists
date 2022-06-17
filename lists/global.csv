@@ -956,7 +956,6 @@ http://www.xinhuanet.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI 
 https://www.xroxy.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.xvideos.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-08-05
 http://www.xxlmag.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://xxx.lanl.gov/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.yahoo.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.yelp.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ymca.int/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1206,7 +1205,7 @@ https://www.pinkcupid.com/,LGBT,LGBT,2020-04-01,OONI,URL shared by community mem
 https://freespeechdebate.com/,POLR,Political Criticism,2020-04-01,OONI,URL shared by community member
 https://yandex.com/,COMT,Communication Tools,2020-04-01,OONI,URL shared by community member
 https://www.eea.europa.eu/,ENV,Environment,2020-04-01,OONI,URL shared by community member
-https://www.quora.com/,COMT,Communication Tools,2020-04-01,OONI,URL shared by community member
+https://www.quora.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.patreon.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.meetup.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.goodreads.com/,CULTR,Culture,2020-04-01,OONI,URL shared by community member
@@ -1433,12 +1432,22 @@ https://mega.nz/,ANON,Anonymization and circumvention tools,2014-04-15,rayasharb
 https://www.facebook.com/RTNews,GRP,Social Networking,2022-03-06,OONI,
 https://www.ideasbeyondborders.org/,CULTR,Culture,2022-03-16,OONI,
 https://dailystormer.name/,POLR,Political Criticism,2022-03-18,community member,American far-right website; supposedly blocked in Europe
+https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://www.microsoft.com/,COMT,Communication Tools,2022-03-30,OONI,Reportedly blocked in Tunisia but worth testing globally
 https://teams.microsoft.com/,COMT,Communication Tools,2022-03-31,OONI,
 https://st1.zoom.us/zoom.ico,COMT,Communication Tools,2022-03-31,OONI,
-https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://s.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread assets
 https://i.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread assets
 http://ria.ru/,NEWS,News Media,2022-06-07,OONI,RIA Novosti reportedly blocked in Azerbaijan and also blocked in EU countries
 https://www.business-humanrights.org/,HUMR,Human Rights Issues,2022-05-25,citizenlab,
 https://www.gofundme.com/,ECON,Economics,2022-06-11,OONI,Reportedly blocked in Algeria but worth testing globally
+https://triller.co/,GRP,Social Networking,2022-06-11,OONI,
+https://valence.community/,GRP,Social Networking,2022-06-11,OONI,
+https://untappd.com/,GRP,Social Networking,2022-06-11,OONI,
+https://elpha.com/,GRP,Social Networking,2022-06-11,OONI,
+https://www.yubo.live/,GRP,Social Networking,2022-06-11,OONI,
+https://delta.chat/,COMT,Communication Tools,2022-06-11,OONI,
+https://mattermost.com/,COMT,Communication Tools,2022-06-11,OONI,
+https://www.imqq.com/,GRP,Social Networking,2022-06-11,OONI,
+https://www.douyin.com/,GRP,Social Networking,2022-06-11,OONI,
+https://weibo.com/,GRP,Social Networking,2022-06-11,OONI,
