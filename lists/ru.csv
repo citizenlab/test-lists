@@ -107,7 +107,7 @@ http://obozrevatel.ru/,NEWS,News Media,2017-09-28,igorv,
 http://uapolitics.com/,POLR,Political Criticism,2017-09-28,igorv,Ukrainina resource
 https://ua.krymr.com/,NEWS,News Media,2017-09-28,igorv,RFE/RL Ukrainian service for Crimea
 http://noblockme.ru/,ANON,Anonymization and circumvention tools,2017-09-28,igorv,
-https://navalny.com/,POLR,Political Criticism,2017-09-28,igorv,
+https://navalny.com/,POLR,Political Criticism,2017-09-28,igorv,Reportedly blocked in July 2021
 https://vk.com/navalny/,POLR,Political Criticism,2017-09-28,igorv,
 http://kinozal.tv/,FILE,File-sharing,2017-09-28,igorv,
 http://kinovolt.ru/,FILE,File-sharing,2017-09-28,igorv,
@@ -271,7 +271,6 @@ https://agora.legal/,HUMR,Human Rights Issues,2019-05-25,Netalitica,critical of 
 https://www.radiosvoboda.org/radio/schedule/86/,NEWS,News Media,2019-05-27,Netalitica,RFE/RL radion Ukrainian service
 https://ua.krymr.com/radio/schedule/101/,NEWS,News Media,2019-05-29,Netalitica,RFE/RL radio service for Crimea (UA language)
 https://ru.krymr.com/radio/schedule/103/,NEWS,News Media,2019-05-31,Netalitica,RFE/RL service for Russia
-https://www.currenttime.tv/tv/schedule/92/,NEWS,News Media,2019-06-02,Netalitica,RFE/RL radio program for Russia
 https://www.svoboda.org/radio/schedule/81/,NEWS,News Media,2019-06-04,Netalitica,Radio Freedom Russia
 https://www.severreal.org/,NEWS,News Media,2019-06-04,Netalitica,Sever Realii
 https://www.azadliq.org/,NEWS,News Media,2019-06-04,Netalitica,RFE/RL Azerbaijan (small Azerbaijani minority in RU)
@@ -626,3 +625,26 @@ https://www.shutterstock.com/,MMED,Media sharing,2019-12-14,magma,https://reestr
 http://xn--80aaifmgl1achx.xn--p1ai/,GMB,Gambling,2014-04-15,citizenlab,
 https://o-zine.ru/,LGBT,LGBT,2020-01-20,OONI,Reportedly blocked by some ISPs in Russia
 https://www.rospotrebnadzor.ru/about/info/news/news_details.php?ELEMENT_ID=14025,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://fbk.info/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://shtab.navalny.com/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://teachers-union.ru/,HUMR,Human Rights Issues,2021-07-29,OONI,Reportedly blocked
+https://www.navalny.com/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://stepanov2021.org/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://www.leonidvolkov.ru/,POLR,Political Criticism,2021-07-29,OONI,Reportedly blocked
+https://200rf.com/,HUMR,Human Rights Issues,2022-03-03,OONI,Reportedly blocked
+https://newtimes.ru/,NEWS,News Media,2022-03-04,OONI,Reportedly blocked
+https://www.bbcrussian.com/russian/,NEWS,News Media,2022-03-09,OONI,New BBC domain following BBC blocking in Russia
+https://ru.wikipedia.org/wiki/Вторжение_России_на_Украину_(2022),NEWS,News Media,2022-03-14,Tow Center,Roskomnadzor threatened to block Wikipedia for this article on March 1 2022
+https://en.wikipedia.org/wiki/Russia%27s_invasion_of_Ukraine_(2022),NEWS,News Media,2022-03-14,Tow Center,Roskomnadzor threatened to block Wikipedia for this article on March 1 2022
+https://romb.tv/,NEWS,News Media,2022-04-11,OONI,
+https://minval.az/,NEWS,News Media,2022-06-07,OONI,Azerbaijani news media site reportedly blocked in Russia
+https://ru.oxu.az/,NEWS,News Media,2022-06-07,OONI,Azerbaijani news media site reportedly blocked in Russia
+https://oxu.az/,NEWS,News Media,2022-06-07,OONI,Azerbaijani news media site reportedly blocked in Russia
+https://ru.baku.ws/,NEWS,News Media,2022-06-07,OONI,Azerbaijani news media site reportedly blocked in Russia
+https://baku.ws/,NEWS,News Media,2022-06-07,OONI,Azerbaijani news media site reportedly blocked in Russia
+https://haqqin.az/,NEWS,News Media,2022-06-07,OONI,Azerbaijani news media site reportedly blocked in Russia
+https://doxajournal.ru/,NEWS,News Media,2022-06-11,OONI,Independent magazine against war dictatorship and inequality
+https://novayagazeta.eu/,NEWS,News Media,2022-06-11,OONI,
+https://golosinfo.org/,NEWS,News Media,2022-06-11,OONI,
+https://zona.media/,NEWS,News Media,2022-06-11,OONI,
+https://holod.media/,NEWS,News Media,2022-06-11,OONI,

@@ -39,7 +39,6 @@ http://hrcbmdfw.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://hrcbmdfw.org/blogs/bangladesh/archive/2006/01/02/70.aspx,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://hrtribune.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://hrtribune.com/News/gang_rape_chuadanga.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://hrw.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://hrw.org/english/docs/2005/06/16/bangla11139.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://hrw.org/english/docs/2006/06/07/bangla13518.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://hrw.org/reports/2005/bangladesh0605/4.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -99,7 +98,6 @@ http://www.asiamedia.ucla.edu/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.asiamedia.ucla.edu/article-southasia.asp?parentid=8262,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.asiantribune.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.asiantribune.com/index.php?q=node/3748,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.atimes.com/atimes/South_Asia/DI21Df06.html,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.bandhu-bd.org/lgbt.html,LGBT,LGBT,2016-03-28,OONI,
 http://www.bangla2000.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.banglacafe.com/,GRP,Social Networking,2014-04-15,citizenlab,
@@ -147,7 +145,6 @@ http://www.drishtipat.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.economist.com/countries/Bangladesh/profile.cfm?folder=Profile%2DPolitical%20Forces,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.equalrightstrust.org/taxonomy/term/127,HUMR,Human Rights Issues,2016-03-28,OONI,
 http://www.expressindia.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.facebook.com/projectdhee/,LGBT,LGBT,2016-03-28,OONI,
 http://www.faithfreedom.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.faithfreedom.org/oped/JafforUllah40301.htm,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.fhi.org/en/RH/Pubs/wsp/fctshts/Bangladesh1.htm,XED,Sex Education,2014-04-15,citizenlab,
@@ -249,7 +246,6 @@ http://www.wluml.org/english/pubs/pdf/wsf/11.pdf,NEWS,News Media,2014-04-15,citi
 http://www.youtube.com/watch?v=YJBWCLeOEaM&bpctr=1458851928,MMED,Media sharing,2016-03-24,OONI,
 https://bn.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://meta.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://bn.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -277,3 +273,11 @@ http://gazwah.net/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
 https://bangladeshdefence.blogspot.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
 https://lookeast.in/,NEWS,News Media,2018-12-13,OONI,Reported to be blocked
 https://womenchapter.com/,HUMR,Human Rights Issues,2018-12-13,OONI,Reported to be blocked
+https://issuu.com/,MISC,Miscelaneous content,2021-08-30,OONI,Reported to be blocked
+https://ff.garena.com/,GAME,Gaming,2021-09-16,OONI,Reported to be blocked
+https://pubg.com/,GAME,Gaming,2021-09-16,OONI,Reported to be blocked
+http://iptvbd.net/,NEWS,News Media,2021-09-20,OONI,Reported to be blocked IPTV website
+https://istishon.com/,HOST,Hosting and Blogging Platforms,2022-01-28,,
+https://istishon.blog/,HOST,Hosting and Blogging Platforms,2022-01-28,,
+https://statewatch.net/,NEWS,News Media,2022-01-28,,
+https://video4change.org/,HUMR,Human Rights Issues,2022-01-28,,

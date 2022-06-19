@@ -144,7 +144,6 @@ https://www.kingfut.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.masr11.com/,NEWS,News Media,2017-06-23,AFTE,
 https://www.masrawy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://masrmix.com/,NEWS,News Media,2017-06-23,AFTE,
-https://www.mc-doualiya.com/,NEWS,News Media,2018-09-13,OONI,
 https://www.raya.com/,NEWS,News Media,2017-06-23,AFTE,
 https://www.raya.com/portal,NEWS,News Media,2017-05-24,OONI,blocked as of date added
 https://www.sabaharabi.com/,NEWS,News Media,2018-02-09,OONI,
@@ -160,7 +159,6 @@ https://huffpostarabi.com/,NEWS,News Media,2017-06-20,OONI,blocked
 https://www.alquds.co.uk/,NEWS,News Media,2014-04-15,citizenlab,
 https://katib.net/,NEWS,News Media,2018-08-02,AFTE,stopped since Nov 2018 after being blocked
 http://www.siyassa.org.eg/,POLR,Political Criticism,2018-02-09,OONI,This news website is owned by state. It is unlikely to be critical or blocked in the future.
-https://islamonline.net/,REL,Religion,2014-04-15,citizenlab,
 http://rocketvpnapp.com/,ANON,Anonymization and circumvention tools,2018-08-02,AFTE,
 http://www.freenom.link/,ANON,Anonymization and circumvention tools,2017-10-21,AFTE,
 https://www.zophar.net/proxy,ANON,Anonymization and circumvention tools,2017-08-30,AFTE,
@@ -407,11 +405,9 @@ https://www.dohainstitute.org/AR/Pages/index.aspx,POLR,Political Criticism,2019-
 http://ercegypt.org/,POLR,Political Criticism,2019-03-31,netaltica,
 https://eipss-eg.org/,POLR,Political Criticism,2019-03-31,netaltica,
 http://gamalheshmat.com/,POLR,Political Criticism,2019-03-31,netaltica,
-https://www.alqassam.ps/,POLR,Political Criticism,2019-03-31,netaltica,
 http://aoc.fm/wp/,POLR,Political Criticism,2019-03-31,netaltica,
 https://twitter.com/ElBaradei,POLR,Political Criticism,2019-04-02,netaltica,
 https://twitter.com/ikhwanonlinecom,POLR,Political Criticism,2019-04-02,netaltica,
-https://www.facebook.com/Ikhwan.Official/,POLR,Political Criticism,2019-04-02,netaltica,
 https://voiceonline.net/,POLR,Political Criticism,2019-05-16,Netalitica,Political campaign against constitution
 https://masryaom.me/,POLR,Political Criticism,2019-05-16,Netalitica,Political campaign against constitution
 https://sout1.us/,POLR,Political Criticism,2019-05-16,Netalitica,Political campaign against constitution
@@ -536,7 +532,6 @@ https://www.egyptiantalks.org/invb/,POLR,Political Criticism,2014-04-15,citizenl
 https://www.copts.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.copts.com/english/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://ahmadgamalziada.blogspot.com/,POLR,Political Criticism,2017-08-07,AFTE,URL updated after original one got blocked
-https://ikhwanonline.com/,POLR,Political Criticism,2017-06-23,AFTE,
 https://www.copticorphans.org/,REL,Religion,2014-04-15,citizenlab,
 https://baheyya.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,Reportedly blocked
 http://misrdigital.blogspirit.com/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -742,7 +737,6 @@ http://www.elmogaz.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.essada.net/,NEWS,News Media,2017-06-23,AFTE,
 http://www.faithfreedom.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.farfeshplus.com/,NEWS,News Media,2018-02-09,OONI,
-https://www.france24.com/ar/,NEWS,News Media,2018-09-13,OONI,
 http://www.hurriyetdailynews.com/,NEWS,News Media,2017-06-23,AFTE,
 http://www.koorabia.com/,NEWS,News Media,2018-02-12,OONI,
 http://www.mekameleen.tv/,NEWS,News Media,2017-06-23,AFTE,
@@ -876,10 +870,11 @@ https://arij.net/,NEWS,News Media,2019-09-22,Masaar,
 https://vvv.almanassa.net/ar/,NEWS,News Media,2020-06-24,Masaar,
 https://vvw.almanassa.net/,NEWS,News Media,2020-06-24,Masaar,
 https://vwv.almanassa.net/ar/,NEWS,News Media,2020-06-24,Masaar,
-https://www.huffpost.com/,NEWS,News Media,2020-06-24,Masaar,
 https://daaarb.com/,NEWS,News Media,2020-06-24,Masaar,
 https://diwan.gov.qa/,GOVT,Government,2021-04-27,Masaar,
 https://halacima.net/,MMED,Media sharing,2021-04-27,Masaar,
 https://medanelakhbar.com/,NEWS,News Media,2021-04-27,Masaar,
 https://www.f-secure.com/,ANON,Anonymization and circumvention tools,2021-04-27,Masaar,
 http://shadowsocks.org/,ANON,Anonymization and circumvention tools,2021-04-27,Masaar,
+https://egypt-papers.disclose.ngo/,POLR,Political Criticism,2021-11-24,OONI,Reportedly blocked
+https://www.baytalhikma2.org/,CULTR,Culture,2022-03-17,OONI,Reportedly blocked
