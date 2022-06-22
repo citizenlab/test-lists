@@ -50,7 +50,7 @@ the newest list for every unique country code.
 Contributing URLs
 =================
 
-To learn how to contribute URLs for testing see: https://ooni.torproject.org/get-involved/contribute-test-lists/
+To learn how to contribute URLs for testing see: https://ooni.org/get-involved/contribute-test-lists/
 
 Citation
 ========
