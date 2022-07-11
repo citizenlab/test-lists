@@ -2,12 +2,12 @@ url,category_code,category_description,date_added,source,notes
 https://akbayan.org.ph/,POLR,Political Criticism,2016-04-19,citizenlab,
 https://www.alyansatigilmina.net/,ENV,Environment,2016-04-19,citizenlab,
 https://anakpawis.net/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://bangsa.wordpress.com/,REL,Religion,2014-04-15,citizenlab,
-http://blacknwhitemovement.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
+http://bangsa.wordpress.com/,CTRL,Control content,2014-04-15,citizenlab,outdated - last updated on 2008
+http://blacknwhitemovement.blogspot.com/,CTRL,Control content,2014-04-15,citizenlab,outdated - last updated on 2014
 https://blogwatch.tv/,NEWS,News Media,2016-04-19,citizenlab,
 https://code-ngo.org/,ECON,Economics,2014-04-15,citizenlab,
-https://cpp.ph/,MILX,Terrorism and Militants,2018-12-09,citizenlab,Official website of the Communist Party of the Philippines; a Marxist-Leninist-Maoist party marked as a terrorist organization by the United States of America, the European Union, Australia, the United Kingdom, New Zealand, and the Philippines
-http://empressmaruja.wordpress.com/,LGBT,LGBT,2014-04-15,citizenlab,
+https://cpp.ph/,MILX,Terrorism and Militants,2018-12-09,citizenlab,"Official website of the Communist Party of the Philippines; a Marxist-Leninist-Maoist party marked as a terrorist organization by the United States of America, the European Union, Australia, the United Kingdom, New Zealand, and the Philippines"
+http://empressmaruja.wordpress.com/,CTRL,Control content,2014-04-15,citizenlab,outdated - last updated on 2010
 http://filipinofriendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://gibo.ph/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://groups.google.com/g/soc.culture.filipino,GRP,Social Networking,2014-04-15,citizenlab,
@@ -22,10 +22,10 @@ http://magdaloparty.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://mnlf.org.ph/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://news.bbc.co.uk/2/hi/asia-pacific/1695576.stm,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://old.reddit.com/r/Philippines,GRP,Social Networking,2018-12-09,citizenlab,The Philippines subreddit has a lot of administration critics; pro-administration users are often downvoted and frowned upon
-http://philippinecommentary.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://philippinecommentary.blogspot.com/,CTRL,Control content,2014-04-15,citizenlab,outdated - last updated on 2013
 http://philippinesfreepress.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://phkule.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://pinoyhr.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://pinoyhr.net/,CTRL,Control content,2014-04-15,citizenlab,
 http://tonyocruz.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://verafiles.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.abante.com.ph/,NEWS,News Media,2014-04-15,citizenlab,
@@ -207,7 +207,7 @@ http://politics.com.ph/,POLR,Political Criticism,2018-12-27,engagemedia,
 http://www.thinkingpinoy.net/,POLR,Political Criticism,2018-12-27,engagemedia,
 https://www.culturalsurvival.org/,HUMR,Human Rights Issues,2018-12-27,engagemedia,
 http://philrights.org/,HUMR,Human Rights Issues,2018-12-27,engagemedia,
-http://flagfaqs.blogspot.com/,HUMR,Human Rights Issues,2018-12-27,engagemedia,
+http://flagfaqs.blogspot.com/,CTRL,Control content,2018-12-27,engagemedia,outdated - last updated on 2007
 https://balayph.net/,HUMR,Human Rights Issues,2018-12-27,engagemedia,
 https://www.youthforhumanrights.org/,HUMR,Human Rights Issues,2018-12-27,engagemedia,
 http://hrlibrary.umn.edu/research/philippines.html,HUMR,Human Rights Issues,2018-12-27,engagemedia,
@@ -220,8 +220,8 @@ https://socialprotection-humanrights.org/,HUMR,Human Rights Issues,2018-12-27,en
 https://www.hg.org/,HUMR,Human Rights Issues,2018-12-27,engagemedia,
 http://www.galangphilippines.org/,LGBT,LGBT,2018-12-27,engagemedia,
 https://transnational-queer-underground.net/,LGBT,LGBT,2018-12-27,engagemedia,
-https://bisdakpride.wordpress.com/,LGBT,LGBT,2018-12-27,engagemedia,
-http://queerteam.blogspot.com/,LGBT,LGBT,2018-12-27,engagemedia,
+https://bisdakpride.wordpress.com/,CTRL,Control content,2018-12-27,engagemedia,outdated - last updated on 2015
+http://queerteam.blogspot.com/,CTRL,Control content,2018-12-27,engagemedia,outdated - last updated on 2011
 http://lgbt.ie/,LGBT,LGBT,2018-12-27,engagemedia,
 https://aseansogiecaucus.org/,LGBT,LGBT,2018-12-27,engagemedia,
 http://outragemag.com/,LGBT,LGBT,2018-12-27,engagemedia,
@@ -237,7 +237,7 @@ https://www.facebook.com/ReposangelsInc/,LGBT,LGBT,2018-12-27,engagemedia,
 https://www.facebook.com/philtransmov/,LGBT,LGBT,2018-12-27,engagemedia,
 https://www.facebook.com/lakanbiniadvocatespilipinas/,LGBT,LGBT,2018-12-27,engagemedia,
 http://www.loveyourself.ph/,LGBT,LGBT,2018-12-27,engagemedia,
-https://lagablab.wordpress.com/,LGBT,LGBT,2018-12-27,engagemedia,
+https://lagablab.wordpress.com/,CTRL,Control content,2018-12-27,engagemedia,outdated - last updated on 2007
 https://www.facebook.com/rrightsphl/,LGBT,LGBT,2018-12-27,engagemedia,
 https://lgbtbar.org/,LGBT,LGBT,2018-12-27,engagemedia,
 https://www.facebook.com/curlslgbt/,LGBT,LGBT,2018-12-27,engagemedia,
