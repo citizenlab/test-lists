@@ -1456,3 +1456,8 @@ https://mattermost.com/,COMT,Communication Tools,2022-06-11,OONI,
 https://www.imqq.com/,GRP,Social Networking,2022-06-11,OONI,
 https://www.douyin.com/,GRP,Social Networking,2022-06-11,OONI,
 https://weibo.com/,GRP,Social Networking,2022-06-11,OONI,
+https://ps.ooni.io/api/v1/test-helpers,HUMR,Human Rights Issues,2022-06-14,magma,OONI Probe service mirror
+https://ps1.ooni.io/api/v1/test-helpers,HUMR,Human Rights Issues,2022-06-14,magma,OONI Probe service mirror
+https://ps2.ooni.io/api/v1/test-helpers,HUMR,Human Rights Issues,2022-06-14,magma,OONI Probe service mirror
+https://ps3.ooni.io/api/v1/test-helpers,HUMR,Human Rights Issues,2022-06-14,magma,OONI Probe service mirror
+https://ps4.ooni.io/api/v1/test-helpers,HUMR,Human Rights Issues,2022-06-14,magma,OONI Probe service mirror
