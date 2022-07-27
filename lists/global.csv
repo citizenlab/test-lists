@@ -1369,6 +1369,10 @@ https://clubhouse.pubnub.com/,GRP,Social Networking,2021-04-04,Chelchela,
 https://brave.com/,HACK,Hacking Tools,2021-06-24,Chelchela,
 https://search.brave.com/,SRCH,Search Engines,2021-06-24,Chelchela,
 https://startpage.com/,SRCH,Search Engines,2021-06-24,Chelchela,
+http://connectivitycheck.gstatic.com/generate_204,CTRL,Control content,2021-06-29,Chelchela,android Captive portal
+http://connectivitycheck.android.com/generate_204,CTRL,Control content,2021-06-29,Chelchela,Samsung Captive portal
+http://connect.rom.miui.com/generate_204,CTRL,Control content,2021-06-29,Chelchela,Xiaomi Captive portal
+http://clients3.google.com/generate_204,CTRL,Control content,2021-06-29,Chelchela,Chrome Captive portal
 http://detectportal.firefox.com/success.txt,CTRL,Control content,2021-06-29,Chelchela,Firefox Captive portal
 http://www.apple.com/library/test/success.html,CTRL,Control content,2021-06-29,Chelchela,Apple Captive portal
 http://nmcheck.gnome.org/check_network_status.txt,CTRL,Control content,2021-06-29,Chelchela,Gnome desktop environment Captive portal
