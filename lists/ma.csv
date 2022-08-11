@@ -1,7 +1,7 @@
 url,category_code,category_description,date_added,source,notes
 http://www.ircam.ma/,GOVT,Government,2014-04-15,citizenlab,The website of the Royal Institute of the Amazigh Culture is under a royal decree of King Mohammed VI (Dahir (royal decree) number 1-01-299)
 http://www.amazighworld.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,The website has a whole section on human rights of amazigh in Morocco and its the most updated section
-http://www.saharalibre.es/,POLR,Political Criticism,2014-04-15,citizenlab,"The website provides context, news and a forum for the Sahara issue"
+http://www.saharalibre.es/,GOVT,Government,2014-04-15,citizenlab,"The website provides context, news and a forum for the Sahara issue"
 http://www.profesionalespcm.org/,POLR,Political Criticism,2014-04-15,citizenlab,"The website description ""Web site for information, training, debate and revolutionary, multidisciplinary, ecologist, humanist, scientific, anti-capitalist and Marxist collective action of the NUCLEUS OF PROFESSIONALS AND TECHNICIANS of the Communist Party of Madrid -"""
 http://www.ahewar.org/,POLR,Political Criticism,2014-04-15,citizenlab,could be news and media but more its political criticism
 http://www.sg-ecam.org/,REL,Religion,2014-04-15,citizenlab,"This is website about catholic education in Morocco, schools, programs, history, activities, etc"
@@ -97,12 +97,12 @@ http://www.casablanca-bourse.com/,COMM,E-commerce,2019-07-09,Netalitica,
 https://lalcazar.com/,CTRL,Control content,2019-07-09,Netalitica,
 http://www.petra.gov.jo/,NEWS,News Media,2019-07-09,Netalitica,Jordan news agency
 https://www.racines.ma/,CULTR,Culture,2019-07-09,Netalitica,a culutral association based in Casablanca. in 2018 authorities issued a dissolution order against it
-https://www.marefa.org/,CULTR,Culture,2019-07-09,Netalitica,
+https://www.marefa.org/,SRCH,Search Engines,2019-07-09,Netalitica,
 https://zamane.ma/,CULTR,Culture,2019-07-09,Netalitica,a Moroccan magazine that focuses on history
 http://cimaclub.com/,CULTR,Culture,2019-07-09,Netalitica,showing within top visited sites in Morocco
 https://alazmina.com/,CULTR,Culture,2019-07-09,Netalitica,
 http://www.adab.com/,CULTR,Culture,2019-07-09,Netalitica,
-https://mawdoo3.com/,CULTR,Culture,2019-07-09,Netalitica,
+https://mawdoo3.com/,SRCH,Search Engines,2019-07-09,Netalitica,
 https://www.aljasraculture.com/,CULTR,Culture,2019-07-09,Netalitica,
 https://www.diwanalarab.com/,CULTR,Culture,2019-07-09,Netalitica,
 https://www.aldiwan.net/,CULTR,Culture,2019-07-09,Netalitica,
@@ -135,7 +135,7 @@ https://www.fidiwstafidi.com/,CULTR,Culture,2019-07-09,Netalitica,
 https://www.lallafatema.ma/,CULTR,Culture,2019-07-09,Netalitica,
 http://www.lalafatima.ma/,CULTR,Culture,2019-07-09,Netalitica,
 https://lalaplus.ma/,CULTR,Culture,2019-07-09,Netalitica,
-https://meemmagazine.net/,CULTR,Culture,2019-07-09,Netalitica,
+https://meemmagazine.net/,LGBT,LGBT,2019-07-09,Netalitica,
 https://www.chhiwati.com/,CULTR,Culture,2019-07-09,Netalitica,
 http://www.elmaraa.net/,CULTR,Culture,2019-07-09,Netalitica,
 https://www.arab-lady.com/,CULTR,Culture,2019-07-09,Netalitica,
@@ -260,7 +260,7 @@ https://www.casinoar.com/,GMB,Gambling,2019-07-09,Netalitica,
 https://casinocairo.com/,GMB,Gambling,2019-07-09,Netalitica,
 https://www.mdjsjeux.ma/,GMB,Gambling,2019-07-09,Netalitica,
 https://www.mdn.dz/,GOVT,Government,2019-07-09,Netalitica,
-http://www.mae.gov.dz/,GOVT,Government,2019-07-09,Netalitica,
+http://www.mae.gov.dz/,CTRL,Control content,2019-07-09,Netalitica,
 http://www.interieur.gov.dz/,GOVT,Government,2019-07-09,Netalitica,
 http://www.isa.gov.il/,GOVT,Government,2019-07-09,Netalitica,
 https://mfa.ir/,GOVT,Government,2019-07-09,Netalitica,
@@ -378,10 +378,10 @@ https://arabi21.com/,NEWS,News Media,2019-07-09,Netalitica,Regional Media Platfo
 https://www.ultrasawt.com/,NEWS,News Media,2019-07-09,Netalitica,Regional Media Platform
 https://ledesk.ma/,NEWS,News Media,2019-07-09,Netalitica,Moroccan News Website
 https://lakome2.com/,NEWS,News Media,2019-07-09,Netalitica,Moroccan News Website
-https://jeem.me/,NEWS,News Media,2019-07-09,Netalitica,Regional Media Platform on Gender and sexuality
+https://jeem.me/,LGBT,LGBT,2019-07-09,Netalitica,Regional Media Platform on Gender and sexuality
 http://rif24.com/,NEWS,News Media,2019-07-09,Netalitica,"Media website linked to RIF movenment. Keep monitoring. Website last updated in 2017. In June, a Casablanca court convicted journalist Rabie Lablak and online citizen journalists Mohamed El Asrihi, of Rif24. com, and Fouad Essaidi, of Facebook page Awar TV, to five years in prison in relation to their coverage of Hirak El-Rif. "
-https://kohljournal.press/,NEWS,News Media,2019-07-09,Netalitica,Regional Journal on Body and Gender
-https://www.ikhtyar.org/,NEWS,News Media,2019-07-09,Netalitica,Regional research Collective producing knowledge  on Gender Studies
+https://kohljournal.press/,LGBT,LGBT,2019-07-09,Netalitica,Regional Journal on Body and Gender
+https://www.ikhtyar.org/,LGBT,LGBT,2019-07-09,Netalitica,Regional research Collective producing knowledge  on Gender Studies
 https://www.emsahara.com/,NEWS,News Media,2019-07-09,Netalitica,Media Website linked to Western Sahara Movenment/Equipe Media Team is a Saharawi Media Group that some of its members are in jail https://www.hrw.org/news/2019/05/16/morocco-law-misused-silence-reporters
 https://chouftv.ma/,NEWS,News Media,2019-07-09,Netalitica,Online TV in Morocco
 http://le360.ma/,NEWS,News Media,2019-07-09,Netalitica,News website in Morocco
@@ -477,7 +477,7 @@ https://www.al-akhbar.com/,NEWS,News Media,2019-07-09,Netalitica,Lebanese based 
 https://www.alahednews.com.lb/,NEWS,News Media,2019-07-09,Netalitica,Lebanese website close to hezbollah
 https://www.al-monitor.com/,NEWS,News Media,2019-07-09,Netalitica,Regional News website
 https://www.albawaba.com/,NEWS,News Media,2019-07-09,Netalitica,regional media platform
-http://www.alnour.com.lb/,NEWS,News Media,2019-07-09,Netalitica,Lebanese Radio close to hezbollah
+http://www.alnour.com.lb/,MILX,Terrorism and Militants,2019-07-09,Netalitica,Lebanese Radio close to hezbollah
 https://www.middleeasteye.net/,NEWS,News Media,2019-07-09,Netalitica,regional media platform
 https://www.radiosawa.com/,NEWS,News Media,2019-07-09,Netalitica,regional radio supported by American gov
 https://www.skynewsarabia.com/,NEWS,News Media,2019-07-09,Netalitica,regional media platform
@@ -525,7 +525,7 @@ https://www.youtube.com/channel/UC9jQeeKV_NOxR7Rqi6aB-zA/videos/,POLR,Political 
 https://www.giga-hamburg.de/,POLR,Political Criticism,2019-07-09,Netalitica,German based research center that published Morocco related papers
 https://www.yassine.net/,POLR,Political Criticism,2019-07-09,Netalitica,a website linked to Al Adl Wa Al Ihssane and it was previously blocked in 2009
 http://www.mouminate.net/,POLR,Political Criticism,2019-07-09,Netalitica,a website linked to Al Adl Wa Al Ihssane and it was previously blocked in 2009
-https://www.jadaliyya.com/,POLR,Political Criticism,2019-07-09,Netalitica,Regional focused website based in US
+https://www.jadaliyya.com/,NEWS,News Media,2019-07-09,Netalitica,Regional focused website based in US
 https://www.wsrw.org/,POLR,Political Criticism,2019-07-09,Netalitica,Advocacy for Western Sahara cause
 https://bzazi.com/,PORN,Pornography,2019-07-09,Netalitica,
 https://xxxnxx.me/,PORN,Pornography,2019-07-09,Netalitica,
@@ -578,7 +578,7 @@ https://www.e7kky.com/,XED,Sex Education,2019-07-09,Netalitica,
 https://jensaneya.org/,XED,Sex Education,2019-07-09,Netalitica,
 https://lmarabic.com/,XED,Sex Education,2019-07-09,Netalitica,
 https://www.zanzu.de/,XED,Sex Education,2019-07-09,Netalitica,
-https://www.webteb.com/,XED,Sex Education,2019-07-09,Netalitica,
+https://www.webteb.com/,PUBH,Public Health,2019-07-09,Netalitica,
 http://hayatouki.com/,XED,Sex Education,2019-07-09,Netalitica,
 http://www.ampf.org.ma/,XED,Sex Education,2019-07-09,Netalitica,
 http://www.amcdd.com/,ENV,Environment,2019-07-09,Netalitica,Moroccan Coalition for Environmental Justice. Last active Jan 2019. Keep monitoring.
@@ -612,5 +612,5 @@ https://www.menara.ma/,NEWS,News Media,2019-10-18,Netalitica,
 https://machahid.info/,NEWS,News Media,2019-10-18,Netalitica,
 https://maroctelegraph.com/,NEWS,News Media,2019-10-18,Netalitica,
 http://pre.ma/,POLR,Political Criticism,2019-10-18,Netalitica,
-https://carnegie-mec.org/,POLR,Political Criticism,2019-10-18,Netalitica,
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2019-10-18,Netalitica,
 https://ar.islamway.net/,REL,Religion,2019-10-18,Netalitica,

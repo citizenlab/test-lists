@@ -1,16 +1,16 @@
 url,category_code,category_description,date_added,source,notes
-http://www.hadash.org.il/,CTRL,Control content,2014-04-15,citizenlab,
-http://www.arabsgate.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
+http://www.hadash.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,
+http://www.arabsgate.com/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.annaqed.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://angryarab.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.ansarweb.net/,REL,Religion,2014-04-15,citizenlab,
 http://www.arabchurch.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.bahai-faith.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.bahai.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.coptic.net/EncyclopediaCoptica/,REL,Religion,2014-04-15,citizenlab,
-http://www.freemuslim.org/,REL,Religion,2014-04-15,citizenlab,
+http://www.coptic.net/EncyclopediaCoptica/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://www.freemuslim.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.light-of-life.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.yahosein.com/,REL,Religion,2014-04-15,citizenlab,
+http://www.yahosein.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.casinoduliban.com.lb/,GMB,Gambling,2014-04-15,citizenlab,
 https://kwirmedia.com/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.alalamtv.net/,NEWS,News Media,2014-04-15,citizenlab,
@@ -20,7 +20,7 @@ https://crackshome.com/,FILE,File-sharing,2014-04-15,citizenlab,
 https://www.g9g.com/,GAME,Gaming,2014-04-15,citizenlab,
 https://www.idf.il/,GOVT,Government,2014-04-15,citizenlab,
 https://mfa.gov.il/MFA/Pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
-https://toystore.co.il/,GOVT,Government,2014-04-15,citizenlab,
+https://toystore.co.il/,CTRL,Control content,2014-04-15,citizenlab,
 https://www.childsrights.org/en/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://home.crin.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.equalitynow.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -38,9 +38,9 @@ https://middle-east-online.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.radiosawa.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.nikahsearch.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.ikhwanweb.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.likud.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://meretz.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.rafed.net/ar/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://www.likud.org.il/,GOVT,Government,2014-04-15,citizenlab,
+https://meretz.org.il/,GOVT,Government,2014-04-15,citizenlab,
+https://www.rafed.net/ar/,REL,Religion,2014-04-15,citizenlab,
 https://www.vob.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://answering-islam.org/,REL,Religion,2014-04-15,citizenlab,
 https://www.arabicbible.com/,REL,Religion,2014-04-15,citizenlab,
@@ -58,18 +58,18 @@ http://www.bahrainrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.coptic.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.defendingwomen-defendingrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.humum.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.lavaplace.com/,LGBT,LGBT,2014-04-15,citizenlab,
+http://www.lavaplace.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://ammar456.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://arabic.peopledaily.com.cn/,NEWS,News Media,2014-04-15,citizenlab,Chinese Arabic newspaper
 http://lulubahrain.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.ahraralbahrain.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.bahraintimes.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.danielpipes.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.rezgar.com/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.danielpipes.org/,POLR,Political Criticism,2014-04-15,citizenlab,
+http://www.rezgar.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.evemodels.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.ru4arab.ru/,DATE,Online Dating,2014-04-15,citizenlab,
 http://almenber.bh/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://ibloga.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
+http://ibloga.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://mahmood.tv/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://metransparent.net/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.aldemokrati.org/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -82,7 +82,7 @@ https://twitter.com/alwasatnews,NEWS,News Media,2017-01-24,citizenlab,Media outl
 https://www.instagram.com/alwasatnews/,NEWS,News Media,2017-01-24,citizenlab,Media outlet reported blocked
 https://www.youtube.com/alwasattube,NEWS,News Media,2017-01-24,citizenlab,Media outlet reported blocked
 http://www.alwasatnews.com/,NEWS,News Media,2017-01-24,citizenlab,Reported blocked
-https://arabic.arabianbusiness.com/,NEWS,News Media,2017-07-19,citizenlab,
+https://arabic.arabianbusiness.com/,ECON,Economics,2017-07-19,citizenlab,
 https://raseef22.com/,NEWS,News Media,2017-07-19,citizenlab,
 https://thawrah2day.com/,NEWS,News Media,2017-07-19,citizenlab,
 http://www.bbcarabic.com/,NEWS,News Media,2017-07-19,BBC,
@@ -113,7 +113,7 @@ https://www.dapp.dk/ar/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's r
 https://euromedrights.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,The Euro-Mediterranean Human Rights Network
 https://thenewkhalij.news/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.noonpost.com/,NEWS,News Media,2017-11-13,citizenlab,Noot Post
-http://arabic.bayynat.org.lb/,POLR,Political Criticism,2017-11-13,citizenlab,Sayyid Muhammad Hussein Fadlallah's website (spiritual guide of Hizbollah's Secretary General)
+http://arabic.bayynat.org.lb/,REL,Religion,2017-11-13,citizenlab,Sayyid Muhammad Hussein Fadlallah's website (spiritual guide of Hizbollah's Secretary General)
 http://www.uae71.com/,POLR,Political Criticism,2017-11-13,citizenlab,
 http://www.justaskislam.com/,REL,Religion,2017-11-13,citizenlab,
 https://centerforinquiry.org/blog/category/secular-islam/,REL,Religion,2017-11-13,citizenlab,Center for secularing Islamic societies
@@ -130,11 +130,11 @@ https://www.boi.org.il/,GOVT,Government,2017-11-13,citizenlab,Bank of Israel
 https://www.cbs.gov.il/,GOVT,Government,2017-11-13,citizenlab,Central Bureau of Statistics of Israel
 https://www.mossad.gov.il/default.aspx/,GOVT,Government,2017-11-13,citizenlab,Government
 https://www.netanyahu.org.il/,GOVT,Government,2017-11-13,citizenlab,
-https://www.christian-dogma.com/,HUMR,Human Rights Issues,2017-11-13,citizenlab,
+https://www.christian-dogma.com/,REL,Religion,2017-11-13,citizenlab,
 https://middleeasttransparent.com/,HUMR,Human Rights Issues,2017-11-13,citizenlab,NGO promotes transparency in the middle east
 https://rhr.org.il/eng/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Rabbis for Human Rights
 http://www.ahrfund.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,
-https://annabaa.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Annabaa. Shiite news portal.
+https://annabaa.org/,NEWS,News Media,2017-11-13,citizenlab,Annabaa. Shiite news portal.
 https://www.hri.ca/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Human Rights Internet
 https://www.theahafoundation.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
 https://www.wtb.org.il/arabic/,HUMR,Human Rights Issues,2017-11-13,citizenlab,Women's rights
@@ -154,15 +154,15 @@ https://www.eremnews.com/,NEWS,News Media,2017-11-13,citizenlab,Arab news portal
 https://www.france24.com/en/,NEWS,News Media,2017-11-13,citizenlab,France 24 news service
 https://kitabat.com/,NEWS,News Media,2017-11-13,citizenlab,Kitabat (writings)
 https://rassd.com/,NEWS,News Media,2017-11-13,citizenlab,Arab news portal
-https://www.raya.com/,NEWS,News Media,2017-11-13,citizenlab,
+https://www.raya.com/,POLR,Political Criticism,2017-11-13,citizenlab,
 https://www.sasapost.com/,NEWS,News Media,2017-11-13,citizenlab,Sasa Post
 https://www.skynewsarabia.com/,NEWS,News Media,2017-11-13,citizenlab,Sky News Arabia
 https://www.timesofisrael.com/,NEWS,News Media,2017-11-13,citizenlab,Times of Israel
 https://www.watan.com/,NEWS,News Media,2017-11-13,citizenlab,
 https://www.watanserb.com/,NEWS,News Media,2017-11-13,citizenlab,
-https://carnegie-mec.org/,POLR,Political Criticism,2017-11-13,citizenlab,
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2017-11-13,citizenlab,
 https://nua.bh/,POLR,Political Criticism,2017-11-13,citizenlab,
-https://www.jadaliyya.com/,POLR,Political Criticism,2017-11-13,citizenlab,
+https://www.jadaliyya.com/,NEWS,News Media,2017-11-13,citizenlab,
 https://neswangy.net/,PORN,Pornography,2017-11-13,citizenlab,
 https://anaahor.blogspot.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
 https://ladeenioon.blogspot.com/,REL,Religion,2017-11-13,citizenlab,Arab atheists
@@ -206,7 +206,7 @@ http://almayadeen.net/,NEWS,News Media,2017-11-13,citizenlab,
 http://alnabanews.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://altaleea.com/,NEWS,News Media,2017-11-13,citizenlab,
 https://arabic.rt.com/,NEWS,News Media,2017-11-13,citizenlab,Russian news website
-http://asrararabiya.com/,NEWS,News Media,2017-11-13,citizenlab,
+http://asrararabiya.com/,POLR,Political Criticism,2017-11-13,citizenlab,
 http://islamion.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://mubasher.aljazeera.net/,NEWS,News Media,2017-11-13,citizenlab,
 https://twitter.com/MontadaBahrain/,NEWS,News Media,2017-11-13,citizenlab,
@@ -215,7 +215,7 @@ http://www.akhbar-alkhaleej.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.albiladpress.com/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.alhayat.com/,NEWS,News Media,2017-11-13,citizenlab,Pan-Arab newspaper
 https://www.alhurra.com/,NEWS,News Media,2017-11-13,citizenlab,
-http://www.alnour.com.lb/,NEWS,News Media,2017-11-13,citizenlab,al-Nour Radio is the official radio station of Hizbollah
+http://www.alnour.com.lb/,MILX,Terrorism and Militants,2017-11-13,citizenlab,al-Nour Radio is the official radio station of Hizbollah
 http://www.bahrainpa.org/,NEWS,News Media,2017-11-13,citizenlab,
 https://www.bahrainsms.net/ar/,NEWS,News Media,2017-11-13,citizenlab,
 http://www.bbc.co.uk/arabic/,NEWS,News Media,2017-11-13,citizenlab,BBC Arabic
@@ -296,7 +296,7 @@ https://www.fdpm.gov.bh/,CTRL,Control content,2019-07-18,Netalitica,
 http://www.uob.edu.bh/,CTRL,Control content,2019-07-18,Netalitica,
 https://www.moic.gov.bh/ar/Pages/default.aspx/,CTRL,Control content,2019-07-18,Netalitica,
 https://www.mofa.gov.bh/,CTRL,Control content,2019-07-18,Netalitica,
-https://www.bna.bh/,CTRL,Control content,2019-07-18,Netalitica,
+https://www.bna.bh/,NEWS,News Media,2019-07-18,Netalitica,
 http://www.baa.bh/,CTRL,Control content,2019-07-18,Netalitica,
 http://www.mybahrain.net/,CULTR,Culture,2019-07-18,Netalitica,
 http://www.culture.gov.bh/ar/,CULTR,Culture,2019-07-18,Netalitica,
@@ -305,15 +305,15 @@ http://bahrainbforum.com/,CULTR,Culture,2019-07-18,Netalitica,
 http://www.adab.com/,CULTR,Culture,2019-07-18,Netalitica,
 https://www.diwanalarab.com/,CULTR,Culture,2019-07-18,Netalitica,
 https://www.aldiwan.net/,CULTR,Culture,2019-07-18,Netalitica,
-https://mawdoo3.com/,CULTR,Culture,2019-07-18,Netalitica,
+https://mawdoo3.com/,SRCH,Search Engines,2019-07-18,Netalitica,
 http://www.alapn.co/ar/,CULTR,Culture,2019-07-18,Netalitica,
 http://arabca.net/,CULTR,Culture,2019-07-18,Netalitica,
 https://www.hiamag.com/,CULTR,Culture,2019-07-18,Netalitica,
 https://www.alukah.net/,CULTR,Culture,2019-07-18,Netalitica,
 https://www.zahratalkhaleej.ae/,CULTR,Culture,2019-07-18,Netalitica,
 https://www.sayidaty.net/,CULTR,Culture,2019-07-18,Netalitica,
-https://arb.majalla.com/,CULTR,Culture,2019-07-18,Netalitica,
-https://www.marefa.org/,CULTR,Culture,2019-07-18,Netalitica,
+https://arb.majalla.com/,NEWS,News Media,2019-07-18,Netalitica,
+https://www.marefa.org/,SRCH,Search Engines,2019-07-18,Netalitica,
 https://www.ubuy.com.bh/ar/,COMM,E-commerce,2019-07-18,Netalitica,
 https://bahrain.dokkanafkar.com/,COMM,E-commerce,2019-07-18,Netalitica,
 https://www.fruugobahrain.com/,COMM,E-commerce,2019-07-18,Netalitica,
@@ -437,7 +437,7 @@ http://birdbh.org/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
 https://phr.org/countries/bahrain/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
 https://www.adhrb.org/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
 https://bahrainwatch.org/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
-https://www.swissinfo.ch/ara/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
+https://www.swissinfo.ch/ara/,NEWS,News Media,2019-07-18,Netalitica,
 http://bahrainws.org/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
 http://www.byfs.org/ar/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
 https://awalcentre.com/,HUMR,Human Rights Issues,2019-07-18,Netalitica,
@@ -551,8 +551,8 @@ https://www.islamtimes.org/,POLR,Political Criticism,2019-07-18,Netalitica,
 http://nedaalbahrain.com/,POLR,Political Criticism,2019-07-18,Netalitica,
 https://www.al-wafa.co/,POLR,Political Criticism,2019-07-18,Netalitica,
 http://iuvmpress.com/ar/,POLR,Political Criticism,2019-07-18,Netalitica,
-https://ar.mehrnews.com/,POLR,Political Criticism,2019-07-18,Netalitica,
-https://nahrainnet.net/,POLR,Political Criticism,2019-07-18,Netalitica,
+https://ar.mehrnews.com/,NEWS,News Media,2019-07-18,Netalitica,
+https://nahrainnet.net/,NEWS,News Media,2019-07-18,Netalitica,
 http://ar.hawzahnews.com/,POLR,Political Criticism,2019-07-18,Netalitica,
 http://almuqawamah.com/,POLR,Political Criticism,2019-07-18,Netalitica,
 http://ar.rasanews.ir/,POLR,Political Criticism,2019-07-18,Netalitica,Iran-aligned
