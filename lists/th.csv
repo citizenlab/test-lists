@@ -75,7 +75,7 @@ https://www.hitb.org/,HACK,Hacking Tools,2014-04-15,citizenlab,hackinthebox - co
 https://www.amrc.org.hk/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"Asia Monitor Resource Centre - supporting a democratic and independent labour movement in Asia. The office is based in Hong Kong. Its work covers South Asia, East Asia, and Southeast Asia. [en] Regional site"
 https://www.asianmigrantcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Asian Migrant Centre [en] Regional site
 http://www.thinkcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Think tank on civil society. Based in Singapore. [en] Regional site
-https://www.adb.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Asian Development Bank [en]. Regional site
+https://www.adb.org/,ECON,Economics,2014-04-15,citizenlab,Asian Development Bank [en]. Regional site
 http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,NGO for LGBT people in South Asia. Based in the US. Regional site
 http://www.asianews.it/,NEWS,News Media,2014-04-15,citizenlab,AsiaNews.it [en] Regional site
 https://www.smh.com.au/,NEWS,News Media,2014-04-15,citizenlab,Sydney Morning Herald. Newspapers in Australia. [en] Regional site
@@ -185,7 +185,7 @@ https://thaipublica.org/,NEWS,News Media,2016-09-20,unknown,"Thai online newspap
 https://www.thaivisa.com/,NEWS,News Media,2016-09-20,unknown,Expat news. Now part of The Nation. [en]
 https://www.tnews.co.th/,NEWS,News Media,2016-09-20,unknown,"News agency, right wing. [th]"
 http://2bangkok.com/,POLR,Political Criticism,2016-09-20,unknown,"Thai political analysis, underreported news, and Bangkok public transportation. As of May 2020, the blog focuses on the analysis of political cartoons from Thai newspaper. [en]"
-https://www.asiasentinel.com/,POLR,Political Criticism,2016-09-20,unknown,Asian politics review and analysis [en]
+https://www.asiasentinel.com/,NEWS,News Media,2016-09-20,unknown,Asian politics review and analysis [en]
 https://kyotoreview.org/,POLR,Political Criticism,2016-09-20,unknown,Thai politics review journal [en]
 https://www.dhammakaya.net/,REL,Religion,2016-09-20,unknown,"Dhammakaya Foundation and Temple, a Buddhist church with huge followers [th] [en]"
 https://www.dmc.tv/,REL,Religion,2016-09-20,unknown,TV station of Dhammakaya Temple [th]
