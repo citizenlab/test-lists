@@ -7,7 +7,7 @@ https://www.hrichina.org/chs/zhong-guo-ren-quan-shuang-zhou-kan/,HUMR,Human Righ
 https://tibetaction.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://twitter.com/chrdnet/,HUMR,Human Rights Issues,2014-04-15,citizenlab,for control purposes
 https://twitter.com/weiquanwang/,HUMR,Human Rights Issues,2014-04-15,citizenlab,for control purposes
-http://www.dalailamaworld.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://www.dalailamaworld.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.gyalwarinpoche.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.huaxiabao.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.renyurenquan.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,The website says it has been merged with https://www.hrichina.org/chs/zhong-guo-ren-quan-shuang-zhou-kan but the original website remains accessible
@@ -89,14 +89,14 @@ https://shanghai.ist/,NEWS,News Media,2014-04-15,citizenlab,
 https://foreignpolicy.com/channel/tea-leaf-nation/,NEWS,News Media,2014-04-15,citizenlab,
 https://www2.ohchr.org/english/bodies/cat/docs/co/cat-c-chn-co4_ch.pdf/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.romneyforutah.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.douban.com/,CULTR,Culture,2014-04-15,citizenlab,
+https://www.douban.com/,GOVT,Government,2014-04-15,citizenlab,
 https://www.wto.org/english/thewto_e/countries_e/china_e.htm/,ECON,Economics,2014-04-15,citizenlab,
 https://www.chicagotribune.com/nation-world/ct-xpm-2012-11-01-sns-rt-us-china-environmentbre8a01l0-20121101-story.html/,ENV,Environment,2014-04-15,citizenlab,Chicago Tribune is a news website. This article talks about environmental issues in China.
 https://www.nrdc.org/,ENV,Environment,2014-04-15,citizenlab,
 https://www.csis.org/,GOVT,Government,2014-04-15,citizenlab,
 https://www.csis.org/regions/asia/china/,GOVT,Government,2014-04-15,citizenlab,
 https://www.whitehouse.gov/,GOVT,Government,2014-04-15,citizenlab,
-https://tibet.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://tibet.net/,GOVT,Government,2014-04-15,citizenlab,
 https://uhrp.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://uyghuramerican.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://weblog.savetibet.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -181,7 +181,7 @@ https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058/,NEWS,News Med
 https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5/,CULTR,Culture,2019-05-02,Wikimedia,URLs provided by Wikipedia based on recent censorship events
 https://matters.news/,HOST,Hosting and Blogging Platforms,2019-05-30,shenzhenlug,
 https://github.com/programthink/zhao/issues/38/,POLR,Political Criticism,2019-08-06,,GitHub government takedown notice from 2016-06-08
-https://ipfs.io/,ANON,Anonymization and circumvention tools,2019-09-09,Netalitica,Decentralized online file storage
+https://ipfs.io/,FILE,File-sharing,2019-09-09,Netalitica,Decentralized online file storage
 https://www.uupt.com/,ECON,Economics,2019-09-09,Netalitica,Express shipping service
 https://www.torrentkitty.tv/,FILE,File-sharing,2019-09-09,Netalitica,"Sharing torrents, mostly porn"
 http://www.zhuixinfan.com/main.php/,FILE,File-sharing,2019-09-09,Netalitica,Movie piracy site
@@ -253,7 +253,7 @@ http://www.dayima.com/,XED,Sex Education,2019-09-10,Netalitica,menstruation info
 http://bbs.tianya.cn/,GRP,Social Networking,2019-09-10,Netalitica,Online forum
 https://www.ptt.cc/bbs/index.html/,GRP,Social Networking,2019-09-10,Netalitica,Largest online forum in Taiwan
 https://beijing.douban.com/,GRP,Social Networking,2019-09-10,Netalitica,Event organizing platform
-https://pincong.rocks/,POLR,Political Criticism,2019-09-12,Netalitica,General forum
+https://pincong.rocks/,GRP,Social Networking,2019-09-12,Netalitica,General forum
 https://www.ishr.ch/,HUMR,Human Rights Issues,2019-09-14,Netalitica,International human rights organization
 https://www.qdaily.com/,CULTR,Culture,2019-09-14,Netalitica,"Long articles recording commerce, news and lifestyle"
 https://m.soyoung.com/,CULTR,Culture,2019-09-14,Netalitica,Plastic surgery info
