@@ -42,7 +42,7 @@ http://takbeeremusalsal.blogspot.com/2012/07/myanmar-muslims-massacre.html/,REL,
 http://twocircles.net/2012jun01/petty_dispute_leads_death_one_mathura.html/,REL,Religion,2014-04-15,citizenlab,Article about death in 2012
 https://depositfiles.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,cloud service
 https://funscrape.com/,CULTR,Culture,2014-04-15,citizenlab,"Hosting information about US universities now, but still blocked."
-https://defence.pk/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+https://defence.pk/,GOVT,Government,2014-04-15,citizenlab,
 https://sheikyermami.com/2012/06/burma-tensions-between-buddhist-residents-and-illegal-muslims-kill-seven/,NEWS,News Media,2014-04-15,citizenlab,"Opinion pieces, but seem a bit anti-Islam"
 https://www.barandbench.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://caravanmagazine.in/,NEWS,News Media,2014-04-15,citizenlab,
@@ -156,7 +156,7 @@ http://tehelka.com/,NEWS,News Media,2016-06-15,OONI,
 https://www.navdanya.org/site/,ENV,Environment,2016-06-15,OONI,
 http://www.achrweb.org/,HUMR,Human Rights Issues,2016-06-15,OONI,
 https://www.ifp.co.in/,POLR,Political Criticism,2016-06-15,OONI,This news site talks about the separatist movement in Manipur.
-https://www.ndtv.com/,POLR,Political Criticism,2016-06-15,OONI,
+https://www.ndtv.com/,NEWS,News Media,2016-06-15,OONI,
 https://safegreen.in/,ENV,Environment,2016-06-15,OONI,
 https://dailykashmirtimes.com.pk/,NEWS,News Media,2016-06-15,OONI,"Kashmiri news, in Urdu. May have been blocked because of anti-state coverage."
 https://thenortheasttoday.com/,NEWS,News Media,2016-06-15,OONI,News focusing on North East India
@@ -225,7 +225,7 @@ https://www.hindustantimes.com/,NEWS,News Media,2019-03-20,csk,
 https://www.theshillongtimes.com/,NEWS,News Media,2019-03-20,csk,
 https://indiankanoon.org/,SRCH,Search Engines,2019-03-27,OONI,Reportedly blocked on Jio
 https://www.altnews.in/,NEWS,News Media,2019-04-09,OONI,Fact checking website
-https://www.thehindu.com/,NEWS,News Media,2019-04-09,OONI,Popular english newspaper
+https://www.thehindu.com/,REL,Religion,2019-04-09,OONI,Popular english newspaper
 https://www.newslaundry.com/,NEWS,News Media,2019-04-09,OONI,Media watchdog website
 https://thewire.in/,NEWS,News Media,2019-04-09,OONI,Independent news media website
 https://www.opindia.com/,NEWS,News Media,2019-04-09,OONI,News website
