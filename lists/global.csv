@@ -927,6 +927,11 @@ http://www.well.com/user/queerjhd/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OO
 http://www.wetplace.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.wftucentral.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.whatsapp.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-08-05
+https://mmg.whatsapp.net/robots.txt,COMT,Communication Tools,2022-09-06,Chelchela,
+https://pps.whatsapp.net/robots.txt,COMT,Communication Tools,2022-09-06,Chelchela,
+https://dit.whatsapp.net/robots.txt,COMT,Communication Tools,2022-09-06,Chelchela,
+https://media-arn2-1.cdn.whatsapp.net/robots.txt,COMT,Communication Tools,2022-09-06,Chelchela,
+https://media.fevn1-1.fna.whatsapp.net/robots.txt,COMT,Communication Tools,2022-09-06,Chelchela,
 http://www.whitepages.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.who.int/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2020-02-04
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/,PUBH,Public Health,2020-02-04,OONI,coronavirus
@@ -1229,7 +1234,7 @@ https://www.tawk.to/,COMT,Communication Tools,2020-04-01,OONI,URL shared by comm
 https://9gag.com/,GRP,Social Networking,2020-04-01,OONI,URL shared by community member
 https://www.overdrive.com/,CULTR,Culture,2020-04-01,OONI,URL shared by community member
 https://www.bbm.com/,COMT,Communication Tools,2020-04-01,OONI,URL shared by community member
-https://medium.com/,POLR,Political Criticism,2020-04-01,OONI,URL shared by community member
+https://medium.com/,HOST,Hosting and Blogging Platforms,2020-04-01,OONI,URL shared by community member
 https://www.chess.com/,GAME,Gaming,2020-04-01,OONI,URL shared by community member
 https://about.riot.im/,COMT,Communication Tools,2020-04-01,OONI,URL shared by community member
 https://www.researchgate.net/,CULTR,Culture,2020-04-01,OONI,URL shared by community member
@@ -1347,9 +1352,21 @@ https://fedoramagazine.org/,HACK,Hacking Tools,2021-04-04,Chelchela,
 https://assets.gitlab-static.net/robots.txt,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://cdn.sstatic.net/Img/home/open-source.svg,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://i.instagram.com/robots.txt,GRP,Social Networking,2021-04-04,Chelchela,
-https://scontent-ams4-1.cdninstagram.com/robots.txt,GRP,Social Networking,2021-04-04,Chelchela,
-https://static.xx.fbcdn.net/robots.txt,GRP,Social Networking,2021-04-04,Chelchela,
+https://scontent-ams4-1.cdninstagram.com/favicon.ico,GRP,Social Networking,2021-04-04,Chelchela,
+https://static.xx.fbcdn.net/favicon.ico,GRP,Social Networking,2021-04-04,Chelchela,
+https://edge-mqtt.facebook.com/favicon.ico,GRP,Social Networking,2022-09-06,Chelchela,
+https://web.facebook.com/robots.txt,GRP,Social Networking,2022-09-06,Chelchela,
+https://lookaside.facebook.com/robots.txt,GRP,Social Networking,2022-09-06,Chelchela,
 https://edge-chat.instagram.com/robots.txt,GRP,Social Networking,2021-04-04,Chelchela,
+https://static.cdninstagram.com/robots.txt,GRP,Social Networking,2022-09-06,Chelchela,
+https://scontent-vie1-1.cdninstagram.com/favicon.ico,GRP,Social Networking,2022-09-06,Chelchela,
+https://scontent-frt3-2.cdninstagram.com/favicon.ico,GRP,Social Networking,2022-09-06,Chelchela,
+https://instagram.fsaw1-13.fna.fbcdn.net/favicon.ico,GRP,Social Networking,2022-09-06,Chelchela,
+https://scontent.cdninstagram.com/robots.txt,GRP,Social Networking,2022-09-06,Chelchela,
+https://video.cdninstagram.com/favicon.ico,GRP,Social Networking,2022-09-06,Chelchela,
+https://cdn.fbsbx.com/favicon.ico,GRP,Social Networking,2022-09-06,Chelchela,
+https://media0.giphy.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://media3.giphy.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
 https://code.jquery.com/,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
 https://blog.mozilla.org/,HACK,Hacking Tools,2021-04-04,Chelchela,
 https://download-installer.cdn.mozilla.net/,HOST,Hosting and Blogging Platforms,2021-04-04,Chelchela,
@@ -1360,7 +1377,10 @@ https://yandexwebcache.net/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Y
 https://cc.bingj.com/cache.aspx?q=nothing,SRCH,Search Engines,2021-07-03,Chelchela,Bing web cache
 https://encrypted-tbn0.gstatic.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Google image thumbnail cache
 https://im0-tub-com.yandex.net/i?id=462f375c96139f1e41d919b44be2d780&n=13&exp=1,SRCH,Search Engines,2021-07-03,Chelchela,Yandex image thumbnail cache
+https://video-preview.s3.yandex.net/robots.txt,SRCH,Search Engines,2022-09-06,Chelchela,
+https://avatars.mds.yandex.net/robots.txt,SRCH,Search Engines,2022-09-06,Chelchela,
 https://th.bing.com/th/id/OIP.YnpdokcN_OQYn3n41AlqZAHaEe?w=250&h=180&c=7&o=5&pid=1.7,SRCH,Search Engines,2021-07-03,Chelchela,Bing image thumbnail cache
+https://tse1.explicit.bing.net/robots.txt,SRCH,Search Engines,2022-09-06,Chelchela,
 https://external-content.duckduckgo.com/robots.txt,SRCH,Search Engines,2021-07-03,Chelchela,Duckduckgo image cache
 https://miro.medium.com/robots.txt,HOST,Hosting and Blogging Platforms,2021-07-03,Chelchela,
 https://cdn-client.medium.com/lite/static/js/manifest.ef5f44d2.js,HOST,Hosting and Blogging Platforms,2021-07-03,Chelchela,
@@ -1412,6 +1432,16 @@ https://kh.google.com/rt/earth/PlanetoidMetadata,CTRL,Control content,2021-09-21
 https://maps.gstatic.com/tactile/basepage/grid-image.png,CTRL,Control content,2021-09-21,Chelchela,
 https://khms1.google.com/kh/v=908?x=327&y=414&z=10,CTRL,Control content,2021-09-21,Chelchela,
 https://khms0.google.com/kh/v=908?x=81&y=103&z=8,CTRL,Control content,2021-09-21,Chelchela,
+https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F1x%2Fgooglelogo_color_150x54dp.png&hl=en-US&ep=gisb,SRCH,Search Engines,2022-09-06,Chelchela,
+https://play-lh.googleusercontent.com/SZ7vNaa9txw_JsYsiOOP4_4fOaKfJVMQ-_aM10MW7x93IPDYoqdIkHSw-ffCgBABFSM=s256-rw,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://play.googleapis.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://firebaseinstallations.googleapis.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://fcm.googleapis.com/$discovery/rest?version=v1,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://android.googleapis.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://android.apis.google.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://notifications-pa.googleapis.com/robots.txt,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://lh3.googleusercontent.com/favicon.ico,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
+https://www.googleapis.com/auth/cloud-platform,HOST,Hosting and Blogging Platforms,2022-09-06,Chelchela,
 https://www.knapsackforhope.org/,ANON,Anonymization and circumvention tools,2021-09-21,Chelchela,
 https://o0.ingest.sentry.io/api/0,CTRL,Control content,2021-09-21,Chelchela,
 https://sentry.io/api/0/,CTRL,Control content,2021-09-21,Chelchela,
@@ -1460,5 +1490,8 @@ https://mattermost.com/,COMT,Communication Tools,2022-06-11,OONI,
 https://www.imqq.com/,GRP,Social Networking,2022-06-11,OONI,
 https://www.douyin.com/,GRP,Social Networking,2022-06-11,OONI,
 https://weibo.com/,GRP,Social Networking,2022-06-11,OONI,
+https://cdn.jsdelivr.net/favicon.ico,HOST,Hosting and Blogging Platforms,2022-07-25,Chelchela,
+https://cdnjs.cloudflare.com/,HOST,Hosting and Blogging Platforms,2022-07-25,Chelchela,
 https://epicgames.com/,GAME,Gaming,2022-08-01,OONI,
 https://www.origin.com/,GAME,Gaming,2022-08-01,OONI,
+https://coinmarketcap.com/,ECON,Economics,2022-08-12,OONI,
