@@ -1,114 +1,351 @@
 url,category_code,category_description,date_added,source,notes
-http://panoptykon.org/,HUMR,Human Rights Issues,2017-04-09,unknown,
-http://fundacjaestera.pl/,HUMR,Human Rights Issues,2017-04-09,unknown,
-http://www.pah.org.pl/,HUMR,Human Rights Issues,2017-04-09,unknown,
-http://amnesty.org.pl/,HUMR,Human Rights Issues,2017-04-09,unknown,
-http://niebezpiecznik.pl/,HACK,Hacking Tools,2017-04-09,unknown,
-http://sekurak.pl/,HACK,Hacking Tools,2017-04-09,unknown,
-http://zaufanatrzeciastrona.pl/,HACK,Hacking Tools,2017-04-09,unknown,
-http://allegro.pl/,COMM,E-commerce,2017-04-09,unknown,
-http://olx.pl/,COMM,E-commerce,2017-04-09,unknown,
-http://gumtree.pl/,COMM,E-commerce,2017-04-09,unknown,
-http://chomikuj.pl/,FILE,File-sharing,2017-04-09,unknown,
-http://racjonalista.pl/,REL,Religion,2017-04-09,unknown,
-http://ateizm.pl/,REL,Religion,2017-04-09,unknown,
-http://radiomaryja.pl/,REL,Religion,2017-04-09,unknown,
-http://mzr.pl/,REL,Religion,2017-04-09,unknown,
-http://niezalezna.pl/,POLR,Political Criticism,2017-04-09,unknown,
-http://wpolityce.pl/,POLR,Political Criticism,2017-04-09,unknown,
-http://www.ruchkod.pl/,POLR,Political Criticism,2017-04-09,unknown,
-http://krytykapolityczna.pl/,POLR,Political Criticism,2017-04-09,unknown,
-http://wolnekonopie.org/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
-http://www.hemp.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
-http://plantsklep.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
-http://wujo.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
-http://nasionamarihuany.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
-http://www.bet-at-home.com/,GMB,Gambling,2017-04-09,unknown,
-http://pl.expekt.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betclic.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.bwin.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.bet365.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betano.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betway.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.10bet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.williamhill.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.rivalo.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.skybet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.parimatch.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.unibet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.bovada.lv/,GMB,Gambling,2017-04-09,unknown,
-http://www.coral.co.uk/,GMB,Gambling,2017-04-09,unknown,
-http://www.paddypower.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.marathonbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betsson.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.pokerstars.eu/,GMB,Gambling,2017-04-09,unknown,
-http://www.pinnacle.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.interwetten.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.1xbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betsafe.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.paf.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.favbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betonline.ag/,GMB,Gambling,2017-04-09,unknown,
-http://www.comeon.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.smarkets.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betvictor.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.novibet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.sbobet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.betfred.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.nordicbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.bookmaker.eu/,GMB,Gambling,2017-04-09,unknown,
-http://www.goalbetint.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.188bet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.bodog.eu/,GMB,Gambling,2017-04-09,unknown,
-http://www.gamebookers.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.doxxbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.intertops.eu/,GMB,Gambling,2017-04-09,unknown,
-http://www.888sport.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.tonybet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.boylesports.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.guts.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.matchbook.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.lsbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.lottoland.pl/,GMB,Gambling,2017-04-09,unknown,
-http://www.oddsring.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.energybet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.pokerstars.net/,GMB,Gambling,2017-04-09,unknown,
-http://www.888poker.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.winamax.fr/,GMB,Gambling,2017-04-09,unknown,
-http://www.24hbet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.offsidebet.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.casinoclub.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.mrgreen.com/,GMB,Gambling,2017-04-09,unknown,
-http://www.polskialarmsmogowy.pl/,PUBH,Public Health,2017-04-09,unknown,
-http://powietrze.gios.gov.pl/pjp/current,PUBH,Public Health,2017-04-09,unknown,
-http://karachan.org/,GRP,Social Networking,2017-04-09,unknown,
-http://wykop.pl/,GRP,Social Networking,2017-04-09,unknown,
-http://kph.org.pl/,LGBT,LGBT,2017-04-09,unknown,
-http://mnw.org.pl/,LGBT,LGBT,2017-04-09,unknown,
-http://ruchlgbt.pl/,LGBT,LGBT,2017-04-09,unknown,
-http://www.facebook.com/Polska.LGBT/,LGBT,LGBT,2017-04-09,unknown,
-http://queer.pl/,LGBT,LGBT,2017-04-09,unknown,
-http://kwejk.pl/,MMED,Media sharing,2017-04-09,unknown,
-http://wiocha.pl/,MMED,Media sharing,2017-04-09,unknown,
-http://joemonster.org/,MMED,Media sharing,2017-04-09,unknown,
-http://demotywatory.pl/,MMED,Media sharing,2017-04-09,unknown,
-http://interia.pl/,NEWS,News Media,2017-04-09,unknown,
-http://gazeta.pl/,NEWS,News Media,2017-04-09,unknown,
-http://wp.pl/,NEWS,News Media,2017-04-09,unknown,
-http://onet.pl/,NEWS,News Media,2017-04-09,unknown,
-http://www.wyborcza.pl/,NEWS,News Media,2017-04-09,unknown,
-http://www.tvn24.pl/,NEWS,News Media,2017-04-09,unknown,
+https://wolnekonopie.org/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
+https://www.hemp.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
+https://wujo.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
+https://nasionamarihuany.pl/,ALDR,Alcohol & Drugs,2017-04-09,unknown,
+https://sklep-z-winem.pl/,ALDR,Alcohol & Drugs,2021-12-29,Netaltica,
+https://hyperreal.info/,ALDR,Alcohol & Drugs,2022-01-07,Netaltica,first and oldest Polish service about psychoactive substances
+https://narkopedia.org/,ALDR,Alcohol & Drugs,2022-01-07,Netaltica,knowledge base on psychoactive substances
+https://neurogroove.info/,ALDR,Alcohol & Drugs,2022-01-07,Netaltica,"NG serves as a place to publish accounts of experiences induced by psychoactive substances (""trip reports"")."
+https://browar-tenczynek.pl/,ALDR,Alcohol & Drugs,2022-01-08,Netaltica,
+http://www.ciechan.com.pl/,ALDR,Alcohol & Drugs,2022-01-08,Netaltica,
+https://www.brjsa.pl/,ALDR,Alcohol & Drugs,2022-01-08,Netaltica,
+https://podolewielkie.pl/,ALDR,Alcohol & Drugs,2022-01-08,Netaltica,
+https://www.destylernia.pl/,ALDR,Alcohol & Drugs,2022-01-08,Netaltica,
+http://destylarniapiasecki.pl/,ALDR,Alcohol & Drugs,2022-01-08,Netaltica,
+https://proksiak.pl/,ANON,Anonymization and circumvention tools,2022-01-08,Netaltica,Polish proxy
+https://prywatne.proxylive.pl/,ANON,Anonymization and circumvention tools,2022-01-08,Netaltica,
+https://allegro.pl/,COMM,E-commerce,2017-04-09,unknown,
+https://www.olx.pl/,COMM,E-commerce,2017-04-09,unknown,
+https://www.gumtree.pl/,COMM,E-commerce,2017-04-09,unknown,
+https://zrzutka.pl/,COMM,E-commerce,2021-11-25,Netaltica,Zrzutka.pl is a tool for creating online money collections for any purpose / in past they temporary blocked money for LGBT group
+https://www.pepper.pl/,COMM,E-commerce,2021-12-21,Netaltica,
+https://www.ceneo.pl/,COMM,E-commerce,2021-12-21,Netaltica,
+https://www.skapiec.pl/,COMM,E-commerce,2021-12-21,Netaltica,
+https://www.otomoto.pl/,COMM,E-commerce,2021-12-21,Netaltica,
+https://www.publio.pl/,COMM,E-commerce,2021-12-22,Netaltica,"Publio.pl is an online bookstore, where you can buy e-books, audiobooks and e-papers."
+https://pl.aliexpress.com/,COMM,E-commerce,2021-12-22,Netaltica,
+https://dobreprogramy.pl/,COMM,E-commerce,2021-12-29,Netaltica,"Polish service about new technologies - news, software, publications, demonstrations, videos, tests"
+https://www.elektroda.pl/,COMM,E-commerce,2021-12-29,Netaltica,Famous polish forum for electronics experts
+https://allegrolokalnie.pl/,COMM,E-commerce,2021-12-29,Netaltica,
+https://www.portalspozywczy.pl/,COMM,E-commerce,2021-12-29,Netaltica,a source of information for the food industry and its institutional and market environment.
+https://www.rynekaptek.pl/,COMM,E-commerce,2021-12-29,Netaltica,A specialized portal for pharmacists and pharmacists.
+https://osrodekuzaleznien.com.pl/,COMM,E-commerce,2021-12-29,Netaltica,Private Addiction Treatment Centre
+https://nasz-gabinet.pl/,COMM,E-commerce,2021-12-29,Netaltica,the largest network of alcohol addiction treatment clinics in Poland
+https://www.alkoholizm.med.pl/,COMM,E-commerce,2021-12-29,Netaltica,Private addiction treatment center
+https://polakpotrafi.pl/,COMM,E-commerce,2022-01-07,Netaltica,"a platform to raise money for a cause, person, organization"
+https://patronite.pl/,COMM,E-commerce,2022-01-07,Netaltica,"a platform to raise money for a cause, person, organization"
+https://brand24.pl/,COMM,E-commerce,2022-01-08,Netaltica,social media analysis platform
+https://gdpr.pl/,COMM,E-commerce,2022-01-08,Netaltica,Portal on the EU Data Protection Regulation
+https://helion.pl/,COMM,E-commerce,2022-01-08,Netaltica,"one of the biggest specialist e-bookstores in Poland. Here you will find the best books, ebooks, audiobooks, and video courses for professionals in the IT industry, including programmers, web developers, and graphic designers."
+https://www.aeroflot.ru/xx-en,COMM,E-commerce,2022-06-10,Netaltica,Russian national carrier
+https://chaturbate.com/,COMT,Communication Tools,2021-12-21,Netaltica,
+https://www.gg.pl/,COMT,Communication Tools,2021-12-26,Netaltica,
+https://tok-lok.com/,COMT,Communication Tools,2022-01-08,Netaltica,Polish messaging app
+https://polczat.pl/,COMT,Communication Tools,2022-01-08,Netaltica,
+https://chati.pl/,COMT,Communication Tools,2022-01-08,Netaltica,
+https://czatoo.pl/,COMT,Communication Tools,2022-01-08,Netaltica,
+https://czateria.interia.pl/,COMT,Communication Tools,2022-01-08,Netaltica,
+https://6obcy.org/,COMT,Communication Tools,2022-01-08,Netaltica,
+https://anotalk.pl/,COMT,Communication Tools,2022-01-08,Netaltica,
 https://pl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pl.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pl.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pl.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://www.gov.pl/web/zdrowie/co-musisz-wiedziec-o-koronawirusie,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
-https://aborcja-polska.org/,XED,Sex Education,2020-08-21,OONI,Related to Women on Web
+https://www.filmweb.pl/,CULTR,Culture,2021-12-21,Netaltica,
+https://www.librus.pl/,CULTR,Culture,2021-12-21,Netaltica,"the largest educational portal providing electronic school diaries for schools, parents and students"
+https://plejada.pl/,CULTR,Culture,2021-12-25,Netaltica,"show business news, gossip portal"
+https://www.pudelek.pl/,CULTR,Culture,2021-12-25,Netaltica,"show business news, gossip portal"
+https://www.plotek.pl/,CULTR,Culture,2021-12-25,Netaltica,"show business news, gossip portal"
+https://www.diki.pl/,CULTR,Culture,2021-12-29,Netaltica,Online English Dictionary
+https://www.animezone.pl/,CULTR,Culture,2021-12-29,Netaltica,
+https://wbijam.pl/,CULTR,Culture,2021-12-29,Netaltica,anime forum
+https://shinden.pl/,CULTR,Culture,2021-12-29,Netaltica,anime forum
+https://www.pomponik.pl/,CULTR,Culture,2021-12-29,Netaltica,"show business news, gossip portal"
+https://www.bn.org.pl/,CULTR,Culture,2021-12-29,Netaltica,National Library of Poland
+https://www.meteo.pl/,CULTR,Culture,2021-12-29,Netaltica,weather service
+https://www.matkaniewariatka.pl/,CULTR,Culture,2022-01-07,Netaltica,Well known blog about maternity
+https://www.egodropfestival.pl/,CULTR,Culture,2022-01-07,Netaltica,electronic music festival
+https://morena.org.pl/,CULTR,Culture,2022-01-07,Netaltica,The activities of the association are aimed at young people and those who work with them.
+https://garbiczfestival.com/,CULTR,Culture,2022-01-07,Netaltica,Music festival
+https://lubimyczytac.pl/,CULTR,Culture,2022-01-07,Netaltica,"popular literature portal, forum, reviews"
+https://www.audioriver.pl/,CULTR,Culture,2022-01-07,Netaltica,Music festival
+https://uptodate.pl/,CULTR,Culture,2022-01-07,Netaltica,Music festival
+https://slam.art.pl/,CULTR,Culture,2022-01-07,Netaltica,Independent poetry slam collective and events
+https://www.biuroliterackie.pl/,CULTR,Culture,2022-01-07,Netaltica,"Biuro Literackie has been an independent publishing house since 1996 and has been popularizing Polish literature, its authors and books in Poland and abroad."
+https://komediowy.pl/,CULTR,Culture,2022-01-07,Netaltica,The Comedy Club is an independent theater for adults where American comedy flirts with Polish culture.
+https://www.kulturalna.pl/,CULTR,Culture,2022-01-07,Netaltica,independent music and culture club
+https://www.barstudio.pl/,CULTR,Culture,2022-01-07,Netaltica,independent music and culture club
+https://globstory.pl/,CULTR,Culture,2022-01-07,Netaltica,Globstory is a lifestyle Youtube channel inspired by travel
+https://pyrkon.pl/,CULTR,Culture,2022-01-07,Netaltica,fantasy and comics festival
+https://noizz.pl/,CULTR,Culture,2022-01-07,Netaltica,cultural and lifestyle news magazine
+https://poptown.eu/,CULTR,Culture,2022-01-07,Netaltica,cultural and lifestyle news magazine
+https://muno.pl/,CULTR,Culture,2022-01-07,Netaltica,Muno.pl provides the latest information on music club culture in Poland.
+https://mozaikadzieciom.pl/,CULTR,Culture,2022-01-07,Netaltica,"The Mozaika artistic company is a team of creative and energetic people who share a passion for working with children. We have many years of experience in the production of performances, concerts and workshops aimed at children and families with children. "
+https://www.tekstowo.pl/,CULTR,Culture,2022-01-07,Netaltica,the most popular Polish lyrics service
+https://www.boonga.pl/,DATE,Online Dating,2022-01-07,Netaltica,
+https://www.mydwoje.pl/,DATE,Online Dating,2022-01-12,Netaltica,
+https://sympatia.onet.pl/,DATE,Online Dating,2022-01-12,Netaltica,
+https://www.niktsieniedowie.com/,DATE,Online Dating,2022-01-12,Netaltica,
+https://fellow.pl/,DATE,Online Dating,2022-01-12,Netaltica,
+https://www.edarling.pl/,DATE,Online Dating,2022-01-12,Netaltica,
+https://www.erodate.pl/,DATE,Online Dating,2022-01-12,Netaltica,
+https://www.be2.pl/,DATE,Online Dating,2022-01-12,Netaltica,
+https://www.hub.coop/,ECON,Economics,2021-12-21,Netaltica,NGO - Cooperative Technology Center
+https://instrat.pl/,ECON,Economics,2021-12-21,Netaltica,"NGO - progressive think-tank providing public policy advice. Our research programs cover the digital economy, energy and the environment"
+https://strefainwestorow.pl/,ECON,Economics,2021-12-29,Netaltica,
+https://neweconomy.pl/,ECON,Economics,2022-01-07,Netaltica,"We are in the business of connecting companies in the early stages of development, with people who want to support Polish entrepreneurship."
+https://www.f-trust.pl/,ECON,Economics,2022-01-07,Netaltica,We offer savings and investment products to our customers
+https://www.analizy.pl/,ECON,Economics,2022-01-07,Netaltica,"specialized, independent analytical company which monitors and analyzes in detail the situation in particular areas of the capital market on an ongoing basis."
+https://mojefundusze.pl/,ECON,Economics,2022-01-07,Netaltica,"mojeFundsze is a software designed for financial advisors, insurance brokers and all people interested in capital markets."
+https://investors.pl/,ECON,Economics,2022-01-07,Netaltica,one of the nation's oldest independent fund management firms.
+https://www.pfrtfi.pl/,ECON,Economics,2022-01-07,Netaltica,"We manage funds, support entrepreneurship and long-term savings"
+https://www.caspar.com.pl/,ECON,Economics,2022-01-07,Netaltica,"offering investors professionally and effectively managed investment funds operating on selected markets in Western Europe, the USA and Poland. "
+https://starfunds.pl/,ECON,Economics,2022-01-07,Netaltica,intermediation in the sale and redemption of investment fund participation units and participation titles in foreign funds.
+https://www.paih.gov.pl/,ECON,Economics,2022-01-08,Netaltica,polish investment and trade agency
+http://gazprom.com/,ECON,Economics,2022-06-10,Netaltica,Russian  gas company
+https://www.rosneft.ru/,ECON,Economics,2022-06-10,Netaltica,Russian  oil company
+https://www.surgutneftegas.ru/,ECON,Economics,2022-06-10,Netaltica,Russian  oil company
+https://lukoil.ru/,ECON,Economics,2022-06-10,Netaltica,Russian  oil company
+http://www.transneft.ru/,ECON,Economics,2022-06-10,Netaltica,Russian  oil company
+https://planetheroes.pl/,ENV,Environment,2022-01-07,Netaltica,Planet Heroes is the first environmental platform whose mission is to clean up our planet! 
+https://ekoportal.gov.pl/,ENV,Environment,2022-01-08,Netaltica,
+https://siostryrzeki.wordpress.com/,ENV,Environment,2022-01-08,Netaltica,NGO
+https://www.wwf.pl/,ENV,Environment,2022-01-08,Netaltica,nature conservation around the world
+http://praworzeki.eko-unia.org.pl/,ENV,Environment,2022-01-08,Netaltica,NGO monitoring Polish rivers
+https://chomikuj.pl/,FILE,File-sharing,2017-04-09,unknown,
+https://www.programosy.pl/,FILE,File-sharing,2022-01-08,Netaltica,software download service - legal versions
+https://torrento.pl/,FILE,File-sharing,2022-01-08,Netaltica,
+https://vtorrent.pl/,FILE,File-sharing,2022-01-08,Netaltica,
+https://torrentcity.pl/,FILE,File-sharing,2022-01-08,Netaltica,
+https://www.roblox.com/,GAME,Gaming,2021-12-26,Netaltica,online gaming platform - #40 in Poland Alexa Rank
+https://www.kurnik.pl/,GAME,Gaming,2021-12-29,Netaltica,"card and board games online, polish service"
+http://www.grajcie.pl/,GAME,Gaming,2022-01-07,Netaltica,
+https://www.gry.pl/,GAME,Gaming,2022-01-07,Netaltica,
+https://www.gry-online.pl/,GAME,Gaming,2022-01-07,Netaltica,"news about games and free games to play. Games encyclopedia, discussion forum."
+https://gameplay.pl/,GAME,Gaming,2022-01-07,Netaltica,"Games, movies, computers, consoles, books, music."
+https://tvgry.pl/,GAME,Gaming,2022-01-07,Netaltica," TV for gamers, gaming videos, top 10 lists and famous faces"
+https://www.gierkionline.pl/,GAME,Gaming,2022-01-07,Netaltica,
+https://www.grajteraz.pl/,GAME,Gaming,2022-01-07,Netaltica,
+https://poki.pl/,GAME,Gaming,2022-01-07,Netaltica,a platform with free games available online.
+https://pl.crazygames.com/,GAME,Gaming,2022-01-07,Netaltica,
+http://www.portalmmo.pl/,GAME,Gaming,2022-01-07,Netaltica,
+https://mycompanypolska.pl/,GAME,Gaming,2022-01-07,Netaltica,
+https://www.miastogier.pl/,GAME,Gaming,2022-01-07,Netaltica,
+http://www.betway.com/,GMB,Gambling,2017-04-09,unknown,
+https://promotions.comeon.com/,GMB,Gambling,2017-04-09,unknown,"returns '500 – Internal Server Error' in Poalnd, opens ok outside"
+https://sports.bwin.com/pl/sports/,GMB,Gambling,2017-04-09,unknown,
+https://sports.coral.co.uk/,GMB,Gambling,2017-04-09,unknown,
+https://www.betsson37.com/pl/,GMB,Gambling,2017-04-09,unknown,
+https://www.goalbet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.doxxbet.sk,GMB,Gambling,2017-04-09,unknown,
+https://everygame.eu/,GMB,Gambling,2017-04-09,unknown,
+https://www.lotto.pl/,GMB,Gambling,2017-04-09,unknown,
+https://twin.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.betclic.com/,GMB,Gambling,2017-04-09,unknown,returns 'error 403 - forbidden' within Poland
+https://www.bet-at-home.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.bet365.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.betano.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.10bet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.williamhill.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.rivalo.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.skybet.com/,GMB,Gambling,2017-04-09,unknown,
+https://parimatch.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.unibet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.bovada.lv/,GMB,Gambling,2017-04-09,unknown,
+https://www.paddypower.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.marathonbet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.pokerstars.eu/,GMB,Gambling,2017-04-09,unknown,
+https://www.pinnacle.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.interwetten.com/,GMB,Gambling,2017-04-09,unknown,
+https://1xbet.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.betsafe.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.paf.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.favbet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.betonline.ag/,GMB,Gambling,2017-04-09,unknown,
+https://smarkets.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.betvictor.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.novibet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.sbobet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.betfred.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.nordicbet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.bookmaker.eu/,GMB,Gambling,2017-04-09,unknown,
+https://www.188bet.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.bodog.eu/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://gamebookers.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.888sport.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://tonybet.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.boylesports.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.guts.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.matchbook.com/,GMB,Gambling,2017-04-09,unknown,gives '405 not allowed' in Poland
+https://lsbet.com/,GMB,Gambling,2017-04-09,unknown,
+https://energybet.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
+https://www.pokerstars.net/,GMB,Gambling,2017-04-09,unknown,
+https://www.888poker.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.casinoclub.com,GMB,Gambling,2017-04-09,unknown,
+https://www.mrgreen.com/,GMB,Gambling,2017-04-09,unknown,
+https://www.meczyki.pl/,GMB,Gambling,2021-12-26,Netaltica,
+https://www.sts.pl/,GMB,Gambling,2021-12-26,Netaltica,
+https://www.efortuna.pl/,GMB,Gambling,2021-12-26,Netaltica,
+https://www.superbet.pl/,GMB,Gambling,2021-12-26,Netaltica,
+https://www.betclic.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://www.euro.com.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://weszlo.com/,GMB,Gambling,2021-12-28,Netaltica,
+https://fuksiarz.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://ewinner.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://www.pzbuk.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://betfan.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://www.etoto.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://lvbet.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://www.totolotek.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://gol24.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://www.flashscore.pl/,GMB,Gambling,2021-12-28,Netaltica,
+https://www.transfermarkt.pl/,GMB,Gambling,2021-12-29,Netaltica,
+https://www.abw.gov.pl/,GOVT,Government,2021-12-23,Netaltica,Internal Security Agency
+https://csirt-mon.wp.mil.pl/,GOVT,Government,2022-01-08,Netaltica,"A national-level Computer Security Incident Response Team, led by the Minister of Defense, that functions within the National Cybersecurity Center."
+https://www.mid.ru/,GOVT,Government,2022-06-10,Netaltica,The Ministry of Foreign Affairs of the Russian Federation
+https://eng.mil.ru,GOVT,Government,2022-06-10,Netaltica,"
+Ministry of Defence of the Russian Federation"
+https://mil.ru/,GOVT,Government,2022-06-10,Netaltica,"
+Ministry of Defence of the Russian Federation - RUS"
+https://www.belarus.by/,GOVT,Government,2022-06-10,Netaltica,"provide key information about the Republic of Belarus, its tourist and economic potential. supported by the BelTA News Agency. "
+https://eng.belta.by/,GOVT,Government,2022-06-10,Netaltica,The Belarusian Telegraph Agency (BelTA) is Belarus’ largest news agency. For 100 years BelTA has been the country’s official news agency
+http://www.kc.gov.by/,GOVT,Government,2022-06-10,Netaltica,the Constitutional Court of the Republic of Belarus
+https://ec.europa.eu/,GOVT,Government,2022-06-10,Netaltica,The European Commission
+https://www.europarl.europa.eu/,GOVT,Government,2022-06-10,Netaltica,European Parliament
+https://curia.europa.eu/,GOVT,Government,2022-06-10,Netaltica,Court of Justice of the European Union
+https://www.coe.int/,GOVT,Government,2022-06-10,Netaltica,Council of Europe
+https://www.adwokatura.pl/,GOVT,Government,2022-06-10,Netaltica,"The Polish Bar Association is established to provide legal assistance, to cooperate in the protection of civil rights and freedoms, and to participate in shaping and applying the law. "
+https://www.mzv.cz/,GOVT,Government,2022-06-10,Netaltica,Ministry of Foreign Affairs of the Czech Republic
+https://mfa.gov.ua/,GOVT,Government,2022-06-10,Netaltica,Ministry of Foreign Affairs of Ukraine
+https://www.president.gov.ua/,GOVT,Government,2022-06-10,Netaltica,President of Ukraine
+https://www.mil.gov.ua/,GOVT,Government,2022-06-10,Netaltica,Ministry of Defence of Ukraine
+https://karachan.org/,GRP,Social Networking,2017-04-09,unknown,
+https://www.wykop.pl/,GRP,Social Networking,2017-04-09,unknown,
+https://albicla.com/,GRP,Social Networking,2021-12-20,Netaltica,Polish social media service
+https://niebezpiecznik.pl/,HACK,Hacking Tools,2017-04-09,unknown,
+https://sekurak.pl/,HACK,Hacking Tools,2017-04-09,unknown,
+https://zaufanatrzeciastrona.pl/,HACK,Hacking Tools,2017-04-09,unknown,
+https://spidersweb.pl/,HACK,Hacking Tools,2021-12-29,Netaltica,
+https://www.komputerswiat.pl/,HACK,Hacking Tools,2022-01-07,Netaltica,technology news
+https://cyberforces.com/,HACK,Hacking Tools,2022-01-08,Netaltica,private digital security firm
+https://rynekinformacji.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,"infobrokers with several years of experience, specializing, among others, in competitive intelligence and market analyses for business purposes"
+https://www.benchmark.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,website about computers and new technologies.
+https://www.consol.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,private digital security firm
+https://antyweb.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,Technological information on the Polish and worldwide Internet
+https://www.onr.com.pl/,HATE,Hate Speech,2022-01-12,Netaltica,fascist organization
+https://marszniepodleglosci.pl,HATE,Hate Speech,2022-01-12,Netaltica,neonazi and fascist organization
+https://narodowyhoryzont.pl/,HATE,Hate Speech,2022-01-12,Netaltica,National Horizon is a magazine published by the National-Radical Camp
+https://kierunki.info.pl/,HATE,Hate Speech,2022-01-12,Netaltica,fascist and neonazi news portal
+https://ruchnarodowo-radykalny.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,fascist and neonazi group covered under religious content
+https://tenetetraditiones.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,"A quasi-Catholic blog ""A blog dedicated to Roman Catholicism integral, and the Polish national and monarchist idea."" - contains xenophobic content and recommends neo-Nazi and fascist organizations"
+https://myslkatolicka.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,A quasi-Catholic blog  - contains xenophobic content and recommends neo-Nazi and fascist organizations
+https://pelagiusasturiensis.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+https://lagloriadelasantisimavirgen.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+https://teologkatolicki.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,xenophobic quasi-religious content
+https://kin-rchristusrex.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,
+https://gladiusferreus.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,quasi religious xenophobic blog related to neonazi group
+https://medianarodowe.com/,HATE,Hate Speech,2022-01-12,Netaltica,"service provided by nationalist Association ""March of Independence"""
+https://szturm.com.pl/,HATE,Hate Speech,2022-01-12,Netaltica,national-radicalism
+http://autonom.pl/,HATE,Hate Speech,2022-01-12,Netaltica,"""nationalist movement"" (neonazi group)"
+https://3droga.pl/,HATE,Hate Speech,2022-01-12,Netaltica,"""nationalist movement"" (neonazi group)"
+http://drogalegionisty.pl/,HATE,Hate Speech,2022-01-12,Netaltica,
+https://www.nacjonalista.pl/,HATE,Hate Speech,2022-01-12,Netaltica,
+https://owpkr.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,quasi religious xenophobic blog related to neonazi group
+https://mw.org.pl/,HATE,Hate Speech,2022-01-12,Netaltica,"""nationalist movement"" (neonazi group)"
+https://www.nop.org.pl/,HATE,Hate Speech,2022-01-12,Netaltica,
+https://jacekmiedlar.pl/,HATE,Hate Speech,2022-01-12,Netaltica,antisemitism
+https://niezlomni.com/,HATE,Hate Speech,2022-01-12,Netaltica,"disinformation, misinformation, ""nationalist movement"""
+http://www.redwatch.info/,HATE,Hate Speech,2022-01-12,Netaltica,"anti-semitic content, harassment of activists"
+https://www.hostinger.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.webd.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.smarthost.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://dhosting.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://seohost.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://home.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.nazwa.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://az.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://hrd.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://hostinghouse.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://domeny.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://zenbox.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.lh.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://cyberfolks.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://progreso.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.kei.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.kylos.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.kru.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.iq.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.aftermarket.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.cba.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.cal.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,
+https://www.ct8.pl/,HOST,Hosting and Blogging Platforms,2022-01-08,Netaltica,free hosting
+https://panoptykon.org/,HUMR,Human Rights Issues,2017-04-09,unknown,
+https://www.pah.org.pl/,HUMR,Human Rights Issues,2017-04-09,unknown,
+https://amnesty.org.pl/,HUMR,Human Rights Issues,2017-04-09,unknown,Amnesty Poland
+http://strajkkobiet.eu/,HUMR,Human Rights Issues,2021-11-24,Netaltica,the website of the feminist movement Poland Women's Strike
+https://archiwumosiatynskiego.pl/,HUMR,Human Rights Issues,2021-12-06,Netaltica,"document, analyse and explain developments in the rule of law"
+https://watchdogportal.pl/,HUMR,Human Rights Issues,2021-12-07,Netaltica,the only portal in Poland devoted entirely to the subject of watchdog activities
+https://femfund.pl/,HUMR,Human Rights Issues,2021-12-07,Netaltica,NGO with grants for women and LGBT+ initiatives
+http://codziennikfeministyczny.pl/,HUMR,Human Rights Issues,2021-12-07,Netaltica,non formal news and blog magazine
+https://www.batory.org.pl/,HUMR,Human Rights Issues,2021-12-08,Netaltica,NGO supporting the development of democracy and civil society
+https://schuman.pl/,HUMR,Human Rights Issues,2021-12-08,Netaltica,NGO mobilising citizens to engage in the European unification process
+https://instytutsprawobywatelskich.pl/,HUMR,Human Rights Issues,2021-12-09,Netaltica,NGO civic organisation independent of political parties
+https://lekarzekobietom.pl/,HUMR,Human Rights Issues,2021-12-09,Netaltica,Informal group to help women get in touch with a doctor who can prescribe the morning-after pill 
+https://fdds.pl/,HUMR,Human Rights Issues,2021-12-10,Netaltica,NGO that  deals with the issue of violence and sexual abuse of children
+https://umarlestatuty.pl/,HUMR,Human Rights Issues,2021-12-13,Netaltica,association for the protection of pupils' rights
+https://www.akcjademokracja.pl/,HUMR,Human Rights Issues,2021-12-13,Netaltica,"works for social justice, respect for human rights, peace, protection of the planet and increasing democracy."
+https://feminoteka.pl/,HUMR,Human Rights Issues,2021-12-13,Netaltica,"NGO - supports women, antiviolence action"
+https://sin.org.pl/,HUMR,Human Rights Issues,2021-12-14,Netaltica,NGO working for a drugs policy based on facts and human rights
+https://www.fnw.org.pl/,HUMR,Human Rights Issues,2021-12-20,Netaltica,NGO - reduce the polarisation of world views and to rebuild a civic community in Poland.
+https://www.clientearth.pl/,HUMR,Human Rights Issues,2021-12-20,Netaltica,"NGO -  ClientEarth Lawyers for Earth Foundation - organisation of lawyers, climate and environment"
+https://www.ngo.pl/,HUMR,Human Rights Issues,2021-12-20,Netaltica,non-governmental organizations' portal
+https://cyfrowa-wyprawka.org/,HUMR,Human Rights Issues,2021-12-20,Netaltica,Digital rights toolkit prepared by Panoptykon
+https://www.fundacjaibs.pl/,HUMR,Human Rights Issues,2021-12-21,Netaltica,"NGO - Social Security Institute, antiradicalization initiative cooperates with gov and business"
+http://www.prekursor.org/,HUMR,Human Rights Issues,2022-01-07,Netaltica,PREKURSOR Social Policy Foundation is a coalition of NGOs and professionals working in the field of public health and social policy.
+https://szajnmag.pl/,HUMR,Human Rights Issues,2022-01-07,Netaltica,"independent lifestyle and young adult magazine, LGBT+ friendly, run by NGO"
+https://miastojestnasze.org/,HUMR,Human Rights Issues,2022-01-08,Netaltica,"NGO, the largest urban movement in Warsaw, we cooperate with other urban movements in Warsaw, Poland and Europe."
+https://www.digitalpoland.org/,HUMR,Human Rights Issues,2022-01-08,Netaltica,"Digital Poland Foundation turns digital challenges into opportunities for the Polish economy. We position Poland as a leading digital innovation hub in the world, promoting international and cross-industry initiatives"
+https://www.mowanienawisci.info/,HUMR,Human Rights Issues,2022-01-08,Netaltica,anti hate speech project
+http://www.anteris.org.pl/,HUMR,Human Rights Issues,2022-01-08,Netaltica, Legal Aid Foundation
+https://www.nigdywiecej.org/,HUMR,Human Rights Issues,2022-01-08,Netaltica,anti hate speech NGO
+https://www.hf.org.pl/,HUMR,Human Rights Issues,2022-01-08,Netaltica,"Anti-discrimination, Integration NGO"
+https://interwencjaprawna.pl/,HUMR,Human Rights Issues,2022-01-08,Netaltica,The mission of the Association for Legal Intervention is to ensure social cohesion by working for the equality of all people before the law. 
+https://www.prohumanum.org/,HUMR,Human Rights Issues,2022-01-12,Netaltica,The activities of the PRO HUMANUM Association are aimed at preventing social exclusion and marginalization of various social groups as well as counteracting discrimination in all areas of social life.
+http://uchodzcy.info/,HUMR,Human Rights Issues,2022-01-12,Netaltica,service about and for migrants
+https://uprzedzuprzedzenia.org/,HUMR,Human Rights Issues,2022-01-12,Netaltica,
+http://hejtstop.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,anti hate speech project
+https://omzrik.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,Monitoring Centre on Racist and Xenophobic Behaviour
+https://obywatelerp.org/,HUMR,Human Rights Issues,2022-01-12,Netaltica,The Citizens of Poland movement was formed in 2016 out of opposition to the violation of the constitution and the destruction of the foundations of the rule of law by PiS
+https://demokracjaodzaraz.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,Support the Primary Election Initiative 
+https://monitorkonstytucyjny.eu/,HUMR,Human Rights Issues,2022-01-12,Netaltica,"Service with updated information about constitution, state, law"
+https://www.iustitia.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,"We are an independent, apolitical and self-governing association of Polish judges.
+Our main mission is to defend civil liberties and rights, the foundation of a democratic Poland that belongs to the European Union."
+https://szpila.blackblogs.org/,HUMR,Human Rights Issues,2022-06-10,Netaltica,"We are a feminist anti-repression collective, i.e. we organize help for people who face violence and harassment from authorities and police because of their social activism, especially during current protests."
+https://yigf.nask.pl/,IGO,Intergovernmental Organizations,2022-01-08,Netaltica,Internet Governence Forum Youth Poland
 https://stopbzdurom.pl/,LGBT,LGBT,2020-08-17,citizenlab,LGBT activist group
 https://lgbtfreezones.pl/,LGBT,LGBT,2020-08-17,citizenlab,Project that maps LGBT-free zones in the country
 https://atlasnienawisci.pl/,LGBT,LGBT,2020-08-17,citizenlab,Project that maps places that discriminate against LGBT folks in the country
-https://www.prideshop.pl/,LGBT,LGBT,2020-08-17,citizenlab,Store for rainbow flag related merchandise
+https://prideshop.pl/,LGBT,LGBT,2020-08-17,citizenlab,Store for rainbow flag related merchandise
+https://kph.org.pl/,LGBT,LGBT,2017-04-09,unknown,gives Error 522 in Poland but opens ok outside
+https://mnw.org.pl/,LGBT,LGBT,2017-04-09,unknown,
+https://ruchlgbt.pl/,LGBT,LGBT,2017-04-09,unknown,
+https://queer.pl/,LGBT,LGBT,2017-04-09,unknown,
+http://lambdawarszawa.org/,LGBT,LGBT,2021-12-08,Netaltica,NGO 
+https://www.transfuzja.org/,LGBT,LGBT,2021-12-10,Netaltica,NGO supporting human and transgender people rights
+https://poradniksojuszniczy.pl/,LGBT,LGBT,2021-12-20,Netaltica,Unformal group supporting LGBTQ people
+https://kwejk.pl/,MMED,Media sharing,2017-04-09,unknown,
+https://www.wiocha.pl/,MMED,Media sharing,2017-04-09,unknown,
+https://joemonster.org/,MMED,Media sharing,2017-04-09,unknown,
+https://demotywatory.pl/,MMED,Media sharing,2017-04-09,unknown,
+https://www.cda.pl/,MMED,Media sharing,2021-12-21,Netaltica,
+https://www.blasty.pl/,MMED,Media sharing,2021-12-26,Netaltica,
+https://memy.pl/,MMED,Media sharing,2021-12-26,Netaltica,
+https://paczaizm.pl/,MMED,Media sharing,2021-12-26,Netaltica,
+https://jbzd.com.pl/,MMED,Media sharing,2021-12-26,Netaltica,
+https://www.tvbox.one/,MMED,Media sharing,2021-12-29,Netaltica,
+https://hyperreal.tube/,MMED,Media sharing,2022-01-07,Netaltica,video service of the first and oldest Polish service about psychoactive substances
 https://www.wprost.pl/,NEWS,News Media,2020-08-17,citizenlab,Weekly newsmagazine
 https://www.rmf24.pl/,NEWS,News Media,2020-08-17,citizenlab,Radio station
 https://www.tokfm.pl/,NEWS,News Media,2020-08-17,citizenlab,Radio station
@@ -118,21 +355,185 @@ https://www.fakt.pl/,NEWS,News Media,2020-08-17,citizenlab,Tabloid
 https://www.se.pl/,NEWS,News Media,2020-08-17,citizenlab,Tabloid
 https://dziennikpolski24.pl/,NEWS,News Media,2020-08-17,citizenlab,Newspaper
 https://polskatimes.pl/,NEWS,News Media,2020-08-17,citizenlab,Newspaper
-http://ppspl.eu/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Polish Socialist
-https://konfederacja.net/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Konfederacja
-https://lewica2019.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Lewica Razem
-https://sld.org.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Sojusz Lewicy Demokratycznej
+https://www.interia.pl/,NEWS,News Media,2017-04-09,unknown,
+https://www.gazeta.pl,NEWS,News Media,2017-04-09,unknown,
+https://www.wp.pl/,NEWS,News Media,2017-04-09,unknown,
+https://www.onet.pl/,NEWS,News Media,2017-04-09,unknown,
+https://wyborcza.pl/,NEWS,News Media,2017-04-09,unknown,
+https://tvn24.pl/,NEWS,News Media,2017-04-09,unknown,
+https://www.polskieradio.pl/,NEWS,News Media,2021-11-24,Netaltica,Polish news radio network and radiostation
+https://warszawa19115.pl/,NEWS,News Media,2021-11-24,Netaltica,Official Warsaw administration service
+https://www.wysokieobcasy.pl/,NEWS,News Media,2021-11-25,Netaltica,a well-known portal thematically designed for women 
+https://natemat.pl/,NEWS,News Media,2021-12-06,Netaltica,News portal
+https://www.tvp.info/,NEWS,News Media,2021-12-06,Netaltica,TV station
+https://www.polityka.pl/,NEWS,News Media,2021-12-06,Netaltica,Weekly newsmagazine
+https://oko.press/,NEWS,News Media,2021-12-06,Netaltica,"Internet portal conducts journalistic investigations, fact checking"
+https://www.gazetaprawna.pl/,NEWS,News Media,2021-12-07,Netaltica,"Newspaper - the law, taxes, Local government and administration"
+https://www.politykainsight.pl/,NEWS,News Media,2021-12-20,Netaltica,"a news and knowledge platform for politics and business,"
+https://portal.abczdrowie.pl/,NEWS,News Media,2021-12-22,Netaltica,
+https://www.medonet.pl/,NEWS,News Media,2021-12-22,Netaltica,
+https://www.money.pl/,NEWS,News Media,2021-12-22,Netaltica,
+https://naszemiasto.pl/,NEWS,News Media,2021-12-26,Netaltica,"Naszemiasto.pl is a free newspaper, published in the largest Polish cities."
+https://businessinsider.com.pl/,NEWS,News Media,2021-12-26,Netaltica,
+https://www.radiozet.pl/,NEWS,News Media,2021-12-26,Netaltica,
+https://www.sport.pl/,NEWS,News Media,2021-12-26,Netaltica,
+https://www.przegladsportowy.pl/,NEWS,News Media,2021-12-26,Netaltica,
+https://pilkanozna.pl/,NEWS,News Media,2021-12-29,Netaltica,
+https://www.bankier.pl/,NEWS,News Media,2021-12-29,Netaltica,
+https://www.purepc.pl/,NEWS,News Media,2021-12-29,Netaltica,"is an information service about technology news, hardware tests, comparisons, phones,  games and recommended computer sets."
+https://www.pap.pl/,NEWS,News Media,2021-12-29,Netaltica,Polish Press Agency
+https://www.wnp.pl/,NEWS,News Media,2021-12-29,Netaltica,Publisher of information portals from various sectors of the economy
+https://www.portalsamorzadowy.pl/,NEWS,News Media,2021-12-29,Netaltica,portal for local authorities
+https://www.pulshr.pl/,NEWS,News Media,2021-12-29,Netaltica,portal addressed to the management and professionals interested in the broadly understood HR industry
+https://www.wnp.pl/parlamentarny/,NEWS,News Media,2021-12-29,Netaltica,"The service focuses on reporting on the work of the Sejm, the Senate and the government. It describes current political events, reports on new bills, subsequent stages of the legislative process and voting results. It informs about the positions of the government and the opposition, including the non-parliamentary one. The service provides the results of polls and opinion surveys."
+https://www.dlastudenta.pl/,NEWS,News Media,2021-12-29,Netaltica,Service for students
+http://dlalejdis.pl/,NEWS,News Media,2021-12-30,Netaltica,women's service
+https://www.press.pl/,NEWS,News Media,2021-12-30,Netaltica,"a source of verified information on media, advertising, marketing and public relations from Poland and abroad. At Press.pl you can find news, opinions, interviews, analyses and reports prepared by journalists professionally involved in the media and advertising industry."
+https://dziennikzachodni.pl/,NEWS,News Media,2021-12-30,Netaltica,
+https://gazetawroclawska.pl/,NEWS,News Media,2021-12-30,Netaltica,
+https://dzienniklodzki.pl/,NEWS,News Media,2021-12-30,Netaltica,
+https://wspolczesna.pl/,NEWS,News Media,2021-12-30,Netaltica,Gazeta Współczesna is the leader of the press in Podlaskie Voivodship. It is the biggest daily newspaper in the north-eastern region of Poland.
+https://gp24.pl/,NEWS,News Media,2021-12-30,Netaltica,"""Głos Dziennik Pomorza"" is a regional journal of events and opinions"
+https://gloswielkopolski.pl/,NEWS,News Media,2021-12-30,Netaltica,Głos Wielkopolski is the oldest daily newspaper in Poznań
+https://echodnia.eu/,NEWS,News Media,2021-12-30,Netaltica,"The newspaper is printed in four editions: Kielce, Świętokrzyskie, Radom, Podkarpackie"
+http://jarmark.com.pl/,NEWS,News Media,2021-12-30,Netaltica,"weekly classifieds magazine published since 1993. Every Tuesday it provides the residents of Podbeskidzie, Silesia, Zagłębie and Zachodniopomorskie provinces with a several-thousand database of small classifieds, photo ads and modular advertising."
+https://expressbydgoski.pl/,NEWS,News Media,2021-12-30,Netaltica,"""Express Bydgoski"" is a daily newspaper in Bydgoszcz. "
+https://expressilustrowany.pl/,NEWS,News Media,2021-12-30,Netaltica,Express Ilustrowany is the biggest newspaper in Łódź and one of the biggest local dailies in Poland
+https://kurierlubelski.pl/,NEWS,News Media,2021-12-30,Netaltica,
+https://www.telemagazyn.pl/,NEWS,News Media,2021-12-30,Netaltica,"Tele Magazyn is one of the most popular TV guides in Poland, available in paper version, online at www.telemagazyn.pl and as an application for various platforms."
+https://gazetakrakowska.pl/,NEWS,News Media,2022-01-07,Netaltica,"Currently ""Gazeta Krakowska"" is the most important regional newspaper in Malopolska. "
+https://poranny.pl/,NEWS,News Media,2022-01-07,Netaltica,"Kurier Poranny is the biggest daily newspaper in Białystok, the capital of Podlaskie Voivodeship"
+https://nowiny24.pl/,NEWS,News Media,2022-01-07,Netaltica,Nowiny Daily Newspaper is addressed to the inhabitants of Podkarpackie Voivodeship and people connected with the region
+https://gazetalubuska.pl/,NEWS,News Media,2022-01-07,Netaltica,Gazeta Lubuska is the biggest regional daily in Lubuskie province.
+https://to.com.pl/,NEWS,News Media,2022-01-07,Netaltica,"""Tygodnik Ostrołęcki"" is the leader of the press in the north-eastern Mazovia."
+https://nto.pl/,NEWS,News Media,2022-01-07,Netaltica,Nowa Trybuna Opolska is the most popular newspaper in Opolskie Voivodeship and the only regional daily published in the province. 
+https://pomorska.pl/,NEWS,News Media,2022-01-07,Netaltica,Gazeta Pomorska is the most widely read newspaper in Kujawsko-Pomorskie Voivodeship.
+https://legiostrefa.pl/,NEWS,News Media,2022-01-07,Netaltica,Portal with local information from Legionowo
+https://expresslubelski.pl/,NEWS,News Media,2022-01-07,Netaltica,
+https://nowyswiat.online/,NEWS,News Media,2022-01-07,Netaltica,Radio Nowy Świat was created thanks to the persistence: of journalists who over the past few years have made attempts to create the first Internet radio with a mission
+https://cyfrowa.rp.pl/,NEWS,News Media,2022-01-08,Netaltica,
+https://portal-mundurowy.pl/,NEWS,News Media,2022-01-08,Netaltica,"Information service of the uniformed environment. Current events from the uniformed departments. Law, defence business, local news, "
+https://www.wirtualnemedia.pl/,NEWS,News Media,2022-01-08,Netaltica,"The largest Polish information portal dedicated to television, radio, press, Internet, advertising, technology, public relations and marketing research."
+https://warszawskagazeta.pl/,NEWS,News Media,2022-01-12,Netaltica,"disinformation, misinformation"
+https://obywatele.news/,NEWS,News Media,2022-01-12,Netaltica,Citizens.news is an independent news portal based on the values enshrined in the Universal Declaration of Human Rights.
+https://russian.rt.com/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://meduza.io/,NEWS,News Media,2022-06-10,Netaltica,critical Russian medium
+https://ria.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://lenta.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.kp.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.vesti.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://smi2.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.gazeta.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://tass.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://iz.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.kommersant.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.interfax.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.vedomosti.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian medium
+https://www.ntv.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian TV channel
+https://www.1tv.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian TV channel
+http://voicesevas.ru/,NEWS,News Media,2022-06-10,Netaltica,Russian medium in disputed territory
+https://topwar.ru/,NEWS,News Media,2022-06-10,Netaltica,Russian medium with military foocus
+https://smotret.tv/,NEWS,News Media,2022-06-10,Netaltica,website for online viewing of various Russian TV channels
+https://www.1tv.com/,NEWS,News Media,2022-06-10,Netaltica,Russian 1st channel for viewers abroad
+https://doc.rt.com/,NEWS,News Media,2022-06-10,Netaltica,popular Russian channel
+https://smotrim.ru/pick/special-planeta,NEWS,News Media,2022-06-10,Netaltica,popular Russian channel
+https://tv-soyuz.ru/,NEWS,News Media,2022-06-10,Netaltica,popular Russian Christian Orthodox channel
+https://sputnik24.tv/smotret/rossiya-24,NEWS,News Media,2022-06-10,Netaltica,popular Russian channel
 http://pis.org.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Law and Justice
 https://www.psl.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Polskie Stronnictwo Ludowe
 https://platforma.org/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Platforma Obywatelska
-https://ruchnarodowy.net/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Ruch Narodowy
-https://sub1.blocked-site-hole-cert.pl/,CTRL,Control content,2021-04-06,unknown,CTRL for https://www.cert.pl/posts/2020/03/ostrzezenia_phishing/
-https://sub2.blocked-site-hole-cert.pl/,CTRL,Control content,2021-04-06,unknown,CTRL for https://www.cert.pl/posts/2020/03/ostrzezenia_phishing/
-https://sub3.blocked-site-hole-cert.pl/,CTRL,Control content,2021-04-06,unknown,CTRL for https://www.cert.pl/posts/2020/03/ostrzezenia_phishing/
-https://dziennik-polityczny.com/,NEWS,News Media,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/
-https://lenta.ru/,NEWS,News Media,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/
-https://myslpolska.info/,NEWS,News Media,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/
-https://ria.ru/,NEWS,News Media,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/
-https://wolnemedia.net/,NEWS,News Media,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/
-https://wrealu24.tv/,NEWS,News Media,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/dlaczego-nie-dziala-mi-strona-czyli-jak-abw-walczy-z-kremlowska-propaganda/
-https://poufnarozmowa.com/,POLR,Political Criticism,2022-07-18,z3s.pl,URLs listed in https://zaufanatrzeciastrona.pl/post/abw-ocenzurowalo-strone-publikujaca-emaile-rzadu-ze-skrzynki-pocztowej-ministra-dworczyka/
+https://konfederacja.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Konfederacja
+https://klub-lewica.org.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Nowa Lewica
+https://lewica.org.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Nowa Lewica
+https://ruch-narodowy.pl/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Ruch Narodowy
+https://niezalezna.pl/,POLR,Political Criticism,2017-04-09,unknown,
+https://wpolityce.pl/,POLR,Political Criticism,2017-04-09,unknown,
+https://ruchkod.pl/,POLR,Political Criticism,2017-04-09,unknown,
+https://krytykapolityczna.pl/,POLR,Political Criticism,2017-04-09,unknown,
+https://ppspl.eu/,POLR,Political Criticism,2020-08-17,citizenlab,Political party - Polish Socialist Party / Polska Partia Socjalistyczna
+https://solidarna.org/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Solidarna Polska
+https://republikanie.org.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Republikanie
+https://polska2050.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Ruch 2050
+https://pjg.org.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Porozumienie Jarosława Gowina
+https://partiarazem.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Partia Razem
+https://nowoczesna.org/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - .Nowoczesna
+http://ipl.org.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Inicjatywa Polska
+https://wolnosc.pl/,POLR,Political Criticism,2021-11-23,Netaltica,"Political party - Koalicja Odnowy Rzeczypospolitej Wolność i Nadzieja (KORWiN, Wolność)"
+https://k15.org.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Kukiz’15
+https://www.partiazieloni.pl/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - Partia Zieloni (Zieloni)
+https://www.mniejszoscniemiecka.eu/,POLR,Political Criticism,2021-11-23,Netaltica,Political party - German Minority (electoral committee)
+https://siecobywatelska.pl/,POLR,Political Criticism,2021-12-07,Netaltica,the association upholding the right to information.
+https://ack.org.pl/,POLR,Political Criticism,2021-12-08,Netaltica,Informal group - network of anarchist groups and individuals helping prisoners and those repressed for their anti-authoritarian beliefs and socio-political activities. 
+https://www.rozbrat.org/,POLR,Political Criticism,2021-12-08,Netaltica,"News service on anarchist activists, workers' rights"
+https://galopujacymajor.wordpress.com/,POLR,Political Criticism,2021-12-09,Netaltica,"Publicist, important commentator on political events in Poland"
+https://instytutwolnosci.pl/,POLR,Political Criticism,2021-12-14,Netaltica,Political think tank for democratic development
+https://sluzbyiobywatel.pl/,POLR,Political Criticism,2021-12-25,Netaltica,
+https://www.donald.pl/,POLR,Political Criticism,2021-12-26,Netaltica,Visible and well known service with political news and satire
+https://niepoprawni.pl/,POLR,Political Criticism,2022-01-07,Netaltica,"Online forum with memes and political disinformation news, affiliated with ruling party"
+http://palikot.pl/,POLR,Political Criticism,2022-01-07,Netaltica,"blog by former parliamentarian, now alcohol manufacturing entrepreneur"
+https://hartman.blog.polityka.pl/,POLR,Political Criticism,2022-01-07,Netaltica,
+https://aszdziennik.pl/,POLR,Political Criticism,2022-01-08,Netaltica,
+https://tygodniknie.pl/,POLR,Political Criticism,2022-01-08,Netaltica,Well known satire website and magazine
+https://citizengo.org/pl,POLR,Political Criticism,2022-06-10,Netaltica,"fundamentalist petition platform linked to Russian oligarchs, American alt-right, European right-wing populists"
+https://www.sluzbyspecjalne.com/,POLR,Political Criticism,2022-06-10,Netaltica,"journalist, publicist, describes the activities of the country's secret services and the personal connections between officers, business and politics"
+https://politikus.ru/,POLR,Political Criticism,2022-06-10,Netaltica,medium with focus on politics
+https://politobzor.net/,POLR,Political Criticism,2022-06-10,Netaltica,medium with focus on politics
+https://rutube.ru/channel/23502473/,POLR,Political Criticism,2022-06-10,Netaltica,channel of influential Russian expert on the war in Ukrain
+https://t.me/yurasumy,POLR,Political Criticism,2022-06-10,Netaltica,channel of influential Russian expert on the war in Ukrain
+https://www.xnxx.com/,PORN,Pornography,2021-12-25,Netaltica,
+https://polskie-aktorki-porno.pl/,PORN,Pornography,2022-01-12,Netaltica,
+https://polskie.icu/,PORN,Pornography,2022-01-12,Netaltica,
+https://www.filmyporno.tv/,PORN,Pornography,2022-01-12,Netaltica,
+https://polskieporno.net/,PORN,Pornography,2022-01-12,Netaltica,
+https://filmyporno69.com/,PORN,Pornography,2022-01-12,Netaltica,
+https://filmysex.net/,PORN,Pornography,2022-01-12,Netaltica,
+https://pornolista.pl/,PORN,Pornography,2022-01-12,Netaltica,
+https://www.filmyporno.blog/,PORN,Pornography,2022-01-12,Netaltica,
+https://loungegardens.pl/,PROV,Provocative Attire,2022-01-07,Netaltica,
+https://thot.pl/,PROV,Provocative Attire,2022-01-07,Netaltica,adult blog content
+https://www.gov.pl/web/zdrowie/co-musisz-wiedziec-o-koronawirusie/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://polskialarmsmogowy.pl/,PUBH,Public Health,2017-04-09,unknown,
+https://powietrze.gios.gov.pl/pjp/current/,PUBH,Public Health,2017-04-09,unknown,
+http://www.skaids.org/,PUBH,Public Health,2021-12-13,Netaltica,"association developing information, education, counselling and care in relation to the HIV/AIDS"
+https://kbpn.gov.pl/,PUBH,Public Health,2022-01-07,Netaltica,National Bureau for Drug Prevention
+https://www.nil.gov.pl/,PUBH,Public Health,2022-01-07,Netaltica,National Institute of Medicine
+https://alarmsmogowy.pl/,PUBH,Public Health,2022-01-08,Netaltica,smog alert
+http://smog.imgw.pl/home,PUBH,Public Health,2022-01-08,Netaltica,smog alert
+http://ateizm.pl/,REL,Religion,2017-04-09,unknown,
+http://mzr.pl/,REL,Religion,2017-04-09,unknown,
+https://www.racjonalista.pl/,REL,Religion,2017-04-09,unknown,
+https://www.radiomaryja.pl/,REL,Religion,2017-04-09,unknown,
+https://laboratoriumwolnosci.pl/,REL,Religion,2022-01-07,Netaltica,"Our goal is to counteract crime against freedom of conscience and religion as well as any discrimination based on religious affiliation by means of preventive and prophylactic actions dedicated to relevant groups, as well as to shape social attitudes of unacceptability of persecution for religious beliefs."
+https://www.katolik.pl/,REL,Religion,2022-01-07,Netaltica,
+https://langustanapalmie.pl/,REL,Religion,2022-01-07,Netaltica,one of the most popular Catholic bloggers in Poland
+https://dominikanie.pl/,REL,Religion,2022-01-07,Netaltica,Polish Province of the Order of Preachers (Dominican Friars)
+https://www.odkupieni.pl/,REL,Religion,2022-01-07,Netaltica,Lay Community run by the Missionaries of the Precious Blood
+https://pl.aleteia.org/,REL,Religion,2022-01-07,Netaltica,"Aleteia offers its users a Christian vision of reality - both secular and religious, free from any ideological influence."
+https://www.wiara.pl/,REL,Religion,2022-01-07,Netaltica,
+https://www.gosc.pl/,REL,Religion,2022-01-07,Netaltica,"Catholic weekly ""Gość Niedzielny"""
+https://www.malygosc.pl/,REL,Religion,2022-01-07,Netaltica,Catholic weekly for children
+https://www.radioem.pl/,REL,Religion,2022-01-07,Netaltica,Catholic Radiostation 
+http://radiokatolickie.pl/,REL,Religion,2022-01-07,Netaltica,FORUM FOR INDEPENDENT CATHOLIC BROADCASTING
+https://wiez.pl/,REL,Religion,2022-01-07,Netaltica,Catholic socio-cultural magazine we deal with the key issues of today.
+https://glostradycji.blogspot.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, anti Pope Francis, disinformation"
+https://bractwomodlitewne.blogspot.com,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+https://rycerzniepokalanejcom.wordpress.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+https://piotrsemenenko.wordpress.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+http://controlwebs.pl/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
+http://www.strefa-polska.pl/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
+http://kataloog.info/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
+http://katalog.orx.pl/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
+https://www.gooru.pl/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
+http://www.katalog.pozycjoner.com.pl/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
+https://aborcjabezgranic.pl/,XED,Sex Education,2021-11-24,Netaltica,the most famous Polish group supporting knowledge about abortion rights
+https://www.asn.org.uk/,XED,Sex Education,2021-11-25,Netaltica,NGO help people access safe abortions
+https://aborcyjnydreamteam.pl/,XED,Sex Education,2021-11-25,Netaltica,the most famous Polish group supporting knowledge about abortion rights
+https://www.maszwybor.net/,XED,Sex Education,2021-11-25,Netaltica,forum about abortion
+https://womenhelp.org/,XED,Sex Education,2021-11-25,Netaltica,website providing abortion pills
+http://abortionnetwork.amsterdam/,XED,Sex Education,2021-11-25,Netaltica,website providing abortion pills
+https://sexed.pl/,XED,Sex Education,2021-12-09,Netaltica,"NGO &  platform  provides young people, parents education on human rights, gender equality, relationships, reproduction."
+https://ponton.org.pl/,XED,Sex Education,2021-12-14,Netaltica,NGO - sexual education for teenagers
+https://federa.org.pl/,XED,Sex Education,2021-12-14,Netaltica,NGO - reproduction rights
+https://proseksualna.pl/,XED,Sex Education,2022-01-07,Netaltica,
+http://www.girlsroom.pl/,XED,Sex Education,2022-01-07,Netaltica,
+https://stronazycia.pl/,XED,Sex Education,2022-01-08,Netaltica,antichoice NGO providing misinformation about sexual education and medical treatment
