@@ -873,7 +873,7 @@ http://www.unfpa.org/swp,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated 
 http://www.unhcr.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.unicef.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.unlockme.co.uk/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.unwatch.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://unwatch.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Blocked in China
 http://www.upci.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.usacasino.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.usafa.af.mil/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1471,3 +1471,22 @@ https://cdnjs.cloudflare.com/,HOST,Hosting and Blogging Platforms,2022-07-25,Che
 https://epicgames.com/,GAME,Gaming,2022-08-01,OONI,
 https://www.origin.com/,GAME,Gaming,2022-08-01,OONI,
 https://coinmarketcap.com/,ECON,Economics,2022-08-12,OONI,
+https://rebellion.global/,ENV,Environment,2022-09-09,OONI,
+https://sea-watch.org/,HUMR,Human Rights Issues,2022-09-09,OONI,
+https://www.coolearth.org/,ENV,Environment,2022-09-09,OONI,
+https://solar-aid.org/,ENV,Environment,2022-09-09,OONI,
+https://citizensclimatelobby.org/,ENV,Environment,2022-09-09,OONI,
+https://www.climaterealityproject.org/,ENV,Environment,2022-09-09,OONI,
+https://www.edf.org/fight-global-warming,ENV,Environment,2022-09-09,OONI,
+https://350.org/,ENV,Environment,2022-09-09,OONI,
+https://www.doctorswithoutborders.org/,PUBH,Public Health,2022-09-09,OONI,
+https://www.cleanwateraction.org/,ENV,Environment,2022-09-09,OONI,
+https://oceanconservancy.org/,ENV,Environment,2022-09-09,OONI,
+https://www.ran.org/,ENV,Environment,2022-09-09,OONI,
+https://www.ucsusa.org/,ENV,Environment,2022-09-09,OONI,
+https://impactlab.org/,ENV,Environment,2022-09-09,OONI,
+https://www.carbonbrief.org/,ENV,Environment,2022-09-09,OONI,
+https://earthobservatory.nasa.gov/global-maps,ENV,Environment,2022-09-09,OONI,
+https://www.footprintnetwork.org/,ENV,Environment,2022-09-09,OONI,
+https://www.carbonmap.org/,ENV,Environment,2022-09-09,OONI,
+https://data.worldbank.org/topic/environment,ENV,Environment,2022-09-09,OONI,
