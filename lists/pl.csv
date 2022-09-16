@@ -139,7 +139,7 @@ https://sports.bwin.com/pl/sports/,GMB,Gambling,2017-04-09,unknown,
 https://sports.coral.co.uk/,GMB,Gambling,2017-04-09,unknown,
 https://www.betsson37.com/pl/,GMB,Gambling,2017-04-09,unknown,
 https://www.goalbet.com/,GMB,Gambling,2017-04-09,unknown,
-https://www.doxxbet.sk,GMB,Gambling,2017-04-09,unknown,
+https://www.doxxbet.sk/,GMB,Gambling,2017-04-09,unknown,
 https://everygame.eu/,GMB,Gambling,2017-04-09,unknown,
 https://www.lotto.pl/,GMB,Gambling,2017-04-09,unknown,
 https://twin.com/,GMB,Gambling,2017-04-09,unknown,
@@ -183,7 +183,7 @@ https://lsbet.com/,GMB,Gambling,2017-04-09,unknown,
 https://energybet.com/,GMB,Gambling,2017-04-09,unknown,This site is not accessible in PL region
 https://www.pokerstars.net/,GMB,Gambling,2017-04-09,unknown,
 https://www.888poker.com/,GMB,Gambling,2017-04-09,unknown,
-https://www.casinoclub.com,GMB,Gambling,2017-04-09,unknown,
+https://www.casinoclub.com/,GMB,Gambling,2017-04-09,unknown,
 https://www.mrgreen.com/,GMB,Gambling,2017-04-09,unknown,
 https://www.meczyki.pl/,GMB,Gambling,2021-12-26,Netaltica,
 https://www.sts.pl/,GMB,Gambling,2021-12-26,Netaltica,
@@ -205,10 +205,8 @@ https://www.transfermarkt.pl/,GMB,Gambling,2021-12-29,Netaltica,
 https://www.abw.gov.pl/,GOVT,Government,2021-12-23,Netaltica,Internal Security Agency
 https://csirt-mon.wp.mil.pl/,GOVT,Government,2022-01-08,Netaltica,"A national-level Computer Security Incident Response Team, led by the Minister of Defense, that functions within the National Cybersecurity Center."
 https://www.mid.ru/,GOVT,Government,2022-06-10,Netaltica,The Ministry of Foreign Affairs of the Russian Federation
-https://eng.mil.ru,GOVT,Government,2022-06-10,Netaltica,"
-Ministry of Defence of the Russian Federation"
-https://mil.ru/,GOVT,Government,2022-06-10,Netaltica,"
-Ministry of Defence of the Russian Federation - RUS"
+https://eng.mil.ru/,GOVT,Government,2022-06-10,Netaltica,Ministry of Defence of the Russian Federation
+https://mil.ru/,GOVT,Government,2022-06-10,Netaltica,Ministry of Defence of the Russian Federation
 https://www.belarus.by/,GOVT,Government,2022-06-10,Netaltica,"provide key information about the Republic of Belarus, its tourist and economic potential. supported by the BelTA News Agency. "
 https://eng.belta.by/,GOVT,Government,2022-06-10,Netaltica,The Belarusian Telegraph Agency (BelTA) is Belarus’ largest news agency. For 100 years BelTA has been the country’s official news agency
 http://www.kc.gov.by/,GOVT,Government,2022-06-10,Netaltica,the Constitutional Court of the Republic of Belarus
@@ -235,13 +233,13 @@ https://www.benchmark.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,website about 
 https://www.consol.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,private digital security firm
 https://antyweb.pl/,HACK,Hacking Tools,2022-01-08,Netaltica,Technological information on the Polish and worldwide Internet
 https://www.onr.com.pl/,HATE,Hate Speech,2022-01-12,Netaltica,fascist organization
-https://marszniepodleglosci.pl,HATE,Hate Speech,2022-01-12,Netaltica,neonazi and fascist organization
+https://marszniepodleglosci.pl/,HATE,Hate Speech,2022-01-12,Netaltica,neonazi and fascist organization
 https://narodowyhoryzont.pl/,HATE,Hate Speech,2022-01-12,Netaltica,National Horizon is a magazine published by the National-Radical Camp
 https://kierunki.info.pl/,HATE,Hate Speech,2022-01-12,Netaltica,fascist and neonazi news portal
 https://ruchnarodowo-radykalny.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,fascist and neonazi group covered under religious content
 https://tenetetraditiones.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,"A quasi-Catholic blog ""A blog dedicated to Roman Catholicism integral, and the Polish national and monarchist idea."" - contains xenophobic content and recommends neo-Nazi and fascist organizations"
 https://myslkatolicka.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,A quasi-Catholic blog  - contains xenophobic content and recommends neo-Nazi and fascist organizations
-https://pelagiusasturiensis.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+https://pelagiusasturiensis.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,A quasi-Catholic blog, religious fanatics
 https://lagloriadelasantisimavirgen.wordpress.com/,HATE,Hate Speech,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
 https://teologkatolicki.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,xenophobic quasi-religious content
 https://kin-rchristusrex.blogspot.com/,HATE,Hate Speech,2022-01-12,Netaltica,
@@ -320,7 +318,7 @@ https://omzrik.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,Monitoring Cent
 https://obywatelerp.org/,HUMR,Human Rights Issues,2022-01-12,Netaltica,The Citizens of Poland movement was formed in 2016 out of opposition to the violation of the constitution and the destruction of the foundations of the rule of law by PiS
 https://demokracjaodzaraz.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,Support the Primary Election Initiative 
 https://monitorkonstytucyjny.eu/,HUMR,Human Rights Issues,2022-01-12,Netaltica,"Service with updated information about constitution, state, law"
-https://www.iustitia.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,"We are an independent, apolitical and self-governing association of Polish judges.
+https://www.iustitia.pl/,HUMR,Human Rights Issues,2022-01-12,Netaltica,Independent apolitical and self-governing association of Polish judges
 Our main mission is to defend civil liberties and rights, the foundation of a democratic Poland that belongs to the European Union."
 https://szpila.blackblogs.org/,HUMR,Human Rights Issues,2022-06-10,Netaltica,"We are a feminist anti-repression collective, i.e. we organize help for people who face violence and harassment from authorities and police because of their social activism, especially during current protests."
 https://yigf.nask.pl/,IGO,Intergovernmental Organizations,2022-01-08,Netaltica,Internet Governence Forum Youth Poland
@@ -356,7 +354,7 @@ https://www.se.pl/,NEWS,News Media,2020-08-17,citizenlab,Tabloid
 https://dziennikpolski24.pl/,NEWS,News Media,2020-08-17,citizenlab,Newspaper
 https://polskatimes.pl/,NEWS,News Media,2020-08-17,citizenlab,Newspaper
 https://www.interia.pl/,NEWS,News Media,2017-04-09,unknown,
-https://www.gazeta.pl,NEWS,News Media,2017-04-09,unknown,
+https://www.gazeta.pl/,NEWS,News Media,2017-04-09,unknown,
 https://www.wp.pl/,NEWS,News Media,2017-04-09,unknown,
 https://www.onet.pl/,NEWS,News Media,2017-04-09,unknown,
 https://wyborcza.pl/,NEWS,News Media,2017-04-09,unknown,
@@ -516,7 +514,7 @@ https://www.radioem.pl/,REL,Religion,2022-01-07,Netaltica,Catholic Radiostation
 http://radiokatolickie.pl/,REL,Religion,2022-01-07,Netaltica,FORUM FOR INDEPENDENT CATHOLIC BROADCASTING
 https://wiez.pl/,REL,Religion,2022-01-07,Netaltica,Catholic socio-cultural magazine we deal with the key issues of today.
 https://glostradycji.blogspot.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, anti Pope Francis, disinformation"
-https://bractwomodlitewne.blogspot.com,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
+https://bractwomodlitewne.blogspot.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
 https://rycerzniepokalanejcom.wordpress.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
 https://piotrsemenenko.wordpress.com/,REL,Religion,2022-01-12,Netaltica,"A quasi-Catholic blog, religious fanatics"
 http://controlwebs.pl/,SRCH,Search Engines,2021-12-29,Netaltica,Catalog of WWW sites
