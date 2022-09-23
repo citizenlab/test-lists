@@ -10,9 +10,9 @@ http://nmidigital.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.descifrado.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.televen.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.venezuelaawareness.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://alekboyd.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,http version blocked in some ISPs
+https://alekboyd.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,http version blocked in some ISPs
 https://daniel-venezuela.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://lasarmasdecoronel.blogspot.co.uk/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://lasarmasdecoronel.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://luchadeclases.org.ve/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://manosfueradevenezuela.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://socialdemencia.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -216,7 +216,6 @@ http://www.ucv.ve/,CTRL,Control content,2020-03-19,Netalitica,Autonomus natinal 
 http://www.corteidh.or.cr/,HUMR,Human Rights Issues,2020-03-19,Netalitica,
 https://elpitazo.net/,NEWS,News Media,2020-03-19,Netalitica,
 https://alnavio.com/,NEWS,News Media,2020-03-19,Netalitica,
-https://www.eluniversal.com/,NEWS,News Media,2020-03-19,Netalitica,
 https://ovario2.com/,NEWS,News Media,2020-03-19,Netalitica,Blocked
 http://laclase.info/,NEWS,News Media,2020-03-19,Netalitica,
 http://www.opinionynoticias.com/,NEWS,News Media,2020-03-19,Netalitica,
@@ -351,9 +350,7 @@ https://windscribe.com/,ANON,Anonymization and circumvention tools,2020-03-28,Ne
 https://tunnelbear.com/,ANON,Anonymization and circumvention tools,2020-03-28,Netalitica,currently blocked
 https://guuao.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.locanto.com.ve/,COMM,E-commerce,2020-03-28,Netalitica,
-https://uphold.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://surbitcoin.com/,COMM,E-commerce,2020-03-28,Netalitica,
-https://localbitcoins.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.payoneer.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.chase.com/,COMM,E-commerce,2020-03-28,Netalitica,Bank used in VE as alternative to difficult use of local currency
 https://www.banesco.com.pa/,COMM,E-commerce,2020-03-28,Netalitica,Bank used in VE as alternative to difficult use of local currency
@@ -429,7 +426,6 @@ http://meridiano.com.ve/,NEWS,News Media,2020-03-28,Netalitica,"Has been blocked
 http://meridiano.net/,NEWS,News Media,2020-03-28,Netalitica,
 http://antena3internacional.com/,NEWS,News Media,2020-03-28,Netalitica,
 http://bitly.com/venezuela911/,NEWS,News Media,2020-03-28,Netalitica,"Specific HTTP url blocked, needs to be kept http"
-http://alekboyd.blogspot.co.uk/,NEWS,News Media,2020-03-28,Netalitica,"Currently blocked, despite being outdated"
 http://noticiasvenezuela.org/,NEWS,News Media,2020-03-28,Netalitica,"Currently blocked, despite being dead"
 https://elcooperante.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://www.fedecamarasradio.com/,NEWS,News Media,2020-03-28,Netalitica,
