@@ -68,7 +68,6 @@ https://docs.google.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI
 https://download.cnet.com/Freegate/3000-2085_4-10415391.html,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://drugs-forum.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://duckduckgo.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://earth-liberation-front.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://ebuddy.com/,GRP,Social Networking,2014-04-15,citizenlab,"Updated on 2022-02-21, website under construction"
 https://www.emailaddresses.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated on 2022-02-21
 https://emchurch.org/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-02-21
@@ -184,7 +183,7 @@ https://www.rarbg.to/,FILE,File-sharing,2016-08-11,sinarproject,Updated on 2022-
 https://reliefweb.int/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://repo1.maven.org/,CTRL,Control content,2022-01-24,Community Member,OSSRH Maven Central
 https://riseup.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2022-05-31
-https://rsf.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://rsf.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-09-12
 https://smotrim.ru/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://sakhr.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://sci-hub.se/,FILE,File-sharing,2019-09-27,Community Member,New sci-hub domain
@@ -654,9 +653,9 @@ http://www.metal-archives.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OO
 http://www.microsofttranslator.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.mideastyouth.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.mizzima.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.moderndrunkardmagazine.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://drunkard.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.monacogoldcasino.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.mormon.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.churchofjesuschrist.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.mozilla.org/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.msf.org/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.msn.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1418,6 +1417,9 @@ https://www.googleapis.com/auth/cloud-platform,HOST,Hosting and Blogging Platfor
 https://www.knapsackforhope.org/,ANON,Anonymization and circumvention tools,2021-09-21,Chelchela,
 https://o0.ingest.sentry.io/api/0,CTRL,Control content,2021-09-21,Chelchela,
 https://sentry.io/api/0/,CTRL,Control content,2021-09-21,Chelchela,
+https://mask.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
+https://mask-h2.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
+https://mask-api.icloud.com/,ANON,Anonymization and circumvention tools,2022-02-17,anonymous,DNS name necessary for iCloud Private Relay
 https://matrix.to/,COMT,Communication Tools,2021-10-03,Chelchela,
 https://matrix.org/,COMT,Communication Tools,2021-10-03,Chelchela,
 https://element.io/,COMT,Communication Tools,2021-10-03,Chelchela,
@@ -1426,9 +1428,6 @@ https://mobile.element.io/,COMT,Communication Tools,2021-10-03,Chelchela,
 https://matrix-client.matrix.org/_matrix/client/versions,COMT,Communication Tools,2021-10-03,Chelchela,
 https://vector.im/_matrix/identity/api/v1,COMT,Communication Tools,2021-10-03,Chelchela,
 https://www.icij.org/,NEWS,News Media,2021-10-04,Chelchela,
-https://mask.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
-https://mask-h2.icloud.com/,ANON,Anonymization and circumvention tools,2021-09-25,David Fifield,DNS name necessary for iCloud Private Relay
-https://mask-api.icloud.com/,ANON,Anonymization and circumvention tools,2022-02-17,anonymous,DNS name necessary for iCloud Private Relay
 https://disclose.ngo/,POLR,Political Criticism,2021-11-24,OONI,Reportedly blocked in Egypt but worth testing worldwide
 https://remailer.paranoici.org/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 https://fleegle.mixmin.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
@@ -1444,14 +1443,14 @@ https://mega.nz/,ANON,Anonymization and circumvention tools,2014-04-15,rayasharb
 https://www.facebook.com/RTNews,GRP,Social Networking,2022-03-06,OONI,
 https://www.ideasbeyondborders.org/,CULTR,Culture,2022-03-16,OONI,
 https://dailystormer.name/,POLR,Political Criticism,2022-03-18,community member,American far-right website; supposedly blocked in Europe
+https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://www.microsoft.com/,COMT,Communication Tools,2022-03-30,OONI,Reportedly blocked in Tunisia but worth testing globally
 https://teams.microsoft.com/,COMT,Communication Tools,2022-03-31,OONI,
 https://st1.zoom.us/zoom.ico,COMT,Communication Tools,2022-03-31,OONI,
-https://www.starlink.com/,ANON,Anonymization and circumvention tools,2022-03-30,community member,Censorship circumvention and emergency internet access
 https://s.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread assets
 https://i.gr-assets.com/robots.txt,CULTR,Culture,2022-05-13,Chelchela,goodread assets
-http://ria.ru/,NEWS,News Media,2022-06-07,OONI,RIA Novosti reportedly blocked in Azerbaijan and also blocked in EU countries
 https://www.business-humanrights.org/,HUMR,Human Rights Issues,2022-05-25,citizenlab,
+http://ria.ru/,NEWS,News Media,2022-06-07,OONI,RIA Novosti reportedly blocked in Azerbaijan and also blocked in EU countries
 https://www.gofundme.com/,ECON,Economics,2022-06-11,OONI,Reportedly blocked in Algeria but worth testing globally
 https://triller.co/,GRP,Social Networking,2022-06-11,OONI,
 https://valence.community/,GRP,Social Networking,2022-06-11,OONI,
