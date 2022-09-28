@@ -1569,3 +1569,4 @@ https://www.privex.io/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists
 https://www.orangewebsite.com/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists.ooni.org contribution,
 https://www.givesendgo.com/,CULTR,Culture,2022-08-26,test-lists.ooni.org contribution,Crowdfunding
 https://cryptpad.fr/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,Flagship instance of the project
+https://sandbox.cryptpad.info/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,"Sandbox domain linked to cryptpad.fr, absolutely necessary for isolation"
