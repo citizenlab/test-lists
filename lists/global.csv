@@ -1573,3 +1573,4 @@ https://sandbox.cryptpad.info/,ANON,Anonymization and circumvention tools,2022-0
 https://chrome.google.com/webstore/category/extensions,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://addons.opera.com/en/extensions/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://cryptpad.org/instances/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,Allow to find other CryptPad instances in case one is blocked
