@@ -1570,3 +1570,6 @@ https://www.orangewebsite.com/,HOST,Hosting and Blogging Platforms,2022-08-26,te
 https://www.givesendgo.com/,CULTR,Culture,2022-08-26,test-lists.ooni.org contribution,Crowdfunding
 https://cryptpad.fr/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,Flagship instance of the project
 https://sandbox.cryptpad.info/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,"Sandbox domain linked to cryptpad.fr, absolutely necessary for isolation"
+https://chrome.google.com/webstore/category/extensions,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://addons.opera.com/en/extensions/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
