@@ -464,22 +464,22 @@ https://www.freespeech.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updat
 https://freespeech.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://www.freespeechcoalition.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.freewebspace.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.freshpair.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
+http://www.freshpair.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.frontlinedefenders.org/,HUMR,Human Rights Issues,2017-02-17,OONI,
 https://www.ft.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.fuckingfreemovies.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.gambling.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.gamespot.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://www.gatesfoundation.org/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
-https://gayegypt.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
-https://www.gayscape.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
+http://www.gayegypt.com/,LGBT,LGBT,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
+http://www.gayscape.com/,LGBT,LGBT,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.gearthblog.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://genderandaids.unwomen.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://srhrforall.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://www.ubisoft.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://giganews.com/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
 https://github.com/,HOST,Hosting and Blogging Platforms,2018-02-06,EvasivePangolin,
-https://www.glaad.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2022-09-16
+http://www.glaad.org/,LGBT,LGBT,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 http://www.glbtqarchive.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.glil.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.globalfire.tv/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1146,7 +1146,7 @@ https://pixelfed.social/,GRP,Social Networking,2020-02-16,tomacat,
 http://www.ftchinese.com/,NEWS,News Media,2020-02-16,tomacat,
 http://www.sputniknews.cn/,NEWS,News Media,2020-02-16,tomacat,
 https://www.dailysabah.com/,NEWS,News Media,2020-02-16,tomacat,
-https://www.dailymail.co.uk/,NEWS,News Media,2020-02-16,tomacat,
+http://www.dailymail.co.uk/,NEWS,News Media,2020-02-16,tomacat,Reversed PR #1114 by OONI on 2022-09-29
 https://www.economist.com/,NEWS,News Media,2020-02-16,tomacat,
 https://www.theatlantic.com/,NEWS,News Media,2020-02-16,tomacat,
 https://www.nbcnews.com/,NEWS,News Media,2020-02-16,tomacat,
@@ -1573,4 +1573,9 @@ https://sandbox.cryptpad.info/,ANON,Anonymization and circumvention tools,2022-0
 https://chrome.google.com/webstore/category/extensions,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://addons.opera.com/en/extensions/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+http://www.freeexpression.org/,NEWS,News Media,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
+http://www.gay.com/,LGBT,LGBT,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
+http://www.google.com/search?q=gay,LGBT,LGBT,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
+http://www.google.com/search?q=lesbian,LGBT,LGBT,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
+http://www.google.com/search?q=transsexual,LGBT,LGBT,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
 http://www.dw-world.de/,NEWS,News Media,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
