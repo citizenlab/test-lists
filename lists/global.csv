@@ -440,7 +440,7 @@ https://www.exmormon.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 
 https://www.exploit-db.com/,HACK,Hacking Tools,2016-06-10,OONI,Updated by OONI on 2017-02-14
 https://www.facebook.com/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.familycareintl.org/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2022-09-15
-https://www.fark.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2022-09-15
+http://www.fark.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.fastmail.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.feedtheminds.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.feminist.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2022-09-15
