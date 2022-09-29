@@ -27,7 +27,7 @@ https://bitcoin.org/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 20
 https://bitcoin.sipa.be/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. This domain is hardcoded in the bitcoin source code as an addressed used to bootstrap.
 http://www.bittornado.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated on 2022-02-21
 https://www.blackberry.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated on 2021-10-31
-https://blogmarks.net/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://blogmarks.net/,GRP,Social Networking,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.blogger.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.blueskyswimwear.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated on 2022-02-21
 https://www.bnaibrith.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on 2022-02-21
@@ -128,7 +128,7 @@ https://login.infomaniak.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by
 https://login.live.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.lushstories.com/,CULTR,Culture,2019-10-17,sinarproject,Erotic fiction
 https://mail.ru/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://login.yahoo.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2022-09-11
+https://mail.yahoo.com/,COMT,Communication Tools,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://mail.yandex.ru/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://mashable.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://medpot.net/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -215,7 +215,7 @@ https://tails.boum.org/,ANON,Anonymization and circumvention tools,2016-08-31,si
 https://technorati.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://thehackernews.com/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://theintercept.com/,NEWS,News Media,2017-08-28,Artigo 19 + CryptoRave + Coding Rights,Jornalismo independente (Mapeamento Artigo 19)
-https://powertodecide.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2022-09-12
+http://thenationalcampaign.org/,XED,Sex Education,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://thepiratebay.org/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://timesofindia.indiatimes.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://tinyurl.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -233,7 +233,7 @@ https://www.unep.org/,ENV,Environment,2014-04-15,citizenlab,Updated on 2022-02-2
 https://unpo.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://veracrypt.fr/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2022-02-23
 http://vho.org/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.google.com/videohp,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2022-09-13
+https://video.google.com/,SRCH,Search Engines,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://vimeo.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://weblogs.us/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://wedo.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -257,14 +257,14 @@ https://www.3wishes.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated b
 https://www.4chan.org/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.4online-gambling.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.4shared.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.888casino.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2022-09-13
+http://www.888casino.com/,GMB,Gambling,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 http://www.89.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.911memorial.org/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://911truth.org/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.abcunderwear.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.abortionno.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.absinth.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.absolut.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2022-09-13
+http://www.absolut.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.accessnow.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.jackpotcitycasino1.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.acquisitionx.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -310,16 +310,16 @@ http://www.auduboninternational.org/,ENV,Environment,2014-04-15,citizenlab,Updat
 https://www.beintheknow.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
 https://www.awid.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.bacardi.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.bahai.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
+http://www.bahai.org/,REL,Religion,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.baidu.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.barmeister.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.barnesandnoble.com/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
+http://www.barnesandnoble.com/,COMM,E-commerce,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.bat.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
-https://www.beer.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
+http://www.beer.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.beerinfo.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
 https://www.benedelman.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
 http://www.betfair.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.bglad.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
+http://www.bglad.com/,PORN,Pornography,2014-04-15,citizenlab,Reversed PR #1114 by OONI on 2022-09-29
 https://www.binance.com/,COMM,E-commerce,2018-11-15,blockchain,Initial tracking of cryptocurrencies on 2018-11-15. Cryptocurrency exchange
 https://www.bing.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.birthcontrol.com/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2022-09-14
