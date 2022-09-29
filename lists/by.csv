@@ -1,4 +1,6 @@
 url,category_code,category_description,date_added,source,notes
+https://www.pravda.com.ua/,NEWS,News Media,2022-07-14,comminuty member,Ukraine online media blocked in Belarus
+https://politzek.me/,COMT,Communication Tools,2022-06-22,community member,information about political prisoners
 https://golos2020.org/,POLR,Political Criticism,2021-03-19,community member,alternative voting
 https://pages.github.com/,HOST,Hosting and Blogging Platforms,2021-03-12,community member,software development platform
 https://mediazona.by/,POLR,Political Criticism,2021-03-05,community member,
@@ -79,7 +81,6 @@ http://lewoniewski.info/blog/,POLR,Political Criticism,2019-04-04,Netalitica,Blo
 http://zvarot.by/ru/,POLR,Political Criticism,2019-04-04,Netalitica,Blocked petitions platform
 https://vk.com/pramenofanarchy,POLR,Political Criticism,2019-04-04,Netalitica,Anarchist group blocked in BY
 https://pramen.io/ru/glavnaya/,POLR,Political Criticism,2019-04-04,Netalitica,Anarchist group blocked in BY
-https://pramenby.wordpress.com/,POLR,Political Criticism,2019-04-04,Netalitica,Anarchist group blocked in BY
 https://www.sb.by/,NEWS,News Media,2019-04-05,Netalitica,Belarus largest newspaper
 https://www.onliner.by/,NEWS,News Media,2019-04-05,Netalitica,
 https://ok.ru/group/52126350901465,NEWS,News Media,2019-04-05,Netalitica,OK page of RFE/RL BY service
@@ -138,13 +139,13 @@ http://bluesystem.ru/,LGBT,LGBT,2019-04-07,Netalitica,popular Russian platform b
 http://torrent.by/,MMED,Media sharing,2019-04-07,Netalitica,
 https://www.futurevideo.pro/,MMED,Media sharing,2019-04-07,Netalitica,
 http://nnm-club.me/,MMED,Media sharing,2019-04-07,Netalitica,
-http://kinozal.tv/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-https://rutracker.org/forum/index.php,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
+http://kinozal.tv/,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
+https://rutracker.org/forum/index.php,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://rutor.info/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://new-rutor.org/search/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 https://hdreactor.club/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://tapochek.net/index.php,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-https://www.limetorrents.info/,MMED,Media sharing,2019-04-07,Netalitica,
+https://www.limetorrents.info/,FILE,File-sharing,2019-04-07,Netalitica,
 http://seedoff4.innal.top/,MMED,Media sharing,2019-04-07,Netalitica,
 http://torrent-games.info/,MMED,Media sharing,2019-04-07,Netalitica,
 http://filmpotok.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY

@@ -75,7 +75,7 @@ https://asiafriendfinder.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.dateinasia.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.metrodate.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.adb.org/,ECON,Economics,2014-04-15,citizenlab,
-https://www.unescap.org/,ECON,Economics,2014-04-15,citizenlab,
+https://www.unescap.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://www.cetdem.org.my/portal/,ENV,Environment,2014-04-15,citizenlab,
 https://www.ecologyasia.com/,ENV,Environment,2014-04-15,citizenlab,
 https://www.ensearch.org/,ENV,Environment,2014-04-15,citizenlab,
@@ -129,7 +129,7 @@ https://www.asiaone.com/source/straits-times/,NEWS,News Media,2014-04-15,citizen
 https://www.abc.net.au/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.agendadaily.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://aliran.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.answering-islam.org/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.answering-islam.org/,REL,Religion,2014-04-15,citizenlab,
 https://asianpacificpost.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://asiapacificnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.bharian.com.my/,NEWS,News Media,2014-04-15,citizenlab,
@@ -208,7 +208,7 @@ https://www.fridae.asia/,LGBT,LGBT,2016-06-10,OONI,
 https://outrightinternational.org/content/malaysia-must-recognize-and-stop-hostilities-toward-lgbt-people/,LGBT,LGBT,2016-06-10,OONI,
 https://www.7rangers.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://niknazmi.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://dahalmi.wordpress.com/,POLR,Political Criticism,2016-06-10,OONI,
+https://dahalmi.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://powerpresent.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://desiderata2000.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://kassimahmad.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
@@ -237,7 +237,6 @@ http://www.lucialai.org/,POLR,Political Criticism,2016-06-10,OONI,outdated but r
 https://tabunginsider.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,
 https://jinggo-fotopages.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,
 https://syedsoutsidethebox.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,
-https://dinturtle.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,outdated but relevant - monitor
 https://www.spr.gov.my/,GOVT,Government,2016-09-15,sinarproject,Election Commision website
 https://www.hollywoodreporter.com/news/red-granite-founder-riza-azizs-931041/,POLR,Political Criticism,2016-09-22,sinarproject,news related to 1MDB
 https://sprminsider.blogspot.com/,POLR,Political Criticism,2017-04-06,sinarproject,possible leaked anti corruption casefile on Najib Razak
@@ -340,7 +339,6 @@ http://www.thereligionofpeace.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.thestar.com.my/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.theultimateinsult.blogspot.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.thinkcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.thoughtsintangents.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 http://www.time.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.time.com/time/asia/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.tjc.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -377,9 +375,7 @@ http://www.yss98.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.ytl.com.my/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.zdnetasia.com/,NEWS,News Media,2014-04-15,citizenlab,
 "http://www.zdnetasia.com/downloads/pc/swinfo/0,39043052,39222404s,00.htm",ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://yasminthestoryteller.blogspot.com/,CULTR,Culture,2016-06-10,OONI,
 http://zathilfiger.i-p.com/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://zorro-zorro-unmasked.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://ms.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://id.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -499,9 +495,10 @@ http://www.sawo.org.my/,HUMR,Human Rights Issues,2021-03-29,Netalitica,"organiza
 https://www.ideas.org.my/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting the level of understanding and acceptance of public policies
 https://childlinefoundation.com/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting the rights of children
 https://ikram.org.my/,REL,Religion,2021-03-29,Netalitica,religious group promoting islamic values
+<<<<<<< HEAD,,,,,
 http://edisisiasatmy.blogspot.com/,POLR,Political Criticism,2022-07-05,sinar project,Articles concerning alleged share trading controversy involving Malaysian Anti-Corruption Commission (MACC) chief commissioner
 https://www.theins.news/postview/757-business-ties-among-macc-leadership-how-deep-does-it-go-part-1,NEWS,News Media,2022-07-05,sinar project,Articles concerning alleged share trading controversy involving Malaysian Anti-Corruption Commission (MACC) chief commissioner
 https://www.theins.news/postview/758-business-ties-among-macc-leadership-how-deep-does-it-go-part-2,NEWS,News Media,2022-07-05,sinar project,Articles concerning alleged share trading controversy involving Malaysian Anti-Corruption Commission (MACC) chief commissioner
 http://sugarbook.com/,DATE,Online Dating,2022-07-05,sinar project,A sugar daddy dating site that was banned in Malaysia in 2021 (https://www.thestar.com.my/news/nation/2021/02/15/sugarbook-blocked-in-malaysia)
 http://sucrebook.com/,DATE,Online Dating,2022-07-05,sinar project,Mirror site of sugarbook.com
-https://rainbowforward.gitbook.io/,LGBT,LGBT,2022-08-05,test-lists.ooni.org contribution,"""Collection of resources regarding sexual orientation, gender identity, gender expression & sex characteristics and human rights particularly affecting the LGBTIQ+ in Malaysia."""
+https://rainbowforward.gitbook.io/,LGBT,LGBT,2022-08-05,test-lists.ooni.org contribution,"Collection of resources regarding sexual orientation, gender identity, gender expression & sex characteristics and human rights particularly affecting the LGBTIQ+ in Malaysia."

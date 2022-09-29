@@ -22,14 +22,14 @@ http://socialismkz.info/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.spik.kz/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://islam.ru/,REL,Religion,2014-04-15,citizenlab,
 https://vse.kz/,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.as-ansar.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+http://www.as-ansar.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://ct.kz/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 https://www.cars.com/,CTRL,Control content,2014-04-15,citizenlab,
 https://www.award.kz/,CULTR,Culture,2014-04-15,citizenlab,
 https://bureau.kz/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://dknews.kz/,NEWS,News Media,2014-04-15,citizenlab,
 https://kursiv.kz/,NEWS,News Media,2014-04-15,citizenlab,business news
-https://www.liveinternet.ru/,SRCH,Search Engines,2014-04-15,citizenlab,Russian blog platform blocked 2011-2015 for critical political posts
+https://www.liveinternet.ru/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Russian blog platform blocked 2011-2015 for critical political posts
 http://www.kstu.kz/,CULTR,Culture,2014-04-15,citizenlab,Technical university site
 http://www.kazrena.kz/,ECON,Economics,2014-04-15,citizenlab,
 http://www.toiganbayev.kz/,GOVT,Government,2014-04-15,citizenlab,site of Kazakh polititian
@@ -223,7 +223,7 @@ http://flirchi.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 http://match.privet.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://24open.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://beboo.ru/,DATE,Online Dating,2019-06-04,Netalitica,
-https://kismia.com/,DATE,Online Dating,2019-06-04,Netalitica,
+https://kismia.com/,PORN,Pornography,2019-06-04,Netalitica,
 https://mylove.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://teamo.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://www.edarling.ru/,DATE,Online Dating,2019-06-04,Netalitica,
@@ -257,7 +257,6 @@ http://kasparov.ru/,POLR,Political Criticism,2019-08-15,Netalitica,Russian oppos
 http://khodorkovsky.ru/,POLR,Political Criticism,2019-08-15,Netalitica,Russian opposition leader - blocked in Russia. For control purposes
 http://vozrojdenie.crimea.ua/index.php/,MILX,Terrorism and Militants,2019-08-15,Netalitica,
 https://steamcommunity.com/,MMED,Media sharing,2019-11-11,Netalitica,reportedly blocked in KZ
-https://mega.nz/,COMT,Communication Tools,2019-11-11,Netalitica,blocked in KZ
 https://video.ibm.com/,MMED,Media sharing,2019-11-11,Netalitica,formerly Ustream - blocked in KZ
 https://www.dailymail.co.uk/home/index.html/,NEWS,News Media,2019-11-11,Netalitica,blocked in KZ in 2014 for a video of Kazakh kids training in ISIS camp
 https://www.getcontact.com/,COMT,Communication Tools,2019-11-11,Netalitica,blocked in KZ in 2018 for violating privacy laws
@@ -302,7 +301,6 @@ https://www.ablyazov.org/kk/basty-bet/,POLR,Political Criticism,2019-11-11,Netal
 https://www.ablyazov.org/kk/sayasi-tugyrnama/,POLR,Political Criticism,2019-11-11,Netalitica,major Kazakh opposition party
 https://www.facebook.com/mukhtar.ablyazov/,POLR,Political Criticism,2019-11-11,Netalitica,FB channel of KZ opposition leader - connectivity prpblems reported
 https://www.instagram.com/mukhtarablyazov/,POLR,Political Criticism,2019-11-11,Netalitica,Channel of KZ opposition leader - possible connectivity prpblems
-https://secure.avaaz.org/,GRP,Social Networking,2019-11-11,Netalitica,petition platform - blocked in KZ
 https://avaaz.org/page/en/,GRP,Social Networking,2019-11-12,Netalitica,"platform for online petitions, blocked since 2013"
 https://www.meloman.kz/,COMM,E-commerce,2019-11-12,Netalitica,
 https://www.olx.kz/,COMM,E-commerce,2019-11-12,Netalitica,classifieds

@@ -128,7 +128,7 @@ https://turk.life/,NEWS,News Media,2017-06-23,AFTE,
 https://www.akhbarelyom.com/,NEWS,News Media,2018-02-09,OONI,This news website is owned by state.
 https://www.alamatonline.com/,NEWS,News Media,2017-07-01,AFTE,Reportedly blocked
 https://www.albawabhnews.com/,NEWS,News Media,2018-02-09,OONI,
-https://www.alborsanews.com/,NEWS,News Media,2017-05-28,ADEF,blocked as of date added
+https://www.alborsanews.com/,ECON,Economics,2017-05-28,ADEF,blocked as of date added
 https://www.aljazeera.net/portal,NEWS,News Media,2014-04-15,citizenlab,Reportedly blocked
 https://www.almasryalyoum.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.defenceweb.co.za/,NEWS,News Media,2017-08-07,AFTE,
@@ -144,14 +144,14 @@ https://www.kingfut.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.masr11.com/,NEWS,News Media,2017-06-23,AFTE,
 https://www.masrawy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://masrmix.com/,NEWS,News Media,2017-06-23,AFTE,
-https://www.raya.com/,NEWS,News Media,2017-06-23,AFTE,
+https://www.raya.com/,POLR,Political Criticism,2017-06-23,AFTE,
 https://www.raya.com/portal,NEWS,News Media,2017-05-24,OONI,blocked as of date added
 https://www.sabaharabi.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.tahrirnews.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.thepeninsulaqatar.com/,NEWS,News Media,2017-06-23,AFTE,
 https://ultrasawt.com/,NEWS,News Media,2017-07-22,AFTE,
 https://www.watanserb.com/,NEWS,News Media,2017-07-13,AFTE,Reportedly blocked
-https://hamas.ps/,POLR,Political Criticism,2017-06-23,AFTE,
+https://hamas.ps/,MILX,Terrorism and Militants,2017-06-23,AFTE,
 https://revsoc.me/,POLR,Political Criticism,2017-06-23,AFTE,Reportedly blocked
 https://www.bahai.org/persecution/egypt/update,REL,Religion,2018-02-09,OONI,
 https://shabab6april.wordpress.com/about/shabab-6-april-youth-movement-about-us-in-english/,POLR,Political Criticism,2018-02-10,OONI,
@@ -159,7 +159,6 @@ https://huffpostarabi.com/,NEWS,News Media,2017-06-20,OONI,blocked
 https://www.alquds.co.uk/,NEWS,News Media,2014-04-15,citizenlab,
 https://katib.net/,NEWS,News Media,2018-08-02,AFTE,stopped since Nov 2018 after being blocked
 http://www.siyassa.org.eg/,POLR,Political Criticism,2018-02-09,OONI,This news website is owned by state. It is unlikely to be critical or blocked in the future.
-https://islamonline.net/,REL,Religion,2014-04-15,citizenlab,
 http://rocketvpnapp.com/,ANON,Anonymization and circumvention tools,2018-08-02,AFTE,
 http://www.freenom.link/,ANON,Anonymization and circumvention tools,2017-10-21,AFTE,
 https://www.zophar.net/proxy,ANON,Anonymization and circumvention tools,2017-08-30,AFTE,
@@ -167,7 +166,7 @@ http://cencos.org/,NEWS,News Media,2018-05-03,AFTE,
 https://www.alalamtv.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.trtarabi.com/,NEWS,News Media,2017-07-22,AFTE,
 http://www.merip.org/mer/mer206/aids-hotline-cairo,PUBH,Public Health,2018-02-09,OONI,
-https://centerforinquiry.org/blog/category/secular-islam/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://centerforinquiry.org/blog/category/secular-islam/,REL,Religion,2014-04-15,citizenlab,
 https://atbrownies.blogspot.com/,POLR,Political Criticism,2017-10-21,AFTE,
 http://uproxy.org/,ANON,Anonymization and circumvention tools,2017-12-06,AFTE,
 http://www.egface.com/,GRP,Social Networking,2018-03-30,AFTE,Reportedly blocked
@@ -202,7 +201,7 @@ http://yanairgate.net/,NEWS,News Media,2017-06-23,AFTE,
 http://www.toktokmag.com/home.htm,CULTR,Culture,2018-02-09,OONI,Egypt's first independent self-published comic magazine
 http://albedaiah.com/,NEWS,News Media,2017-06-23,AFTE,Updates stopped after being blocked.
 http://www.aswatmasriya.com/,NEWS,News Media,2017-05-24,OONI,blocked as of date added- the website closed and not updated since 2017
-http://www.katib.org/,NEWS,News Media,2014-04-15,citizenlab,Reportedly blocked
+http://www.katib.org/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Reportedly blocked
 https://manalaa.net/,POLR,Political Criticism,2018-04-19,OONI,blocked
 http://www.2fastsurfer.com/,ANON,Anonymization and circumvention tools,2017-08-30,AFTE,
 http://www.345proxy.ml/,ANON,Anonymization and circumvention tools,2017-10-21,AFTE,
@@ -216,17 +215,17 @@ https://te.eg/wps/portal/te/Personal,COMT,Communication Tools,2019-05-16,Netalit
 https://www.timewatch.co.il/,CTRL,Control content,2019-05-16,Netalitica,To check if Israel top level domain name is blocked
 https://www.technion.ac.il/,CTRL,Control content,2019-05-16,Netalitica,To check if Israel top level domain name is blocked
 http://www.energym.co.il/,CTRL,Control content,2019-05-16,Netalitica,To check if Israel top level domain name is blocked
-https://www.ikhtyar.org/,CULTR,Culture,2019-03-31,netaltica,
-https://www.7iber.com/,CULTR,Culture,2019-03-31,netaltica,
-https://daraj.com/,CULTR,Culture,2019-03-31,netaltica,
-https://middle-east-online.com/,CULTR,Culture,2019-03-31,netaltica,
+https://www.ikhtyar.org/,LGBT,LGBT,2019-03-31,netaltica,
+https://www.7iber.com/,NEWS,News Media,2019-03-31,netaltica,
+https://daraj.com/,NEWS,News Media,2019-03-31,netaltica,
+https://middle-east-online.com/,NEWS,News Media,2019-03-31,netaltica,
 https://wlahawogohokhra.com/,CULTR,Culture,2019-03-31,netaltica,
-https://www.mosaicmena.org/,CULTR,Culture,2019-03-31,netaltica,
+https://www.mosaicmena.org/,LGBT,LGBT,2019-03-31,netaltica,
 https://manshurat.org/,CULTR,Culture,2019-03-31,netaltica,
 https://www.medinaportal.com/,CULTR,Culture,2019-03-31,netaltica,
 https://genderation.xyz/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9,CULTR,Culture,2019-03-31,netaltica,
 http://www.islamist-movements.com/,CULTR,Culture,2019-03-31,netaltica,
-https://mawdoo3.com/,CULTR,Culture,2019-03-31,netaltica,
+https://mawdoo3.com/,SRCH,Search Engines,2019-03-31,netaltica,
 https://www.marefa.org/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9,CULTR,Culture,2019-03-31,netaltica,
 http://jadaliyya.com/,CULTR,Culture,2019-03-31,netaltica,
 https://www.dc4mf.org/,CULTR,Culture,2019-03-31,netaltica,
@@ -241,10 +240,10 @@ http://www.alapn.co/ar/,CULTR,Culture,2019-05-16,Netalitica,
 http://arabca.net/,CULTR,Culture,2019-05-16,Netalitica,
 https://www.hiamag.com/,CULTR,Culture,2019-05-16,Netalitica,
 https://www.alukah.net/,CULTR,Culture,2019-05-16,Netalitica,
-https://arb.majalla.com/,CULTR,Culture,2019-05-16,Netalitica,
+https://arb.majalla.com/,NEWS,News Media,2019-05-16,Netalitica,
 http://egyptmusic.org/en/,CULTR,Culture,2019-05-16,Netalitica,
 http://www.culturewheel.com/ar,CULTR,Culture,2019-06-02,Netalitica,
-http://assabeel.net/,DATE,Online Dating,2019-05-16,Netalitica,
+http://assabeel.net/,NEWS,News Media,2019-05-16,Netalitica,
 https://www.zohradating.com/,DATE,Online Dating,2019-05-16,Netalitica,
 https://www.nisfo.com/,DATE,Online Dating,2019-05-16,Netalitica,
 https://ahlam.net/,DATE,Online Dating,2019-05-16,Netalitica,
@@ -294,7 +293,7 @@ http://legal-agenda.com/,HUMR,Human Rights Issues,2019-03-31,netaltica,
 http://www.afalebanon.org/ar/,HUMR,Human Rights Issues,2019-03-31,netaltica,
 http://www.aihr-iadh.org/ar/,HUMR,Human Rights Issues,2019-03-31,netaltica,
 https://www.fidh.org/ar,HUMR,Human Rights Issues,2019-03-31,netaltica,
-https://www.arab-reform.net/,HUMR,Human Rights Issues,2019-03-31,netaltica,
+https://www.arab-reform.net/,POLR,Political Criticism,2019-03-31,netaltica,
 https://www.ifex.org/ar/,HUMR,Human Rights Issues,2019-03-31,netaltica,
 http://freedomseekers.org/,HUMR,Human Rights Issues,2019-03-31,netaltica,
 https://harassmap.org/ar,HUMR,Human Rights Issues,2019-03-31,netaltica,
@@ -354,7 +353,7 @@ https://www.elmwatin.com/,NEWS,News Media,2019-03-31,netaltica,
 https://www.alnaharegypt.com/,NEWS,News Media,2019-03-31,netaltica,
 http://www.propaganda-eg.com/,NEWS,News Media,2019-03-31,netaltica,
 https://www.vetogate.com/,NEWS,News Media,2019-03-31,netaltica,
-https://aljaras.com/,NEWS,News Media,2019-03-31,netaltica,
+https://aljaras.com/,CULTR,Culture,2019-03-31,netaltica,
 https://www.alsolta.net/,NEWS,News Media,2019-03-31,netaltica,
 https://www.fanmog.com/,NEWS,News Media,2019-03-31,netaltica,
 https://www.elnabaa.net/,NEWS,News Media,2019-03-31,netaltica,
@@ -372,10 +371,10 @@ http://www.almarjie-paris.com/,NEWS,News Media,2019-03-31,netaltica,
 https://www.elsaba7.com/,NEWS,News Media,2019-03-31,netaltica,
 https://www.yenisafak.com/ar/,NEWS,News Media,2019-03-31,netaltica,
 https://domiatwindow.net/,NEWS,News Media,2019-03-31,netaltica,
-https://www.christian-dogma.com/,NEWS,News Media,2019-03-31,netaltica,
+https://www.christian-dogma.com/,REL,Religion,2019-03-31,netaltica,
 https://www.aa.com.tr/ar,NEWS,News Media,2019-03-31,netaltica,
 https://twitter.com/ajarabic,NEWS,News Media,2019-04-02,netaltica,
-https://www.moqawama.org/,NEWS,News Media,2019-05-16,Netalitica,Aligned with Hizbullah
+https://www.moqawama.org/,MILX,Terrorism and Militants,2019-05-16,Netalitica,Aligned with Hizbullah
 http://www.almayadeen.net/,NEWS,News Media,2019-05-16,Netalitica,Aligned with Hizbullah
 https://www.zamanalwsl.net/,NEWS,News Media,2019-05-16,Netalitica,Aligned with Syrinan armed conflict
 https://www.enabbaladi.net/,NEWS,News Media,2019-05-16,Netalitica,Aligned with Syrinan armed conflict
@@ -400,13 +399,12 @@ http://eslahnahda.com/,POLR,Political Criticism,2019-03-31,netaltica,
 http://eltahalof.com/,POLR,Political Criticism,2019-03-31,netaltica,
 http://altagamoa.org/,POLR,Political Criticism,2019-03-31,netaltica,
 http://gabhasalafia.com/,POLR,Political Criticism,2019-03-31,netaltica,
-https://alhudood.net/,POLR,Political Criticism,2019-03-31,netaltica,
+https://alhudood.net/,NEWS,News Media,2019-03-31,netaltica,
 https://www.washingtoninstitute.org/ar/,POLR,Political Criticism,2019-03-31,netaltica,
 https://www.dohainstitute.org/AR/Pages/index.aspx,POLR,Political Criticism,2019-03-31,netaltica,
 http://ercegypt.org/,POLR,Political Criticism,2019-03-31,netaltica,
 https://eipss-eg.org/,POLR,Political Criticism,2019-03-31,netaltica,
 http://gamalheshmat.com/,POLR,Political Criticism,2019-03-31,netaltica,
-https://www.alqassam.ps/,POLR,Political Criticism,2019-03-31,netaltica,
 http://aoc.fm/wp/,POLR,Political Criticism,2019-03-31,netaltica,
 https://twitter.com/ElBaradei,POLR,Political Criticism,2019-04-02,netaltica,
 https://twitter.com/ikhwanonlinecom,POLR,Political Criticism,2019-04-02,netaltica,
@@ -415,14 +413,14 @@ https://masryaom.me/,POLR,Political Criticism,2019-05-16,Netalitica,Political ca
 https://sout1.us/,POLR,Political Criticism,2019-05-16,Netalitica,Political campaign against constitution
 http://www.qatarradio.qa/,POLR,Political Criticism,2019-05-16,Netalitica,Qatar-aligned
 https://www.qatarairways.com/en-us/homepage.html,POLR,Political Criticism,2019-05-16,Netalitica,Qatar-aligned
-https://www.diwan.gov.qa/,POLR,Political Criticism,2019-05-16,Netalitica,Qatar-aligned
+https://www.diwan.gov.qa/,CTRL,Control content,2019-05-16,Netalitica,Qatar-aligned
 http://www.ikhwantube.com/,POLR,Political Criticism,2019-05-16,Netalitica,Muslim Brotherhood
 https://ikhwansyria.com/,POLR,Political Criticism,2019-05-16,Netalitica,Muslim Brotherhood
 http://www.ikhwanpress.com/,POLR,Political Criticism,2019-05-16,Netalitica,Muslim Brotherhood
 http://www.al-jamaa.org/,POLR,Political Criticism,2019-05-16,Netalitica,Muslim Brotherhood
 http://www.ikhwan.sd/,POLR,Political Criticism,2019-05-16,Netalitica,Muslim Brotherhood
 http://www.revolution25january.com/,POLR,Political Criticism,2019-05-16,Netalitica,Muslim Brotherhood
-https://carnegie-mec.org/,POLR,Political Criticism,2019-05-16,Netalitica,
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2019-05-16,Netalitica,
 http://www.egyptrev.net/,POLR,Political Criticism,2019-05-16,Netalitica,
 http://www.hayaparty.org/,POLR,Political Criticism,2019-05-16,Netalitica,
 http://www.alnourparty.com/,POLR,Political Criticism,2019-05-16,Netalitica,
@@ -510,7 +508,7 @@ http://ikshef.com/,HUMR,Human Rights Issues,2017-07-22,AFTE,
 https://unhabitat.org/egypt/,IGO,Intergovernmental Organizations,2018-02-09,OONI,
 http://web.cedare.org/,IGO,Intergovernmental Organizations,2018-02-09,OONI,
 https://www.amcham.org.eg/,IGO,Intergovernmental Organizations,2018-02-09,OONI,
-http://panet.co.il/,CTRL,Control content,2018-08-02,AFTE,
+http://panet.co.il/,NEWS,News Media,2018-08-02,AFTE,
 http://www.wataninet.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://fj-p.com/,POLR,Political Criticism,2018-02-12,OONI,Reportedly blocked – A political party of the Muslim Brotherhood
 https://twitter.com/muhammadmorsi,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -518,29 +516,26 @@ http://www.ahewar.org/debat/nr.asp,POLR,Political Criticism,2014-04-15,citizenla
 https://www.dakahliaikhwan.com/,POLR,Political Criticism,2017-07-01,AFTE,
 https://www.facebook.com/ikhwanweb.official,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.ikhwanwiki.com/,POLR,Political Criticism,2017-06-23,AFTE,
-http://www.likud.org.il/,POLR,Political Criticism,2017-08-10,Egypt List,
+http://www.likud.org.il/,GOVT,Government,2017-08-10,Egypt List,
 http://answering-islam.org/,REL,Religion,2014-04-15,citizenlab,
-http://www.ansarweb.net/artman2/publish/index.php,REL,Religion,2014-04-15,citizenlab,
+http://www.ansarweb.net/artman2/publish/index.php,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.bahai-faith.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.bahai.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.coptic-history.org/,REL,Religion,2014-04-15,citizenlab,
-http://www.coptic.net/EncyclopediaCoptica/,REL,Religion,2014-04-15,citizenlab,
+http://www.coptic.net/EncyclopediaCoptica/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.copticedu.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.tasbeha.org/,REL,Religion,2014-04-15,citizenlab,
-http://www.yahosein.com/,REL,Religion,2014-04-15,citizenlab,
+http://www.yahosein.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://almodon.com/,CULTR,Culture,2018-08-02,AFTE,blocked
 https://moeltaher.net/,POLR,Political Criticism,2017-10-21,Mo,
 https://www.egyptiantalks.org/invb/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.copts.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.copts.com/english/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://ahmadgamalziada.blogspot.com/,POLR,Political Criticism,2017-08-07,AFTE,URL updated after original one got blocked
-https://ikhwanonline.com/,POLR,Political Criticism,2017-06-23,AFTE,
 https://www.copticorphans.org/,REL,Religion,2014-04-15,citizenlab,
 https://baheyya.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,Reportedly blocked
 http://misrdigital.blogspirit.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.3rby.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://bo7a.blogsome.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://bokra-a7la.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://miloflamingo.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://midan.aljazeera.net/,CULTR,Culture,2017-06-23,AFTE,Reportedly blocked
 https://marsad-egypt.info/,HUMR,Human Rights Issues,2018-08-02,AFTE,
@@ -549,7 +544,7 @@ https://fri-gate.org/,POLR,Political Criticism,2018-08-02,AFTE,
 https://gamaltaha.wordpress.com/,POLR,Political Criticism,2018-08-02,AFTE,
 https://gharbeia.net/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://gr33ndata.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://hamas.ps/ar/,POLR,Political Criticism,2017-05-24,OONI,blocked as of date added
+https://hamas.ps/ar/,MILX,Terrorism and Militants,2017-05-24,OONI,blocked as of date added
 https://www.black-blackandblack.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://blogs.aljazeera.net/,POLR,Political Criticism,2017-06-23,AFTE,
 https://dawaalhaq.com/,MILX,Terrorism and Militants,2017-08-21,AFTE,
@@ -683,7 +678,7 @@ http://www.jatoeg.org/,HUMR,Human Rights Issues,2017-10-21,AFTE,
 http://www.lchr-eg.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.mom-rsf.org/,HUMR,Human Rights Issues,2017-09-05,AFTE,
 https://solidaritywithegyptlgbt.wordpress.com/,LGBT,LGBT,2018-02-10,OONI,
-http://cimaclub.com/,MMED,Media sharing,2018-08-02,AFTE,
+http://cimaclub.com/,CULTR,Culture,2018-08-02,AFTE,
 https://akhbarelyom.com/,NEWS,News Media,2018-02-09,OONI,This news website is owned by state. It is unlikely to be blocked.
 http://akhbarturkiya.com/,NEWS,News Media,2017-06-23,AFTE,blocked
 http://al-watan.com/,NEWS,News Media,2017-06-20,OONI,blocked
@@ -696,7 +691,7 @@ https://ar.qantara.de/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://arab-turkey.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://arabi21.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
 https://arabic.rt.com/,NEWS,News Media,2018-09-13,OONI,
-http://asrararabiya.com/,NEWS,News Media,2018-02-12,OONI,Reportedly blocked
+http://asrararabiya.com/,POLR,Political Criticism,2018-02-12,OONI,Reportedly blocked
 https://dailynewsegypt.com/,NEWS,News Media,2018-02-09,OONI,Reportedly blocked
 https://de.qantara.de/,NEWS,News Media,2018-09-13,OONI,
 https://egyptianstreets.com/,NEWS,News Media,2018-02-09,OONI,
@@ -738,8 +733,8 @@ http://www.egypttoday.com/Home,NEWS,News Media,2018-02-09,OONI,
 http://www.egyrep.com/,NEWS,News Media,2017-06-23,AFTE,
 http://www.elmogaz.com/,NEWS,News Media,2018-02-09,OONI,
 https://www.essada.net/,NEWS,News Media,2017-06-23,AFTE,
-http://www.faithfreedom.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.farfeshplus.com/,NEWS,News Media,2018-02-09,OONI,
+http://www.faithfreedom.org/,REL,Religion,2014-04-15,citizenlab,
+https://www.farfeshplus.com/,MMED,Media sharing,2018-02-09,OONI,
 http://www.hurriyetdailynews.com/,NEWS,News Media,2017-06-23,AFTE,
 http://www.koorabia.com/,NEWS,News Media,2018-02-12,OONI,
 http://www.mekameleen.tv/,NEWS,News Media,2017-06-23,AFTE,
@@ -770,12 +765,11 @@ https://bahaieg.org/,REL,Religion,2018-02-09,OONI,
 https://bahaikipedia.org/Egypt,REL,Religion,2018-02-09,OONI,
 http://www.bahai-egypt.org/,REL,Religion,2018-02-09,OONI,
 http://www.thekoran.com/,REL,Religion,2014-04-15,citizenlab,
-https://jeem.me/,XED,Sex Education,2018-07-31,OONI,Reportedly blocked
+https://jeem.me/,LGBT,LGBT,2018-07-31,OONI,Reportedly blocked
 http://coverme.ws/,COMT,Communication Tools,2019-10-05,Mo,
 http://cyberdust.com/,COMT,Communication Tools,2019-10-05,Mo,
 https://bridgefy.me/,COMT,Communication Tools,2019-10-05,Mo,
 https://groupme.com/,COMT,Communication Tools,2019-10-05,Mo,
-https://jami.net/,COMT,Communication Tools,2019-10-05,Mo,
 https://jitsi.org/,COMT,Communication Tools,2019-10-05,Mo,
 https://silence.im/,COMT,Communication Tools,2019-10-05,Mo,
 https://surespot.me/,COMT,Communication Tools,2019-10-05,Mo,
@@ -785,10 +779,10 @@ https://www.pryvatenow.com/,COMT,Communication Tools,2019-10-05,Mo,
 https://www.trillian.im/,COMT,Communication Tools,2019-10-05,Mo,
 https://www.voxer.com/,COMT,Communication Tools,2019-10-05,Mo,
 https://zello.com/,COMT,Communication Tools,2019-10-05,Mo,
-https://genderiyya.xyz/,LGBT,LGBT,2020-01-20,MoEltaher,
+https://genderiyya.xyz/,XED,Sex Education,2020-01-20,MoEltaher,
 https://www.bedayaa.org/,LGBT,LGBT,2020-01-20,MoEltaher,
-https://www.theaproject.org/,LGBT,LGBT,2020-01-20,MoEltaher,
-https://www.abaadmena.org/,LGBT,LGBT,2020-01-20,MoEltaher,
+https://www.theaproject.org/,XED,Sex Education,2020-01-20,MoEltaher,
+https://www.abaadmena.org/,HUMR,Human Rights Issues,2020-01-20,MoEltaher,
 https://kohljournal.press/,LGBT,LGBT,2020-01-20,MoEltaher,
 https://m.gomhuriaonline.com/,NEWS,News Media,2020-04-16,citizenlab,Reportedly blocked for sharing COVID 19 disinformation
 https://hunaaden.com/,NEWS,News Media,2020-04-16,citizenlab,Reportedly blocked for sharing COVID 19 disinformation
