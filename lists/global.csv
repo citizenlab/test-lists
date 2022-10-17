@@ -249,7 +249,6 @@ https://worldsingles.com/,DATE,Online Dating,2014-04-15,citizenlab,Updated by OO
 https://wupj.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://wwf.panda.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.100webspace.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.150m.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.2600.com/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated on 2022-02-27
 https://www.2shared.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.3wishes.com/,PROV,Provocative Attire,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1171,7 +1170,6 @@ https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/
 https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://nextstrain.org/ncov,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://coronavirus.app/,PUBH,Public Health,2020-03-27,magma,coronavirus; Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
-https://coronavirus-map.com/,PUBH,Public Health,2020-03-27,magma,coronavirus; Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
 https://bit.ly/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/nos-bloqueia-bit-ly/
 https://bitly.com/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,
 http://discord.gg/,COMT,Communication Tools,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
@@ -1592,3 +1590,6 @@ https://totaljerkface.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contributi
 https://www.coolmathgames.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"web games collection, might be blocked on school networks"
 https://www.roblox.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Popular kids game, might be blocked on school networks or by parental supervision filters"
 https://krunker.io/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Popular kids game, might be blocked on school networks or by parental supervision filters"
+https://www.timeout.com/,CULTR,Culture,2022-10-13,test-lists.ooni.org contribution,
+https://radiofreel.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiofreel.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
