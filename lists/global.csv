@@ -1573,6 +1573,23 @@ http://www.google.com/search?q=gay,LGBT,LGBT,2022-09-29,test-lists.ooni.org cont
 http://www.google.com/search?q=lesbian,LGBT,LGBT,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
 http://www.google.com/search?q=transsexual,LGBT,LGBT,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
 http://www.dw-world.de/,NEWS,News Media,2022-09-29,test-lists.ooni.org contribution,Reversed PR #1114 by OONI on 2022-09-29
+https://rargb.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,mirror of http://rarbg.to/
+https://yts.mx/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://yts.lt/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://yts.mx/
+https://eztv.re/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://eztv.ag/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://eztv.re/
+https://www.limetorrents.lol/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://limetorrents.pro/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://www.limetorrents.lol/
+https://1337x.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://1337x.st/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://1337x.to/, currently blocked in the Netherlands (2022-10-08)"
+https://x1337x.eu/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://1337x.to/, currently blocked in the Netherlands (2022-10-08)"
+https://kickasstorrents.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://katcr.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://kickasstorrents.to/, currently blocked in the Netherlands (2022-10-08)"
+https://kat.am/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://kickasstorrents.to/, currently blocked in the Netherlands (2022-10-08)"
+https://totaljerkface.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Graphic web game, might be blocked on school networks"
+https://www.coolmathgames.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"web games collection, might be blocked on school networks"
+https://www.roblox.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Popular kids game, might be blocked on school networks or by parental supervision filters"
+https://krunker.io/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Popular kids game, might be blocked on school networks or by parental supervision filters"
 https://www.timeout.com/,CULTR,Culture,2022-10-13,test-lists.ooni.org contribution,
 https://radiofreel.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
 https://radiofreel.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
