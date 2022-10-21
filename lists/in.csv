@@ -232,7 +232,7 @@ https://www.opindia.com/,NEWS,News Media,2019-04-09,OONI,News website
 https://newsclick.in/,NEWS,News Media,2019-04-09,OONI,News website
 https://www.communistparty.in/,POLR,Political Criticism,2019-04-09,OONI,Communist Party of India
 https://ncp.org.in/,POLR,Political Criticism,2019-04-09,OONI,Nationalist Congress Party
-http://www.bspindia.org/,POLR,Political Criticism,2019-04-09,OONI,Bahujan Samaj Party
+https://www.bspindia.co.in/,POLR,Political Criticism,2019-04-09,OONI,Bahujan Samaj Party
 http://aitcofficial.org/,POLR,Political Criticism,2019-04-09,OONI,All India Trinamool Congress party
 https://shivsena.org/,POLR,Political Criticism,2019-04-09,OONI,Party founded by political cartoonist Bal Thackeray
 https://www.aiadmk.website/,POLR,Political Criticism,2019-04-09,OONI,Tamil Nadu political party
@@ -376,8 +376,6 @@ https://zeefiles.download/,FILE,File-sharing,2021-02-26,Netalitica,Blocked throu
 https://www.intelligencecareers.gov/,GOVT,Government,2021-02-26,Netalitica,US Intelligence job postings
 https://adf.ly/,HOST,Hosting and Blogging Platforms,2021-02-26,Netalitica,"URL shortening service, reportedly blocked on Jio"
 http://arabhra.org/,HUMR,Human Rights Issues,2021-02-26,Netalitica,Indian Express article citing Citizen Lab work that this is blocked
-https://feminist.org/,HUMR,Human Rights Issues,2021-02-26,Netalitica,Indian Express article citing Citizen Lab work that this is blocked
-https://genderandaids.unwomen.org/,IGO,Intergovernmental Organizations,2021-02-26,Netalitica,Indian Express article citing Citizen Lab work that this is blocked
 https://www.avaaz.org/page/en/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"International NGO, was blocked earlier (unblocked later through an order)"
 https://sadapind.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, blocked by Indian government"
 https://pb4u.org/,MILX,Terrorism and Militants,2021-02-26,Netalitica,"Related to Khalistani movement, blocked by Indian government"
@@ -476,7 +474,6 @@ https://www.300mbfilms.ws/,FILE,File-sharing,2021-03-22,Netalitica,"File and mov
 https://acefile.co/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://alfafile.net/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://downace.com/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
-https://eztv.re/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://mirrorace.com/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://nitroflare.com/,FILE,File-sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://ihago.net/,GAME,Gaming,2021-03-22,Netalitica,"Game, Chinese app ban order in July 2020"
@@ -583,7 +580,6 @@ https://idronline.org/,ECON,Economics,2021-04-20,Netalitica ,India Development R
 https://www.in.undp.org/,ECON,Economics,2021-04-20,Netalitica ,UNDP in India
 https://www.dream11.com/,GMB,Gambling,2021-04-20,Netalitica ,Sports betting
 https://mycasino.in/,GMB,Gambling,2021-04-30,Netalitica ,Gambling site aggregator
-https://www.europacasino.com/,GMB,Gambling,2021-04-30,Netalitica ,Online casino
 https://dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino
 https://www.dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino
 https://m.dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino mobile entry
@@ -713,7 +709,6 @@ http://www.wpsi-india.org/wpsi/index.php,ENV,Environment,2021-10-10,OONI,Environ
 https://www.wwfindia.org/,ENV,Environment,2021-10-10,OONI,Environmental NGO
 https://www.wti.org.in/,ENV,Environment,2021-10-10,OONI,Environmental NGO
 http://cesorissa.org/,ENV,Environment,2021-10-10,OONI,Centre for Environmental Studies
-https://www.cseindia.org/,ENV,Environment,2021-10-10,OONI,Cenre for Science and Environment
 https://www.vasundharaodisha.org/,ENV,Environment,2021-10-10,workshop india,"Action Research & Policy Advocacy Organisation working on Natural Resources Governance, Conservation and Sustainable Livelihoods"
 https://www.cprindia.org/environmental-law-governance,ENV,Environment,2021-10-10,workshop india,"Evidence based research on environmental jurisprudence to the construction industry, and they engage directly with domestic and international environmental institutions"
 https://hrce.tn.gov.in/hrcehome/index.php,GOVT,Government,2021-10-10,Nadika,TN Hindu Religious Charitable Endowment Department website
@@ -725,3 +720,4 @@ https://indiansexstories.net/,PORN,Pornography,2021-10-10,workshop india,Erotica
 https://indiansexstories2.net/,PORN,Pornography,2021-10-10,workshop india,Blocked on certain ISPs (new url)
 https://piratebay.live/,FILE,File-sharing,2022-01-02,community member,Torrent hosting site blocked via DNS
 http://bannedthought.net/,HUMR,Human Rights Issues,2022-04-04,,
+http://www.videolan.org/,MMED,Media sharing,2022-08-12,community member,VLC media player blocked in India

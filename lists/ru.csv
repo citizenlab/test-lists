@@ -8,18 +8,14 @@ http://ipvnews.org/,NEWS,News Media,2014-04-15,citizenlab,"blocked, critical of 
 https://jahforum.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,canabis focus
 http://looo.ch/,CULTR,Culture,2014-04-15,citizenlab,
 http://newsland.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.queerussia.info/,PUBH,Public Health,2014-04-15,citizenlab,original content changed to public health
 http://redenginejeans.com/,COMM,E-commerce,2014-04-15,citizenlab,
 https://rutor.org/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.avtoazov.com.ua/,COMM,E-commerce,2014-04-15,citizenlab,site for cars
 http://www.casinoking.com/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.dishisvobodno.ru/,ENV,Environment,2014-04-15,citizenlab,
 http://www.hateit.ru/,HATE,Hate Speech,2014-04-15,citizenlab,
 http://www.islamdin.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,blocked
 http://www.kasparov.ru/,NEWS,News Media,2014-04-15,citizenlab,site of Kremlin's political opponent
-http://www.narkop.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.ng.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.seedjah.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.weedy.be/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.daymohk.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"blocked, no NILX anylonger - now hosting platform, monitor"
 http://haamash.wordpress.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"outdated but blocked, monitor"
@@ -54,7 +50,7 @@ http://zhurnal.lib.ru/,CULTR,Culture,2014-04-15,citizenlab,samiizdat journal
 https://adagamov.info/,NEWS,News Media,2014-04-15,citizenlab,ppersonal blog
 https://genderandaids.unwomen.org/en/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://lgbt-grani.livejournal.com/,LGBT,LGBT,2014-04-15,citizenlab,archive of LGBT project
-http://rutracker.org/forum/index.php,FILE,File-sharing,2014-04-15,citizenlab,largest torrent sharing service
+http://rutracker.org/,FILE,File-sharing,2014-04-15,citizenlab,largest torrent sharing service
 http://www.xgay.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://kazak-chita.ru/,COMM,E-commerce,2014-04-15,citizenlab,
 https://yandex.ru/,SRCH,Search Engines,2014-04-15,citizenlab,and popular email service
@@ -704,3 +700,34 @@ https://yocity12.com/,NEWS,News Media,2022-07-25,OONI,
 https://skat.media/,NEWS,News Media,2022-07-25,OONI,
 https://www.proekt.media/,NEWS,News Media,2022-07-25,OONI,
 https://www.sobaka.ru/,NEWS,News Media,2022-07-25,OONI,
+https://www.pap.pl/,NEWS,News Media,2022-08-17,anonymous,Blocked the Polish Press Agency (PAP) portal along with other 22 websites according to Roskomsvoboda
+https://azatli.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azatli.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://idelrea.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://idelrea.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://current-time.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://current-time.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://kavkaz.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://kavkazr.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiomarsh.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiomarsh.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://severrea.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://severrea.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://sibrea.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://sibrea.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://svobod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://svobodaorg.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://krym.gitlab.io/ktat/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://krymre.github.io/ktat/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://krym.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://krymre.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://krym.gitlab.io/ua/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://krymre.github.io/ua/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiosvobod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiosvobod.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azattyq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azattyq.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://golosamer.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://golosamer.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azadliq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
+https://azadli.github.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
