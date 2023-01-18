@@ -36,7 +36,6 @@ https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wi
 https://uz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://uz.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://www.cnews.ru/,NEWS,News Media,2018-07-11,OONI,Reportedly blocked
-http://rus.ozodlik.org/,NEWS,News Media,2018-07-23,OONI,
 https://www.bbc.com/uzbek/,NEWS,News Media,2018-07-23,OONI,
 http://bride.ru/,DATE,Online Dating,2019-05-25,Netalitica,
 http://buddhist.ru/,REL,Religion,2019-05-25,Netalitica,
@@ -336,3 +335,7 @@ https://azadliq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-14
 https://azadli.github.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
 https://azattyk.gitlab.io/,ANON,Anonymization and circumvention tools,2022-11-03,rayasharbain,
 https://azattyk.github.io/,ANON,Anonymization and circumvention tools,2022-11-03,rayasharbain,
+https://ozodi.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodiozodi.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodlik.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodlik.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
