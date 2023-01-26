@@ -225,7 +225,7 @@ https://www.fandom.com/,CULTR,Culture,2017-09-05,OONI,blocked with 503 error cod
 https://www.camsoda.com/,PORN,Pornography,2017-09-05,OONI,blocked
 https://ir.true.com/press-releases/,COMM,E-commerce,2017-09-05,OONI,blocked with timeout error.
 https://tgp.babesnetwork.com/,PORN,Pornography,2017-09-05,OONI,blocked
-https://cgspace.cgiar.org/handle/10568/91553/,SRCH,Search Engines,2018-04-01,Alan Orth,Handle.net provides persistent identifiers for items in academic repositories. Blocked
+https://hdl.handle.net/10568/91553,SRCH,Search Engines,2018-04-01,Alan Orth,Handle.net provides persistent identifiers for items in academic repositories. Blocked
 http://graphicriver.net/,MMED,Media sharing,2017-05-16,ASL19,The site has blocked Iranian ip.
 http://www.alrased.net/main/,REL,Religion,2014-04-15,citizenlab,language is Arabic
 http://www.islamicweb.com/Arabic/Shia/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked
@@ -796,3 +796,7 @@ https://hub.iranserver.com/,HOST,Hosting and Blogging Platforms,2022-08-25,test-
 https://limoo.host/,HOST,Hosting and Blogging Platforms,2022-08-25,test-lists.ooni.org contribution,
 https://panel.limoo.host/,HOST,Hosting and Blogging Platforms,2022-08-25,test-lists.ooni.org contribution,
 https://app.ighe3.com/,CULTR,Culture,2022-07-25,Chelchela,
+https://radiofa.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiofa.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azadiradio.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://azadiradio.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,

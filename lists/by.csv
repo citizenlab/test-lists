@@ -1,5 +1,6 @@
 url,category_code,category_description,date_added,source,notes
-https://www.pravda.com.ua/,NEWS,News Media,2022-07-14,comminuty member,Ukraine online media blocked in Belarus
+https://greenbelarus.info/,ENV,Environment,2022-11-11,community member,ecological portal
+https://www.pravda.com.ua/,NEWS,News Media,2022-07-14,community member,Ukraine online media blocked in Belarus
 https://politzek.me/,COMT,Communication Tools,2022-06-22,community member,information about political prisoners
 https://golos2020.org/,POLR,Political Criticism,2021-03-19,community member,alternative voting
 https://pages.github.com/,HOST,Hosting and Blogging Platforms,2021-03-12,community member,software development platform
@@ -152,7 +153,6 @@ http://filmpotok.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform p
 http://films-torrent.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://halyavin.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
 http://torrents3d.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-https://1337x.to/,MMED,Media sharing,2019-04-07,Netalitica,
 http://minda.by/,REL,Religion,2019-04-07,Netalitica,Site of the Minsk Theological academy
 http://www.church.by/,REL,Religion,2019-04-07,Netalitica,site of Belarussian Orthodox church
 http://w2.vatican.va/content/vatican/it.html,REL,Religion,2019-04-07,Netalitica,Vatican site
@@ -269,7 +269,6 @@ https://honestpeople.by/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
 https://zubr.in/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
 https://babariko.vision/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
 https://kyky.org/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://www.currenttime.tv/,NEWS,News Media,2020-07-24,ifreedombelarus,
 https://meduza.io/,NEWS,News Media,2020-07-24,ifreedombelarus,
 https://zona.media/,NEWS,News Media,2020-07-24,ifreedombelarus,
 https://euroradio.fm/,NEWS,News Media,2020-07-24,ifreedombelarus,
@@ -336,3 +335,7 @@ https://1reg.org/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
 https://b-g.by/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
 https://orsha.eu/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
 https://vitebsk.cc/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
+https://current-time.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://current-time.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://svabod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://svabod.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
