@@ -147,7 +147,7 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
             continue
         if not csv_path.endswith('.csv'):
             continue
-        with open(csv_path, 'r') as in_file:
+        with open(csv_path, 'r', encoding='utf-8') as in_file:
             reader = csv.reader(in_file, delimiter=',')
             next(reader) # skip header
             urls_bag = set()
