@@ -493,11 +493,11 @@ https://rainbowforward.gitbook.io/,LGBT,LGBT,2022-08-05,test-lists.ooni.org cont
 https://maxcdn.bootstrapcdn.com/,HOST,Hosting and Blogging Platforms,2022-10-28,sinar project,Website containing templates used in Wordpress websites found blocked by MCMC (https://help.serverfreak.com/en/article/guide-to-fix-site-slow-due-to-blocked-maxcdn-url-by-mcmc-of-font-awesome-of-wordpress-1ne4621/)
 https://polyfill.io/,HOST,Hosting and Blogging Platforms,2022-10-28,sinar project,Website containing templates used in Wordpress websites found blocked by MCMC (https://help.serverfreak.com/en/article/guide-to-fix-site-slow-due-to-blocked-maxcdn-url-by-mcmc-of-font-awesome-of-wordpress-1ne4621/)
 https://caghi.com/,SRCH,Search Engines,2022-10-28,sinar project,"An open source search engine found containing personal data of Malaysian citizens, blocked by KKOM (https://themalaysianreserve.com/2022/06/14/k-komm-orders-website-allegedly-selling-personal-data-to-be-blocked/)"
-https://www.bravotube.net/,FILE,File-sharing,2023-02-21,sinar project,Found blocked in Malaysia
-http://rarbg.to/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
+https://www.bravotube.net/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
+https://rarbggo.org/,FILE,File-sharing,2023-02-21,sinar project,Found blocked in Malaysia
 http://breached.co/,SRCH,Search Engines,2023-02-21,sinar project,Found blocked in Malaysia
 https://www.dandanzan.com/,MMED,Media sharing,2023-02-21,sinar project,Found blocked in Malaysia
-https://www.keadilanrakyat.org/,POLR,Political Criticism,2023-02-21,sinar project,
+https://keadilanrakyat.org/,POLR,Political Criticism,2023-02-21,sinar project,
 https://pakatanharapan.my/,POLR,Political Criticism,2023-02-21,sinar project,
 https://www.warisansabah.org/,POLR,Political Criticism,2023-02-21,sinar project,
 https://www.roketkini.com/,POLR,Political Criticism,2023-02-21,sinar project,
@@ -506,10 +506,9 @@ https://pejuang.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
 https://tanahairku.my/,POLR,Political Criticism,2023-02-21,sinar project,
 https://berjasa.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
 http://www.partisarawakbersatu.org/,POLR,Political Criticism,2023-02-21,sinar project,
-https://anwaribrahim.com/,POLR,Political Criticism,2023-02-21,sinar project,"Current Prime Minister, although previously an opposition leader"
-http://www.spr.gov.my/,GOVT,Government,2023-02-21,sinar project,
+https://www.anwaribrahim.com/,POLR,Political Criticism,2023-02-21,sinar project,"Current Prime Minister, although previously an opposition leader"
+https://www.spr.gov.my/,GOVT,Government,2023-02-21,sinar project,
 https://dashboard.spr.gov.my/#!/home,GOVT,Government,2023-02-21,sinar project,
 https://perikatan-nasional.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
-http://9anime.to/,MMED,Media sharing,2023-02-21,sinar project,Found blocked in Malaysia
 https://www.porntrex.com/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
 http://32red.com/,GMB,Gambling,2023-02-21,sinar project,Found blocked in Malaysia
