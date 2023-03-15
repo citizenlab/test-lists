@@ -1,5 +1,4 @@
 url,category_code,category_description,date_added,source,notes
-http://ethiomuslimsmedia.com/index.php/news-paper/132-burma/,COMM,E-commerce,2014-04-15,citizenlab,content changed but domain still blocked - monitor
 http://apniisp.com/,FILE,File-sharing,2014-04-15,citizenlab,"Music sharing website. Updated recently, seems active. No redirect to HTTPS either."
 http://bollyextreme.com/,FILE,File-sharing,2014-04-15,citizenlab,"Possibly old file sharing website, does not seem to be active in the last 2-3 years. Blocked on some ISPs - monitor"
 http://cckerala.com/,FILE,File-sharing,2014-04-15,citizenlab,"Old Kerala news website, not updated since 2012. Still blocked - monitor"
@@ -212,7 +211,6 @@ https://kukiblackday.com/,HUMR,Human Rights Issues,2019-03-20,csk,
 http://www.womensurvivorsnetwork.org/,HUMR,Human Rights Issues,2019-03-20,csk,
 https://www.eenadu.net/,NEWS,News Media,2019-03-20,csk,
 https://www.andhrajyothy.com/,NEWS,News Media,2019-03-20,csk,
-http://mpaper.sakshi.com/,NEWS,News Media,2019-03-20,csk,
 http://lankeshpatrike.com/,NEWS,News Media,2019-03-20,csk,
 https://www.thekashmirmonitor.net/,NEWS,News Media,2019-03-20,csk,
 https://kashmirobserver.net/,NEWS,News Media,2019-03-20,csk,
@@ -279,7 +277,6 @@ http://hueiyenlanpao.com/,NEWS,News Media,2019-09-03,csk,
 http://naharolgithoudang.in/,NEWS,News Media,2019-09-03,csk,
 http://kanglaonline.com/,NEWS,News Media,2019-09-03,csk,
 https://nenow.in/,NEWS,News Media,2019-09-03,csk,
-http://eimitimes.in/,NEWS,News Media,2019-09-03,csk,
 http://nagalimvoice.com/,NEWS,News Media,2019-09-03,csk,
 https://phualvatimes.com/,NEWS,News Media,2019-09-03,csk,
 https://ssumanipur.wordpress.com/,POLR,Political Criticism,2019-09-03,csk,
@@ -398,7 +395,6 @@ https://gogoanime.tv/,MMED,Media sharing,2021-03-18,Netalitica,"Reportedly block
 https://newgrounds.com/,MMED,Media sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked"
 https://www.savitabhabhi.vip/,PORN,Pornography,2021-03-18,Netalitica,Indian Porn web comic
 https://savitabhabhi.com/,PORN,Pornography,2021-03-18,Netalitica,"Porn web comic, domain ordered to be blocked"
-https://www.onemillionbabes.net/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
 http://rawpoint.biz/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
 https://www.mhcescorts.com/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
 http://riya-kapoor.com/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
@@ -413,7 +409,7 @@ http://www.pvchr.asia/,HUMR,Human Rights Issues,2021-03-20,Netalitica,People's V
 http://janmitranyas.in/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Jan Mitra Nyas, working on basic rights to marginalised communities"
 http://afdrpunjab.blogspot.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Association For Democratic Rights (Punjab)
 http://bondedlabour.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Bandi Mukti Morcha, against bonded labour, mostly focusing on Bengal"
-https://apdpkashmir.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica, Association of Parents of Disappeared Persons (Kashmir)
+https://apdpkashmir.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica," Association of Parents of Disappeared Persons (Kashmir)"
 https://punjabdisappeared.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Working on enforced disappearances in Punjab
 https://milaanfoundation.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Women empowerment NGO
 https://www.assfindia.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Acid Survivors Saahas Foundation
@@ -526,7 +522,6 @@ https://9anime.live/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked
 https://www.actionbd.net/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://www.desitellybox.me/,MMED,Media sharing,2021-03-22,Netalitica,"TV shows streams, reportedly blocked on ACT"
 https://imgbox.com/,MMED,Media sharing,2021-03-22,Netalitica,Reportedly blocked on ACT
-http://newsdog.co/,NEWS,News Media,2021-03-22,Netalitica,Chinese app ban order in July 2020
 https://news.sina.com.cn/,NEWS,News Media,2021-03-22,Netalitica,Chinese app ban order in September 2020
 https://www.ashams.com/,NEWS,News Media,2021-03-22,Netalitica,"Probably Israel and Palestine related news, reportedly blocked on ACT"
 https://currentaffairspk.com/,NEWS,News Media,2021-03-22,Netalitica,"Pakistani news website, reportedly blocked on ACT"
@@ -598,7 +593,6 @@ https://keralamuslimjamaath.org/,REL,Religion,2021-05-25,Netalitica,Muslim org b
 http://www.aimplboard.in/,REL,Religion,2021-05-25,Netalitica,All India Muslim Personal Law Board
 https://popularfrontindia.org/,REL,Religion,2021-05-25,Netalitica,"Muslim org, considered extremist"
 http://m.dweepdiary.com/,NEWS,News Media,2021-05-25,Netalitica,"News from Lakshwadeep Islands, reports of blocking"
-http://www.macassam.nic.in/,GOVT,Government,2021-05-25,Netalitica,Mising Autonomous Council (Assam)
 https://westjaintiahills.gov.in/,GOVT,Government,2021-05-25,Netalitica,West Jaintia Hills District (autonomous region)
 https://khadc.nic.in/index.htm/,GOVT,Government,2021-05-25,Netalitica,Khasi Hills Autonomous region
 http://ttaadc.gov.in/,GOVT,Government,2021-05-25,Netalitica,Tripura Tribal Areas Council

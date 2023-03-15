@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://100kwt.com/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
-http://10svodok.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://1c.ru/,COMM,E-commerce,2018-02-23,igorv,Software company
 https://1plus1.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Eastern Ukraine
 https://1prime.ru/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
@@ -89,10 +88,7 @@ http://community.livejournal.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://community.livejournal.com/dpni_ru,POLR,Political Criticism,2014-04-15,citizenlab,
 http://community.livejournal.com/openrussia/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://compromat.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://cones.tv/,COMM,E-commerce,2014-04-15,citizenlab,
 http://connect.ua/,NEWS,News Media,2014-04-15,citizenlab,
-http://contracept.newlist.ru/,XED,Sex Education,2014-04-15,citizenlab,
-http://coordmedcentr.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 https://credit.webmoney.ru/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://crimea.gov.ru/,GOVT,Government,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://crimea.ria.ru/,NEWS,News Media,2018-03-15,ksenia,Crimean pro-Russian website from new ministry of information blocklist proposal
@@ -102,7 +98,6 @@ http://czeczenia-rus.blog.onet.pl/,MILX,Terrorism and Militants,2014-04-15,citiz
 http://damochka.ru/,GRP,Social Networking,2014-04-15,citizenlab,
 https://dan-news.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://dating.ru/,DATE,Online Dating,2014-04-15,citizenlab,
-http://datmob.net/,PROV,Provocative Attire,2014-04-15,citizenlab,
 https://debt.wmtransfer.com/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://deep21.sitecity.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://depositfiles.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -134,16 +129,13 @@ http://drugspowerstore.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://e-news.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://echo.msk.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://echo.msk.ru/blog/navalny/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://ej.punkchords.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://ej.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://elhosting.ru/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://elitvip.ru/,PORN,Pornography,2014-04-15,citizenlab,
-http://en.netlog.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://en.rian.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://endryx.livejournal.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://eng.cnews.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://eng.yabloko.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://english.ruvr.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://epravda.com.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://eurasia.org.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://eve-kill.net/,NEWS,News Media,2014-04-15,citizenlab,
@@ -164,14 +156,12 @@ http://finance.yahoo.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://flash.va-bank.com/,GMB,Gambling,2014-04-15,citizenlab,
 http://flibusta.net/,MMED,Media sharing,2014-04-15,citizenlab,
 http://flirchi.ru/,DATE,Online Dating,2014-04-15,citizenlab,
-http://forum.lingvo.ru/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://free.newyork.ru/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://freedomhouse.org/russia-eve-sochi,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://freepromote.ru/,MMED,Media sharing,2014-04-15,citizenlab,
 http://freepussyriot.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://freeu.online/,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Download site for the FreeU web browser
 https://freeu.zone/,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Download site for the FreeU web browser
-http://freeware32.ru/,MMED,Media sharing,2014-04-15,citizenlab,
 http://from-ua.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://gaia.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://gamsoft.ru/,GMB,Gambling,2014-04-15,citizenlab,
@@ -196,7 +186,6 @@ https://golospravdy.com/,NEWS,News Media,2018-03-15,ksenia,new ministry of infor
 http://google.com.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://google.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://gorlovka.today/,NEWS,News Media,2018-03-15,ksenia,Eastern Ukrainian pro-Russian website from the new ministry of information blocklist proposal
-http://grani.punkchords.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://grani.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://grani.ru/blogs/free/entries/192925.html,NEWS,News Media,2014-04-15,citizenlab,
 http://grani.ru/blogs/free/entries/193731.html,NEWS,News Media,2014-04-15,citizenlab,
@@ -249,7 +238,6 @@ http://join.com.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://judaica.kiev.ua/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://jurist.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://justinkripps.ca/,MISC,Miscellaneous content,2014-04-15,citizenlab,
-http://kasparov.punkchords.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://kasyanov.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://kavkaz.org.uk/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://kavkaz.tv/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
@@ -258,7 +246,6 @@ http://kazache.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http:/
 https://keeper.webmoney.ru/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 https://keeper.wmtransfer.com/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://kianews24.ru/,NEWS,News Media,2018-03-15,ksenia,Crimean pro-Russian website from new ministry of information blocklist proposal
-http://kolebcev.v-teme.com/,MISC,Miscellaneous content,2014-04-15,citizenlab,
 http://komtv.org/,NEWS,News Media,2018-03-15,ksenia,Crimean pro-Russian website from new ministry of information blocklist proposal
 http://konstantinovka.dn.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Eastern Ukraine
 https://konstantinovka.dn.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Eastern Ukraine
@@ -277,7 +264,6 @@ http://ligazn.ru/,PUBH,Public Health,2014-04-15,citizenlab,
 https://light.webmoney.ru/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 https://light.wmtransfer.com/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://limonka.nbp-info.com/?,POLR,Political Criticism,2014-04-15,citizenlab,
-http://limonova.v-teme.com/,COMM,E-commerce,2014-04-15,citizenlab,
 http://links.i.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://liveinternet.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://livejournal.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -354,13 +340,11 @@ http://mvdlnr.ru/,GOVT,Government,2018-05-28,ksenia,Order of the President of Uk
 http://my.lesbi.name/,LGBT,LGBT,2014-04-15,citizenlab,
 http://mynews-in.net/news/politics/2007/08/02/1160874.html,POLR,Political Criticism,2014-04-15,citizenlab,
 https://nahnews.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
-http://nakur.ruckp.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://namarsh.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://nardemsoyuz.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://naspravdi.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://navalny.livejournal.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://navalny.platosha.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://navalny.punkchords.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://navalny.zona.me/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://naviny.by/,NEWS,News Media,2014-04-15,citizenlab,
 http://nblog.in/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -386,7 +370,6 @@ http://novorossia.pro/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: ht
 http://novorossia.su/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://novorossia.today/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://novorossiia.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
-http://novorossiy.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://novorus.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://novosti-tchasa.com/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://novosti.dn.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Eastern Ukraine
@@ -417,7 +400,6 @@ https://passport.webmoney.ru/,COMM,E-commerce,2018-05-28,ksenia,Order of the Pre
 http://pda.epravda.com.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://peoplefirst.org.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://pictureview.com/,MMED,Media sharing,2014-04-15,citizenlab,
-http://piter.indymedia.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://plainnews.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://pocciy.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://pochta.ru/,COMT,Communication Tools,2014-04-15,citizenlab,
@@ -525,13 +507,11 @@ http://subscribe.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://surfshield.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://tabloid.com.ua/,NEWS,News Media,2014-04-15,citizenlab,
 https://telepay.webmoney.ru/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
-http://thecircle.org.au/,FILE,File-sharing,2014-04-15,citizenlab,
 http://tk-union.tv/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://tnt-online.ru/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://tochka.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://top.jdu.ru/,DATE,Online Dating,2014-04-15,citizenlab,
 http://topics.nytimes.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://topless.com.ua/,PORN,Pornography,2014-04-15,citizenlab,
 http://torrents.net.ua/,NEWS,News Media,2014-04-15,citizenlab,
 http://torrentsfilm.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://translate.yandex.ru/,SRCH,Search Engines,2017-12-16,oonitarian,sanction list
@@ -586,14 +566,12 @@ http://vk.com/minitrue,NEWS,News Media,2014-04-15,citizenlab,
 https://vk.com/ping.txt,ANON,Anonymization and circumvention tools,2017-05-31,David Fifield,Canary URL used by the FreeU web browser to test blocking of VKontakte (https://bugs.torproject.org/22369#comment:5)
 http://vk.com/public62043361,POLR,Political Criticism,2014-04-15,citizenlab,
 http://vkontakte.ru/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://vresearche.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://vsednr.ru/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://vsereferaty.ru/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://vsezoo.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://vsyapravda.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://wbc.com.ru/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 https://webmaster.yandex.ru/,HACK,Hacking Tools,2017-12-16,oonitarian,sanction list
-http://weedhash.biz/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://wiki.webmoney.ru/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 https://withdraw.web.money/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
 https://wm.exchanger.money/,COMM,E-commerce,2018-05-28,ksenia,Order of the President of Ukraine 126
@@ -636,7 +614,6 @@ http://www.antirev.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.apn.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.aport.ru/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://www.araxgroup.ru/,MMED,Media sharing,2014-04-15,citizenlab,
-http://www.avtoazov.com.ua/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.awz.ru/,MMED,Media sharing,2014-04-15,citizenlab,
 http://www.bakerlawfirm.com/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.bbc.co.uk/news/world-europe-17187572,NEWS,News Media,2014-04-15,citizenlab,
@@ -685,13 +662,11 @@ http://www.drinkshop.ru/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 https://www.drweb.ru/,HACK,Hacking Tools,2017-12-16,oonitarian,sanctions list
 http://www.duel.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.dw.de/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ebaka.ru/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.echo.msk.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.echo.msk.ru/blog/navalny/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.ecodefense.ru/,ENV,Environment,2014-04-15,citizenlab,
 http://www.ecom-info.spb.ru/,ENV,Environment,2014-04-15,citizenlab,
 http://www.ej.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.eliberator.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.euractiv.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.euro.who.int/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.europaplus.ru/,CULTR,Culture,2014-04-15,citizenlab,
@@ -818,7 +793,6 @@ http://www.mirzayanov.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.mk.ru/politics/article/2012/01/20/662683-feministok-zaderzhali-na-krasnoy-ploschadi.html,NEWS,News Media,2014-04-15,citizenlab,
 http://www.moepravo.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.mosclinic.ru/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.moscowpride.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.mospat.ru/,REL,Religion,2014-04-15,citizenlab,
 http://www.msnbc.msn.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.mterra.ru/,COMM,E-commerce,2014-04-15,citizenlab,
@@ -835,7 +809,6 @@ http://www.nazbol.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.nazlobu.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.nbp-info.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.ndsm.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.nelegal.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.netman.ru/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.netoteka.ru/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://www.neweurasia.ru/,NEWS,News Media,2014-04-15,citizenlab,
@@ -852,7 +825,6 @@ http://www.novayagazeta.ru/arts/50062.html,NEWS,News Media,2014-04-15,citizenlab
 http://www.novayagazeta.ru/society/50668.html,NEWS,News Media,2014-04-15,citizenlab,
 https://www.novorosinform.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://www.novoross.info/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
-http://www.novorossia.org/,NEWS,News Media,2017-12-12,OONI,Included in blocklist: http://inau.ua/sites/default/files/file/1711/vhidnyy_no_243_vid_28.11.2017.pdf
 http://www.npr.org/2012/02/08/146581790/in-russia-punk-rock-riot-girls-rage-against-putin,NEWS,News Media,2014-04-15,citizenlab,
 http://www.ntv.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.ntvmir.ntv.ru/,NEWS,News Media,2017-10-16,igorv,
@@ -888,7 +860,6 @@ http://www.prison.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.promptnews.info/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.publicverdict.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.putin-itogi.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.radikaly.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.radiomayak.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.radosvet.net/,REL,Religion,2014-04-15,citizenlab,
 http://www.ravenstvo.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -896,7 +867,6 @@ http://www.rbc.ru/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.rbc.ru/,NEWS,News Media,2018-02-23,igorv,
 http://www.refugee.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.regnum.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.religio.ru/,REL,Religion,2014-04-15,citizenlab,
 http://www.resistance88.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.reuters.com/article/2010/03/21/russia-olympics-protest-iduslde62k02s20100321,NEWS,News Media,2014-04-15,citizenlab,
 http://www.rg.ru/,NEWS,News Media,2014-04-15,citizenlab,
@@ -915,7 +885,6 @@ http://www.rusglobus.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.russ.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.russiajournal.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.russiancasino.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://www.russiancasino.ru/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.russianopengames.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.russianorthodoxchurch.ws/,REL,Religion,2014-04-15,citizenlab,
 http://www.satanism.ru/,REL,Religion,2014-04-15,citizenlab,
@@ -935,9 +904,6 @@ http://www.sobytiya.info/,NEWS,News Media,2017-09-28,igorv,Blocked in Eastern Uk
 http://www.softilla.ru/,MMED,Media sharing,2014-04-15,citizenlab,
 http://www.sovest.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.sovinform.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.sps.ru/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.sptimes.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ssdv.ru/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.stargame.ru/,GMB,Gambling,2014-04-15,citizenlab,
 http://www.statvo.narod.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.strana.ru/,NEWS,News Media,2014-04-15,citizenlab,
@@ -965,7 +931,6 @@ http://www.vdagestan.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 http://www.velesova-sloboda.org/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.vesti.ru/,NEWS,News Media,2017-10-16,igorv,
 http://www.vestnikmostok.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.visatovietnam.us/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.vladimirvladimirovich.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.voanews.com/russian/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.vremya.tv/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
@@ -994,7 +959,6 @@ http://www.zerkalo-nedeli.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.znopr.ru/,PUBH,Public Health,2014-04-15,citizenlab,
 http://wwwoman.ru/,XED,Sex Education,2014-04-15,citizenlab,
 http://wwwoman.ru/s.php/755.htm,XED,Sex Education,2014-04-15,citizenlab,
-http://xn----dtbrg3ale.xn--p1ai/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://xn--80aaifmgl1achx.xn--p1ai/,GMB,Gambling,2014-04-15,citizenlab,
 http://xn--c1acbl2abdlkab1og.xn--p1ai/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://xn--d1ahnhhx.su/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126

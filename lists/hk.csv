@@ -9,7 +9,6 @@ http://www.concordwines.com.hk/dev/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.eccevino.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.mycellarhk.com/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.redwine.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
-http://www.winemaster.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.winetown.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 https://cellarmasterwines.com/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 https://hkwineclub.boutir.com/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
@@ -49,7 +48,6 @@ https://www.wellcome.com.hk/,COMM,E-commerce,2020-07-08,Netalitica,
 https://shop.three.com.hk/home/,COMM,E-commerce,2020-07-09,Netalitica,
 https://shopee.com.hk/,COMM,E-commerce,2020-07-09,Netalitica,
 https://shopline.hk/en/,COMM,E-commerce,2020-07-09,Netalitica,
-https://www.bigbigshop.com/,COMM,E-commerce,2020-07-09,Netalitica,
 https://www.chicle.com.hk/en/home.php/,COMM,E-commerce,2020-07-09,Netalitica,
 https://www.hksuning.com/,COMM,E-commerce,2020-07-09,Netalitica,
 https://www.lingsik.com/,COMM,E-commerce,2020-07-09,Netalitica,
@@ -232,7 +230,6 @@ https://pincong.rocks/,GRP,Social Networking,2020-07-20,Netalitica,
 https://weibo.com/hk/,GRP,Social Networking,2020-07-20,Netalitica,
 https://www.jkforum.net/,GRP,Social Networking,2020-07-20,Netalitica,
 https://hkgalden.org/forum/bw,GRP,Social Networking,2020-07-20,Netalitica,
-https://g0vhk.io/,HACK,Hacking Tools,2019-07-10,OONI partner,
 https://www.cybersecurity.hk/tc/index.php/,HACK,Hacking Tools,2020-07-18,Netalitica,
 http://linux.vbird.org/,HACK,Hacking Tools,2020-07-19,Netalitica,
 https://alwaysfreesir.blogspot.com/,HACK,Hacking Tools,2020-07-19,Netalitica,
@@ -434,11 +431,9 @@ https://hkchronicles.com/,POLR,Political Criticism,2021-01-07,citizenlab,blocked
 https://blockedbyhk.com/,POLR,Political Criticism,2021-01-19,Community member,Additional domain for hkchronicles.com
 https://8964museum.com/,POLR,Political Criticism,2021-09-29,Community member,Reportedly blocked site
 https://www.demosisto.hk/,POLR,Political Criticism,2019-08-30,OONI partner,Demosisto disbanded due to political pressure. Monitor
-http://itvoice.hk/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
 https://hkimperium.com/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
 https://hkplg.org/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
 https://neodemocrats.org.hk/,POLR,Political Criticism,2020-06-29,Netalitica,political group dissolved in 2021 due to change of political environment. Appears blocked on few ASNs. Monitor
-https://www.hkctu.org.hk/zh-hant/,POLR,Political Criticism,2020-06-29,Netalitica,Hong Kong Confederation of Trade Unions disbanded due to political environment change. Monitor
 https://www.wemaker.hk/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
 http://civicpassion.hk/,POLR,Political Criticism,2020-07-21,Netalitica,political party disbanded in 2021 due to political environment change. Still blovked on few ASNs. Monitor
 https://www.bauhinia.hk/,POLR,Political Criticism,2022-07-20,Netalitica,
