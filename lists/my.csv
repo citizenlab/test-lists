@@ -2,7 +2,6 @@ url,category_code,category_description,date_added,source,notes
 http://www.asiafinest.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.linguamatix.com/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.casinocity.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://virtualfriends.net/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.usj.com.my/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.webportal.com.my/,GRP,Social Networking,2014-04-15,citizenlab,
 http://blogsome.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
@@ -179,8 +178,6 @@ https://www.cari.com.my/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://www.sajasearch.com/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://www.my.undp.org/,XED,Sex Education,2014-04-15,citizenlab,
 https://fc2femalecondom.com/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.publiuspundit.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,outdated but relevant - monitor
-http://hindraf.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,outdated but relevant - monitor
 https://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,outdated but relevant - monitor
 https://www.asiasentinel.com/,NEWS,News Media,2016-03-30,sinarproject,
 https://www.sarawakreport.org/,NEWS,News Media,2016-03-30,sinarproject,
@@ -291,7 +288,6 @@ https://itimes.my/category/my-wood-news/,NEWS,News Media,2017-10-31,sinarproject
 https://www.milosuam.net/,POLR,Political Criticism,2017-11-02,sinarproject,political blog
 https://steadyaku47.com/home/,POLR,Political Criticism,2017-12-15,sinarproject,political blog
 https://www.bfm.my/,NEWS,News Media,2018-01-09,sinarproject,BFM Independent Business Radio Station with podcasts
-https://chedet.cc/,POLR,Political Criticism,2018-01-18,sinarproject,Blog site of Mahathir Mohammad
 https://dunia.tempo.co/read/1068147/skandal-1mdb-indonesia-akan-serahkan-kapal-pesiar-ke-amerika/,NEWS,News Media,2018-03-14,sinarproject,Indonesia Tempo coverage of 1MDB
 https://dunia.tempo.co/,NEWS,News Media,2018-03-14,sinarproject,World News section of Indonesia Tempo
 https://www.queerlapis.com/,LGBT,LGBT,2018-03-20,sinarproject,Malaysian LGBT community site
@@ -328,9 +324,8 @@ http://www.suhakam.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.sun2surf.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.supp.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.surforever.com/sam/a2z/content1.html,ENV,Environment,2014-04-15,citizenlab,
-http://www.theedgedaily.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.theedgemarkets.com/,NEWS,News Media,2023-02-21,sinarproject,
 https://www.theguardian.com/world/2016/mar/03/us-condems-ally-malaysia-for-attempts-to-muzzle-free-press,POLR,Political Criticism,2016-06-10,OONI,
-http://www.themalaysianinsider.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.thereligionofpeace.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.thestar.com.my/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.theultimateinsult.blogspot.com/,REL,Religion,2014-04-15,citizenlab,
@@ -340,7 +335,6 @@ http://www.time.com/time/asia/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.tjc.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.tncchurch.org/,REL,Religion,2017-10-03,sinarproject,the New Covenvent Church Malaysia
 http://www.transparency.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.trees.org.my/,ENV,Environment,2014-04-15,citizenlab,
 http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.turfonline.com/,GAME,Gaming,2014-04-15,citizenlab,
 http://www.tvsmith.my/,CULTR,Culture,2016-06-10,OONI,
@@ -371,7 +365,6 @@ http://www.yss98.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.ytl.com.my/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.zdnetasia.com/,NEWS,News Media,2014-04-15,citizenlab,
 "http://www.zdnetasia.com/downloads/pc/swinfo/0,39043052,39222404s,00.htm",ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://zathilfiger.i-p.com/,COMT,Communication Tools,2014-04-15,citizenlab,
 https://ms.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://id.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -387,7 +380,7 @@ https://www.barisannasional.org.my/,POLR,Political Criticism,2018-04-30,sinarpro
 https://mypt3.com/pakatan-harapan/,POLR,Political Criticism,2018-04-30,sinarproject,Pakatan Harapan opposition coalition website
 https://rafiziramli.com/,POLR,Political Criticism,2018-04-30,sinarproject,Rafizi Ramli opposition politician website
 https://www.hannahyeoh.com/,POLR,Political Criticism,2018-04-30,sinarproject,Website of Hannah Yeoh opposition politician
-https://www.najibrazak.com/bm/,POLR,Political Criticism,2018-04-30,sinarproject,Najib Razak Prime Minister of Malaysia official web page
+https://www.najibrazak.com/bm/,POLR,Political Criticism,2018-04-30,sinarproject,Inactive website - to monitor
 https://www.nurulizzah.com/site/,POLR,Political Criticism,2018-04-30,sinarproject,Nurul Izzah opposition politician website
 https://www.wongchen.com/,POLR,Political Criticism,2018-04-30,sinarproject,Website Wong Chen opposition politician
 https://ms.wikipedia.org/wiki/Laman_Utama/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -469,7 +462,7 @@ https://www.mkn.gov.my/covid-19.html/,PUBH,Public Health,2021-02-05,Netalitica,n
 https://umlib.um.edu.my/coronavirus/,PUBH,Public Health,2021-02-05,Netalitica,University Malaya's portal on covid-19
 https://www.ummc.edu.my/covid19/default.asp/,PUBH,Public Health,2021-02-05,Netalitica,University Malaya Medical Center's website on covid-19
 https://newslab.malaysiakini.com/covid-19/my/,PUBH,Public Health,2021-02-05,Netalitica,Malaysiakini coverage on covid-19
-https://www.vaksincovid.gov.my/,PUBH,Public Health,2021-02-17,Netalitica,Covid-19 Vaccine Supply Access Guarantee Special Committee
+https://covid-19.moh.gov.my/vaksin-covid-19,PUBH,Public Health,2023-02-21,Netalitica,Covid-19 Vaccine Supply Access Guarantee Special Committee
 https://sucrebook.com/,DATE,Online Dating,2021-02-17,Netalitica,Alternative website for sugarbook due to the ban
 https://mediageramm.com/,HUMR,Human Rights Issues,2021-03-29,Netalitica,coalition of media practitioners and supporters of press freedom in Malaysia and across the South East Asian region
 https://sinarproject.org/,HUMR,Human Rights Issues,2021-03-29,Netalitica,civic tech initiative making public information more accessible
@@ -500,3 +493,20 @@ https://rainbowforward.gitbook.io/,LGBT,LGBT,2022-08-05,test-lists.ooni.org cont
 https://maxcdn.bootstrapcdn.com/,HOST,Hosting and Blogging Platforms,2022-10-28,sinar project,Website containing templates used in Wordpress websites found blocked by MCMC (https://help.serverfreak.com/en/article/guide-to-fix-site-slow-due-to-blocked-maxcdn-url-by-mcmc-of-font-awesome-of-wordpress-1ne4621/)
 https://polyfill.io/,HOST,Hosting and Blogging Platforms,2022-10-28,sinar project,Website containing templates used in Wordpress websites found blocked by MCMC (https://help.serverfreak.com/en/article/guide-to-fix-site-slow-due-to-blocked-maxcdn-url-by-mcmc-of-font-awesome-of-wordpress-1ne4621/)
 https://caghi.com/,SRCH,Search Engines,2022-10-28,sinar project,"An open source search engine found containing personal data of Malaysian citizens, blocked by KKOM (https://themalaysianreserve.com/2022/06/14/k-komm-orders-website-allegedly-selling-personal-data-to-be-blocked/)"
+https://www.bravotube.net/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
+https://rarbggo.org/,FILE,File-sharing,2023-02-21,sinar project,Found blocked in Malaysia
+http://breached.co/,SRCH,Search Engines,2023-02-21,sinar project,Found blocked in Malaysia
+https://www.dandanzan.com/,MMED,Media sharing,2023-02-21,sinar project,Found blocked in Malaysia
+https://pakatanharapan.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.warisansabah.org/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.roketkini.com/,POLR,Political Criticism,2023-02-21,sinar project,
+https://umno.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://pejuang.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://tanahairku.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://berjasa.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+http://www.partisarawakbersatu.org/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.anwaribrahim.com/,POLR,Political Criticism,2023-02-21,sinar project,"Current Prime Minister, although previously an opposition leader"
+https://dashboard.spr.gov.my/#!/home,GOVT,Government,2023-02-21,sinar project,
+https://perikatan-nasional.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.porntrex.com/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
+http://32red.com/,GMB,Gambling,2023-02-21,sinar project,Found blocked in Malaysia
