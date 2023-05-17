@@ -91,12 +91,10 @@ http://tnt-online.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian medium popul
 https://sputnik.by/,NEWS,News Media,2019-04-05,Netalitica,Sputnik service for BY
 https://www.belnovosti.by/,NEWS,News Media,2019-04-05,Netalitica,
 https://gomel.today/,NEWS,News Media,2019-04-05,Netalitica,
-http://ren.tv/,NEWS,News Media,2019-04-05,Netalitica,
 https://www.tvr.by/,NEWS,News Media,2019-04-05,Netalitica,
 https://www.bigmir.net/,NEWS,News Media,2019-04-05,Netalitica,
 https://ont.by/,NEWS,News Media,2019-04-05,Netalitica,site of national TV
 https://www.1tv.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian Channel 1 - popular in BY
-http://www.vesti.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news popular in BY
 http://www.aif.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
 http://www.21.by/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
 https://www.mk.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
@@ -337,3 +335,6 @@ https://current-time.gitlab.io/,ANON,Anonymization and circumvention tools,2022-
 https://current-time.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
 https://svabod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
 https://svabod.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
+https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
+https://bel.sputnik.by/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
