@@ -1,4 +1,4 @@
-url,category_code,category_description,date_added ,source,notes
+url,category_code,category_description,date_added,source,notes
 http://coalico.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,focused on childhood and armed conflict
 http://colectivomaloka.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"Created with Colombians leaving in Barcelona, Spain. Main focused peace accord"
 https://www.nocheyniebla.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,magazine.
@@ -114,7 +114,7 @@ https://somosenlace.laotrajuventud.org/,HUMR,Human Rights Issues,2020-07-01,Neta
 http://centromemoria.gov.co/,HUMR,Human Rights Issues,2020-07-01,Netalitica,Created during the peace accord as a memorial of the armed conflict
 https://www.unidadvictimas.gov.co/,HUMR,Human Rights Issues,2020-07-01,Netalitica,it gathers info about armed conflict victims
 https://acoso.online/co/,HUMR,Human Rights Issues,2020-07-01,Netalitica,"Site focused on giving tips and legal routes for victims of harassment, abuse and online violence "
-https://ciberseguras.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,"Site focused on giving tips and legal routes for victims of harassment, abuse and online violence "
+https://ciberseguras.org/,HACK,Hacking Tools,2020-07-01,Netalitica,"Site focused on giving tips and legal routes for victims of harassment, abuse and online violence "
 https://afrofeminas.com/,HUMR,Human Rights Issues,2020-07-01,Netalitica,black women’s rights
 https://www.humanas.org.co/alfa/pg.php?pa=137/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
 https://www.rednacionaldemujeres.org/,HUMR,Human Rights Issues,2020-07-01,Netalitica,women’s rights
@@ -445,3 +445,5 @@ https://www.telesurtv.net/,NEWS,News Media,2020-07-30,Netalitica,
 https://www.bbc.com/mundo/topics/c7zp57yyz25t/,NEWS,News Media,2020-07-30,Netalitica,
 https://cnnespanol.cnn.com/,NEWS,News Media,2020-07-30,Netalitica,
 https://www.dw.com/es/actualidad/s-30684/,NEWS,News Media,2020-07-30,Netalitica,
+https://ghostbin.co/,HOST,Hosting and Blogging Platforms,2021-05-26,OONI,OONI data suggests it's blocked
+https://sputniknews.lat/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

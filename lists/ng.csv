@@ -65,7 +65,6 @@ http://www.bisialimifoundation.org/,LGBT,LGBT,2018-01-22,OONI,
 https://ig.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://wikimediafoundation.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.vanguardngr.com/,NEWS,News Media,2018-09-04,OONI,
 http://dailypost.ng/,NEWS,News Media,2018-09-04,OONI,
@@ -293,3 +292,9 @@ https://endsars.com/,HUMR,Human Rights Issues,2020-12-15,OONI,Reportedly blocked
 https://radioisiaq.com/,POLR,Political Criticism,2020-12-15,OONI,Reportedly blocked
 https://www.peoplesgazette.com/,NEWS,News Media,2021-02-05,OONI,Reportedly blocked
 https://www.gazettengr.com/,NEWS,News Media,2021-02-05,OONI,Reportedly blocked
+https://fij.ng/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,
+https://techcabal.com/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,
+https://saharareporters.com/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,
+https://budgit.org/,HUMR,Human Rights Issues,2023-01-27,test-lists.ooni.org contribution,
+https://peterobisupportnetwork.com/,POLR,Political Criticism,2023-01-27,test-lists.ooni.org contribution,
+https://www.obidatticampaign.com/,POLR,Political Criticism,2023-01-27,test-lists.ooni.org contribution,

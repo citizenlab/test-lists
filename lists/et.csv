@@ -41,7 +41,7 @@ https://www.unido.org/,ECON,Economics,2014-04-15,citizenlab,
 https://www.imf.org/en/Countries/ETH/,ECON,Economics,2014-04-15,citizenlab,
 https://www.unicef.org/ethiopia/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.amnestyusa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.hrw.org/?t=africa&c=ethiop/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.hrw.org/africa/ethiopia,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.oaklandinstitute.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://cpj.org/regions_06/africa_06/africa_06.html#ethiopia/,NEWS,News Media,2014-04-15,citizenlab,The URL is irrelevant for this test list. 
 http://cyberethiopia.com/2013/,NEWS,News Media,2014-04-15,citizenlab,
@@ -59,7 +59,7 @@ http://www.fao.org/home/en/,ECON,Economics,2014-04-15,citizenlab,
 https://www.blogger.com/about/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.ilo.org/africa/lang--en/index.htm/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.sandiegocriminalattorneys.org/drug-defense-chula-vista-ca/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://en.unesco.org/,CULTR,Culture,2014-04-15,citizenlab,
+https://en.unesco.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://twitter.com/explore/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 https://www.gopetition.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.inclusivedevelopment.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -77,7 +77,6 @@ https://am.wikipedia.org/wiki/%E1%8B%8B%E1%8A%93%E1%8B%8D_%E1%8C%88%E1%8C%BD/,CU
 https://africanarguments.org/,NEWS,News Media,2019-08-05,citizenlab,
 https://addisalliance.org/,LGBT,LGBT,2020-01-16,Community member,local on the ground organization
 https://habeshaqueercouple.wordpress.com/,LGBT,LGBT,2020-01-16,Community member,blog
-https://queerfamilyeth.wordpress.com/,LGBT,LGBT,2020-01-16,Community member,blog
 https://houseofguramayle.org/,LGBT,LGBT,2020-01-16,Community member,diaspora
 http://zegamahber.org/,LGBT,LGBT,2020-01-16,Community member,diaspora
 https://www.onescene.com/,LGBT,LGBT,2020-01-16,Community member,dating
@@ -184,7 +183,6 @@ https://epsa.gov.et/,ALDR,Alcohol & Drugs,2020-06-01,Netalitica,
 http://www.fmhaca.gov.et/,ALDR,Alcohol & Drugs,2020-06-01,Netalitica,
 http://www.climatenetwork.org/,ENV,Environment,2020-06-01,Netalitica,
 https://www.asdepo.org/,ENV,Environment,2020-06-01,Netalitica,
-https://mega.nz/,FILE,File-sharing,2020-06-01,Netalitica,
 https://clashofclans.com/,GAME,Gaming,2020-06-01,Netalitica,
 https://king.com/,GAME,Gaming,2020-06-01,Netalitica,
 https://www.abyssiniabet.com/,GMB,Gambling,2020-06-01,Netalitica,
@@ -198,3 +196,28 @@ https://ethiopia-today.com/,POLR,Political Criticism,2020-08-11,Netalitica,
 https://tmhtv.org/en/,POLR,Political Criticism,2020-08-11,Netalitica,
 http://www.afarparty.org/,POLR,Political Criticism,2020-08-11,Netalitica,
 https://www.ethio360media.info/,POLR,Political Criticism,2020-08-11,Netalitica,
+https://omnatigray.org/,HUMR,Human Rights Issues,2021-07-28,OONI,
+https://webcast.tiktok.com/webcast/wallet_api/diamond_buy/permission/,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://vmweb-va.byteoversea.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://v16-webapp.tiktok.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://sf16-short-va.bytedapm.com/slardar/fe/sdk_lite/plugins/sample.1.1.0.maliva.js,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.449/webmssdk.js,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://sf16-scmcdn-va.ibytedtos.com/obj/static-us/secsdk/secsdk-lastest.umd.js,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://s20.tiktokcdn.com/tiktok/common/init.js,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://p77-va.tiktokcdn.com/img/tos-useast2a-v-2774/4fcd4d23462548b3a4ca332ddf8bd6bd~c5_100x100.jpeg,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://p77-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://p19-sign.tiktokcdn-us.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://p16-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://mssdk-va.tiktok.com/web/resource,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://mon-va.byteoversea.com/monitor_web/settings/browser-settings?bid=webmssdk&store=1,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://mcs-va.tiktok.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://lf16-web.tiktokcdn.com/obj/tiktok-web-wp-us/wp-content/uploads/2021/05/accImg4.png,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-mobile/runtime.55b64d1527fbff92816c.js,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://lf16-tiktok-common.ibytedtos.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://lf16-tiktok-web.neutral.ttwstatic.com/obj/bd-s3-va-tos-tiktok-web-neutral-us/pns/tiktok-cookie-banner/mali_va/1.0.0.101/web/web.esm.js,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://lf16-tiktok-common.ttwstatic.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://p16-sign-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://sf77-ies-music-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://p77-sign-sg-lite.tiktokcdn.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today
+https://m.tiktok.com/robots.txt,GRP,Social Networking,2023-02-10,OONI,TikTok reportedly blocked in Ethiopia today

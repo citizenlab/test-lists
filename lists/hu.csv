@@ -1,5 +1,546 @@
 url,category_code,category_description,date_added,source,notes
+http://italguru.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+http://szobaanyolcban.org/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Drug use
+http://www.mat.org.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Drug addiction
+https://alkoholshop.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://diszkontital.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://drogfokuszpont.hu/szakteruleteink/populacios-vizsgalatok/populacios-vizsgalatok-tenyek-es-szamok/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Organisation focusing on drug use
+https://drogriporter.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,"Organisation focusing on drug use, addiction, regulation of drugs"
+https://felepulok.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Drug use and addiction
+https://idrinks.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://italcenter.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://italdepo.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://italkereso.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://italneked.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://italshop.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://kekpont.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Organisation helping drug addicts
+https://mralkohol.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://tasz.hu/tema/drogok/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Drug use and regulation
+https://www.addikt.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Drug addiction
+https://www.golden-drinks.hu/kezdolap/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://www.webshop.soptei.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://www.whiskynet.hu/,ALDR,Alcohol & Drugs,2021-11-19,Netalitica,Site devoted to the sale of alcohol
+https://cbdcenter.hu/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Medical cannabis
+https://cbdoazis.hu/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Medical cannabis
+https://drogkutato.hu/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Durg research organisation
+https://myhempstore.eu/8-tipp-kannabisz-olaj-vasarlas-elott-40/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Medical cannabis
+https://orvosikannabisz.com/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Medical cannabis
+https://usamedical.hu/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Sale of cannabis products
+https://www.orvosikannabiszolaj.hu/,ALDR,Alcohol & Drugs,2022-01-07,Netalitica,Medical cannabis
+https://techwok.hu/,ANON,Anonymization and circumvention tools,2021-11-19,Netalitica,Online anonymization page
+https://arx.deidentifier.org/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online anonymization tool
+https://hide.me/en/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online circumvention tool
+https://protonvpn.com/hu/,ANON,Anonymization and circumvention tools,2022-01-27,Netalitica,Online circumvention tool
+https://bookline.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for books
+https://edigital.hu/keszletkisopres?/,COMM,E-commerce,2021-12-28,Netalitica,Online store for electronic goods
+https://euronics.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for electronic goods
+https://tesco.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for grocery
+https://www.220volt.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for electronic goods
+https://www.alza.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for all types of goods
+https://www.bestmarkt.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for all types of goods
+https://www.bonprix.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for all types of goods
+https://www.emag.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for all types of goods
+https://www.jofogas.hu/,COMM,E-commerce,2021-12-28,Netalitica,Used goods online store
+https://www.kifli.hu/koszontunk-a-kiflinel/,COMM,E-commerce,2021-12-28,Netalitica,Online store for grocery
+https://www.mall.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for all types of goods
+https://www.mediamarkt.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for electronic goods
+https://www.obi.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for household goods
+https://www.praktiker.hu/,COMM,E-commerce,2021-12-28,Netalitica,Online store for household goods
+https://www.vatera.hu/,COMM,E-commerce,2021-12-28,Netalitica,Used goods online store
+https://chat.hu/,COMT,Communication Tools,2021-11-19,Netalitica,Chat tool
+https://royalchat.hu/,COMT,Communication Tools,2021-11-19,Netalitica,Chat tool
+https://www.idokep.hu/idojaras/Budapest/,CTRL,Control content,2021-12-15,Netalitica,Independent weather page
+https://www.met.hu/,CTRL,Control content,2021-12-15,Netalitica,Central weather page
+https://www.baba.hu/,CTRL,Control content,2021-12-18,Netalitica,Shower Gel
+https://www.pottyos.hu/,CTRL,Control content,2021-12-18,Netalitica,Famous Hungarian chocolate
+https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://hu.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://hu.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://koronavirus.gov.hu/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://www.ceu.edu/,CULTR,Culture,2021-11-19,Netalitica,Central European University - forced to relocate to Austria
+https://civilizacio.net/hu/ateugyedis/maszk/,CULTR,Culture,2021-11-24,Netalitica,Cultural criticism
+http://katonajozsefszinhaz.hu/,CULTR,Culture,2021-11-26,Netalitica,Critical theater
+https://artportal.hu/,CULTR,Culture,2021-11-26,Netalitica,Info center about artistic events around the country and writings about them
+https://librarius.hu/,CULTR,Culture,2021-11-26,Netalitica,Cultural magazine
+https://offbiennale.hu/,CULTR,Culture,2021-11-26,Netalitica,Independent cultural initiative by grass roots organisers
+https://port.hu/,CULTR,Culture,2021-11-26,Netalitica,Cinema and other cultural events
+https://szinhaz.hu/,CULTR,Culture,2021-11-26,Netalitica,Theater
+https://www.mma.hu/az-akademia/,CULTR,Culture,2021-11-26,Netalitica,"Hungarian Academy of Arts, heavily politicized and controlled by pro-governmental leaders"
+https://www.prae.hu/,CULTR,Culture,2021-11-26,Netalitica,Independent cultural outlet
+http://golyapresszo.hu/,CULTR,Culture,2021-12-11,Netalitica,Cooperative with cultural events
+http://uh.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative music festival
+http://www.mke.hu/,CULTR,Culture,2021-12-11,Netalitica,University of Fine Arts
+http://www.summa-artium.hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural foundation
+https://artpluszcinema.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative cinema
+https://auroraonline.hu/,CULTR,Culture,2021-12-11,Netalitica,Jewish youth cultural center
+https://balatonsound.com/en/,CULTR,Culture,2021-12-11,Netalitica,Music festival
+https://budapest.cervantes.es/hu/default.shtm/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Spain
+https://budapest.czechcentres.cz/hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Czech Republic
+https://divany.hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural online magazine
+https://filmio.hu/home/,CULTR,Culture,2021-12-11,Netalitica,Hungarian film streaming
+https://iicbudapest.esteri.it/iic_budapest/hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Italy
+https://instytutpolski.pl/budapest/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Poland
+https://japanalapitvany.hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Japan
+https://juranyihaz.hu/hu/,CULTR,Culture,2021-12-11,Netalitica,Community driven cultural center
+https://kinocafemozi.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative cinema
+https://kolorado.hu/2022/,CULTR,Culture,2021-12-11,Netalitica,Alternative music festival
+https://kultura.hu/,CULTR,Culture,2021-12-11,Netalitica,Main cultural page
+https://litera.hu/,CULTR,Culture,2021-12-11,Netalitica,Literature focused online magazine
+https://magyarzenehaza.com/,CULTR,Culture,2021-12-11,Netalitica,State-funded music center
+https://mng.hu/,CULTR,Culture,2021-12-11,Netalitica,National gallery
+https://mome.hu/hu,CULTR,Culture,2021-12-11,Netalitica,University of Art and Design
+https://muveszmozi.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative cinema
+https://ottanna.hu/,CULTR,Culture,2021-12-11,Netalitica,Literature influencer
+https://recorder.blog.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative online music magazine
+https://revizoronline.com/hu/,CULTR,Culture,2021-12-11,Netalitica,Theater criticism
+https://skandinavhaz.hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Scandinavian countries
+https://szfe.hu/,CULTR,Culture,2021-12-11,Netalitica,University of Theatre and Film Arts
+https://szigetfestival.com/hu/,CULTR,Culture,2021-12-11,Netalitica,Music festival
+https://szinhaz.org/,CULTR,Culture,2021-12-11,Netalitica,Theater
+https://tilos.hu/,CULTR,Culture,2021-12-11,Netalitica,Critical radio
+https://toldimozi.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative cinema
+https://turbinabudapest.hu/,CULTR,Culture,2021-12-11,Netalitica,Community driven cultural center
+https://volt.hu/en/,CULTR,Culture,2021-12-11,Netalitica,Music festival
+https://www.bmeia.gv.at/hu/osztrak-kulturalis-forum-budapest/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Austria
+https://www.cirkogejzir.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative cinema
+https://www.clpcamoes-budapeste.com/kezdolap.html/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Portugal
+https://www.esztorszag.hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute - Estonia
+http://nyarykrisztian.hu/,CULTR,Culture,2021-12-11,Netalitica,Critical literature influencer
+https://www.finnagora.hu/hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Finland
+https://www.franciaintezet.hu/hu/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- France
+https://www.freeszfe.hu/,CULTR,Culture,2021-12-11,Netalitica,"Page of Free SZFE, students and teachers who demonstrated against the government takeover of the University of Theatre and Film Arts"
+https://www.fszek.hu/,CULTR,Culture,2021-12-11,Netalitica,Library
+https://www.goethe.de/ins/hu/hu/inde.html/,CULTR,Culture,2021-12-11,Netalitica,Cultural institute- Germany
+https://www.instagram.com/nora.winkler/?hl=en/,CULTR,Culture,2021-12-11,Netalitica,Critical art historian
+https://www.instagram.com/oltaikata/?hl=en/,CULTR,Culture,2021-12-11,Netalitica,Critical curator
+https://www.irokboltja.hu/,CULTR,Culture,2021-12-11,Netalitica,Critical bookstore
+https://www.lahmacun.hu/,CULTR,Culture,2021-12-11,Netalitica,Alternative music radio
+https://www.langteka.hu/,CULTR,Culture,2021-12-11,Netalitica,Critical bookstore
+https://www.lira.hu/,CULTR,Culture,2021-12-11,Netalitica,Publisher
+https://www.ludwigmuseum.hu/,CULTR,Culture,2021-12-11,Netalitica,Contemporary museum
+https://www.magveto.hu/,CULTR,Culture,2021-12-11,Netalitica,Publisher
+https://www.margofeszt.hu/hu/,CULTR,Culture,2021-12-11,Netalitica,Literature festival
+https://www.mupa.hu/en/,CULTR,Culture,2021-12-11,Netalitica,State-funded cultural center
+https://www.muveszetekvolgye.hu/,CULTR,Culture,2021-12-11,Netalitica,Arts festival
+https://www.osaarchivum.org/,CULTR,Culture,2021-12-11,Netalitica,Historical Archive
+https://bodocstibor.hu/,CULTR,Culture,2021-12-11,Netalitica,Critical stand-up comedian
+https://badoo.com/hu/help/?section=21/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://cupydo.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://love.hu/ingyenes-tarskereso/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://ralf.hu/tarskereso/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.elittars.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.elsotalalkozas.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.parom.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.randivonal.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.ratalalsz.hu/tarskereso/oldal-telepulesenkent/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.startrandi.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+https://www.szivkuldi.hu/,DATE,Online Dating,2021-12-28,Netalitica,Online dating
+http://budapestinstitute.eu/index.php/hu/,ECON,Economics,2021-12-29,Netalitica,Research institute on economics
+http://kgt.bme.hu/,ECON,Economics,2021-12-29,Netalitica,Economic department of the University of Technology and Economics
+http://www.demografia.hu/hu/,ECON,Economics,2021-12-29,Netalitica,Research institute on economics
+http://www.econ.core.hu/,ECON,Economics,2021-12-29,Netalitica,Economic department of the academy of sciences
+http://www.kszemle.hu/,ECON,Economics,2021-12-29,Netalitica,Journal on economics
+http://www.vki.hu/,ECON,Economics,2021-12-29,Netalitica,Research institute on economics
+https://ktk.pte.hu/hu,ECON,Economics,2021-12-29,Netalitica,Economic department of the University of Pecs
+https://privatbankar.hu/,ECON,Economics,2021-12-29,Netalitica,Online economics magazine 
+https://szociologia.tk.hu/,ECON,Economics,2021-12-29,Netalitica,Sociology department of the academy of sciences
+https://tarki.hu/,ECON,Economics,2021-12-29,Netalitica,Research institute on economics
+https://www.gki.hu/language/hu/,ECON,Economics,2021-12-29,Netalitica,Research institute on economics
+https://www.gvi.hu/,ECON,Economics,2021-12-29,Netalitica,Research institute on economics
+https://www.mkt.hu/hu/,ECON,Economics,2021-12-29,Netalitica,Association of Hungarian economists 
+https://www.mnb.hu/web/fooldal/,ECON,Economics,2021-12-29,Netalitica,National bank's page
+https://www.penzcentrum.hu/,ECON,Economics,2021-12-29,Netalitica,Online economics magazine 
+https://www.uni-corvinus.hu/main-page/about-the-university/institutes/institute-of-economics/?lang=en/,ECON,Economics,2021-12-29,Netalitica,Economic department of the University of Corvinus
+http://gazdasagfejlesztes.gov.hu/,ECON,Economics,2022-01-27,Netalitica,Local governmental agency providing funding for local economic development projects
+"https://ec.europa.eu/regional_policy/en/funding/erdf/#:~:text=The%20European%20Regional%20Development%20Fund,is%20closer%20to%20its%20citizens.",ECON,Economics,2022-01-27,Netalitica,Regional organisation providing funding for local economic development projects
+https://ec.europa.eu/regional_policy/hu/atlas/programmes/2014-2020/hungary/2014hu16m0op001,ECON,Economics,2022-01-27,Netalitica,Regional organisation providing funding for local economic development projects
+https://mtu.gov.hu/,ECON,Economics,2022-01-27,Netalitica,Local governmental agency providing funding for local economic development projects
+https://www.nesst.org/,ECON,Economics,2022-01-27,Netalitica,Regional organisation providing funding for local economic development projects
+https://www.palyazat.gov.hu/doc/4380,ECON,Economics,2022-01-27,Netalitica,Local governmental agency providing funding for local economic development projects
+http://okogyulekezet.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+http://reflexegyesulet.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+http://www.magosfa.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+http://www.mteweb.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+http://xn--vdegylet-b1a.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://eletfa.org.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://erdiskegy.hu/index.php?lang=hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://fridaysforfuture.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+https://greendependent.org/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, green energy "
+https://mtvsz.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://okopolitika.hu/,ENV,Environment,2021-12-14,Netalitica,Green politics
+https://okotars.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://wwf.hu/kezdooldal/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+https://www.ceeweb.org/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+https://www.e-misszio.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://www.greenpeace.org/hungary/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://www.igyleszkerekavilag.hu/,ENV,Environment,2021-12-14,Netalitica,Green lifestyle
+https://www.levego.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change, air pollution "
+https://www.mkne.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+https://www.myforest.hu/,ENV,Environment,2021-12-14,Netalitica,Green lifestyle
+https://zoldcivil.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
+https://zoldkor.net/hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
+https://cargonomia.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+https://greenguide.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+https://gyuttmentfesztival.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle festival 
+https://humusz.hu/,ENV,Environment,2022-01-06,Netalitica,"Climate change, green transition "
+https://shop.nyiregyhazikosar.hu/,ENV,Environment,2022-01-06,Netalitica,Local basket community 
+https://szolidarisgazdasagkozpont.hu/,ENV,Environment,2022-01-06,Netalitica,"Anti-capitalist, leftist, climate change"
+https://www.nepazarolj.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+https://www.profilantrop.org/hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+https://www.zoldpolc.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+https://zerohero.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+https://zolditok.hu/,ENV,Environment,2022-01-06,Netalitica,Green lifestyle
+http://mammutmail.com/,FILE,File-sharing,2021-11-19,Netalitica,File sharing
+http://www.toldacuccot.hu/,FILE,File-sharing,2021-11-19,Netalitica,File sharing
+https://bithumen.be/login.php?returnto=%2F,FILE,File-sharing,2022-01-27,Netalitica,Torrent indexing 
+https://ncore.pro/login.php,FILE,File-sharing,2022-01-27,Netalitica,Torrent indexing 
+https://www.1377x.to/,FILE,File-sharing,2022-01-27,Netalitica,Torrent indexing 
+https://www.bithorlo.info/login.php,FILE,File-sharing,2022-01-27,Netalitica,Torrent indexing 
+https://www.tpbproxypirate.com/,FILE,File-sharing,2022-01-27,Netalitica,Torrent indexing 
+http://www.gamechannel.hu/kozosseg/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://esport1.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://gamepod.hu/index.html,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://gamerek.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://hungame.blog/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://konzolkiraly.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://www.gamestar.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://www.konzolvilag.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://www.pcguru.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://www.playdome.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://www.supergamer.hu/,GAME,Gaming,2021-12-29,Netalitica,Online gaming
+https://grandcasino.hu/?click_id=EG19898439&campaign=9613/,GMB,Gambling,2021-11-19,Netalitica,Online gambling
+https://kincsempark.hu/,GMB,Gambling,2021-11-19,Netalitica,Horse gambling
+https://www.288sb.com/olp/open-account?affiliate=365_893630/,GMB,Gambling,2021-11-19,Netalitica,Online gambling
+https://www.pokerstars.eu/hu/?no_redirect=1/,GMB,Gambling,2021-11-19,Netalitica,Poker
+https://www.szerencsejatek.hu/,GMB,Gambling,2021-11-19,Netalitica,Main page of lottery and other gambles
+https://www.tippmix.hu/,GMB,Gambling,2021-11-19,Netalitica,Football gambling
+https://emberijogok.kormany.hu/emberi-jogok-es-az-ensz,GOVT,Government,2021-11-22,Netalitica,Government's page on human rights
+https://kormany.hu/,GOVT,Government,2021-11-22,Netalitica,Government's main page
+https://www.ajbh.hu/emberi-jogi-adatbazis,GOVT,Government,2021-11-22,Netalitica,Government's page on human rights documents
+https://honvedelem.hu/,GOVT,Government,2022-01-07,Netalitica,Military
+https://kormanyablak.hu/hu,GOVT,Government,2022-01-07,Netalitica,Main governmental registry page
+https://www.foldhivatal.hu/,GOVT,Government,2022-01-07,Netalitica,Land's office
+https://www.coe.int/en/web/cm/home?desktop=false,GOVT,Government,2022-01-27,Netalitica,Committee of Ministers
+https://www.coe.int/en/web/commissioner,GOVT,Government,2022-01-27,Netalitica,Commissioner for Human Rights
+https://www.epp.eu/,GOVT,Government,2022-01-27,Netalitica,"Christian-democratic, conservative, and liberal-conservative political group of the European Parliament"
+https://www.greens-efa.eu/en/,GOVT,Government,2022-01-27,Netalitica,Green and regionalist political group of the European Parliament
+https://www.reneweuropegroup.eu/,GOVT,Government,2022-01-27,Netalitica,"Liberal, pro-European political group of the European Parliament"
+https://www.socialistsanddemocrats.eu/,GOVT,Government,2022-01-27,Netalitica,Socia-democratic political group of the European Parliament
+http://myvip.com/index.php?t=&/,GRP,Social Networking,2022-01-07,Netalitica,Social network page 
+https://etikushacker.info/,HACK,Hacking Tools,2021-11-19,Netalitica,Ethical hacking 
+http://farkasfalka.com/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+http://nacionalistazona.org/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://harcunk.info/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://kuruc.info/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://legiohungaria.org/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://magyarjelen.hu/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://nemzeti.net/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://njsz.hu/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://orientalista.hu/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://t.me/mihazankifjai?fbclid=IwAR3HFRPjNjtc6Xz8oQ5K3Mo-nZqFPfwX-IFTACGOVIx1jwAEVnlwUSwVFRE/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://toroczkailaszlo.hu/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://vk.com/bedezsolti/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://www.bitchute.com/channel/turultv/?fbclid=IwAR2c_unGLo4-rVxBNgciG5Z1n0YgYvQYDD8uY6p1YHPWGFy3zhkIzJxBsDs/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://www.facebook.com/TurulTV/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://www.facebook.com/zsolt.bede.39/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://www.hvim.hu/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+https://www.vadhajtasok.hu/,HATE,Hate Speech,2021-11-19,Netalitica,"Racism, homophobia "
+http://blogger.hu/,HOST,Hosting and Blogging Platforms,2022-01-07,Netalitica,Blogging
+https://blog.hu/,HOST,Hosting and Blogging Platforms,2022-01-07,Netalitica,Blogging
+https://bloglap.hu/,HOST,Hosting and Blogging Platforms,2022-01-07,Netalitica,Blogging
+https://blogolok.hu/,HOST,Hosting and Blogging Platforms,2022-01-07,Netalitica,Blogging
+https://reblog.hu/,HOST,Hosting and Blogging Platforms,2022-01-07,Netalitica,Blogging
+https://elin.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://fabio.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://kifu.gov.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://rackforest.com/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://tarhely.eu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://tarhelypark.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.digihost.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.ezit.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.forpsi.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.hostinger.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.mediacenter.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.mhosting.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.nethely.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+https://www.rackhost.hu/,HOST,Hosting and Blogging Platforms,2022-01-10,Netalitica,Hosting
+http://budaorsitanoda.hu/elerhetoseg/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+http://drve.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+http://ejha-halozat.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Human rights network 
+http://euroma.hu/kapcsolat/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+http://romalang.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+http://romediafoundation.org/en/home-old/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+http://www.artemisszio.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Minority rights
+http://www.minoritas.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+http://www.nmckkszsz.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://bagazs.org/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://baxtale.tv/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://belsotuzegyesulet.hu/kapcsolat/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://bhimrao.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://dev.nei.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://dravavolgyicig.eoldal.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://gy-sz.hu/en/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://igazgyongyalapitvany.hu/en/home/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://indahousehungary.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://kisebbsegkutato.tk.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Minority rights 
+https://kofe.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://nane.hu/?lang=en/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Women's rights
+https://napkerekegyesulet.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://nokjoga.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Women's rights
+https://olive.ceu.edu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Refugee rights
+https://romanoteatro.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://tomlantosinstitute.hu/hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Minority rights - state funded
+https://www.artisjus.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Cultural rights
+https://www.cka.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Community organising
+https://www.czinkapanna.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://www.feketelang.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://www.karpatokalapitvany.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,"Human rights, previously raided by the police"
+https://www.kji.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Minority rights - state funded
+https://www.patent.org.hu/n%C5%91k-elleni-er%C5%91szak/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Women's rights
+https://www.uccualapitvany.hu/,HUMR,Human Rights Issues,2021-11-19,Netalitica,Roma rights
+https://www.verzio.org/hu,HUMR,Human Rights Issues,2021-11-19,Netalitica,Human rights documentary 
+http://autonomia.hu/hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Minority rights
+http://haver.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Jewish youth organisation 
+http://noierdek.hu/2/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Women's rights
+http://www.gyerekesely.hu/index.php/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Children's rights
+http://www.kozeletiskolaja.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Rights of the poor and underrepresented 
+http://www.menok.eu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Women's rights
+https://ahang.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Petition page 
+https://avarosmindenkie.blog.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Housing rights NGO 
+https://birosag.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,main page for all the courts
+https://civilizacio.net/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Network of human rights defenders 
+https://energiaklub.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Environmental rights 
+https://helsinki.hu/en/,HUMR,Human Rights Issues,2021-11-24,Netalitica,"Human rights, mostly refugee rights, among the most often attacked organisations "
+https://i-dia.org/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Democratic education and rights 
+https://k-monitor.hu/fooldal/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Transparency focused NGO
+https://menedek.hu/en/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Refugee rights
+https://polgaralapitvany.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Minority rights
+https://tasz.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,"Civil liberties, among the most often attacked organisations, considered as Soros/foreign agent"
+https://tdh-europe.org/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Children's rights
+https://transparency.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Transparency International's local office 
+https://utcarollakasba.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Housing rights
+https://www.ajbh.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Office of the Fundamental Rights
+https://www.alkotmanybirosag.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Constitutional Court's page
+https://www.amnesty.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,"Human rights, among the most often attacked organisations"
+https://www.emberseg.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Regional human rights NGO
+https://www.nonprofit.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Civil society rights 
+https://www.sos.hu/,HUMR,Human Rights Issues,2021-11-24,Netalitica,Children's rights
+http://utcaifoci.hu/aaa/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Integration through sports
+http://www.ambedkar.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+http://www.cfcf.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+http://www.kidma.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish youth organisation 
+https://boldogceferinointezet.hu/tart/index/1/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+https://kavaszinhaz.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Educational rights
+https://mozaikhub.hu/en/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish community 
+https://phirenamenca.eu/category/hun/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+https://romaparlament.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+https://romasajtokozpont.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+https://romaversitas.hu/en/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+https://somer.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish community 
+https://szka.org/category/heureka/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
+https://tev.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,"Minority rights, discrimination of jews "
+https://web.balinthaz.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish community 
+https://www.centropa.org/hu,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish history 
+https://www.eletmenete.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish community 
+https://zsido.com/kozosseg/atid-ifjusagi-szervezet/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish youth organisation 
+https://www.marom.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish youth organisation 
+https://www.zachor.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish anti-discrimination organization 
+https://ec.europa.eu/anti-fraud/index_en,IGO,Intergovernmental Organizations,2022-01-27,Netalitica,EU antifraud agency
+https://www.consilium.europa.eu/en/european-council/,IGO,Intergovernmental Organizations,2022-01-27,Netalitica,European Council
+https://www.eca.europa.eu/en/Pages/ecadefault.aspx,IGO,Intergovernmental Organizations,2022-01-27,Netalitica,European Court of Auditors
+https://www.ecb.europa.eu/home/html/index.en.html,IGO,Intergovernmental Organizations,2022-01-27,Netalitica,European Central Bank
+https://unicef.hu/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,UNICEF's SSC
+https://www.coe.int/en/web/youth/eyc-budapest/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Youth issues
+https://www.euro.who.int/en/countries/hungary/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,World Health Organisation's SSC
+https://www.fao.org/europe/ssc/en/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Food 
+https://www.iom.int/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,migration 
+https://www.unhcr.org/hungary.html/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Refugee rights
+https://ec.europa.eu/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,The European Commission
+https://www.europarl.europa.eu/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,European Parliament
+https://curia.europa.eu/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Court of Justice of the European Union
+https://www.coe.int/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Council of Europe
+http://melegsegesmegismeres.hu/,LGBT,LGBT,2021-11-14,Netalitica,Educational page about being LGBT
+http://www.alteregoclub.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT club
+http://www.labrisz.hu/,LGBT,LGBT,2021-11-14,Netalitica,Lesbian association 
+http://www.melegvagyok.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT rights
+https://beloud.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT dating
+https://budapestpride.hu/,LGBT,LGBT,2021-11-14,Netalitica,Budapest Pride's home page
+https://hatter.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBTQI rights defending NGO 
+https://humenonline.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT magazine
+https://jelentsd-a-homofobiat.hu/,LGBT,LGBT,2021-11-14,Netalitica,Homophobia reporting page
+https://pinkdex.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT magazine
+https://prizma.lgbt/,LGBT,LGBT,2021-11-14,Netalitica,Educational page about being LGBT
+https://qlit.hu/,LGBT,LGBT,2021-11-14,Netalitica,Lesbian magazine
+https://randi.gay.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT dating
+https://szabadnem.444.hu/,LGBT,LGBT,2021-11-14,Netalitica,Trans rights blog
+https://szabadnem.blog.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT blog
+https://szivarvanyszakkor.hu/,LGBT,LGBT,2021-11-14,Netalitica,Educational page about being LGBT
+https://transvanilla.hu/,LGBT,LGBT,2021-11-14,Netalitica,Trans rights NGO
+https://www.acsaladazcsalad.hu/,LGBT,LGBT,2021-11-14,Netalitica,Page against homophobia
+https://www.hotbull.hu/,LGBT,LGBT,2021-11-14,Netalitica,Gay dating page 
+https://www.identitas.co/,LGBT,LGBT,2021-11-14,Netalitica,LGBT magazine
+https://www.whynotcafe.hu/,LGBT,LGBT,2021-11-14,Netalitica,LGBT club
+https://betyarsereg.hu/,MILX,Terrorism and Militants,2022-01-09,Netalitica,Radical far-right group promoting violence against certain minorities 
+https://indavideo.hu/,MMED,Media sharing,2022-01-07,Netalitica,Video sharing
+https://videa.hu/,MMED,Media sharing,2022-01-07,Netalitica,Video sharing
+http://nepszava.hu/,NEWS,News Media,2021-11-14,Netalitica,Left-wing online news 
+http://www.atv.hu/,NEWS,News Media,2021-11-14,Netalitica,Private broadcasting
+https://444.hu/,NEWS,News Media,2021-11-14,Netalitica,"Independent, critical online news "
+https://boon.hu/,NEWS,News Media,2021-11-14,Netalitica,Regional news outlet
+https://hir.ma/,NEWS,News Media,2021-11-14,Netalitica,Online news
+https://hirado.hu/,NEWS,News Media,2021-11-14,Netalitica,Public media 
+https://index.hu/,NEWS,News Media,2021-11-14,Netalitica,Previously independent news outlet but after 2019 under governmental control 
+https://magyarnemzet.hu/,NEWS,News Media,2021-11-14,Netalitica,"Conservative, right-wing, pro-government online news"
+https://merce.hu/,NEWS,News Media,2021-11-14,Netalitica,Left-wing online news 
+https://telex.hu/,NEWS,News Media,2021-11-14,Netalitica,"Independent, critical online news "
+https://velvet.hu/,NEWS,News Media,2021-11-14,Netalitica,Tabloid 
+https://www.blikk.hu/,NEWS,News Media,2021-11-14,Netalitica,Tabloid 
+https://www.delmagyar.hu/,NEWS,News Media,2021-11-14,Netalitica,Regional news outlet
+https://www.kisalfold.hu/,NEWS,News Media,2021-11-14,Netalitica,Regional news outlet
+https://www.napi.hu/,NEWS,News Media,2021-11-14,Netalitica,Economic magazine
+https://www.nemzetisport.hu/,NEWS,News Media,2021-11-14,Netalitica,Sport online news
+https://www.origo.hu/index.html/,NEWS,News Media,2021-11-14,Netalitica,"Pro-government, propaganda style online news"
+https://www.szeretlekmagyarorszag.hu/,NEWS,News Media,2021-11-14,Netalitica,Online news
+https://www.vg.hu/,NEWS,News Media,2021-11-14,Netalitica,Economic magazine
+https://www.youtube.com/channel/UCEFpEvuosfPGlV1VyUF6QOA/,NEWS,News Media,2021-11-14,Netalitica,"Left-wing, activist style online news "
+http://www.mti.hu/mti/Default.aspx/,NEWS,News Media,2021-11-26,Netalitica,Central news agency 
+https://azonnali.hu/,NEWS,News Media,2021-11-26,Netalitica,Independent online news 
+https://ezalenyeg.hu/,NEWS,News Media,2021-11-26,Netalitica,Left wing online news 
+https://figyelo.hu/,NEWS,News Media,2021-11-26,Netalitica,"Conservative, right-wing, pro-government online news"
+https://g7.hu/,NEWS,News Media,2021-11-26,Netalitica,Independent online outlet focusing on economics 
+https://hang.hu/,NEWS,News Media,2021-11-26,Netalitica,Conservative independent print news
+https://qubit.hu/,NEWS,News Media,2021-11-26,Netalitica,Independent online outlet focusing on science
+https://radio1.hu/,NEWS,News Media,2021-11-26,Netalitica,Leading radio station 
+https://ripost.hu/,NEWS,News Media,2021-11-26,Netalitica,Tabloid 
+https://szabadpecs.hu/,NEWS,News Media,2021-11-26,Netalitica,Independent regional news outlet
+https://szegedma.hu/,NEWS,News Media,2021-11-26,Netalitica,Independent regional news outlet
+https://www.debreciner.hu/,NEWS,News Media,2021-11-26,Netalitica,Independent regional news outlet
+https://www.portfolio.hu/,NEWS,News Media,2021-11-26,Netalitica,Economic magazine
+https://www.rtlmost.hu/,NEWS,News Media,2021-11-26,Netalitica,"Independent, critical tv station "
+https://www.szabadeuropa.hu/,NEWS,News Media,2021-11-26,Netalitica,Radio Free Europe Hungarian page
+https://atlatszo.hu/,NEWS,News Media,2021-12-04,Netalitica,"Independent, anti-corruption investigative journalism "
+https://demokrata.hu/,NEWS,News Media,2021-12-04,Netalitica,"Right-wing, conservative news outlet"
+https://magyarnarancs.hu/,NEWS,News Media,2021-12-04,Netalitica,"Independent, critical print news"
+https://mandiner.hu/,NEWS,News Media,2021-12-04,Netalitica,Conservative independent online news
+https://media1.hu/,NEWS,News Media,2021-12-04,Netalitica,Governmental news outlet
+https://metropol.hu/,NEWS,News Media,2021-12-04,Netalitica,Tabloid 
+https://nyugatifeny.hu/,NEWS,News Media,2021-12-04,Netalitica,Far-right leaning online news
+https://vasarnap.hu/,NEWS,News Media,2021-12-04,Netalitica,Online news
+https://www.borsonline.hu/,NEWS,News Media,2021-12-04,Netalitica,Tabloid 
+https://www.direkt36.hu/,NEWS,News Media,2021-12-04,Netalitica,"Independent, anti-corruption investigative journalism "
+https://www.es.hu/,NEWS,News Media,2021-12-04,Netalitica,"Independent, critical print news"
+https://www.magyarhirlap.hu/,NEWS,News Media,2021-12-04,Netalitica,Sport news
+https://www.valaszonline.hu/,NEWS,News Media,2021-12-04,Netalitica,"Right-wing, conservative print news"
+https://zsurpubi.hu/,NEWS,News Media,2021-12-04,Netalitica,Far-right leaning online news
+https://24.hu/,NEWS,News Media,2021-12-19,Netalitica,Independent online news outlet
+https://888.hu/,NEWS,News Media,2021-12-19,Netalitica,"Conservative, right-wing, pro-government online news"
+https://hvg.hu/,NEWS,News Media,2021-12-19,Netalitica,Independent online news outlet
+https://jelen.media/,NEWS,News Media,2021-12-19,Netalitica,Independent online news outlet
+https://mediaklikk.hu/m1-elo/,NEWS,News Media,2021-12-19,Netalitica,Public media 
+https://pestisracok.hu/,NEWS,News Media,2021-12-19,Netalitica,"Conservative, right-wing, pro-government online news"
+https://pestitv.pestisracok.hu/,NEWS,News Media,2021-12-19,Netalitica,"Conservative, right-wing, pro-government online news"
+http://iranytuintezet.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Governmental funded think tank 
+http://republikon.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Critical think tank
+http://www.ekint.org/,POLR,Political Criticism,2021-11-14,Netalitica,Independent policy think tank 
+http://www.ideaintezet.hu/hu/,POLR,Political Criticism,2021-11-14,Netalitica,Critical think tank
+https://dkp.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://egyensulyintezet.hu/en/,POLR,Political Criticism,2021-11-14,Netalitica,Neutral think tank
+https://lmp.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://mihazank.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://momentum.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://mszp.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://parbeszedmagyarorszagert.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://politicalcapital.hu/,POLR,Political Criticism,2021-11-14,Netalitica,"Critical think tank, stigmatized as foreign agent by the government"
+https://www.jobbik.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://www.policysolutions.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Critical think tank
+https://www.szikramozgalom.hu/,POLR,Political Criticism,2021-11-14,Netalitica,Opposition party 
+https://www.youtube.com/channel/UC_fAjvoGnqySaNM6DRfFiCA/,POLR,Political Criticism,2021-11-14,Netalitica,"Critical political influencer, ex-politician "
+https://www.justiceinitiative.org/litigation/open-society-institute-budapest-v-hungary,POLR,Political Criticism,2021-11-19,Netalitica,Litigation of OSI-Budapest against the state of Hungary
+http://liberalisok.hu/,POLR,Political Criticism,2022-01-06,Netalitica,opposition party 
+https://ajtk.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Government organized NGO
+https://alapjogokert.hu/en/home/,POLR,Political Criticism,2022-01-06,Netalitica,Government organized NGO
+https://cegledizoltan.hu/rolam/,POLR,Political Criticism,2022-01-06,Netalitica,"Critical political influencer, analyst "
+https://elovalasztas.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Pre-election of the united opposition 
+https://karacsonygergely.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Opposition mayor of Budapest
+https://kdnp.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Government party 
+https://ketfarkukutya.mkkp.party/,POLR,Political Criticism,2022-01-06,Netalitica,Opposition party 
+https://markizaypeter.hu/,POLR,Political Criticism,2022-01-06,Netalitica,PM candidate of the united opposition for the 2022 parliamentary election
+https://munkaspart.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Opposition party 
+https://nezopont.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Conservative think tank
+https://pendulum.444.hu/,POLR,Political Criticism,2022-01-06,Netalitica,Blog with political criticism 
+https://szazadveg.hu/hu,POLR,Political Criticism,2022-01-06,Netalitica,Government organized NGO
+http://hadhazyakos.hu/,POLR,Political Criticism,2022-01-06,Netalitica,"Anti-corruption, independent politician "
+https://www.jusztlaci.com/,POLR,Political Criticism,2022-01-06,Netalitica,Critical political influencer 
+https://www.facebook.com/schifferandras/,POLR,Political Criticism,2022-01-06,Netalitica,"Critical political influencer, ex-politician "
+https://www.facebook.com/szelbernadett/,POLR,Political Criticism,2022-01-06,Netalitica,"Anti-corruption, independent politician "
+https://www.facebook.com/vonagabor/,POLR,Political Criticism,2022-01-06,Netalitica,"Former leader of the far-right party, Jobbik, now YouTube influencer "
+https://www.youtube.com/channel/UC7ivXUYaRoZb5WDLKksETUA/,POLR,Political Criticism,2022-01-06,Netalitica,"Critical political influencer, ex-politician "
+https://www.youtube.com/channel/UCgmQe7EGBy9Dkb4q1lMkJiQ/,POLR,Political Criticism,2022-01-06,Netalitica,Critical YouTube political influencer 
+https://juhaszpeter.eu/,POLR,Political Criticism,2022-01-06,Netalitica,"Critical political influencer, ex-politician "
+https://csakporno.hu/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://erotikaweb.hu/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://hdpornfree.xxx/hu/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://napiszex.com/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://pornoingyen.hu/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://pornoweb.hu/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://premiumhd.net/,PORN,Pornography,2021-12-14,Netalitica,Pornography
+https://sexshop.hu/,PROV,Provocative Attire,2022-01-10,Netalitica,Sex shop 
+https://www.astratex.hu/noi-fehernemuk/,PROV,Provocative Attire,2022-01-10,Netalitica,Lingerie 
+https://www.diamondsexshop.hu/,PROV,Provocative Attire,2022-01-10,Netalitica,Sex shop 
+https://www.sexshopcenter.hu/,PROV,Provocative Attire,2022-01-10,Netalitica,Sex shop 
+https://infektologia.hu/info.aspx?sp=1/,PUBH,Public Health,2021-11-19,Netalitica,Infectology 
+https://koronavirus.budapest.hu/,PUBH,Public Health,2021-11-19,Netalitica,Coronavirus - Budapest 
+https://semmelweis.hu/,PUBH,Public Health,2021-11-19,Netalitica,Medicine and medical studies and research 
+https://vakcinainfo.gov.hu/,PUBH,Public Health,2021-11-19,Netalitica,Information on vaccination 
+https://www.eeszt.gov.hu/oldalvalaszto.jsp/,PUBH,Public Health,2021-11-19,Netalitica,Public health database
+https://www.neak.gov.hu/,PUBH,Public Health,2021-11-19,Netalitica,Public health service
+https://www.nnk.gov.hu/,PUBH,Public Health,2021-11-19,Netalitica,Public health service
+https://koronavirus.gov.hu/,PUBH,Public Health,2022-01-06,citizenlab,Coronavirus
+https://katolikus.hu/,REL,Religion,2021-11-11,Netalitica,Catholic church
+https://www.reformatus.hu/,REL,Religion,2021-11-12,Netalitica,Reformed Church in Hungary 
+https://metegyhaz.hu/,REL,Religion,2021-11-13,Netalitica,Hungarian Evangelical Fellowship
+https://www.evangelikus.hu/,REL,Religion,2021-11-14,Netalitica,Evangelical?Lutheran Church
+https://egysza.hu/,REL,Religion,2021-11-26,Netalitica,Religious magazine
+https://punkosdi.hu/,REL,Religion,2021-11-26,Netalitica,Easter Church 
+https://szombathelyref.hu/,REL,Religion,2021-11-26,Netalitica,Reformed Church
+https://www.magyarkurir.hu/,REL,Religion,2021-11-26,Netalitica,Religious magazine
+http://felhaz.com/,REL,Religion,2021-12-18,Netalitica,"Religious youth community, formerly led by the son of the PM Viktor Orban"
+http://hungary.orthodoxia.org/,REL,Religion,2021-12-18,Netalitica,Orthodox church 
+http://www.palapostol.hu/,REL,Religion,2021-12-18,Netalitica,Catholic education 
+https://akibic.hu/,REL,Religion,2021-12-18,Netalitica,Jewish church 
+https://kotoszo.blog.hu/,REL,Religion,2021-12-18,Netalitica,Progressive Lutheran blog
+https://krszh.hu/,REL,Religion,2021-12-18,Netalitica,Roma christians
+https://mazsihisz.hu/,REL,Religion,2021-12-18,Netalitica,Jewish church 
+https://szemlelek.net/,REL,Religion,2021-12-18,Netalitica,Religious magazine
+https://ujkelet.live/,REL,Religion,2021-12-18,Netalitica,Jewish church 
+https://www.baptist.hu/,REL,Religion,2021-12-18,Netalitica,Baptist church 
+https://www.bzsh.hu/,REL,Religion,2021-12-18,Netalitica,Jewish church 
+https://teologusnok.hu/magunkrol/tagjaink/bemutatkozunk/83-dr-perintfalvi-rita,REL,Religion,2021-12-18,Netalitica,"Personal page of a progressive, female theologist claiming that LGBT communities should not be excluded by the church"
+https://www.hetek.hu/,REL,Religion,2021-12-18,Netalitica,Catholic magazine
+https://www.hit.hu/,REL,Religion,2021-12-18,Netalitica,Ancient Hungarian Church
+https://www.katped.hu/altalanos-iskolak/,REL,Religion,2021-12-18,Netalitica,Catholic education 
+https://www.keresztenyelet.hu/,REL,Religion,2021-12-18,Netalitica,Christian lifestyle 
+https://www.osmagyaregyhaz.hu/,REL,Religion,2021-12-18,Netalitica,religious magazine
+https://www.serbdiocese.hu/hu/,REL,Religion,2021-12-18,Netalitica,Serbian Orthodox church 
+https://www.szombat.org/,REL,Religion,2021-12-18,Netalitica,Jewish magazine 
+https://zsido.com/,REL,Religion,2021-12-18,Netalitica,Jewish church 
+https://www.hirkereso.hu/,SRCH,Search Engines,2022-01-07,Netalitica,News search 
+https://www.kapu.hu/,SRCH,Search Engines,2022-01-07,Netalitica,Search engine
+https://www.startlap.hu/,SRCH,Search Engines,2022-01-07,Netalitica,Search engine
+http://magyarcegbazis.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Company directory
+https://ingatlan.com/,SRCH,Search Engines,2022-01-10,Netalitica,Real estate search engine
+https://www.ceginformacio.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory 
+https://www.cegtalalo.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Company directory
+https://www.e-cegjegyzek.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory 
+https://www.nemzeticegtar.hu/nemzeticegtar/kereso/,SRCH,Search Engines,2022-01-10,Netalitica,Company directory
+https://www.opten.hu/dijtalan-szolgaltatasok/cegtarlight/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory 
+https://www.profession.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Job search engine
+http://szexmunka.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex workers 
+http://www.ifjusagi-lelkisegely.hu/index.php/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
+https://anya-lanya.hu/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
+https://hormonmentes.hu/,XED,Sex Education,2021-11-19,Netalitica,Female sex education 
+https://ragaszkodjhozza.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex Education
+https://semmelweis.hu/borklinika/a-betegellatas-fo-profiljai/jarobeteg-ellatas/orszagos-std-centrum/,XED,Sex Education,2021-11-19,Netalitica,Sex Education
+https://www.intima.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex Education
+https://www.kamaszpanasz.hu/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
+https://www.nogyogyaszatikozpont.hu/,XED,Sex Education,2021-11-19,Netalitica,Female sex education 
+https://yelon.hu/szuloknek/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 

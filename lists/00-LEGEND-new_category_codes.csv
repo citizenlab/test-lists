@@ -29,4 +29,4 @@ Government,GOVT,FREL USMIL,"Government-run websites, including military sites."
 E-commerce,COMM,COMM,Websites of commercial services and products.
 Control content,CTRL,CACH,Benign or innocuous content used as a control.
 Intergovernmental Organizations,IGO,N/A,Websites of intergovernmental organizations such as the United Nations.
-Miscelaneous content,MISC,MISC KWRD,Sites that don't fit in any category (XXX Things in here should be categorised)
+Miscellaneous content,MISC,MISC KWRD,Sites that don't fit in any category (XXX Things in here should be categorised)

@@ -5,7 +5,6 @@ https://www.tsa-arabi.com/,NEWS,News Media,2017-10-31,OONI,Reportedly blocked by
 https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://arz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://simple.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://fr.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://fr.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.algeriepatriotique.com/,NEWS,News Media,2019-09-20,Anonymous,
@@ -164,7 +163,7 @@ http://www.mae.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government web
 http://www.education.gov.dz/,CTRL,Control content,2020-06-30,Netalitica,Government website for control purposes
 https://www.crbt.dz/,CTRL,Control content,2020-06-30,Netalitica,Non-political website for control purposes
 https://ensh.dz/,CTRL,Control content,2020-06-30,Netalitica,Non-political website for control purposes
-https://www.marefa.org/,CULTR,Culture,2020-06-30,Netalitica,
+https://www.marefa.org/,SRCH,Search Engines,2020-06-30,Netalitica,
 https://www.nikahsearch.com/,DATE,Online Dating,2020-06-30,Netalitica,
 http://www.zawagislamy.com/,DATE,Online Dating,2020-06-30,Netalitica,
 http://talaki.com/,DATE,Online Dating,2020-06-30,Netalitica,
@@ -243,7 +242,7 @@ https://www.likud.org.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not
 https://meretz.org.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel
 https://mfa.gov.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel
 https://www.mod.gov.il/,GOVT,Government,2020-06-30,Netalitica,Algeria does not officially recognize the state of Israel
-https://www.timesofisrael.com/,GOVT,Government,2020-06-30,Netalitica,
+https://www.timesofisrael.com/,NEWS,News Media,2020-06-30,Netalitica,
 http://www.saharalibre.es/,GOVT,Government,2020-06-30,Netalitica,Related to the conflict over the sub-Sahara
 http://alhacker.mam9.com/login,HACK,Hacking Tools,2020-06-30,Netalitica,
 http://abtalealdjazaire.ahlamontada.net/,HACK,Hacking Tools,2020-06-30,Netalitica,
@@ -333,7 +332,6 @@ https://www.almayadeen.net/,NEWS,News Media,2020-06-30,Netalitica,
 https://www.skynewsarabia.com/,NEWS,News Media,2020-06-30,Netalitica,
 https://ar.qantara.de/,NEWS,News Media,2020-06-30,Netalitica,
 https://www.france24.com/,NEWS,News Media,2020-06-30,Netalitica,
-https://www.mc-doualiya.com/,NEWS,News Media,2020-06-30,Netalitica,
 https://arabicpost.net/,NEWS,News Media,2020-06-30,Netalitica,
 https://almanar.com.lb/,NEWS,News Media,2020-06-30,Netalitica,
 https://www.trtarabi.com/,NEWS,News Media,2020-06-30,Netalitica,
@@ -358,7 +356,7 @@ http://fc.dz/,POLR,Political Criticism,2020-06-30,Netalitica,
 https://jiljadid.org/,POLR,Political Criticism,2020-06-30,Netalitica,
 http://el-wassit.orgfree.com/,POLR,Political Criticism,2020-06-30,Netalitica,
 https://elbinaa.com/,POLR,Political Criticism,2020-06-30,Netalitica,
-https://carnegie-mec.org/,POLR,Political Criticism,2020-06-30,Netalitica,
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,
 https://www.facebook.com/PSTDZ/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages
 https://www.facebook.com/pageofficiellept/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages
 https://www.facebook.com/bostan.ikhwan/,POLR,Political Criticism,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages
@@ -426,7 +424,6 @@ http://www.bahai-faith.org/,REL,Religion,2020-06-30,Netalitica,
 https://bahai.com/,REL,Religion,2020-06-30,Netalitica,
 https://www.biblegateway.com/,REL,Religion,2020-06-30,Netalitica,
 http://arabatheistbroadcasting.com/,REL,Religion,2020-06-30,Netalitica,
-https://www.facebook.com/Il7ad/,REL,Religion,2020-06-30,Netalitica,To monitor if ISPs manage to block individual pages
 http://www.faithfreedom.org/,REL,Religion,2020-06-30,Netalitica,
 https://www.il7ad.org/vb/index.php/,REL,Religion,2020-06-30,Netalitica,
 http://www.islamway.com/,REL,Religion,2020-06-30,Netalitica,
@@ -461,3 +458,4 @@ https://www.radio-m.net/,NEWS,News Media,2020-10-04,Netalitica,
 https://www.liberte-algerie.com/,NEWS,News Media,2020-10-04,Netalitica,
 https://ar.hibapress.com/,NEWS,News Media,2020-10-04,Netalitica,
 https://fr.hibapress.com/,NEWS,News Media,2020-10-04,Netalitica,
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

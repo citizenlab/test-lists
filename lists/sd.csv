@@ -1,20 +1,20 @@
 url,category_code,category_description,date_added,source,notes
 http://www.nancyajram.com/,CULTR,Culture,2014-04-15,citizenlab,
-https://www.anti-cair-net.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.evemodels.com/,PORN,Pornography,2014-04-15,citizenlab,Escort services
+https://www.anti-cair-net.org/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.evemodels.com/,DATE,Online Dating,2014-04-15,citizenlab,Escort services
 http://www.ansarweb.net/,REL,Religion,2014-04-15,citizenlab,
 http://www.bahai-faith.org/,REL,Religion,2014-04-15,citizenlab,
 http://freemuslim.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.light-of-life.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.yahosein.com/,REL,Religion,2014-04-15,citizenlab,
-https://maktoob.yahoo.com/,COMT,Communication Tools,2014-04-15,citizenlab,
+http://www.yahosein.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://maktoob.yahoo.com/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://www.casinoduliban.com.lb/,GMB,Gambling,2014-04-15,citizenlab,
 https://euromedrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,The Euro-Mediterranean Human Rights Network
 https://www.alalamtv.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://arabic.cnn.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.southsudanesefriends.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.thequran.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.coptic.net/EncyclopediaCoptica/,REL,Religion,2014-04-15,citizenlab,
+http://www.coptic.net/EncyclopediaCoptica/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.tarjem.com/,COMT,Communication Tools,2014-04-15,citizenlab,Translation services
 https://www.lavaplace.com/,DATE,Online Dating,2014-04-15,citizenlab,Gay content
 https://www.nikahsearch.com/,DATE,Online Dating,2014-04-15,citizenlab,Match-making and dating Web site
@@ -39,7 +39,7 @@ https://www.arabicbible.com/,REL,Religion,2014-04-15,citizenlab,
 https://irshadmanji.com/,REL,Religion,2014-04-15,citizenlab,
 https://the-good-way.com/eng/,REL,Religion,2014-04-15,citizenlab,
 https://www.thegrace.com/,REL,Religion,2014-04-15,citizenlab,
-https://meretz.org.il/,CTRL,Control content,2014-04-15,citizenlab,
+https://meretz.org.il/,GOVT,Government,2014-04-15,citizenlab,
 https://toystore.co.il/,CTRL,Control content,2014-04-15,citizenlab,
 https://www.likud.org.il/,GOVT,Government,2014-04-15,citizenlab,
 https://www.rafed.net/ar/,REL,Religion,2014-04-15,citizenlab,
@@ -56,9 +56,9 @@ http://arabic.peopledaily.com.cn/,NEWS,News Media,2014-04-15,citizenlab,Chinese 
 http://sudanyat.org/vb/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.afrol.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.afrol.com/countries/sudan/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.danielpipes.org/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.danielpipes.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.darfurinfo.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.hadash.org.il/,NEWS,News Media,2014-04-15,citizenlab,Israeli Web site
+http://www.hadash.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,Israeli Web site
 http://www.sudanile.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.sudantribune.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://angryarab.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,Angery Arab blog
@@ -73,9 +73,9 @@ http://umma.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.alkalema.net/,REL,Religion,2014-04-15,citizenlab,
 http://www.secularislam.org/,REL,Religion,2014-04-15,citizenlab,Website for the Institute for the Seculariztion of Islamic Society.  The ISIS has been formed to promote the ideas of rationalism secularism democracy and human rights within Islamic society.
 http://www.aaci.org.il/,CTRL,Control content,2017-10-20,citizenlab,Association of Americans and Canadians in Israel
-http://www.emasc-uae.com/,POLR,Political Criticism,2017-10-20,citizenlab,"UAE, but covers Sudan"
+http://www.emasc-uae.com/,NEWS,News Media,2017-10-20,citizenlab,"UAE, but covers Sudan"
 http://www.ikhwantube.com/,POLR,Political Criticism,2017-10-20,citizenlab,
-http://www.dubai-escort-list.com/,PORN,Pornography,2017-10-20,citizenlab,Escort services
+http://www.dubai-escort-list.com/,DATE,Online Dating,2017-10-20,citizenlab,Escort services
 http://bahai-books.org/,REL,Religion,2017-10-20,citizenlab,Bahai faith group
 http://bahai-devotions.org/,REL,Religion,2017-10-20,citizenlab,Bahai faith group
 http://bahai-internet-services.org/,REL,Religion,2017-10-20,citizenlab,Bahai faith group
@@ -99,19 +99,19 @@ https://centerforinquiry.org/blog/category/secular-islam/,REL,Religion,2017-10-2
 http://www.ibnzura.com/,REL,Religion,2017-10-20,citizenlab,
 https://ar.islamway.net/,REL,Religion,2017-10-20,citizenlab,Islam Way
 http://arabic.bayynat.org.lb/,REL,Religion,2017-10-20,citizenlab,Sayyid Muhammad Hussein Fadlallah's website (spiritual guide of Hizbollah's Secretary General)
-https://internet.tumblr.com/,CTRL,Control content,2017-10-20,citizenlab,To test of certain blogs on tumblr are blocked
+https://internet.tumblr.com/,HOST,Hosting and Blogging Platforms,2017-10-20,citizenlab,To test of certain blogs on tumblr are blocked
 https://library.sheba.co.il/,CTRL,Control content,2017-10-20,citizenlab,Miriam Gutwirth Medical Library
 https://minuf.co.il/,CTRL,Control content,2017-10-20,citizenlab,Israeli source
-https://religion.tumblr.com/,CTRL,Control content,2017-10-20,citizenlab,To test of certain blogs on tumblr are blocked
+https://religion.tumblr.com/,REL,Religion,2017-10-20,citizenlab,To test of certain blogs on tumblr are blocked
 https://sports.tumblr.com/,CTRL,Control content,2017-10-20,citizenlab,to test of certain blogs on tumblr are blocked
 https://www.greenbo.co.il/,CTRL,Control content,2017-10-20,citizenlab,Greenbo Gardening Store
 https://www.oswego.lib.il.us/,CTRL,Control content,2017-10-20,citizenlab,"Illinois Library page, to test if it gets blocked because of .il in domain"
 https://www.sqlserver.co.il/,CTRL,Control content,2017-10-20,citizenlab,SQL Server.il
 https://elyon1.court.gov.il/eng/home/index.html/,GOVT,Government,2017-10-20,citizenlab,Israel Supreme Court
 https://www.mossad.gov.il/,GOVT,Government,2017-10-20,citizenlab,MOSSAD
-https://www.nbn.org.il/,GOVT,Government,2017-10-20,citizenlab,Testing of .il tld
+https://www.nbn.org.il/,CULTR,Culture,2017-10-20,citizenlab,Testing of .il tld
 https://www.netanyahu.org.il/,GOVT,Government,2017-10-20,citizenlab,
-https://middleeasttransparent.com/en/,HUMR,Human Rights Issues,2017-10-20,citizenlab,NGO promotes transparency in the middle east
+https://middleeasttransparent.com/en/,POLR,Political Criticism,2017-10-20,citizenlab,NGO promotes transparency in the middle east
 https://rhr.org.il/eng/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Rabbis for Human Rights
 https://learningpartnership.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Women's rights
 https://www.theahafoundation.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Women's right
@@ -119,7 +119,7 @@ https://www.moqawama.org/,MILX,Terrorism and Militants,2017-10-20,citizenlab,Hiz
 https://alkhaleejonline.net/,NEWS,News Media,2017-10-20,citizenlab,Political news and views
 https://alsudanalyoum.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://arabi21.com/,NEWS,News Media,2017-10-20,citizenlab,
-https://arabic.arabianbusiness.com/,NEWS,News Media,2017-10-20,citizenlab,
+https://arabic.arabianbusiness.com/,ECON,Economics,2017-10-20,citizenlab,
 https://arabic.sputniknews.com/,NEWS,News Media,2017-10-20,citizenlab,Russian news agency
 https://sudaneseonline.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.al-akhbar.com/,NEWS,News Media,2017-10-20,citizenlab,Lebanese newspaper
@@ -128,10 +128,8 @@ https://www.al-sharq.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.alahednews.com.lb/,NEWS,News Media,2017-10-20,citizenlab,Lebanese news site
 https://alarab.co.uk/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.alaraby.co.uk/portal/,NEWS,News Media,2017-10-20,citizenlab,Pan-Arab newspaper
-https://www.dw.com/,NEWS,News Media,2017-10-20,citizenlab,German news service
 https://www.eremnews.com/,NEWS,News Media,2017-10-20,citizenlab,Arab news portal
 https://www.france24.com/en/,NEWS,News Media,2017-10-20,citizenlab,France 24 news service
-https://www.mc-doualiya.com/,NEWS,News Media,2017-10-20,citizenlab,Monte Carlo radio
 https://rassd.com/,NEWS,News Media,2017-10-20,citizenlab,Arab news portal
 https://www.raya.com:443/portal/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.sasapost.com/,NEWS,News Media,2017-10-20,citizenlab,Sasa Post
@@ -140,7 +138,7 @@ https://sudafax.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.sudaress.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.watan.com/,NEWS,News Media,2017-10-20,citizenlab,News portal
 https://www.watanserb.com/,NEWS,News Media,2017-10-20,citizenlab,
-https://carnegie-mec.org/,POLR,Political Criticism,2017-10-20,citizenlab,
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,
 https://neswangy.net/,PORN,Pornography,2017-10-20,citizenlab,Arabic sex site
 https://anaahor.blogspot.com/,REL,Religion,2017-10-20,citizenlab,Arab atheists
 https://www.christian-dogma.com/,REL,Religion,2017-10-20,citizenlab,
@@ -148,14 +146,14 @@ https://ladeenioon.blogspot.com/,REL,Religion,2017-10-20,citizenlab,Arab atheist
 https://www.thereligionofpeace.com/,REL,Religion,2017-10-20,citizenlab,
 https://www.boi.org.il/heb/Pages/HomePage.aspx/,CTRL,Control content,2017-10-20,citizenlab,Bank of Israel
 https://www.galilcol.ac.il/,CTRL,Control content,2017-10-20,citizenlab,International Management Institute
-https://www.science.co.il/,CTRL,Control content,2017-10-20,citizenlab,Israel Science and Technology
+https://www.science.co.il/,GOVT,Government,2017-10-20,citizenlab,Israel Science and Technology
 https://www.lahamag.com/,CULTR,Culture,2017-10-20,citizenlab,
 http://www.lahaonline.com/,CULTR,Culture,2017-10-20,citizenlab,
 https://annabaa.org/,NEWS,News Media,2017-10-20,citizenlab,Annabaa. Shiite news portal.
 https://www.ikhwanonline.com/,POLR,Political Criticism,2017-10-20,citizenlab,
 https://mecc.org/,REL,Religion,2017-10-20,citizenlab,Minority rights and ethnic content
 http://thiswebsitedoesnotexistyet.tumblr.com/,CTRL,Control content,2017-10-20,citizenlab,to test of certain blogs on tumblr are blocked
-http://www.antiquities.org.il/,CTRL,Control content,2017-10-20,citizenlab,Israel Antiquities Authority
+http://www.antiquities.org.il/,GOVT,Government,2017-10-20,citizenlab,Israel Antiquities Authority
 http://www.basket.co.il/,CTRL,Control content,2017-10-20,citizenlab,Israel Basketball League
 https://www.metrodate.com/,DATE,Online Dating,2017-10-20,citizenlab,Match-making and dating Web site
 http://www.zawagislamy.com/,DATE,Online Dating,2017-10-20,citizenlab,"""Islamic"" dating service"
@@ -165,7 +163,7 @@ http://www.isa.gov.il/Pages/default.aspx/,GOVT,Government,2017-10-20,citizenlab,
 http://www.mod.gov.il/,GOVT,Government,2017-10-20,citizenlab,Ministry of Defense
 http://www.rafael.co.il/,GOVT,Government,2017-10-20,citizenlab,Rafael Advanced Defense Systems
 http://www.ramla.muni.il/,GOVT,Government,2017-10-20,citizenlab,Ramla Municipality site
-http://ar.wikishia.net/view/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Minority rights and ethnic content
+http://ar.wikishia.net/view/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/,REL,Religion,2017-10-20,citizenlab,Minority rights and ethnic content
 http://bahai-writings.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Bahai faith group
 http://karamah.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Women's rights
 http://www.alkarama.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,
@@ -173,7 +171,6 @@ http://anhri.net/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Human rights in
 http://www.annd.org/arabic/index.php/,HUMR,Human Rights Issues,2017-10-20,citizenlab,
 http://www.arabruleoflaw.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,
 http://www.arabwomenorg.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Women's rights
-https://www.business-humanrights.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Human Rights portal
 http://www.cawtar.org/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Women's rights
 http://www.equalpowerlastingpeace.org/ar/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Women's rights
 http://www.hritc.net/,HUMR,Human Rights Issues,2017-10-20,citizenlab,Human Rights information and training center
@@ -192,7 +189,7 @@ https://www.youtube.com/user/freedomforgays/,LGBT,LGBT,2017-10-20,citizenlab,Gay
 http://alintibaha.net/,NEWS,News Media,2017-10-20,citizenlab,
 http://almayadeen.net/,NEWS,News Media,2017-10-20,citizenlab,
 https://arabic.rt.com/,NEWS,News Media,2017-10-20,citizenlab,Russian news website
-http://asrararabiya.com/,NEWS,News Media,2017-10-20,citizenlab,
+http://asrararabiya.com/,POLR,Political Criticism,2017-10-20,citizenlab,
 http://islamion.com/,NEWS,News Media,2017-10-20,citizenlab,
 http://mubasher.aljazeera.net/,NEWS,News Media,2017-10-20,citizenlab,
 http://newsudan.7olm.org/,NEWS,News Media,2017-10-20,citizenlab,
@@ -205,7 +202,7 @@ http://www.alhowsh.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.alhurra.com/,NEWS,News Media,2017-10-20,citizenlab,
 http://www.almayadeen.net/,NEWS,News Media,2017-10-20,citizenlab,Mayadeen TV
 http://www.almeghar.com/,NEWS,News Media,2017-10-20,citizenlab,
-http://www.alnour.com.lb/,NEWS,News Media,2017-10-20,citizenlab,al-Nour Radio is the official radio station of Hizbollah
+http://www.alnour.com.lb/,MILX,Terrorism and Militants,2017-10-20,citizenlab,al-Nour Radio is the official radio station of Hizbollah
 https://www.altaghyeer.info/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.altareeq.info/ar/,NEWS,News Media,2017-10-20,citizenlab,
 http://www.alwandaily.com/,NEWS,News Media,2017-10-20,citizenlab,
@@ -225,20 +222,19 @@ http://www.sudantribune.net/,NEWS,News Media,2017-10-20,citizenlab,
 http://www.suna-sd.net/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.tacticaltech.org/,NEWS,News Media,2017-10-20,citizenlab,
 http://www.theniles.org/ar/,NEWS,News Media,2017-10-20,citizenlab,
-http://www.timesofisrael.com/,NEWS,News Media,2017-10-20,citizenlab,Times of Israel
+http://www.timesofisrael.com/,GOVT,Government,2017-10-20,citizenlab,Times of Israel
 https://alwatn.webs.com/,POLR,Political Criticism,2017-10-20,citizenlab,
 http://arabanticorruption.org/,POLR,Political Criticism,2017-10-20,citizenlab,
 http://omeldunya.com/,POLR,Political Criticism,2017-10-20,citizenlab,
 https://radiotamazuj.org/ar/,POLR,Political Criticism,2017-10-20,citizenlab,
 http://www.ahewar.org/,POLR,Political Criticism,2017-10-20,citizenlab,Arabic secular news and views
-http://www.almshaheer.com/,POLR,Political Criticism,2017-10-20,citizenlab,
+http://www.almshaheer.com/,NEWS,News Media,2017-10-20,citizenlab,
 https://www.facebook.com/bostan.ikhwan/,POLR,Political Criticism,2017-10-20,citizenlab,keep for control purposes
 http://www.marxy.com/,POLR,Political Criticism,2017-10-20,citizenlab,
 http://www.independentdubaiescorts.com/,PORN,Pornography,2017-10-20,citizenlab,Escort services
 http://aamagazine.blogspot.com/,REL,Religion,2017-10-20,citizenlab,Arab atheists
 http://anbia.tripod.com/,REL,Religion,2017-10-20,citizenlab,
 http://answer-islam.com/,REL,Religion,2017-10-20,citizenlab,
-https://ar-ar.facebook.com/Il7ad/,REL,Religion,2017-10-20,citizenlab,"Arab atheists, keep for control purposes"
 http://arabatheistbroadcasting.com/,REL,Religion,2017-10-20,citizenlab,Arab atheists
 http://arabel7ad.blogspot.com/,REL,Religion,2017-10-20,citizenlab,Arab atheists
 http://el7adarab.blogspot.com/,REL,Religion,2017-10-20,citizenlab,Arab atheists
@@ -248,11 +244,10 @@ http://www.al-ketab.net/,REL,Religion,2017-10-20,citizenlab,
 http://www.biblequery.org/,REL,Religion,2017-10-20,citizenlab,
 http://www.debate.org.uk/,REL,Religion,2017-10-20,citizenlab,
 https://www.facebook.com/ArabAtheistBroadcasting/,REL,Religion,2017-10-20,citizenlab,"Arab atheists, keep for control purposes"
-https://www.facebook.com/Il7ad/,REL,Religion,2017-10-20,citizenlab,"Arab atheists, keep for control purposes"
 http://www.faithfreedom.org/,REL,Religion,2017-10-20,citizenlab,Faith Freedom International - grassroots movement of ex-Muslims
 https://www.il7ad.org/vb/index.php/,REL,Religion,2017-10-20,citizenlab,Arab atheists
 http://www.mahdi-alumma.com/,REL,Religion,2017-10-20,citizenlab,Cntroversial religious content
-http://www.youtube.com/verify_controversy?next_url=/watch%3fv%3dqmodvun16q4/,REL,Religion,2017-10-20,citizenlab,Mohammed film
+https://www.youtube.com/watch?v=qmodVun16Q4,REL,Religion,2017-10-20,citizenlab,Muhammad movie trailer
 https://www.google.co.il/,SRCH,Search Engines,2017-10-20,citizenlab,Google Israel
 https://www.mashrobi.com/,ALDR,Alcohol & Drugs,2019-06-20,Netalitica,
 https://www.africanandeastern.com/,ALDR,Alcohol & Drugs,2019-06-20,Netalitica,
@@ -355,7 +350,7 @@ http://www.doniacomputer.com/,FILE,File-sharing,2019-06-20,Netalitica,
 http://www.ar.obfog.com/,GAME,Gaming,2019-06-20,Netalitica,
 http://game-game.ma/,GAME,Gaming,2019-06-20,Netalitica,
 http://www.337.com/ar/minigame,GAME,Gaming,2019-06-20,Netalitica,
-https://www.alsindibad.com/,GAME,Gaming,2019-06-20,Netalitica,
+https://www.alsindibad.com/,FILE,File-sharing,2019-06-20,Netalitica,
 https://viptarneeb.com/,GAME,Gaming,2019-06-20,Netalitica,
 https://www.jawaker.com/,GAME,Gaming,2019-06-20,Netalitica,
 https://www.gamku.com/,GAME,Gaming,2019-06-20,Netalitica,
@@ -466,7 +461,7 @@ https://www.goethe.de/ins/su/ar/index.html/,HUMR,Human Rights Issues,2019-06-20,
 https://www.johndaufoundation.org/,HUMR,Human Rights Issues,2019-06-20,Netalitica,South Sudan but overlaps with politics in Sudan
 http://www.ryanspencerreed.com/,HUMR,Human Rights Issues,2019-06-20,Netalitica,
 https://www.sshursa.org/,HUMR,Human Rights Issues,2019-06-20,Netalitica,South Sudan but overlaps with politics in Sudan
-https://fanack.com/,HUMR,Human Rights Issues,2019-06-20,Netalitica,
+https://fanack.com/,NEWS,News Media,2019-06-20,Netalitica,
 https://rainbowsudan.wordpress.com/,LGBT,LGBT,2019-06-20,Netalitica,
 https://www.facebook.com/Freedom-Sudan-the-sudanese-LGBT-association-111198078982850/,LGBT,LGBT,2019-06-20,Netalitica,keep for control purposes
 http://www.lgbtnet.dk/countries/africa/sudan/,LGBT,LGBT,2019-06-20,Netalitica,
@@ -613,7 +608,7 @@ https://www.fredericks.com/,PROV,Provocative Attire,2019-06-20,Netalitica,
 https://www.webteb.com/,PUBH,Public Health,2019-06-20,Netalitica,
 http://www.sehha.com/index.shtml,PUBH,Public Health,2019-06-20,Netalitica,
 https://www.altibbi.com/,PUBH,Public Health,2019-06-20,Netalitica,
-https://www.dailymedicalinfo.com/,PUBH,Public Health,2019-06-20,Netalitica,
+https://www.dailymedicalinfo.com/,XED,Sex Education,2019-06-20,Netalitica,
 https://www.doctoori.net/,PUBH,Public Health,2019-06-20,Netalitica,
 https://a3chabe.com/public-health,PUBH,Public Health,2019-06-20,Netalitica,
 https://www.se7a4evryone.com/,PUBH,Public Health,2019-06-20,Netalitica,
@@ -653,3 +648,4 @@ http://m3loma.com/,XED,Sex Education,2019-06-20,Netalitica,
 https://jensaneya.org/,XED,Sex Education,2019-06-20,Netalitica,
 https://lmarabic.com/,XED,Sex Education,2019-06-20,Netalitica,
 https://www.zanzu.de/ar/,XED,Sex Education,2019-06-20,Netalitica,
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

@@ -75,7 +75,7 @@ https://www.hitb.org/,HACK,Hacking Tools,2014-04-15,citizenlab,hackinthebox - co
 https://www.amrc.org.hk/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"Asia Monitor Resource Centre - supporting a democratic and independent labour movement in Asia. The office is based in Hong Kong. Its work covers South Asia, East Asia, and Southeast Asia. [en] Regional site"
 https://www.asianmigrantcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Asian Migrant Centre [en] Regional site
 http://www.thinkcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Think tank on civil society. Based in Singapore. [en] Regional site
-https://www.adb.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Asian Development Bank [en]. Regional site
+https://www.adb.org/,ECON,Economics,2014-04-15,citizenlab,Asian Development Bank [en]. Regional site
 http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,NGO for LGBT people in South Asia. Based in the US. Regional site
 http://www.asianews.it/,NEWS,News Media,2014-04-15,citizenlab,AsiaNews.it [en] Regional site
 https://www.smh.com.au/,NEWS,News Media,2014-04-15,citizenlab,Sydney Morning Herald. Newspapers in Australia. [en] Regional site
@@ -91,7 +91,6 @@ http://www.mekonginfo.org/,IGO,Intergovernmental Organizations,2014-04-15,citize
 http://www.mrcmekong.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Mekong River Commission [en]
 https://www.unescap.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,UN Economic and Social Commission for Asia and the Pacific [en]
 http://thaiopensource.org/,CULTR,Culture,2014-04-15,citizenlab,ThaiOpenSource. Open source software and hardwre development blog. [th]
-https://asiatimes.com/,NEWS,News Media,2014-04-15,citizenlab,Asia Times [en]
 http://www.manager.co.th/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.ftawatch.org/,POLR,Political Criticism,2014-04-15,citizenlab,"FTA Watch, a civil society network on free trade agreements [th]"
 https://redsiam.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,"A blog of Giles Ji Ungpakorn, a Marxist political activist and a former political science lecturer in Thailand. Fled to the UK in 2009 after facing a lèse majesté charge in Thailand. [en]"
@@ -137,7 +136,6 @@ http://www.siammatch.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.interwetten.com/,GMB,Gambling,2014-04-15,citizenlab,"A sport betting site, registered in Malta. [en]"
 http://xat.com/uddtoday/,GRP,Social Networking,2014-04-15,citizenlab,"UDD Today chat group. (UDD - United Front for Democracy Against Dictatorship, a fraction of Red Shirts) [th]"
 http://www.enlightened-jurists.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"Nitirat - group of legal scholars for democracy. Found blocked in 2014, see: https://citizenlab.ca/2014/07/information-controls-thailand-2014-coup/ [th]"
-http://hrw.org/english/docs/2005/01/13/thaila9858.htm/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Human Rights Watch. Was blocked in the past. [en]
 http://www.hrw.org/en/languages?filter0=th/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Human Rights Watch - Thailand page [en]
 http://www.isiswomen.org/index.php/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"Isis International, a feminist advocacy organisation [en]"
 http://www.gboysiam.com/,LGBT,LGBT,2014-04-15,citizenlab,"Gay Boys Siam. There's no content here, only a link to Gay Asian Network website. [en]"
@@ -165,7 +163,7 @@ http://www.rtarf.mi.th/,GOVT,Government,2016-09-20,unknown,Royal Thai Armed Forc
 https://www.senate.go.th/,GOVT,Government,2016-09-20,unknown,Senate of Thailand [th] [en]
 https://www.stou.ac.th/,GOVT,Government,2016-09-20,unknown,Open university [th]
 https://www.thaigov.go.th/,GOVT,Government,2016-09-20,unknown,Royal Thai Government [th] [en]
-https://forum.thaivisa.com/,GRP,Social Networking,2016-09-20,unknown,Thailand's largest English-language web forum. Expat news and activities in Thailand. Got acquired by Nation Media Group (one of the largest media groups in Thailand) in 2017. [en]
+https://aseannow.com/,GRP,Social Networking,2022-10-14,thainetizen,Formerly Thai Visa https://forum.thaivisa.com/ [originally added on 2016-09-20] Thailand's largest English-language web forum. Expat news and activities in Thailand. Got acquired by Nation Media Group (one of the largest media groups in Thailand) in 2017. [en]
 https://storylog.co/,HOST,Hosting and Blogging Platforms,2016-09-20,unknown,Thai blogging platform [th]
 https://www.amnesty.or.th/,HUMR,Human Rights Issues,2016-09-20,unknown,Amnesty International Thailand [th]
 https://facthai.wordpress.com/,HUMR,Human Rights Issues,2016-09-20,unknown,"Anti-censorship group. (As of June 2020, the blog was last updated on 13 April 2019)"
@@ -187,7 +185,7 @@ https://thaipublica.org/,NEWS,News Media,2016-09-20,unknown,"Thai online newspap
 https://www.thaivisa.com/,NEWS,News Media,2016-09-20,unknown,Expat news. Now part of The Nation. [en]
 https://www.tnews.co.th/,NEWS,News Media,2016-09-20,unknown,"News agency, right wing. [th]"
 http://2bangkok.com/,POLR,Political Criticism,2016-09-20,unknown,"Thai political analysis, underreported news, and Bangkok public transportation. As of May 2020, the blog focuses on the analysis of political cartoons from Thai newspaper. [en]"
-https://www.asiasentinel.com/,POLR,Political Criticism,2016-09-20,unknown,Asian politics review and analysis [en]
+https://www.asiasentinel.com/,NEWS,News Media,2016-09-20,unknown,Asian politics review and analysis [en]
 https://kyotoreview.org/,POLR,Political Criticism,2016-09-20,unknown,Thai politics review journal [en]
 https://www.dhammakaya.net/,REL,Religion,2016-09-20,unknown,"Dhammakaya Foundation and Temple, a Buddhist church with huge followers [th] [en]"
 https://www.dmc.tv/,REL,Religion,2016-09-20,unknown,TV station of Dhammakaya Temple [th]
@@ -250,8 +248,6 @@ https://www.chartpattana.com/,POLR,Political Criticism,2018-11-24,thainetizen,"C
 https://www.chartthaipattana.or.th/,POLR,Political Criticism,2018-11-24,thainetizen,"Chart Thai Pattana Party, a political party [th]"
 https://www.tt-torrent.com/,FILE,File-sharing,2018-11-24,thainetizen,"Thailand Torrent (was blocked once in 2014, according to MacThai) [th]"
 https://anfrel.org/,HUMR,Human Rights Issues,2019-02-17,thainetizen,Asian Network for Free Elections (ANFREL). Based in Bangkok and work across Asia. [en] Regional site
-https://hrw.org/,HUMR,Human Rights Issues,2019-02-17,thainetizen,Human Rights Watch
-https://hrw.org/asia/thailand/,HUMR,Human Rights Issues,2019-02-17,thainetizen,"Human Rights Watch page on Thailand (known to be blocked since November 2018, at the CDN edge server level)"
 https://www.dga.or.th/,GOVT,Government,2019-02-18,thainetizen,Digital Government Development Agency [th] [en]
 https://www.nationtv.tv/,NEWS,News Media,2019-02-18,thainetizen,Nation TV news channel (free-to-air terrestrial TV) [th]
 http://news.thaipbs.or.th/news/,NEWS,News Media,2019-02-18,thainetizen,"ThaiPBS news, publlic broadcasting service [th]"
@@ -314,8 +310,8 @@ https://www.posttoday.com/,NEWS,News Media,2020-05-31,netalitica,Post Today - a 
 https://www.ryt9.com/,NEWS,News Media,2020-05-31,netalitica,News aggregation service by InfoQuest Limited [th]
 https://www.siamsport.co.th/,NEWS,News Media,2020-05-31,netalitica,The largest publisher of sports news in Thailand [th]
 https://www.thaipr.net/,NEWS,News Media,2020-05-31,netalitica,News aggregation service for public relations news and corporate communications [th]
-http://www.thairath.co.th/,NEWS,News Media,2020-05-31,netalitica,Thairath - the largest circulated newspapers in the country [th]
-http://www.tv5.co.th/,NEWS,News Media,2020-05-31,netalitica,Channel 5 - free-to-air terrestrial television. Owned by Royal Thai Army [th]
+https://www.thairath.co.th/,NEWS,News Media,2020-05-31,netalitica,Thairath - the largest circulated newspapers in the country [th]
+https://www.tv5.co.th/,NEWS,News Media,2020-05-31,netalitica,Channel 5 - free-to-air terrestrial television. Owned by Royal Thai Army [th]
 https://dodeden.com/,PUBH,Public Health,2020-05-31,netalitica,Personal health [th]
 https://www.food-trick.com/,PUBH,Public Health,2020-05-31,netalitica,Healthy food [th]
 https://www.gedgoodlife.com/,PUBH,Public Health,2020-05-31,netalitica,Personal health [th]
@@ -341,7 +337,7 @@ https://www.mirror.or.th/,HUMR,Human Rights Issues,2020-06-01,netalitica,"Mirror
 https://www.mwgthailand.org/,HUMR,Human Rights Issues,2020-06-01,netalitica,"Migrant Working Group. Focus on health, education, and labor issues for migrants in Thailand and borders. [th] [en]"
 http://tabgroup.tab.or.th/,HUMR,Human Rights Issues,2020-06-01,netalitica,Thai Association of the Blind [th] [en]
 https://www.thnic.or.th/,HOST,Hosting and Blogging Platforms,2020-06-01,netalitica,Thai Network Information Center Foundation provides domain registration services for the Thailand (.th) country code Top-Level Domain (ccTLD) and .th internationalized Top-Level Domain (IDN) [th]
-https://www.webmaster.or.th/,MISC,Miscelaneous content,2020-06-01,netalitica,Thai Webmaster Association [th]
+https://www.webmaster.or.th/,MISC,Miscellaneous content,2020-06-01,netalitica,Thai Webmaster Association [th]
 https://www.blognone.com/,NEWS,News Media,2020-06-01,netalitica,Information technology news site. [th]
 https://www.citizenthaipbs.net/,NEWS,News Media,2020-06-01,netalitica,Thai PBS citizen journalism site. [th]
 https://cofact.org/,NEWS,News Media,2020-06-01,netalitica,Collaborative fact checking initiative. [th]
@@ -373,7 +369,7 @@ https://www.lottovip.com/,GMB,Gambling,2020-06-17,netalitica,Online lotto [th] [
 https://www.thaich8.com/live,NEWS,News Media,2020-06-17,netalitica,Channel 8. A free-to-air terrestrial television. [th]
 https://www.dltv.ac.th/,NEWS,News Media,2020-06-17,netalitica,Distance Learning Television [th]
 https://www.kaidee.com/,COMM,E-commerce,2020-06-17,netalitica,Marketplace platform [th]
-http://www.ais.co.th/,COMM,E-commerce,2020-06-17,netalitica,Advanced Info Service. One of the major telecommunication network operator in Thailand. [th] [en]
+http://www.ais.co.th/,COMM,E-commerce,2020-06-17,netalitica,Advanced Info Service. One of the major telecommunication network operators in Thailand. [th] [en]
 https://www.csloxinfo.com/,COMM,E-commerce,2020-06-17,netalitica,CSL. One of the major internet service providers in Thailand [th] [en]
 https://www.inet.co.th/,COMM,E-commerce,2020-06-17,netalitica,Internet Thailand Public Company Limited. One of the major internet service providers in Thailand [th] [en]
 http://truemoveh.truecorp.co.th/,COMM,E-commerce,2020-06-17,netalitica,TrueMoveH - True Corporation. One of the major telecommunication network operator in Thailand. [th] [en]
@@ -383,7 +379,7 @@ https://www.cattelecom.com/,COMM,E-commerce,2020-06-17,netalitica,"CAT Telecom, 
 https://home.trueid.net/,CULTR,Culture,2020-06-17,netalitica,Entertainment and news protal from True Digital and Media Platform Company Limited. [th]
 https://doomovie-hd.com/,CULTR,Culture,2020-06-17,netalitica,Watching film online [th]
 https://movie2uhd.com/,CULTR,Culture,2020-06-17,netalitica,Watching film online [th]
-http://www.trueplookpanya.com/,CULTR,Culture,2020-06-17,netalitica,Education website. Amont the tops in TrueHits.net statistics. [th]
+http://www.trueplookpanya.com/,CULTR,Culture,2020-06-17,netalitica,Education website. Among the tops in TrueHits.net statistics. [th]
 https://www.readawrite.com/,CULTR,Culture,2020-06-17,netalitica,"Fiction publishing platform, user-generated content. [th]"
 https://nhentai.net/,PORN,Pornography,2020-06-17,netalitica,"Japanese porn cartoon, hentai, erotic manga. In English, Japanese, Chinese languages. [en] [jp] [zh]"
 https://www.settrade.com/,ECON,Economics,2020-06-17,netalitica,settrade - stock market and investment portal [th] [en]
@@ -422,7 +418,7 @@ https://www.chumchonthai.or.th/,HUMR,Human Rights Issues,2020-08-15,netalitica,"
 http://www.thaicivilsociety.com/,HUMR,Human Rights Issues,2020-08-15,netalitica,Civil Society Empowerment Institute
 http://www.thailabordatabase.org/,HUMR,Human Rights Issues,2020-08-15,netalitica,Thai Labor Database [th] [en]
 http://www.thaibja.org/,HUMR,Human Rights Issues,2020-08-15,netalitica,Thai Broadcast Journalist Association [th]
-https://vote62.com/,HUMR,Human Rights Issues,2020-08-15,netalitica,"Vote 62, election monitoring crowsourcing platform [th]"
+https://www.vote62.com/,HUMR,Human Rights Issues,2023-03-31,thainetizen,"Vote62, election monitoring crowsourcing platform [th]"
 https://change.org/,HUMR,Human Rights Issues,2020-10-19,thainetizen,"Variation of https://ww.change.org/ (in global list), reported  (2020-10-15) to be blocked in Thailand with DNS/CDN-related technique: https://www.blognone.com/node/119048"
 http://www.change.org/,HUMR,Human Rights Issues,2020-10-19,thainetizen,"Variation of https://ww.change.org/ (in global list), reported  (2020-10-15) to be blocked in Thailand with DNS/CDN-related technique: https://www.blognone.com/node/119048"
 http://change.org/,HUMR,Human Rights Issues,2020-10-19,thainetizen,"Variation of https://ww.change.org/ (in global list), reported  (2020-10-15) to be blocked in Thailand with DNS/CDN-related technique: https://www.blognone.com/node/119048"
@@ -433,4 +429,99 @@ https://www.facebook.com/FreeYOUTHth/,POLR,Political Criticism,2020-10-19,thaine
 https://twitter.com/BadStudent_,POLR,Political Criticism,2020-10-19,thainetizen,"Bad Student (Twitter) - one of the main organizers of the 2020 protests in Thailand, initially focuses on education reform [th]"
 https://www.facebook.com/%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-104541321337821,POLR,Political Criticism,2020-10-19,thainetizen,"Bad Student (Facebook page) - one of the main organizers of the 2020 protests in Thailand, initially focuses on education reform [th]"
 https://www.facebook.com/ThammasatUFTD,POLR,Political Criticism,2020-10-19,thainetizen,United Front of Thammasat and Demonstration - one of the main organizers of the 2020 protests in Thailand [th]
-https://www.thaiconsent.in.th/pausespace/,HUMR,Human Rights Issues,2020-10-19,thainetizen,Pause Space - provides safe space for youths who got affected from the 2020 political protests
+https://www.thaiconsent.in.th/pausespace/,HUMR,Human Rights Issues,2020-10-19,thainetizen,Pause Space - provides safe space for youths who got affected from the 2020 political protests [th]
+https://moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Ministry of Public Health
+https://covid19.moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Ministry of Public Health COVID-19 Information
+https://ddc.moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Department of Disease Control
+https://covid19.ddc.moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Department of Disease Control COVID-19 Information
+https://anamai.moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Department of Health
+https://covid19.anamai.moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Department of Health COVID-19 Information
+https://fda.moph.go.th/,GOVT,Government,2021-09-18,thainetizen,Food and Drug Administration
+https://www.dms.go.th/,GOVT,Government,2021-09-18,thainetizen,Department of Medical Services
+https://covid19.dms.go.th/,GOVT,Government,2021-09-18,thainetizen,Department of Medical Services COVID-19 Information
+https://www.dlsite.com/,COMM,E-commerce,2021-11-30,thainetizen,Japanese anime and games online store (with adults and non-adults content) - some ISPs cannot access on 2021-11-29 - producing error 451 Unavailable for Legal Reasons - see issue #866
+http://no112.org/,HUMR,Human Rights Issues,2022-02-17,thainetizen,Signature collection website to propose the end of the lese majeste law (Article 112) [th]
+http://www.no112.org/,HUMR,Human Rights Issues,2022-02-17,thainetizen,Signature collection website to propose the end of the lese majeste law (Article 112) [th]
+https://no112.org/,HUMR,Human Rights Issues,2022-02-17,thainetizen,Signature collection website to propose the end of the lese majeste law (Article 112) [th]
+https://www.no112.org/,HUMR,Human Rights Issues,2022-02-17,thainetizen,Signature collection website to propose the end of the lese majeste law (Article 112) [th]
+https://www.oknation.net/,GRP,Social Networking,2022-10-08,thainetizen,"OKnation blog platform for citizen reporters. Same owner as The Nation, Kom Chad Luek, Spring News, Tnews [th]"
+https://www.188bet.com/,GMB,Gambling,2022-10-08,thainetizen,Betting site [th] [en]
+https://www.188-bet.org/,GMB,Gambling,2022-10-08,thainetizen,Betting site [th] [en]
+https://www.ais.th/,COMM,E-commerce,2022-10-08,thainetizen,Advanced Info Service. One of the major telecommunication network operators in Thailand. [th] [en]
+http://fb.watch/3aiaDnGJTi,POLR,Political Criticism,2020-10-19,thainetizen,Criticism of 'Royal vaccine'. Was blocked by a court order on 2021-01-29. The order is reversed on 2021-02-08. See https://freedom.ilaw.or.th/blog/reversebolckorder for details. URL as appear in court order. [th]
+http://youtu.be/Oq7KPO5TBc8,POLR,Political Criticism,2020-10-19,thainetizen,Criticism of 'Royal vaccine'. Was blocked by a court order on 2021-01-29. The order is reversed on 2021-02-08. See https://freedom.ilaw.or.th/blog/reversebolckorder for details. URL as appear in court order. [th]
+https://tv.mcot.net/,NEWS,News Media,2022-10-09,thainetizen,Channel 9. A free-to-air terrestrial television. State-owned. [th]
+https://nbt2hd.prd.go.th/,NEWS,News Media,2022-10-09,thainetizen,Channel 11 - National Broadcasting Services of Thailand - broadcasting arm of the Government Public Relations Department [th]
+https://prd.go.th/,NEWS,News Media,2022-10-09,thainetizen,Government Public Relations Department [th] [en]
+https://live.parliament.go.th/,NEWS,News Media,2022-10-09,thainetizen,Parliament TV. A free-to-air terrestrial television. State-owned. [th]
+https://mono29.com/,NEWS,News Media,2022-10-09,thainetizen,Mono 29. A free-to-air terrestrial television. Privately owned. [th]
+https://www.one31.net/,NEWS,News Media,2022-10-09,thainetizen,One Channel. A free-to-air terrestrial television. Privately owned. [th]
+https://myanmar-now.org/,NEWS,News Media,2022-10-12,thainetizen,Myanmar Now [en] [mm]
+https://www.frontiermyanmar.net/,NEWS,News Media,2022-10-12,thainetizen,Frontier Myanmar [en]
+https://lucabet168.com/,GMB,Gambling,2022-10-07,thainetizen,Online casino [th]
+https://pokerinvader.com/,GMB,Gambling,2022-10-07,thainetizen,Poker Invader [th]
+https://www.huayvips.com/,GMB,Gambling,2022-10-07,thainetizen,Online lotto [th]
+https://www.bitkub.com/,COMM,E-commerce,2022-10-07,thainetizen,Digital asset exchange [th] [en]
+https://www.soc.go.th/,GOVT,Government,2022-10-07,thainetizen,The Secretariat of the Cabinet [th]
+https://www.lawreform.go.th/,GOVT,Government,2022-10-07,thainetizen,"Law Reform Commission, Office of the Council of State [th]"
+http://www.oic.go.th/,GOVT,Government,2022-10-07,thainetizen,Office of the Official Information Commission [th]
+https://www.ocs.go.th/,GOVT,Government,2022-10-07,thainetizen,Office of the Council of State - a legal advisor to the government (new website) [th]
+https://www.bot.or.th/,GOVT,Government,2022-10-07,thainetizen,Bank of Thailand [th] [en]
+https://www.nbtc.go.th/,GOVT,Government,2022-10-07,thainetizen,National Broadcasting and Telecommunications Commission [th] [en]
+https://www.sepo.go.th/,GOVT,Government,2022-10-07,thainetizen,State Enterprise Policy Office [th] [en]
+https://www.royalthaipolice.go.th/,GOVT,Government,2022-10-07,thainetizen,Royal Thai Police [th]
+https://www.constitutionalcourt.or.th/,GOVT,Government,2022-10-07,thainetizen,Counstitutional Court [th] [en]
+https://www.mod.go.th/,GOVT,Government,2022-10-07,thainetizen,Ministry of Defence [th] [en]
+https://www.rtarf.mi.th/,GOVT,Government,2022-10-07,thainetizen,Royal Thai Armed Forces Headquarters [th]
+https://www.rtaf.mi.th/,GOVT,Government,2022-10-07,thainetizen,Royal Thai Air Force [th] [en]
+https://www.navy.mi.th/,GOVT,Government,2022-10-07,thainetizen,Royal Thai Navy [th] [en]
+https://rta.mi.th/,GOVT,Government,2022-10-07,thainetizen,Royal Thai Army [th]
+https://armyprcenter.com/,GOVT,Government,2022-10-07,thainetizen,Royal Thai Army Public Relations Center [th]
+http://www.supremecourt.or.th/,GOVT,Government,2022-10-07,thainetizen,Supreme Court [th]
+https://www.coj.go.th/,GOVT,Government,2022-10-07,thainetizen,Court of Justice [th]
+https://yalapao.go.th/,GOVT,Government,2022-10-07,thainetizen,Yala Provincial Administrative Organization [th]
+https://loeipao.go.th/,GOVT,Government,2022-10-07,thainetizen,Loei Provincial Administrative Organization [th]
+http://www.lamphunpao.go.th/,GOVT,Government,2022-10-07,thainetizen,Lamphun Provincial Administrative Organization [th]
+https://www.chon.go.th/,GOVT,Government,2022-10-07,thainetizen,Chonburi Provincial Administrative Organization [th]
+https://www.krabipao.go.th/,GOVT,Government,2022-10-07,thainetizen,Krabi Provincial Administrative Organization [th]
+http://nont-pro.go.th/,GOVT,Government,2022-10-07,thainetizen,Nonthaburi Provincial Administrative Organization [th]
+https://www.ramkaew.go.th/,GOVT,Government,2022-10-07,thainetizen,"Ram Kaew Subdistrict Administrative Organization, in Nakhon Si Thammarat province [th]"
+http://bangpleeyai.go.th/,GOVT,Government,2022-10-07,thainetizen,"Bang Phli Yai Subdistrict Administrative Organization, in Samut Prakan province [th] "
+http://phana.go.th/,GOVT,Government,2022-10-07,thainetizen,"Phana Subdistrict Administrative Organization, in Amnat Charoen province [th]"
+https://www.anet.net.th/,HOST,Hosting and Blogging Platforms,2022-10-07,thainetizen,"ANET, an internet service provider [th]"
+https://www.uni.net.th/,HOST,Hosting and Blogging Platforms,2022-10-07,thainetizen,Office of Information Technology Administration for Educational Development (UniNet) [th]
+https://www.thnic.co.th/,HOST,Hosting and Blogging Platforms,2022-10-07,thainetizen,THNIC domain name registration and hosting service [th] [en]
+https://domain.online.th/,HOST,Hosting and Blogging Platforms,2022-10-07,thainetizen,Thai business promotion project (online.th domain name) [th]
+https://ait.ac.th/,CULTR,Culture,2022-10-07,thainetizen,Asian Institute of Technology [en]
+https://www.psu.ac.th/,CULTR,Culture,2022-10-07,thainetizen,"Prince of Songkla University, a university in the South [th] [en]"
+https://xn--22c5d.xn--12c1fe0br.xn--o3cw4h/,GOVT,Government,2022-10-07,thainetizen,Khon Kaen University https://www.kku.ac.th/ [th] [en]
+https://www.xn--24-3qi4duc3a1a7o.net/,GMB,Gambling,2022-10-07,thainetizen,Online lotto https://www.แทงหวย24.net/ [th]
+http://ucl.or.th/,HUMR,Human Rights Issues,2022-10-07,thainetizen,Union for Civil Liberty [th]
+http://a-lct-labour.com/,HUMR,Human Rights Issues,2022-10-07,thainetizen,Automobile Labour Congress of Thailand [th]
+https://www.srut.or.th/,HUMR,Human Rights Issues,2022-10-07,thainetizen,The State Railway Workers' Union of Thailand [th]
+https://www.trclabourunion.org/,HUMR,Human Rights Issues,2022-10-07,thainetizen,Textile Industrial Labour Thai Union (formerly Thai Rayon Labour Union) [th]
+http://www.aerothaiunion.com/,HUMR,Human Rights Issues,2022-10-07,thainetizen,Aerothai State Enterprise Union [th]
+https://www.topnews.co.th/,NEWS,News Media,2022-10-07,thainetizen,"Top News Online. Politics, foreign affairs, entertainment, life style news [th]"
+https://www.voathai.com/,NEWS,News Media,2022-10-07,thainetizen,VOA Thai Service [th]
+https://thecitizen.plus/,NEWS,News Media,2022-10-07,thainetizen,"The Citizen, a citizen media outlet by Thai PBS [th]"
+https://rocketmedialab.co/,NEWS,News Media,2022-10-07,thainetizen,"Rocket Media Lab, a data journalism service and news outlet [th]"
+https://today.line.me/th/,NEWS,News Media,2022-10-07,thainetizen,Line Today news aggregation [th]
+https://board.postjung.com/,GRP,Social Networking,2022-10-07,thainetizen,"Postjung, one of a popular web forums in Thai language [th]"
+https://progressivemovement.in.th/,POLR,Political Criticism,2022-10-07,thainetizen,"Political group, active in local politics and local-level elections. Some founding members are from the dissolved Future Forward Party [th]"
+http://progressivemovement.in.th/article/3258,POLR,Political Criticism,2020-10-19,thainetizen,Criticism of 'Royal vaccine'. Was blocked by a court order on 2021-01-29. The order is reversed on 2021-02-08. See https://freedom.ilaw.or.th/blog/reversebolckorder for details. URL verbatim as appear in court order. [th]
+https://sis.or.th/,HUMR,Human Rights Issues,2022-10-16,thainetizen,Siddhi-Issara Foundation manages Ratsadonprasong Fund - a fund for cash bail and fines in political cases related to the right to freedom of expression [th] [en]
+https://commonmuze.com/,CULTR,Culture,2022-10-16,thainetizen,Museum of Popular History - collections of artifacts from political and social movements [th]
+https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
+https://unitedthaination.or.th/,POLR,Political Criticism,2023-03-22,thainetizen,United Thai National Party - formed for 2023 General Election and has interim Prime Minister Prayut Chan-o-cha as their PM candidate [th]
+https://election66.moveforwardparty.org/,POLR,Political Criticism,2022-03-22,thainetizen,Donation page for 2023 election campaign of Move Forward Party [th]
+https://doofootball.tv/,CULTR,Culture,2023-02-22,thainetizen,doofootbal - soccer live streaming - some content may infringe copyright [th]
+https://dooball66.com/,CULTR,Culture,2023-02-22,thainetizen,Dooball66 - soccer live streaming - some content may infringe copyright [th]
+https://report.vote62.com/,POLR,Political Criticism,2023-05-02,thainetizen,Vote62 voting irregularities reporting redirection url [th]
+http://report.vote62.com/,POLR,Political Criticism,2023-05-02,thainetizen,Vote62 voting irregularities reporting redirection url [th]
+https://forms.gle/fX1sZaNLVE4kt94JA,POLR,Political Criticism,2023-05-02,thainetizen,Vote62 early voting irregularities reporting page [th]
+https://volunteer.vote62.com/,POLR,Political Criticism,2023-05-03,thainetizen,Vote62 election data collection volunteer page [th]
+https://boraservices.bora.dopa.go.th/election/enqelection/,GOVT,Government,2023-05-04,thainetizen,National voting rights check and station locator service by the Department of Provincial Administration [th]
+https://stat.bora.dopa.go.th/Election/enqelectloc/,GOVT,Government,2023-05-04,thainetizen,Local government voting rights check and station locator service by the Department of Provincial Administration [th]
+https://wewatchthailand.org/,POLR,Political Criticism,2023-05-05,thainetizen,We Watch - election monitoring group [th]
+https://www.electionwatchth.org/,POLR,Political Criticism,2023-05-05,thainetizen,Election Watch TH - election monitoring platform by We Watch [th]
+https://ectreport.com/,GOVT,Government,2023-05-06,thainetizen,Election Commission official counting report channel [th]
