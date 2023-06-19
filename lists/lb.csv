@@ -1,69 +1,652 @@
 url,category_code,category_description,date_added,source,notes
-http://aawsat.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://ahram.org.eg/,NEWS,News Media,2014-04-15,citizenlab,
-http://alayam.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://alhayat.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://aljazeera.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://alyom.co.il/,NEWS,News Media,2014-04-15,citizenlab,
-http://arabic.cnn.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://arabtimes.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://blog.witness.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://forum.mennawfena.net/,LGBT,LGBT,2014-04-15,citizenlab,
-http://helem.net/,LGBT,LGBT,2014-04-15,citizenlab,
-http://hespress.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://historia.co.il/,CULTR,Culture,2014-04-15,citizenlab,
-http://marebpress.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://mfa.gov.il/mfa/pages/default.aspx,GOVT,Government,2014-04-15,citizenlab,
-http://mops.gov.il/pages/homepage.aspx,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://pokerstars.net/,GMB,Gambling,2014-04-15,citizenlab,
-http://rhr.org.il/eng/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://thissitedoesnotexist.il/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.888poker.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://www.alarabiya.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.answering-islam.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.aswatmag.com/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.bbc.co.uk/arabic,NEWS,News Media,2014-04-15,citizenlab,
-http://www.bet365.com/en/,GMB,Gambling,2014-04-15,citizenlab,
-http://www.boi.org.il/he/pages/default.aspx,MISC,Miscelaneous content,2014-04-15,citizenlab,
-https://www.bwin.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://www.cdl.com.lb/index.asp,GMB,Gambling,2014-04-15,citizenlab,
-http://www.centerforinquiry.net/,REL,Religion,2014-04-15,citizenlab,
-http://www.elaph.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.extratorrent.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.faithfreedom.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.fulltiltpoker.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://www.galilcol.ac.il/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.gayalgerie.net/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.gaymaroc.net/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.glas.org/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.iaf.org.il/2381-he/iaf.aspx,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.inn.co.il/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.isa.gov.il/default.aspx?site=english,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.isohunt.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.jihadwatch.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.kickasstorrents.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.knesset.gov.il/main/eng/home.asp,GOVT,Government,2014-04-15,citizenlab,
-http://www.ladeeni.net/,GOVT,Government,2014-04-15,citizenlab,
-http://www.mod.gov.il/,GOVT,Government,2014-04-15,citizenlab,
-http://www.mossad.gov.il/default.aspx,GOVT,Government,2014-04-15,citizenlab,
-http://www.nbn.org.il/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.nsc.gov.il/nscweb/templates/homepage.aspx,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.onlytorrents.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.responsa.co.il/home.en-us.aspx,CULTR,Culture,2014-04-15,citizenlab,
-http://www.richarddawkins.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.shabak.gov.il/english/pages/default.aspx,GOVT,Government,2014-04-15,citizenlab,
-http://www.sumotorrent.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.tase.co.il/eng/pages/homepage.aspx,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.tayara.co.il/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.terrorism-info.org.il/,MISC,Miscelaneous content,2014-04-15,citizenlab,
-http://www.thepiratebay.org/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.thereligionofpeace.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.timesofisrael.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.torrentcrazy.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.torrentdownloads.net/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.torrentreactor.net/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.torrentz.com/,FILE,File-sharing,2014-04-15,citizenlab,
-http://www.williamhill.com/,GMB,Gambling,2014-04-15,citizenlab,
-https://ar.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://arz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+http://arabtimes.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.answering-islam.org/,REL,Religion,2014-04-15,citizenlab,
+https://www.responsa.co.il/home.en-us.aspx/,REL,Religion,2014-04-15,citizenlab,
+https://www.richarddawkins.net/,REL,Religion,2014-04-15,citizenlab,
+https://www.boi.org.il/heb/Pages/Homepage.aspx/,COMM,E-commerce,2014-04-15,citizenlab,
+http://www.faithfreedom.org/,REL,Religion,2014-04-15,citizenlab,
+https://www.bet365.com/#/HO/,GMB,Gambling,2014-04-15,citizenlab,
+https://www.bbc.com/arabic/,NEWS,News Media,2014-04-15,citizenlab,
+https://centerforinquiry.org/,REL,Religion,2014-04-15,citizenlab,
+https://isohunts.to/,FILE,File-sharing,2014-04-15,citizenlab,
+https://www.torrentdownloads.me/,FILE,File-sharing,2014-04-15,citizenlab,
+https://sports.bwin.com/en/sports/,GMB,Gambling,2014-04-15,citizenlab,
+http://www.casinoduliban.com.lb/,GMB,Gambling,2014-04-15,citizenlab,
+https://www.fulltilt.uk/,GMB,Gambling,2014-04-15,citizenlab,
+http://gate.ahram.org.eg/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.gov.il/he/Departments/ministry_of_public_security/,GOVT,Government,2014-04-15,citizenlab,
+https://www.iaf.org.il/9202-he/IAF.aspx/,GOVT,Government,2014-04-15,citizenlab,
+http://www.isa.gov.il/sites/ISAEng/Pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
+https://www.nsc.gov.il/he/Pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
+https://www.mod.gov.il/Pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
+https://www.mossad.gov.il/Pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
+https://www.terrorism-info.org.il/he/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+https://www.tase.co.il/en/,COMM,E-commerce,2014-04-15,citizenlab,
+https://main.knesset.gov.il/EN/pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
+https://www.shabak.gov.il/pages/index.html#=1/,GOVT,Government,2014-04-15,citizenlab,
+https://www.torrentz.com/,FILE,File-sharing,2014-04-15,citizenlab,
+https://www.williamhill.com/,GMB,Gambling,2014-04-15,citizenlab,
+https://blog.witness.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://aawsat.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://alayam.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://arabic.cnn.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.hespress.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://marebpress.net/,NEWS,News Media,2014-04-15,citizenlab,
+https://elaph.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.timesofisrael.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.thereligionofpeace.com/,REL,Religion,2014-04-15,citizenlab,
+https://historia.co.il/,CULTR,Culture,2014-04-15,citizenlab,
+https://www.galilcol.ac.il/,CTRL,Control content,2014-04-15,citizenlab,
+https://mfa.gov.il/MFA/Pages/default.aspx/,GOVT,Government,2014-04-15,citizenlab,
+https://rhr.org.il/eng/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.nbn.org.il/,CULTR,Culture,2014-04-15,citizenlab,
+https://www.inn.co.il/,NEWS,News Media,2014-04-15,citizenlab,
+http://helem.net/,LGBT,LGBT,2014-04-15,citizenlab,
+https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D9%87_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D9%87/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
+https://www.tayyar.org/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Free Patriotic Movement
+https://elmarada.org/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Marada Movement
+http://www.alqawmi.info/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Syrian Social Nationalist Party
+https://ldparty.org/leb/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Lebanese Democratic Party 
+https://www.arfd.am/eng/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Armenian Revolutionary Federation 
+https://www.alqawmi.com/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Syrian Social Nationalist Party
+https://www.almourabitoun.com/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - AlMourabitoun
+https://kataeb.org/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - The Kataeb/Phalange Party
+https://mustaqbalweb.com/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Al Mustaqbal/Future Movement
+https://www.lebanese-forces.com/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Lebanese Forces
+https://www.michelmoawad.com/,POLR,Political Criticism,2020-06-19,Netalitica,"Political party - Independence Movement, Zgharta"
+https://xn--y9a2abyp.xn--y9a3aq/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Social Democrat Hunchakian Party (Armernian political party in Lebanon)
+http://www.uldy.org/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Union of Lebanese Democratic Youth
+http://www.al-jamaa.org/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Al-Jama'a al-Islamiyya (Sunni Islamist political party)
+https://anbaaonline.com/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Progressive Socialist Party 
+https://www.tajaddod.org/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Democratic Renewal Movement
+https://ramgavar.am/,POLR,Political Criticism,2020-06-19,Netalitica,Political party - Armenian Democratic Liberal Party
+https://www.aicp.org/,REL,Religion,2020-06-19,Netalitica,
+http://www.projectsassociation.org/,REL,Religion,2020-06-19,Netalitica,Religious charity organization and political party -- Sufi
+https://www.lebtivity.com/,CULTR,Culture,2020-06-22,Netalitica,Info on events and activities in Lebanon
+https://www.regeneratelebanon.com/,ENV,Environment,2020-06-22,Netalitica,Environmental initiative in Lebanon
+https://legal-clinic.org/,HUMR,Human Rights Issues,2020-06-22,Netalitica,Non-profit organisation in Lebanon that provides legal info on rights of protesters 
+https://smex.org/,HUMR,Human Rights Issues,2020-06-22,Netalitica,NGO for digital rights 
+http://www.syriac-union.org/,POLR,Political Criticism,2020-06-22,Netalitica,Politicacl party -Syriac Union Party
+https://www.azmtayyar.org/Public/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Azm Movement 
+https://www.nationalbloc.org/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - National Bloc
+http://www.lcparty.org/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Lebanese Communist Party 
+https://mmfidawla.com/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Citizens in a State (MMFD)
+http://greenpartylebanon.org/home/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Green Party of Lebanon
+http://www.hizb-ut-tahrir.info/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Hizb ut-Tahrir
+http://www.hizb-ut-tahrir.info/ar/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Hizb ut-Tahrir
+http://www.hizb-ut-tahrir.info/en/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Hizb ut-Tahrir
+http://www.aramean-dem.org/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Aramean Democratic Organization 
+http://www.najjadeh.org/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Najjadeh Party 
+https://albadilaltaharrouri.wordpress.com/,POLR,Political Criticism,2020-06-22,Netalitica,Lebanese anarchist blog 
+https://www.kdp-lebanon.org/,POLR,Political Criticism,2020-06-22,Netalitica,Political party - Kurdish Democratic Party (Lebanon)
+https://kafeh.org/,POLR,Political Criticism,2020-06-22,Netalitica,Political organization - Kafeh
+https://www.daleelthawra.com/,POLR,Political Criticism,2020-06-22,Netalitica,Directory of initiatives for Oct 2019 revolution in Lebanon
+https://finance4lebanon.com/,POLR,Political Criticism,2020-06-22,Netalitica,"Education/activism about Lebanon's economic crisis (corruption, mismanagement)"
+https://lebanonprotests.xyz/,POLR,Political Criticism,2020-06-22,Netalitica,Locations of demonstrations and popular protests in Lebanon that began Oct 17 2019
+http://rustedradishes.com/,CULTR,Culture,2020-06-23,Netalitica,Beirut literary and art journal 
+https://hakawati.fm/,MMED,Media sharing,2020-06-23,Netalitica,Podcasting platform dedicated tof Arabic audio content that caters to Arabic speakers in MENA
+https://megaphone.news/,NEWS,News Media,2020-06-23,Netalitica,Independent news outlet based in Lebanon
+https://thepublicsource.org/,NEWS,News Media,2020-06-23,Netalitica,Independent news outlet based in Lebanon
+http://www.thawratv.net/,NEWS,News Media,2020-06-23,Netalitica,"Online TV covering revolution events, talks, discussions from Lebanon"
+https://www.lebaneserevolution2019.com/,POLR,Political Criticism,2020-06-23,Netalitica,Info on the 2019 Lebanese revolution 
+http://www.thawrainnumbers.com/,POLR,Political Criticism,2020-06-23,Netalitica,Info on the 2019 Lebanese revolution 
+https://lebanon.yakshof.com/,POLR,Political Criticism,2020-06-23,Netalitica,Info on the 2019 Lebanese revolution 
+https://www.beirutmadinati.com/,POLR,Political Criticism,2020-06-23,Netalitica,A civil non-sectarian political movement in Lebanon 
+http://www.beirutsbrightside.com/,CULTR,Culture,2020-06-24,Netalitica,Info on Lebanon's history and culture 
+https://www.aldic.net/,ECON,Economics,2020-06-24,Netalitica,Organization providing info on Lebanese tax ethics 
+https://recyclelebanon.com/,ENV,Environment,2020-06-24,Netalitica,Supporting recycling in Lebanon
+http://www.lebanon2040.com/,ENV,Environment,2020-06-24,Netalitica,Org supporting sustainable development 
+https://foodblessed.org/,HUMR,Human Rights Issues,2020-06-24,Netalitica,A Lebanese hunger relief initiative 
+https://www.abaadmena.org/,HUMR,Human Rights Issues,2020-06-24,Netalitica,An NGO aiming to achieve gender equality in Lebanon and MENA region
+https://www.cdll.org.lb/,HUMR,Human Rights Issues,2020-06-24,Netalitica,An NGO dedicated to providing support to those impacted by drugs 
+https://www.bonheurduciel.com/,HUMR,Human Rights Issues,2020-06-24,Netalitica,Lebanese anti-hunger and soup kitchen initiative
+https://www.himaya.org/,HUMR,Human Rights Issues,2020-06-24,Netalitica,Lebanese NGO fighting child abuse 
+https://lebanesefoodbank.org/,HUMR,Human Rights Issues,2020-06-24,Netalitica,Lebanese NGO fighting hunger 
+https://www.kafa.org.lb/ar,HUMR,Human Rights Issues,2020-06-24,Netalitica,"Lebanese feminist NGO, against gender discrimination"
+https://lebanonrevolts.weebly.com/,NEWS,News Media,2020-06-24,Netalitica,Livestreams of protests in Lebanon
+https://www.mahkama.net/,NEWS,News Media,2020-06-24,Netalitica,News on Lebanon's judiciary 
+http://www.lade.org.lb/Home.aspx/,POLR,Political Criticism,2020-06-24,Netalitica,"A civil, independent and nonprofit organization specialized in elections and how they are linked to democracy"
+https://www.sakkera.com/about.php/,POLR,Political Criticism,2020-06-24,Netalitica,An NGO that collects data about corruption in public administration in Lebanon
+https://www.relebanon.net/,POLR,Political Criticism,2020-06-24,Netalitica,A democratic political movement in Lebanon 
+http://www.caritas.org.lb/,REL,Religion,2020-06-24,Netalitica,Socio-pastoral arm of Lebanese Catholic Church
+https://darssouna.jaleesa.co/,COMM,E-commerce,2020-06-25,Netalitica,Education platform
+https://wakilni.com/,COMM,E-commerce,2020-06-25,Netalitica,Transportation
+https://www.umam-dr.org/,HUMR,Human Rights Issues,2020-06-25,Netalitica,Documentation on Lebanon's violent past 
+https://lebanonprotests.com/,POLR,Political Criticism,2020-06-25,Netalitica,Demands from Lebanese protesters 
+https://lebanocracia.org/,POLR,Political Criticism,2020-06-25,Netalitica,Demands from Lebanese protesters 
+https://lebaneselaborwatch.com/,POLR,Political Criticism,2020-06-25,Netalitica,an independent democratic trade union movement
+https://www.legal-agenda.com/,POLR,Political Criticism,2020-06-25,Netalitica,Legal assistance for protesters 
+https://dsclebanon.org/,PUBH,Public Health,2020-06-25,Netalitica,Lebanon blood donation 
+https://www.careem.com/,COMM,E-commerce,2020-06-26,Netalitica,Transportation
+https://bridgefy.me/,COMT,Communication Tools,2020-06-26,Netalitica,Used during protests
+http://www.arcenciel.org/en/,HUMR,Human Rights Issues,2020-06-26,Netalitica,
+https://photella.app/,MMED,Media sharing,2020-06-26,Netalitica,Sharing content during protests
+https://www.drismaelmaatouk.com/,XED,Sex Education,2020-06-26,Netalitica,
+https://www.bitstoatoms.xyz/,CULTR,Culture,2020-06-29,Netalitica,
+http://www.irshad-islah.org/,HUMR,Human Rights Issues,2020-06-29,Netalitica,
+https://www.sesobel.org/,HUMR,Human Rights Issues,2020-06-30,Netalitica,
+http://nna-leb.gov.lb/,GOVT,Government,2020-07-08,Netalitica,State news agency 
+http://almanar.com.lb/,NEWS,News Media,2020-07-08,Netalitica,
+https://bintjbeil.org/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.addiyar.com/,NEWS,News Media,2020-07-08,Netalitica,
+http://www.yasour.org/2018/ar/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.almayadeen.net/,NEWS,News Media,2020-07-08,Netalitica,
+https://al-akhbar.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.saidaonline.com/new/ar/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.annahar.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://assafir.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://lebanondebate.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.elnashra.com/,NEWS,News Media,2020-07-08,Netalitica,
+http://www.lebanonfiles.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.lebanon24.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.lorientlejour.com/,NEWS,News Media,2020-07-08,Netalitica,
+http://dailystar.com.lb/,NEWS,News Media,2020-07-08,Netalitica,
+https://aljoumhouria.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.alahednews.com.lb/,NEWS,News Media,2020-07-08,Netalitica,
+http://www.naharnet.com/,NEWS,News Media,2020-07-08,Netalitica,
+http://aliwaa.com.lb/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.beirutobserver.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://saidacity.net/,NEWS,News Media,2020-07-08,Netalitica,
+https://ch23.com/,NEWS,News Media,2020-07-08,Netalitica,
+http://alnour.com.lb/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.sawtbeirut.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.mtv.com.lb/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.aljadeed.tv/arabic/,NEWS,News Media,2020-07-08,Netalitica,
+http://futuretvnetwork.com/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.lbcgroup.tv/,NEWS,News Media,2020-07-08,Netalitica,
+https://www.yelleb.com/,COMM,E-commerce,2020-07-10,Netalitica,
+http://bisara7a.com/,CULTR,Culture,2020-07-10,Netalitica,
+https://aljaras.com/,CULTR,Culture,2020-07-10,Netalitica,
+https://www.elfann.com/,CULTR,Culture,2020-07-10,Netalitica,
+https://timep.org/,HUMR,Human Rights Issues,2020-07-10,Netalitica,
+https://www.executive-magazine.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://fanack.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.jadaliyya.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://nbntv.me/,NEWS,News Media,2020-07-10,Netalitica,
+http://www.alankabout.com/,NEWS,News Media,2020-07-10,Netalitica,
+http://beirutbizreport.com/index.php?lang=ar/,NEWS,News Media,2020-07-10,Netalitica,
+http://beirutbizreport.com/index.php?lang=en/,NEWS,News Media,2020-07-10,Netalitica,
+https://beirutgate.net/,NEWS,News Media,2020-07-10,Netalitica,
+https://cedarnews.net/,NEWS,News Media,2020-07-10,Netalitica,"Online Arabic news website, covering Lebanon, Arab World"
+http://www.lebanon.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://yalibnan.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.almassira.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://arabweek.com.lb/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.annabaa.org/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.lecommercedulevant.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.almarkazia.com/ar/,NEWS,News Media,2020-07-10,Netalitica,
+http://www.el-kalima.com/index.php/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.attamaddon.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.english.alahednews.com.lb/,NEWS,News Media,2020-07-10,Netalitica,
+http://al-aman.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://immarwaiktissad.com/,NEWS,News Media,2020-07-10,Netalitica,
+http://araraddaily.com/,NEWS,News Media,2020-07-10,Netalitica,
+http://www.aztagdaily.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.elsharkonline.com/,NEWS,News Media,2020-07-10,Netalitica,
+https://www.whereleb.com/,SRCH,Search Engines,2020-07-10,Netalitica,
+http://www.lebweb.com/,SRCH,Search Engines,2020-07-10,Netalitica,
+https://www.mysayapp.com/,COMT,Communication Tools,2020-07-16,Netalitica,
+https://kadmouslebnen.wordpress.com/,CULTR,Culture,2020-07-16,Netalitica,
+http://www.mousaler.com/,CULTR,Culture,2020-07-16,Netalitica,
+https://www.lgic.org/en/,CULTR,Culture,2020-07-16,Netalitica,
+https://phoenicia.org/,CULTR,Culture,2020-07-16,Netalitica,
+https://www.histoire-des-sciences.com/,CULTR,Culture,2020-07-16,Netalitica,
+http://www.ahlebanon.com/,CULTR,Culture,2020-07-16,Netalitica,
+https://www.memoryatwork.org/,CULTR,Culture,2020-07-16,Netalitica,
+http://www.pheniciens.com/index.php/,CULTR,Culture,2020-07-16,Netalitica,
+http://www.phoenician.org/,CULTR,Culture,2020-07-16,Netalitica,
+https://www.theatlasgroup1989.org/,CULTR,Culture,2020-07-16,Netalitica,
+http://www.lf-bc.com/,ECON,Economics,2020-07-16,Netalitica,
+http://www.issam-fares.org/en/Default.aspx?pageid=2/,HUMR,Human Rights Issues,2020-07-16,Netalitica,
+http://www.transparency-lebanon.org/,HUMR,Human Rights Issues,2020-07-16,Netalitica,
+https://carnegie-mec.org/,HUMR,Human Rights Issues,2020-07-16,Netalitica,
+http://www.ppm-lebanon.org/,HUMR,Human Rights Issues,2020-07-16,Netalitica,
+http://www.solidelb.org/,HUMR,Human Rights Issues,2020-07-16,Netalitica,French-Lebanese human rights movement working towards the freedom of Lebanese in detention and exile
+http://aohr.net/portal/?2015/,HUMR,Human Rights Issues,2020-07-16,Netalitica,Arab organization for human rights 
+http://www.cldh-lebanon.org/,HUMR,Human Rights Issues,2020-07-16,Netalitica,"A non-profit, non-partisan Lebanese human rights organization based in Beirut"
+http://www.lebaneseforces.org/,MILX,Terrorism and Militants,2020-07-16,Netalitica,
+http://www.cedarsrevolution.net/jtphp/index.php/,NEWS,News Media,2020-07-16,Netalitica,
+http://www.cedarsrevolution.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.manaber-beirut.org/Home/index.php/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://youthforum-lb.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://malaf.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.lebanondialogue.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.daraltakadoumya.com/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.beirutinstitute.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://www.loubnanelafdal.com/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.razielhage.com/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://maronite-league.org/,POLR,Political Criticism,2020-07-16,Netalitica,Lebanese Maronite League
+http://www.amal-movement.com/,POLR,Political Criticism,2020-07-16,Netalitica,Amal Movement
+https://www.michelsleiman.org/arabic/home/,POLR,Political Criticism,2020-07-16,Netalitica,President Michel Sleiman - Likaa Al Joumhouria
+http://www.lfpcp.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.gotc.info/index.php/en/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.rplfrance.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://almassarmovement.wordpress.com/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.tayyarcanada.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.democracyinlebanon.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://www.x-c-l.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.unitedphoenicianparty.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.ualm.org.au/,POLR,Political Criticism,2020-07-16,Netalitica,
+https://www.beirutveterans.org/,POLR,Political Criticism,2020-07-16,Netalitica,
+http://www.imamsadr.net/Home/index.php/,REL,Religion,2020-07-16,Netalitica,News and articles related to Imam Moussa Al Sadr
+https://www.lebaneseinisrael.com/X/,CULTR,Culture,2020-07-17,Netalitica,Official website about the Lebanese people in Isreal
+https://www.auliban.com/,CULTR,Culture,2020-07-17,Netalitica,Online guide to Lebanon
+https://qifanabki.com/,CULTR,Culture,2020-07-17,Netalitica,"Blog about Lebanese politics, history, and culture"
+http://www.palhumanrights.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://www.marchlebanon.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,
+https://ajemlb.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,"A human rights non-governmental organization organization, aims at improving the conditions of arrest, detention and rehabilitation of prisoners in Lebanon"
+https://alefliban.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,An independent non-governmental organization in Lebanon
+https://amel.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,"Aims to promote and to protect social, economical, political and cultural rights in Lebanon"
+https://www.aunohr.edu.lb/ar/index.php/,HUMR,Human Rights Issues,2020-07-17,Netalitica,Academic University for Non-Violence & Human Rights
+http://www.justiciadh.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,Foundation for Development and Human Rights
+https://empoweradvocacy.org/,HUMR,Human Rights Issues,2020-07-17,Netalitica,NGO to build the capacity of activists and citizens lobbying for change
+http://www.actforthedisappeared.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,NGO that address Lebanon's past legacy of enforced disappearances
+http://imadbazzi.com/,HUMR,Human Rights Issues,2020-07-17,Netalitica,Human rights activist 
+https://www.stl-tsl.org/en/,IGO,Intergovernmental Organizations,2020-07-17,Netalitica,Special tribunal for Lebanon
+https://www.stl-tsl.org/ar/,IGO,Intergovernmental Organizations,2020-07-17,Netalitica,Special tribunal for Lebanon
+https://www.stl-tsl.org/fr/,IGO,Intergovernmental Organizations,2020-07-17,Netalitica,Special tribunal for Lebanon
+https://www.afemena.org/,LGBT,LGBT,2020-07-17,Netalitica,"An NGO based in Beirut that aims to to encourage and support sexuality, gender and bodily rights movements in the MENA region"
+https://www.newlebanon.info/,NEWS,News Media,2020-07-17,Netalitica,Lebanese news website
+https://www.eliktisad.com/,NEWS,News Media,2020-07-17,Netalitica,Online news website specialized in finance and business news from Lebanon
+https://www.samirkassirfoundation.org/ar/Home-Page/,CULTR,Culture,2020-07-20,Netalitica,contains archives of Lebanese journalist Samir Kassir 
+https://bankingfiles.com/,ECON,Economics,2020-07-20,Netalitica,Arabic financial news venue dealing with financial affairs in Lebanon
+https://www.lebanonews.net/,NEWS,News Media,2020-07-20,Netalitica,Daily news covering Lebanon and Middle East
+https://www.lebanonnews.net/,NEWS,News Media,2020-07-20,Netalitica,
+https://saidagate.com/,NEWS,News Media,2020-07-20,Netalitica,Online news website for the city of Saida and South Lebanon region
+https://janoubia.com/,NEWS,News Media,2020-07-20,Netalitica,Online magazine and news website covering the South Lebanon affairs and issues
+https://www.mashallahnews.com/,NEWS,News Media,2020-07-20,Netalitica,
+https://www.waradana.com/,NEWS,News Media,2020-07-20,Netalitica,Lebanese and regional news
+https://www.alhoukoul.com/,NEWS,News Media,2020-07-20,Netalitica,"Online Arabic newspaper based in Lebanon, covering a variety of topics"
+http://www.ghadinews.net/,NEWS,News Media,2020-07-20,Netalitica,
+http://www.alkalimaonline.com/,NEWS,News Media,2020-07-20,Netalitica,Online independent Lebanese news website
+https://www.janobiyat.com/,NEWS,News Media,2020-07-20,Netalitica,Arabic news website covering issues related to South Lebanon
+https://libnanews.com/,NEWS,News Media,2020-07-20,Netalitica,"Online news website in French language, covering Lebanon"
+https://lebinfo.org/,NEWS,News Media,2020-07-20,Netalitica,
+http://www.inbaa.com/,NEWS,News Media,2020-07-20,Netalitica,Provides news about the current events in Lebanon and the Arab World
+https://lebanon360.org/,NEWS,News Media,2020-07-20,Netalitica,An online Arabic news website on Lebanon
+https://www.mulhak.com/,NEWS,News Media,2020-07-20,Netalitica,Lebanese and international daily news website
+http://www.neworientnews.com/,NEWS,News Media,2020-07-20,Netalitica,Website dedicated to cover the latest news and information about the new Orient
+http://www.beirutreport.com/,NEWS,News Media,2020-07-20,Netalitica,"News resource offering and inside look at Lebanon, the Middle East and its media"
+http://www.athabat.net/,NEWS,News Media,2020-07-20,Netalitica,Launched in Lebanon in 1908 as an independent daily Arabic newspaper
+https://www.imlebanon.org/,NEWS,News Media,2020-07-20,Netalitica,"An online news website, covers Lebanese, Arab countries, regional and international news"
+https://www.arabeconomicnews.com/,NEWS,News Media,2020-07-20,Netalitica,covers the economic sector in Lebanon and the Arab world
+http://www.monliban.org/monliban/ui/,NEWS,News Media,2020-07-20,Netalitica,An online independent Arabic news website
+https://www.refresh.com.lb/,NEWS,News Media,2020-07-20,Netalitica,
+https://www.maharat-news.com/,NEWS,News Media,2020-07-20,Netalitica,"An independent, non biased, participatory youth news website"
+http://www.masdardiplomacy.com/,NEWS,News Media,2020-07-20,Netalitica,"A diplomatic news site covering the activities of the Lebanese, Arab and international diplomatic corps working in Lebanon"
+http://www.sadaakkar.com/,NEWS,News Media,2020-07-20,Netalitica,Daily news agency reporting news from North Lebanon
+http://www.lebanongasandoil.com/,NEWS,News Media,2020-07-20,Netalitica,An online news publication specialized in covering the petroleum industry in Lebanon
+https://www.farah.net.au/,NEWS,News Media,2020-07-20,Netalitica,"An independent online news site was founded in 2008 in Sydney, Australia. Issued in Arabic and English"
+https://www.lebanondebate.com/,NEWS,News Media,2020-07-20,Netalitica,News website covering Lebanese political news
+http://www.al-iklim.com/,NEWS,News Media,2020-07-20,Netalitica,Website dedicated to Iklim Al-Kharroub in Mount Lebanon
+http://tawasal.com/,NEWS,News Media,2020-07-20,Netalitica,"An independent news website, covering latest Lebanon related news and events"
+https://khabber.com/,NEWS,News Media,2020-07-20,Netalitica,Providing Arabic and Lebanese news and updates
+http://www.live961.com/,NEWS,News Media,2020-07-20,Netalitica,
+http://www.innlebanon.com/,NEWS,News Media,2020-07-20,Netalitica,
+https://www.almada.org/,NEWS,News Media,2020-07-20,Netalitica,"Al Mada News, Lebanon"
+http://www.britishlebanese.org/,CULTR,Culture,2020-07-21,Netalitica,
+https://www.daleel-madani.org/,ECON,Economics,2020-07-21,Netalitica,Lebanese development network
+http://www.mod.gov.lb/,GOVT,Government,2020-07-21,Netalitica,"Ministry of Defense, Lebanon"
+https://www.moph.gov.lb/,GOVT,Government,2020-07-21,Netalitica,"Ministry of Public Health, Lebanon"
+https://www.mfa.gov.lb/arabic/home/,GOVT,Government,2020-07-21,Netalitica,"Ministry of Foreign Affairs and Emigrants, Lebanon"
+http://www.amisduliban.org/,HUMR,Human Rights Issues,2020-07-21,Netalitica,
+https://www.lb.undp.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,United Nations Development Programme Lebanon
+http://www.jucal.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,Argentino Lebanese Youth Cultural Union (JUCAL)
+http://www.libc.net/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,Lebanese International Business Council
+https://www.un.org.lb/english/home/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,UN Lebanon - United Nations System in Lebanon
+https://www.unescwa.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,UN Economic and Social Commission for Western Asia
+https://unifil.unmissions.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,UNIFIL - United Nations Interim Force in Lebanon
+https://www.unicbeirut.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,United Nations Information Centre in Beirut (UNIC Beirut)
+https://lb.boell.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,"Heinrich Boell Foundation, Middle East"
+https://www.globalcompact-lebanon.com/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,Global Compact Network Lebanon (GCNL)
+https://www.unrwa.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,UNRWA
+https://undof.unmissions.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,United Nations Disengagement Observer Force
+http://mfo.org/en/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,Multinational Force and Observers
+https://untso.unmissions.org/,IGO,Intergovernmental Organizations,2020-07-21,Netalitica,United Nations Truce Supervision Organization
+https://www.moag.gov.il/Pages/HomePage.aspx/,GOVT,Government,2020-07-21,Netalitica,Ministry of Agriculture and Rural Development (Israel)
+https://www.gov.il/en/,GOVT,Government,2020-07-21,Netalitica,Israeli government
+http://negev-galil.gov.il/Pages/Home.aspx/,GOVT,Government,2020-07-21,Netalitica,Israeli Ministry for Development of the Negev and the Galilee
+https://lgn.edu.gov.il/nidp/saml2/sso?id=EduCombinedAuthUidPwd&sid=0&option=credential&sid=0https://lgn.edu.gov.il/nidp/app/login?id=EduCombinedAuthUidPwd&sid=1&option=credential&sid=1/,GOVT,Government,2020-07-21,Netalitica,Israeli Ministry of Education
+https://mof.gov.il/en/,GOVT,Government,2020-07-21,Netalitica,Israeli Ministry of Finance
+https://landmarks.gov.il/,GOVT,Government,2020-07-21,Netalitica,Israeli Ministry Of Jerusalem And Heritage
+https://www.iaa.gov.il/en-us/rashot/Pages/default.aspx/,GOVT,Government,2020-07-21,Netalitica,Israel Airports Authority
+https://www.cbs.gov.il/he/pages/default.aspx/,GOVT,Government,2020-07-21,Netalitica,Israel Central Bureau of Statistics
+https://www.boi.org.il/en/Pages/Default.aspx/,GOVT,Government,2020-07-21,Netalitica,Bank of Israel
+https://www.mapi.gov.il/en/Pages/default.aspx/,GOVT,Government,2020-07-21,Netalitica,Survey of Israel
+https://www.btl.gov.il/Pages/default.aspx/,GOVT,Government,2020-07-21,Netalitica,Israeli National Insurance Institute
+https://taxes.gov.il/English/Pages/HomePageENG.aspx/,GOVT,Government,2020-07-21,Netalitica,Israel Tax Authority
+https://www.taasuka.gov.il/he/,GOVT,Government,2020-07-21,Netalitica,Israel Employment
+https://www.idf.il/,GOVT,Government,2020-07-21,Netalitica,Israel Defense Forces
+http://www.antiquities.org.il/,GOVT,Government,2020-07-21,Netalitica,Israel Antiquities Authority
+https://www.yadvashem.org/,GOVT,Government,2020-07-21,Netalitica,Yad Vashem - The World Holocaust Remembrance Center
+https://www.mevaker.gov.il/En/Pages/default.aspx?AspxAutoDetectCookieSupport=1/,GOVT,Government,2020-07-21,Netalitica,Israeli State Comptroller
+https://pua.gov.il/English/Pages/default.aspx/,GOVT,Government,2020-07-21,Netalitica,Israeli Electricity Authority
+http://mdalebanon.org/home/,ECON,Economics,2020-07-22,Netalitica,"Municipal Development Association, Lebanon"
+http://hariri-foundation.org/,ECON,Economics,2020-07-22,Netalitica,
+https://www.imamsadrfoundation.org/,ECON,Economics,2020-07-22,Netalitica,
+https://us.888poker.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://us.888casino.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.pokerstarsnj.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.fulltilt.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.playlebanon.com/webservices/website/lotto/default.aspx/,GMB,Gambling,2020-07-22,Netalitica,
+https://casinolebanon10.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://casino.betway.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://sports.betway.com/en/sports/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.spincasino.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.casinocruise.com/en/,GMB,Gambling,2020-07-22,Netalitica,
+https://casino.partycasino.com/en/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.777.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.royalvegascasino.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.jackpotcitycasino.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.betiton.com/,GMB,Gambling,2020-07-22,Netalitica,
+https://www.betvictor.com/,GMB,Gambling,2020-07-22,Netalitica,
+http://www.interior.gov.lb/,GOVT,Government,2020-07-22,Netalitica,Lebanon Ministry of Interior
+https://samir-sk.blogspot.com/,HOST,Hosting and Blogging Platforms,2020-07-22,Netalitica,Blogspot blocked
+https://www.lcps-lebanon.org/,HUMR,Human Rights Issues,2020-07-22,Netalitica,Lebanon Center for Policy Studies
+https://lebmac.org/en/,HUMR,Human Rights Issues,2020-07-22,Netalitica,Lebanon Mine Action Center
+http://www.inegma.com/,HUMR,Human Rights Issues,2020-07-22,Netalitica,"Institute For Near East and Military Analysis, Lebano"
+http://www.auxilia-international.org/,HUMR,Human Rights Issues,2020-07-22,Netalitica,Lebanese non-profit charitable organization
+http://www.mabarrat.org.lb/,HUMR,Human Rights Issues,2020-07-22,Netalitica,"Non-profit islamic organization, providing academic and vocational education mainly for orphans, deaf and blind"
+https://www.makassed.org/ar/,HUMR,Human Rights Issues,2020-07-22,Netalitica,"Makassed provides educational, medical and social services for the Lebanese community"
+https://thisislebanon.info/,HUMR,Human Rights Issues,2020-07-22,Netalitica,Info on Lebanese slavery system (Kafala)
+https://rhr.org.il/heb/,HUMR,Human Rights Issues,2020-07-22,Netalitica,Israeli human rights website
+http://www.redcross.org.lb/index.aspx?pageid=907/,IGO,Intergovernmental Organizations,2020-07-22,Netalitica,Lebanese Red Cross
+https://www.beirut.com/,NEWS,News Media,2020-07-22,Netalitica,
+https://blogbaladi.com/,NEWS,News Media,2020-07-22,Netalitica,"Loccal blog, previously blocked"
+https://ginosblog.com/,NEWS,News Media,2020-07-22,Netalitica,"Local blog, previously blocked"
+http://www.syrleb.org/site/arabic/index.php/,POLR,Political Criticism,2020-07-22,Netalitica,Lebanese Syrian Higher Council
+http://www.smallteenpussy.com/,PORN,Pornography,2020-07-22,Netalitica,
+http://teenport.com/,PORN,Pornography,2020-07-22,Netalitica,
+https://www.xnxx.com/,PORN,Pornography,2020-07-22,Netalitica,
+https://massagerepublic.com/female-escorts-in-beirut/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.citytourgirls.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.topescort.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://f-escort.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.secret-touch-escorts.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.top100escortgirls.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://dubaiescortstars.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.instantlover.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://escort-beirut.info/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://escortnews.eu/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://europescortguide.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://escortlebanonbeirut.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://lebanon-escort.com/default.php/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://independentescorts.info/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.ts-dating.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://maltepeokul.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+https://www.hotescorts.eu/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://www.escortserviceslebanon.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
+http://makhzin.org/,CULTR,Culture,2020-07-23,Netalitica,
+http://www.sukoonmag.com/responsive/,CULTR,Culture,2020-07-23,Netalitica,
+https://www.recyclebeirut.com/,ENV,Environment,2020-07-23,Netalitica,
+https://liveloverecycle.tilda.ws/,ENV,Environment,2020-07-23,Netalitica,
+http://dorset44.blogspot.com/,HOST,Hosting and Blogging Platforms,2020-07-23,Netalitica,Blogspot blocked
+https://harasstracker.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+http://www.nasawiya.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://www.fe-male.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+http://contact.egnalegna.org/lebanon/,HUMR,Human Rights Issues,2020-07-23,Netalitica,Domestic worker organization
+https://media.sfjn.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,Syrian female journalist collective 
+https://www.armlebanon.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,Org against racism and Lebanese slavery system (Kafala)
+https://housingmonitor.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://www.publicworksstudio.com/ar/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://idwfed.org/en/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+http://link.thisislbn.org/social,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+http://drfeminist.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://thefirethisti.me/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://www.impactlebanon.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://legal-agenda.com/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+http://www.yasa.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://sikkasaida.org/en/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://egnalegna.org/,HUMR,Human Rights Issues,2020-07-23,Netalitica,Org against racism and Lebanese slavery system (Kafala)
+https://www.beirutpride.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.mosaicmena.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://raynbowmonitor.wordpress.com/,LGBT,LGBT,2020-07-23,Netalitica,
+https://kohljournal.press/,LGBT,LGBT,2020-07-23,Netalitica,
+https://queerswhocantgriefinpublic.wordpress.com/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.masaha-collective.com/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://feministconsciousnessrevolution.wordpress.com/,HUMR,Human Rights Issues,2020-07-23,Netalitica,
+https://www.ctdc.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://genderiyya.xyz/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/,LGBT,LGBT,2020-07-23,Netalitica,
+https://jeem.me/,LGBT,LGBT,2020-07-23,Netalitica,
+http://rootslabglobal.org/lebanon/#/home/en/,LGBT,LGBT,2020-07-23,Netalitica,
+http://chouf-minorities.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.zafaraan.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://alwarsha.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.aswatgroup.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.mesahatfoundation.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://queerfilmfestival.mawjoudin.org/en/homepage-en/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.mawjoudin.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.iraqueer.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://youngfeministfund.org/,LGBT,LGBT,2020-07-23,Netalitica,
+http://www.mashrouleila.com/,LGBT,LGBT,2020-07-23,Netalitica,
+http://www.pinkwatchingisrael.com/,LGBT,LGBT,2020-07-23,Netalitica,
+https://www.sawtalniswa.org/,LGBT,LGBT,2020-07-23,Netalitica,
+https://hummusforthought.com/,NEWS,News Media,2020-07-23,Netalitica,
+https://www.bebeirut.org/,NEWS,News Media,2020-07-23,Netalitica,
+https://www.disorient.de/,NEWS,News Media,2020-07-23,Netalitica,
+https://muftah.org/,NEWS,News Media,2020-07-23,Netalitica,
+https://raseef22.com/,NEWS,News Media,2020-07-23,Netalitica,
+http://www.hkcc.org.lb/,PUBH,Public Health,2020-07-23,Netalitica,
+https://ghi.aub.edu.lb/,PUBH,Public Health,2020-07-23,Netalitica,
+https://www.roadsforlife.org/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.orderofnurses.org.lb/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.heartbeat.ngo/,PUBH,Public Health,2020-07-23,Netalitica,
+http://titcls.com/,PUBH,Public Health,2020-07-23,Netalitica,
+https://www.magna.org/en/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.rahmahospital.org/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.nfd-nofordrugs.org/,PUBH,Public Health,2020-07-23,Netalitica,
+https://aaa-autism.org/,PUBH,Public Health,2020-07-23,Netalitica,
+https://www.rabab.org.lb/en/,PUBH,Public Health,2020-07-23,Netalitica,
+https://karma-leb.org/,PUBH,Public Health,2020-07-23,Netalitica,
+https://onewigstand.wordpress.com/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.jcdlb.org/?langswitch_lang=ar/,PUBH,Public Health,2020-07-23,Netalitica,
+https://www.skoun.org/,PUBH,Public Health,2020-07-23,Netalitica,
+https://alzlebanon.org/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.healthcaresociety.org/,PUBH,Public Health,2020-07-23,Netalitica,
+http://www.lsqsh.org/,PUBH,Public Health,2020-07-23,Netalitica,
+https://www.theaproject.org/,XED,Sex Education,2020-07-23,Netalitica,
+https://www.proudlebanon.org/,LGBT,LGBT,2020-07-23,Netalitica,
+http://menarosa.org/,XED,Sex Education,2020-07-23,Netalitica,
+https://www.lebmash.org/,XED,Sex Education,2020-07-23,Netalitica,
+https://marsa.me/,XED,Sex Education,2020-07-23,Netalitica,
+https://salamalb.org/,XED,Sex Education,2020-07-23,Netalitica,
+https://www.jensaneya.org/,XED,Sex Education,2020-07-23,Netalitica,
+https://www.olx.com.lb/,COMM,E-commerce,2020-07-24,Netalitica,
+https://zoukak.org/,CULTR,Culture,2020-07-24,Netalitica,
+https://www.daralsaqi.com/,CULTR,Culture,2020-07-24,Netalitica,
+https://centerformigrantadvocacy.com/,HUMR,Human Rights Issues,2020-07-24,Netalitica,
+https://streetnet.org.za/,HUMR,Human Rights Issues,2020-07-24,Netalitica,
+https://jewishvoiceforpeace.org/,HUMR,Human Rights Issues,2020-07-24,Netalitica,
+https://www.ikhtyar.org/,LGBT,LGBT,2020-07-24,Netalitica,
+https://www.sharikawalaken.media/,LGBT,LGBT,2020-07-24,Netalitica,
+https://al-nems.org/,NEWS,News Media,2020-07-24,Netalitica,
+https://www.almodon.com/portal,NEWS,News Media,2020-07-24,Netalitica,
+https://bongacams.com/,PORN,Pornography,2020-07-24,Netalitica,
+https://chaturbate.com/,PORN,Pornography,2020-07-24,Netalitica,
+https://www.lebanonvoice.com/,COMT,Communication Tools,2020-07-27,Netalitica,
+http://www.lebz.org/,COMT,Communication Tools,2020-07-27,Netalitica,
+https://www.lovehabibi.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://arablounge.com/,DATE,Online Dating,2020-07-27,Netalitica,
+http://www.lebanesechristianhearts.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.meet-lebanese.com/en/,DATE,Online Dating,2020-07-27,Netalitica,
+http://www.lebanesecupid.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.buzzarab.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.metrodate.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://play.google.com/store/apps/details?id=com.isnapps.meetlebanese/,DATE,Online Dating,2020-07-27,Netalitica,
+https://mingle2.com/countries/138/lebanon/,DATE,Online Dating,2020-07-27,Netalitica,
+https://play.google.com/store/apps/details?id=ru.fotostrana.sweetmeet/,DATE,Online Dating,2020-07-27,Netalitica,
+https://play.google.com/store/apps/details?id=com.arabChat.dating/,DATE,Online Dating,2020-07-27,Netalitica,
+https://play.google.com/store/apps/details?id=com.datingchat.chatsyry/,DATE,Online Dating,2020-07-27,Netalitica,
+https://play.google.com/store/apps/details?id=dating.app.chat.flirt.wgbcv/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.lebanonhearts.com/,DATE,Online Dating,2020-07-27,Netalitica,
+http://www.pomdamour.net/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.nicosia.org.cy/en-GB/municipality/civil-marriages/procedure/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.druzefaces.com/,DATE,Online Dating,2020-07-27,Netalitica,
+https://www.lebanon-connect.com/,GRP,Social Networking,2020-07-27,Netalitica,
+https://www.lebaneser.com/index.php/,GRP,Social Networking,2020-07-27,Netalitica,
+http://www.influencersassociation.org/,GRP,Social Networking,2020-07-27,Netalitica,
+https://play.google.com/store/apps/details?id=com.shuggr.shuggr/,LGBT,LGBT,2020-07-27,Netalitica,
+http://www.marantoniosalkabir.com/,REL,Religion,2020-07-28,Netalitica,"Mar Antonios alKabir Parish, Lebanon"
+http://www.apecl.org/arabic/index.php/,REL,Religion,2020-07-28,Netalitica,"Catholic Patriarchs and Bishops Council, Lebanon"
+http://www.ccdl.org.lb/ar/index.php/,REL,Religion,2020-07-28,Netalitica,Coro Cedro del Libano (CCDL)
+http://www.bpshebaya.org/,REL,Religion,2020-07-28,Netalitica,"Bishop Philippe Shebaya Organization, Lebanon"
+https://saintetherese.org/,REL,Religion,2020-07-28,Netalitica,
+http://www.hadeer.com/,REL,Religion,2020-07-28,Netalitica,Hadeer Organization
+https://www.marcharbel.com/,REL,Religion,2020-07-28,Netalitica,"Mar Charbel, a Saint from Lebanon"
+http://melkitesaida.blogspot.com/,REL,Religion,2020-07-28,Netalitica,Greek Melkite Catholic of Archeparchy of Saida and Deir El Kamar
+http://www.rafca.org/,REL,Religion,2020-07-28,Netalitica,
+http://www.hardini.org/,REL,Religion,2020-07-28,Netalitica,
+http://www.maroun.org/,REL,Religion,2020-07-28,Netalitica,
+http://www.charbel.org/,REL,Religion,2020-07-28,Netalitica,
+https://www.ayletmarcharbel.org/,REL,Religion,2020-07-28,Netalitica,Saint Charbel Family Website
+http://www.saintcharbel-annaya.com/,REL,Religion,2020-07-28,Netalitica,Saint Charbel - Annaya
+https://www.ehdenz.com/,REL,Religion,2020-07-28,Netalitica,"Ehden Zgharta Parish, Lebanon "
+https://lma.org.au/,REL,Religion,2020-07-28,Netalitica,Lebanese Muslims Association (LMA)
+http://www.harissa.info/,REL,Religion,2020-07-28,Netalitica,"Harissa, Lady of Lebanon"
+https://the-good-way.com/eng/,REL,Religion,2020-07-28,Netalitica,Dar al Hidaya - The Good Way
+https://www.biblesociety.org.lb/,REL,Religion,2020-07-28,Netalitica,Bible Society Lebanon
+https://www.vopg.org/,REL,Religion,2020-07-28,Netalitica,Voice of Preaching the Gospel
+http://www.maronitesbeirut.org/,REL,Religion,2020-07-28,Netalitica,"Maronite Archdiocese of Beirut, Lebanon"
+https://www.alnour.com/,REL,Religion,2020-07-28,Netalitica,
+https://www.beith-morounoye.org/,REL,Religion,2020-07-28,Netalitica,Beith Souryoye Morounoye
+https://www.maronite-heritage.com/,REL,Religion,2020-07-28,Netalitica,Maronite Heritage
+http://www.bkerke.org.lb/home.php/,REL,Religion,2020-07-28,Netalitica,Maronite Patriarchate
+https://www.alingilalyawmi.org/,REL,Religion,2020-07-28,Netalitica,Al Ingil Al Yawmi
+http://www.antonins.org/en/,REL,Religion,2020-07-28,Netalitica,"Antonins Maronite Order, Lebanon"
+https://www.druze.com/,REL,Religion,2020-07-28,Netalitica,American Druze Society (ADS)
+http://www.isohunt.com/,FILE,File-sharing,2020-07-29,Netalitica,
+http://www.balamandmonastery.org.lb/,REL,Religion,2020-07-29,Netalitica,Patriarchal Monastery of Our Lady of Balamand
+https://alcleb.com/,REL,Religion,2020-07-29,Netalitica,Abundant Life Church Lebanon
+https://www.eljnoub.com/,REL,Religion,2020-07-29,Netalitica,Iben El Jnoub
+https://bealiban.com/,REL,Religion,2020-07-29,Netalitica,La Communaute des Beatitudes au Liban
+https://www.itihad.org/,REL,Religion,2020-07-29,Netalitica,Islamic Itihad Association
+https://thehiddenpearl.org/,REL,Religion,2020-07-29,Netalitica,The Antiochene Syriac Maronite Church Podcast
+https://www.lebanonsda.org/,REL,Religion,2020-07-29,Netalitica,Seventh-Day Adventist Church
+http://www.ortmtlb.org.lb/,REL,Religion,2020-07-29,Netalitica,Greek Orthodox Archdiocese of Byblos and Botrys
+http://www.quartos.org.lb/,REL,Religion,2020-07-29,Netalitica,Orthodox Archdiocese of Beirut
+http://www.ololb.org/,REL,Religion,2020-07-29,Netalitica,"Our Lady of Lebanon, Harissa"
+https://centre-catholique.com/ar/,REL,Religion,2020-07-29,Netalitica,"Catholics Information Center, Lebanon"
+https://www.qozhaya.com/,REL,Religion,2020-07-29,Netalitica,"Monastery of St Anthony, Qozhaya"
+https://www.zakat.org.lb/,REL,Religion,2020-07-29,Netalitica,Zakat Fund Lebanon
+https://www.elhaq.com/,REL,Religion,2020-07-29,Netalitica,
+https://islam-forum.net/,REL,Religion,2020-07-29,Netalitica,Islam Forum
+http://www.druzeinfo.com/,REL,Religion,2020-07-29,Netalitica,Druze Research and Publications Institute
+http://www.chrislam.org/,REL,Religion,2020-07-29,Netalitica,Islamic-Christian National Dialogue Committee
+http://www.daawa.net/,REL,Religion,2020-07-29,Netalitica,
+https://synod-sl.org/,REL,Religion,2020-07-29,Netalitica,National Evangelical Synod of Syria and Lebanon
+https://www.mcdrlebanon.org/,REL,Religion,2020-07-29,Netalitica,"Maronite Center for Documentation and Research (MCDR), Lebanon"
+http://www.darbessama.org/,REL,Religion,2020-07-29,Netalitica,Darb Es-Sama - Father Simon El-Zind Website
+https://www.al-amine.org/,REL,Religion,2020-07-29,Netalitica,
+http://www.akhawiyat.org/,REL,Religion,2020-07-29,Netalitica,Federation of the Congragations in Lebanon
+https://www.diocesebatroun.com/arabic/,REL,Religion,2020-07-29,Netalitica,"Batroun Maronite Diocese, Lebanon"
+https://cbbclebanon.com/,REL,Religion,2020-07-29,Netalitica,"Christ Bible Baptist Church, Lebanon"
+http://www.maherhammoud.com/#home-fsslider/,REL,Religion,2020-07-29,Netalitica,
+http://aghsan.org/aghsanorg/,ENV,Environment,2020-07-30,Netalitica,Aghsan Association
+http://www.beirutgreener.net/,ENV,Environment,2020-07-30,Netalitica,Project Green - Beirut Greener
+http://www.lebanonclean.org/,ENV,Environment,2020-07-30,Netalitica,Lebanon Clean and Green (LCG)
+https://www.spnl.org/,ENV,Environment,2020-07-30,Netalitica,Society for the Protection of Nature in Lebanon (SPNL)
+https://www.almeelebanon.com/,ENV,Environment,2020-07-30,Netalitica,Lebanese Association for Energy Saving and for Environment (ALMEE)
+http://www.terreliban.org/,ENV,Environment,2020-07-30,Netalitica,"Terre Liban - Earth Organization, Lebanon"
+http://www.ruwayhaecovillage.com/,ENV,Environment,2020-07-30,Netalitica,
+http://afedmag.com/web/default.aspx/,ENV,Environment,2020-07-30,Netalitica,Al-Bia wal Tanmia - Environment and Development Magazine
+http://www.chreek.org/,ENV,Environment,2020-07-30,Netalitica,
+http://www.wildlebanon.org/,ENV,Environment,2020-07-30,Netalitica,Wild Lebanon Environmental Website
+https://lhee.org/,ENV,Environment,2020-07-30,Netalitica,Lebanese House Establishment for the Environment (LHEE)
+http://wildflowersoflebanon.com/flora/index2.php?page=main.php/,ENV,Environment,2020-07-30,Netalitica,Wild Flowers of Lebanon
+http://www.pdk-bakur.com/index.php/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+https://www.jaishalislam.com/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+http://ahraralsham.net/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+http://www.alnasararmy.com/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+http://ypjrojava.com/ypj/ar/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+http://www.khilafah.net/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+https://dawaalhaq.com/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+https://hamas.ps/en/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+https://www.moqawama.org/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+http://www.alnour.com.lb/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+https://hamas.ps/ar/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+https://www.kataibhezbollah.com/,MILX,Terrorism and Militants,2020-07-30,Netalitica,
+http://arabic.bayynat.org.lb/,REL,Religion,2020-07-30,Netalitica,
+https://www.lri-lb.org/,ENV,Environment,2020-07-31,Netalitica,Lebanon Reforestation Initiative (LRI)
+https://www.jabalmoussa.org/?md/,ENV,Environment,2020-07-31,Netalitica,"Jabal Moussa Biosphere Reserve (JMBR), Lebanon"
+https://wmclebanon.org/en/home-ar/en/home/,ENV,Environment,2020-07-31,Netalitica,Waste Management Coalition (WMC)
+https://www.adoptacedar.org/,ENV,Environment,2020-07-31,Netalitica,Adopt a Cedar - Jouzour Loubnan
+https://greenarea.me/ar/,ENV,Environment,2020-07-31,Netalitica,GreenArea Lebanon
+http://www.lebanonecomovement.org/,ENV,Environment,2020-07-31,Netalitica,Lebanon Eco Movement
+https://www.lebanonclimateact.com/,ENV,Environment,2020-07-31,Netalitica,Lebanon Climate Act
+https://www.aub.edu.lb/natureconservation/Pages/default.aspx/,ENV,Environment,2020-07-31,Netalitica,AUB - Nature Conservation Center
+https://www.operationbigblue.org/,ENV,Environment,2020-07-31,Netalitica,"Operation Big Blue Association (OBBA), Lebanon"
+https://www.jouzourloubnan.org/,ENV,Environment,2020-07-31,Netalitica,Jouzour Loubnan Team
+https://www.haaretz.co.il/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.jpost.com/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.makorrishon.co.il/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.ynetnews.com/category/3083/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+http://www.ourjerusalem.com/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+http://www.yeshanews.com/archive/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.israelhayom.com/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.yedhaifa.co.il/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+"https://www.ynet.co.il/home/0,7340,L-8,00.html/",NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.walla.co.il/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+http://www.alquds.com/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.alarab.com/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.mako.co.il/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.alwatanvoice.com/arabic/index.html/,NEWS,News Media,2020-07-31,Netalitica,Israeli media
+https://www.mapillary.com/,FILE,File-sharing,2020-08-19,Netalitica,
+https://tasks.hotosm.org/projects/9164/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://embracelebanon.org/,PUBH,Public Health,2020-08-19,Netalitica,
+https://www.iktissadonline.com/,ECON,Economics,2020-08-19,Netalitica,
+https://www.zawya.com/mena/en/,ECON,Economics,2020-08-19,Netalitica,
+https://www.leader.ir/ar,GOVT,Government,2020-08-19,Netalitica,
+http://www.mofa.gov.sy/,GOVT,Government,2020-08-19,Netalitica,
+http://www.mohe.gov.sy/,GOVT,Government,2020-08-19,Netalitica,
+https://www.sana.sy/en/,GOVT,Government,2020-08-19,Netalitica,
+https://wj-foundation.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+http://www.rightsobserver.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,The Lebanese Center for Human Rights (CLDH)
+https://www.upr-lebanon.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,Human Rights in Lebanon's Universal Periodic Review
+https://en.upr-lebanon.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,Human Rights in Lebanon's Universal Periodic Review
+https://www.achrights.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,Universal Declaration of Human Rights' NGO
+https://www.alkarama.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://www.menarights.org/ar,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://cihrs.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://civilsociety-centre.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://www.thenewhumanitarian.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://euromedmonitor.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+http://www.clhrf.com/,HUMR,Human Rights Issues,2020-08-19,Netalitica,Lebanense Canadian Human Rights Federation
+https://www.upr-info.org/en,HUMR,Human Rights Issues,2020-08-19,Netalitica,Human Rights in Lebanon's Universal Periodic Review
+http://www.cssrd.org.lb/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://alemdad.org.lb/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+http://maharatfoundation.org/,HUMR,Human Rights Issues,2020-08-19,Netalitica,
+https://www.ahrarnews.com/,NEWS,News Media,2020-08-19,Netalitica,
+https://enooma.com/,NEWS,News Media,2020-08-19,Netalitica,
+https://www.alaraby.co.uk/,NEWS,News Media,2020-08-19,Netalitica,
+https://www.aa.com.tr/,NEWS,News Media,2020-08-19,Netalitica,
+https://arabic.sputniknews.com/,NEWS,News Media,2020-08-19,Netalitica,
+https://www.independentarabia.com/,NEWS,News Media,2020-08-19,Netalitica,
+https://www.lebanonon.com/,NEWS,News Media,2020-08-19,Netalitica,
+http://www.stavrotoons.com/,NEWS,News Media,2020-08-19,Netalitica,
+https://lebanonsyrianews.com/,NEWS,News Media,2020-08-19,Netalitica,
+https://arabi21.com/,NEWS,News Media,2020-08-19,Netalitica,
+http://ragmamoul.net/hy/,POLR,Political Criticism,2020-08-19,Netalitica,
+http://www.ssnp.com/,POLR,Political Criticism,2020-08-19,Netalitica,
+https://www.facebook.com/faysalkarame/,POLR,Political Criticism,2020-08-19,Netalitica,
+https://twitter.com/faysalkarame/,POLR,Political Criticism,2020-08-19,Netalitica,
+http://arabic.tawhidarabi.org/,POLR,Political Criticism,2020-08-19,Netalitica,
+http://www.assalamparty.com/,POLR,Political Criticism,2020-08-19,Netalitica,Assalam Party
+https://shop.ellinalingerie.com/,PROV,Provocative Attire,2020-08-19,Netalitica,
+https://klynn.com/en/,PROV,Provocative Attire,2020-08-19,Netalitica,
+https://massoudlingerie.com/,PROV,Provocative Attire,2020-08-19,Netalitica,
+http://alsunna.org/ahbash.htm/,REL,Religion,2020-08-19,Netalitica,
+http://www.harariyy.org/,REL,Religion,2020-08-19,Netalitica,
+http://www.ucipliban.org/arabic/,REL,Religion,2020-08-19,Netalitica,
+http://www.tebayn.com/,REL,Religion,2020-08-19,Netalitica,
+http://www.mec-churches.org/,REL,Religion,2020-08-19,Netalitica,
+https://www.shiitecouncil.com/,REL,Religion,2020-08-19,Netalitica,
+http://www.islahonline.org/,REL,Religion,2020-08-19,Netalitica,
+https://www.islamweb.net/,REL,Religion,2020-08-19,Netalitica,
+http://www.aqaed.net/,REL,Religion,2020-08-19,Netalitica,
+https://m-mahdi.com/,REL,Religion,2020-08-19,Netalitica,
+http://al-shia.org/,REL,Religion,2020-08-19,Netalitica,
+https://lirarate.org/,ECON,Economics,2022-08-12,OONI,Reportedly blocked
+https://www.lebaneselira.org/,ECON,Economics,2022-08-12,OONI,Reportedly blocked
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

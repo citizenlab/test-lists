@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from __future__ import print_function
 
 import argparse
@@ -49,14 +51,18 @@ class TestListError(object):
         ))
 
 class TestListErrorWithValue(TestListError):
-    def __init__(self, value, csv_path, line_number):
+    def __init__(self, value, csv_path, line_number, details=None):
         super(TestListErrorWithValue, self).__init__(csv_path, line_number)
         self.value = value
+        self.details = details
 
     def print(self):
-        print('{} (line {}): {} "{}"'.format(
+        msg = '{} (line {}): {} "{}"'.format(
             self.csv_path, self.line_number, self.name, self.value
-        ))
+        )
+        if self.details:
+            msg += ' ({})'.format(self.details)
+        print(msg)
 
 class InvalidColumnNumber(TestListError):
     name = 'Invalid Column Number'
@@ -110,6 +116,20 @@ def load_global_list(path):
                 check_list.add(row[0])
     return check_list
 
+
+ERR_NOSLASH = "No trailing slash"
+
+def check(url):
+    if not VALID_URL.match(url):
+        return "No match"
+    elif any([c in url for c in BAD_CHARS]):
+        return "Bad chars"
+    elif url != url.strip():
+        return "Extra spaces at ends"
+    elif urlparse(url).path == "":
+        return ERR_NOSLASH
+
+
 def main(lists_path, fix_duplicates=False, fix_slash=False):
     all_errors = []
     total_urls = 0
@@ -127,7 +147,7 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
             continue
         if not csv_path.endswith('.csv'):
             continue
-        with open(csv_path, 'r') as in_file:
+        with open(csv_path, 'r', encoding='utf-8') as in_file:
             reader = csv.reader(in_file, delimiter=',')
             next(reader) # skip header
             urls_bag = set()
@@ -143,21 +163,14 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
                     )
                     continue
                 url, cat_code, cat_desc, date_added, source, notes = row
-                if not VALID_URL.match(url) or any([c in url for c in BAD_CHARS]):
+                err = check(url)
+                if err:
                     errors.append(
-                        InvalidURL(url, csv_path, idx+2)
+                        InvalidURL(url, csv_path, idx+2, details=err)
                     )
-                if url != url.strip():
-                    errors.append(
-                        InvalidURL(url, csv_path, idx+2)
-                    )
-                url_p = urlparse(url)
-                if url_p.path == "":
-                    without_slash += 1
-                    errors.append(
-                        InvalidURL(url, csv_path, idx+2)
-                    )
-                    row[0] = row[0] + "/"
+                    if err == ERR_NOSLASH:
+                        without_slash += 1
+                        row[0] = row[0] + "/"
                 if os.path.basename(csv_path) != "global.csv":
                     if url in global_urls_bag:
                         errors.append(

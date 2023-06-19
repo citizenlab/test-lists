@@ -23,19 +23,17 @@ http://www.irinnews.org/,ECON,Economics,2018-07-06,OONI,
 https://www.bbc.co.uk/search?q=Sudan,NEWS,News Media,2018-07-06,OONI,
 http://sora.akm.net.au/,CULTR,Culture,2018-07-06,OONI,
 http://jubafilmfestival.info/,CULTR,Culture,2018-07-06,OONI,
-http://www.bakhitaradio.org/,NEWS,News Media,2018-07-06,OONI,
 http://www.newsudanvision.com/,NEWS,News Media,2018-07-06,OONI,
 http://www.southsudan.net/,CULTR,Culture,2018-07-06,OONI,
 http://www.southsudantoday.net/,NEWS,News Media,2018-07-06,OONI,
 http://sudantribune.com/,NEWS,News Media,2018-07-06,OONI,
 https://www.unicef.org/southsudan/,HUMR,Human Rights Issues,2018-07-06,OONI,
 https://www.peaceinsight.org/conflicts/south-sudan/peacebuilding-organisations/ssccr/,ECON,Economics,2018-07-06,OONI,
-http://www.ssccr.org.uk/,ECON,Economics,2018-07-06,OONI,South Sudan Centre for Conflict Resolution
 http://www.accord.org.za/,ECON,Economics,2018-07-06,OONI,Related to conflict resolution
 http://www.ccr.org.za/,ECON,Economics,2018-07-06,OONI,Related to conflict resolution
 http://wordpress.clarku.edu/id252-southsudan/2014/12/17/peace-building-and-conflict-resolution/,ECON,Economics,2018-07-06,OONI,Related to conflict resolution
 https://eeas.europa.eu/headquarters/headquarters-homepage/6758_fr,IGO,Intergovernmental Organizations,2018-07-06,OONI,
-https://igad.int/,ECON,Economics,2018-07-06,OONI,Related to conflict resolution
+https://igad.int/,IGO,Intergovernmental Organizations,2018-07-06,OONI,Related to conflict resolution
 http://www.unpbf.org/countries/south-sudan/,ECON,Economics,2018-07-06,OONI,Related to conflict resolution
 https://news.un.org/en/story/2018/02/1003732,ECON,Economics,2018-07-06,OONI,Related to conflict resolution
 https://www.sshursa.org/,HUMR,Human Rights Issues,2018-07-06,OONI,
@@ -55,7 +53,7 @@ http://www.emro.who.int/ssd/,PUBH,Public Health,2018-07-09,OONI,
 http://www.sudantribune.com/spip.php?article46716,POLR,Political Criticism,2018-07-09,OONI,
 https://www.transparency.org/country/SSD,POLR,Political Criticism,2018-07-09,OONI,
 http://hotinjuba.com/south-sudan-named-corrupt-country-east-africa/,POLR,Political Criticism,2018-07-09,OONI,
-https://www.suddinstitute.org/,ECON,Economics,2018-07-09,OONI,
+https://www.suddinstitute.org/,HUMR,Human Rights Issues,2018-07-09,OONI,
 https://www.globalwitness.org/en/campaigns/south-sudan/,POLR,Political Criticism,2018-07-09,OONI,
 https://thoughtsonthesudans.wordpress.com/,POLR,Political Criticism,2018-07-09,OONI,
 https://blogs.prio.org/MonitoringSouthSudan/,POLR,Political Criticism,2018-07-09,OONI,
@@ -106,9 +104,7 @@ https://www.trulyafrican.com/dating/south-sudan,DATE,Online Dating,2018-07-09,OO
 http://www.peacetechlab.org/,ECON,Economics,2018-07-09,OONI,
 https://www.bbc.com/news/world-africa-14069082,NEWS,News Media,2018-07-09,OONI,
 http://sudaneseonline.com/,NEWS,News Media,2018-07-09,OONI,Sudanese newspaper
-http://alsadda.net/,NEWS,News Media,2018-07-09,OONI,Sudanese newspaper
 http://www.almshaheer.com/,NEWS,News Media,2018-07-09,OONI,Sudanese newspaper
-http://www.svdaily.net/,NEWS,News Media,2018-07-09,OONI,Sudanese newspaper
 http://www.southsudanmedicaljournal.com/,PUBH,Public Health,2018-07-09,OONI,
 http://www.unesco.org/new/en/juba/,IGO,Intergovernmental Organizations,2018-07-09,OONI,
 https://whc.unesco.org/en/statesparties/ss/,IGO,Intergovernmental Organizations,2018-07-09,OONI,
@@ -117,4 +113,3 @@ http://www.africanews.com/2018/07/09/south-sudan-machar-to-be-re-instated-in-his
 https://www.dw.com/en/south-sudan-confusion-over-power-sharing-deal-agreed-to-by-president-rebel-leader/a-44573445,POLR,Political Criticism,2018-07-09,OONI,
 https://www.dw.com/en/south-sudan-will-the-new-peace-deal-last/a-44445702,POLR,Political Criticism,2018-07-09,OONI,
 http://southsudanngoforum.org/,HUMR,Human Rights Issues,2018-07-09,OONI,
-http://tahurid.jovanjulien.com/,HUMR,Human Rights Issues,2018-07-09,OONI,

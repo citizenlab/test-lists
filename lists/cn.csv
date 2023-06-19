@@ -7,7 +7,7 @@ https://www.hrichina.org/chs/zhong-guo-ren-quan-shuang-zhou-kan/,HUMR,Human Righ
 https://tibetaction.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://twitter.com/chrdnet/,HUMR,Human Rights Issues,2014-04-15,citizenlab,for control purposes
 https://twitter.com/weiquanwang/,HUMR,Human Rights Issues,2014-04-15,citizenlab,for control purposes
-http://www.dalailamaworld.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://www.dalailamaworld.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.gyalwarinpoche.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.huaxiabao.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.renyurenquan.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,The website says it has been merged with https://www.hrichina.org/chs/zhong-guo-ren-quan-shuang-zhou-kan but the original website remains accessible
@@ -26,7 +26,6 @@ http://www.kaixin001.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.qq.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.tianya.cn/,GRP,Social Networking,2014-04-15,citizenlab,
 https://thediplomat.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://foreignpolicy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.fordfoundation.org/our-work-around-the-world/china/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://chinadigitaltimes.net/chinese/,NEWS,News Media,2014-04-15,citizenlab,
 https://globalnetworkinitiative.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,promoting freedom of expression
@@ -90,14 +89,14 @@ https://shanghai.ist/,NEWS,News Media,2014-04-15,citizenlab,
 https://foreignpolicy.com/channel/tea-leaf-nation/,NEWS,News Media,2014-04-15,citizenlab,
 https://www2.ohchr.org/english/bodies/cat/docs/co/cat-c-chn-co4_ch.pdf/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.romneyforutah.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.douban.com/,CULTR,Culture,2014-04-15,citizenlab,
+https://www.douban.com/,GOVT,Government,2014-04-15,citizenlab,
 https://www.wto.org/english/thewto_e/countries_e/china_e.htm/,ECON,Economics,2014-04-15,citizenlab,
 https://www.chicagotribune.com/nation-world/ct-xpm-2012-11-01-sns-rt-us-china-environmentbre8a01l0-20121101-story.html/,ENV,Environment,2014-04-15,citizenlab,Chicago Tribune is a news website. This article talks about environmental issues in China.
 https://www.nrdc.org/,ENV,Environment,2014-04-15,citizenlab,
 https://www.csis.org/,GOVT,Government,2014-04-15,citizenlab,
 https://www.csis.org/regions/asia/china/,GOVT,Government,2014-04-15,citizenlab,
 https://www.whitehouse.gov/,GOVT,Government,2014-04-15,citizenlab,
-https://tibet.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://tibet.net/,GOVT,Government,2014-04-15,citizenlab,
 https://uhrp.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://uyghuramerican.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://weblog.savetibet.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -134,7 +133,6 @@ https://www.scmp.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.voatibetan.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.voatibetanenglish.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.vot.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.washingtonpost.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.youku.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://barackobama.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.iri.org/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -183,7 +181,7 @@ https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058/,NEWS,News Med
 https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5/,CULTR,Culture,2019-05-02,Wikimedia,URLs provided by Wikipedia based on recent censorship events
 https://matters.news/,HOST,Hosting and Blogging Platforms,2019-05-30,shenzhenlug,
 https://github.com/programthink/zhao/issues/38/,POLR,Political Criticism,2019-08-06,,GitHub government takedown notice from 2016-06-08
-https://ipfs.io/,ANON,Anonymization and circumvention tools,2019-09-09,Netalitica,Decentralized online file storage
+https://ipfs.io/,FILE,File-sharing,2019-09-09,Netalitica,Decentralized online file storage
 https://www.uupt.com/,ECON,Economics,2019-09-09,Netalitica,Express shipping service
 https://www.torrentkitty.tv/,FILE,File-sharing,2019-09-09,Netalitica,"Sharing torrents, mostly porn"
 http://www.zhuixinfan.com/main.php/,FILE,File-sharing,2019-09-09,Netalitica,Movie piracy site
@@ -217,7 +215,6 @@ http://map.sogou.com/,ENV,Environment,2019-09-10,Netalitica,Map
 https://www.dytt8.net/index.htm/,FILE,File-sharing,2019-09-10,Netalitica,Movie piracy site
 https://linux.cn/,FILE,File-sharing,2019-09-10,Netalitica,Linux news site
 https://www.csdn.net/,FILE,File-sharing,2019-09-10,Netalitica,IT Developer news site
-https://www.cr173.com/,FILE,File-sharing,2019-09-10,Netalitica,Software download site
 http://xiazai.sogou.com/,FILE,File-sharing,2019-09-10,Netalitica,Software download site
 http://btbit.org/,FILE,File-sharing,2019-09-10,Netalitica,Bittorrent search engine
 http://guazicili.com/,FILE,File-sharing,2019-09-10,Netalitica,Bittorrent search engine
@@ -256,7 +253,7 @@ http://www.dayima.com/,XED,Sex Education,2019-09-10,Netalitica,menstruation info
 http://bbs.tianya.cn/,GRP,Social Networking,2019-09-10,Netalitica,Online forum
 https://www.ptt.cc/bbs/index.html/,GRP,Social Networking,2019-09-10,Netalitica,Largest online forum in Taiwan
 https://beijing.douban.com/,GRP,Social Networking,2019-09-10,Netalitica,Event organizing platform
-https://pincong.rocks/,POLR,Political Criticism,2019-09-12,Netalitica,General forum
+https://pincong.rocks/,GRP,Social Networking,2019-09-12,Netalitica,General forum
 https://www.ishr.ch/,HUMR,Human Rights Issues,2019-09-14,Netalitica,International human rights organization
 https://www.qdaily.com/,CULTR,Culture,2019-09-14,Netalitica,"Long articles recording commerce, news and lifestyle"
 https://m.soyoung.com/,CULTR,Culture,2019-09-14,Netalitica,Plastic surgery info
@@ -366,9 +363,7 @@ http://www.rmzxb.com.cn/index.shtml/,NEWS,News Media,2019-09-19,Netalitica,Gover
 https://tunsafe.com/,ANON,Anonymization and circumvention tools,2019-09-20,Netalitica,Wireguard VPN client
 https://www.tinc-vpn.org/,ANON,Anonymization and circumvention tools,2019-09-20,Netalitica,VPN software
 https://retroshare.cc/,ANON,Anonymization and circumvention tools,2019-09-20,Netalitica,P2P filesharing and chat
-https://f-droid.org/,FILE,File-sharing,2019-09-20,Netalitica,"Third-party android app store, provides FOSS apps, including some circumvention tools"
 https://www.resilio.com/,FILE,File-sharing,2019-09-20,Netalitica,P2P filesharing
-https://mega.nz/,FILE,File-sharing,2019-09-20,Netalitica,
 https://send.firefox.com/,FILE,File-sharing,2019-09-20,Netalitica,
 https://ssr.tools/,ANON,Anonymization and circumvention tools,2019-09-20,Netalitica,"ShadowsocksR is a popular censorship circumvention tool in China, this is a info site"
 https://justmysocks1.net/,ANON,Anonymization and circumvention tools,2019-09-20,Netalitica,Circumvention tool provider
@@ -384,7 +379,6 @@ https://bwh88.net/,HOST,Hosting and Blogging Platforms,2019-09-20,Netalitica,Pop
 https://www.vultr.com/,HOST,Hosting and Blogging Platforms,2019-09-20,Netalitica,Popular hosting provider to host VPN servers
 https://www.digitalocean.com/,HOST,Hosting and Blogging Platforms,2019-09-20,Netalitica,Popular hosting provider to host VPN servers
 http://wanfangdata.com.cn/index.html/,SRCH,Search Engines,2019-09-20,Netalitica,Academic paper search
-https://bangdream.0x77.cf/,GRP,Social Networking,2019-09-20,Netalitica,One of China's Mastodon instance
 https://sn.angry.im/,GRP,Social Networking,2019-09-20,Netalitica,One of China's Mastodon instance
 https://pawoo.net/,GRP,Social Networking,2019-09-20,Netalitica,"Big Mastodon instance in Japan, used by some Chinese netizens"
 http://culture.taiwan.cn/,NEWS,News Media,2019-09-21,Netalitica,Media operated by the Taiwan Affairs Office
@@ -413,7 +407,6 @@ http://miliao.com/,GRP,Social Networking,2019-09-24,Netalitica,Chat app
 https://www.abc.net.au/,NEWS,News Media,2019-09-27,Netalitica,Australian Broadcasting Company
 https://www.worldcat.org/,SRCH,Search Engines,2019-09-27,Netalitica,International library search
 https://arxiv.org/,CULTR,Culture,2019-09-27,Netalitica,Research publication site
-https://www.tiktok.com/,GRP,Social Networking,2019-09-27,Netalitica,Short video sharing site
 https://www.zoom.cn/,COMT,Communication Tools,2019-09-27,Netalitica,"Zoom teleconferencing tool, Chinese version"
 https://www.researchgate.net/publication/255967143_Demographic_Trends_Policy_Influences_and_Economic_Effects_in_China_and_India_Through_2025/,CULTR,Culture,2019-09-27,Netalitica,Research publication site
 https://www.icourse163.org/,CULTR,Culture,2019-09-27,Netalitica,Online courses
@@ -424,7 +417,6 @@ http://www.eyny.com/,FILE,File-sharing,2019-09-27,Netalitica,HK and TW file shar
 https://www.ubisoft.com.cn/,GAME,Gaming,2019-09-27,Netalitica,"International game production company, China branch"
 https://cn.blizzard.com/zh-cn/,GAME,Gaming,2019-09-27,Netalitica,"International game production company, China branch"
 https://redcandlegames.com/,GAME,Gaming,2019-09-27,Netalitica,Taiwanese game company that produced satirical historic games
-https://www.wegame.com.cn/,GAME,Gaming,2019-09-27,Netalitica,Game store
 https://www.ciga.me/,GAME,Gaming,2019-09-27,Netalitica,China indie game alliance
 https://www.komica.org/,HOST,Hosting and Blogging Platforms,2019-09-27,Netalitica,Taiwanese and HK anime and politics discussion board
 http://smldf.org/ch/,HUMR,Human Rights Issues,2019-09-27,Netalitica,Promoting South Mongolian independence
@@ -442,9 +434,7 @@ http://lupm.org/chinese/index.htm/,POLR,Political Criticism,2019-09-27,Netalitic
 https://cdporg.blogspot.com/,POLR,Political Criticism,2019-09-27,Netalitica,"China Democracy Party, an overseas opposition party"
 http://www.cdp1998.org/,POLR,Political Criticism,2019-09-27,Netalitica,"China Democracy Party, an overseas opposition party"
 https://book.douban.com/subject/6127657/,XED,Sex Education,2019-09-27,Netalitica,Sex education textbook
-https://www.douyin.com/,GRP,Social Networking,2019-09-27,Netalitica,Short video sharing site
 https://twnlocalismfront.tumblr.com/,MILX,Terrorism and Militants,2019-09-27,Netalitica,Promoting radical Taiwan independent movement
-https://telegram.org/,COMT,Communication Tools,2019-09-28,Netalitica,
 https://www.nobelpeaceprize.org/,POLR,Political Criticism,2019-09-28,Netalitica,Nobel peace prize
 https://www.pku.edu.cn/,CULTR,Culture,2019-09-28,Netalitica,
 https://www.tsinghua.edu.cn/publish/thu2018/index.html/,CULTR,Culture,2019-09-28,Netalitica,
@@ -485,3 +475,110 @@ https://lalatai.com/,LGBT,LGBT,2019-10-05,Netalitica,Taiwanese lesbian info and 
 https://www.lezsmeeting.com/,LGBT,LGBT,2019-10-05,Netalitica,Taiwanese lesbian fashion and news site for Chinese language readers
 https://www.secretchina.com/news/b5/index.html/,NEWS,News Media,2019-10-05,Netalitica,Chinese language 
 https://lianhonghong.com/,XED,Sex Education,2019-10-05,Netalitica,Taiwanese based media site sharing female sex life info
+https://www.who.int/zh/emergencies/diseases/novel-coronavirus-2019,PUBH,Public Health,2020-02-04,OONI,
+https://www.nchrd.org/2020/01/china-protect-human-rights-while-combatting-coronavirus-outbreak/,PUBH,Public Health,2020-02-04,OONI,
+https://www.nchrd.org/wp-content/uploads/2020/02/List-of-netizens-punished-for-coronavirus-updated-1.31.2020-325-netizens.pdf,PUBH,Public Health,2020-02-04,OONI,List of netizens punished for coronavirus
+http://www.bjnews.com.cn/,NEWS,News Media,2020-02-04,OONI,
+http://china.caixin.com/,NEWS,News Media,2020-02-04,OONI,
+https://m.weibo.cn/,GRP,Social Networking,2020-02-04,OONI,
+https://chinamediaproject.org/2020/01/27/dramatic-actions/,PUBH,Public Health,2020-02-04,OONI,
+http://www.sohu.com/a/370032279_120094087,PUBH,Public Health,2020-02-04,OONI,
+https://www.caixinglobal.com/2020-02-03/in-depth-how-wuhan-lost-the-fight-to-contain-the-coronavirus-101510749.html,PUBH,Public Health,2020-02-04,OONI,
+https://www.caixinglobal.com/2020-02-02/wuhan-virus-latest-china-reports-second-pneumonia-linked-death-101505300.html,PUBH,Public Health,2020-02-04,OONI,
+http://weekly.caixin.com/2020-01-23/101507778.html,NEWS,News Media,2020-02-04,OONI,
+https://www.voachinese.com/a/china-supreme-court-on-virus-rumor-spreaders-20200128/5264718.html,PUBH,Public Health,2020-02-04,OONI,
+http://china.caixin.com/2020-01-31/101509761.html,PUBH,Public Health,2020-02-04,OONI,
+http://weekly.caixin.com/2020-02-01/101510145.html,PUBH,Public Health,2020-02-04,OONI,
+https://www.globaltimes.cn/,NEWS,News Media,2020-02-04,OONI,
+http://2019ncov.nosugartech.com/search.html,PUBH,Public Health,2020-02-07,OONI Partner,
+https://assets.dxycdn.com/gitrepo/tod-assets/output/default/pneumonia/index.htm?t=26329501,PUBH,Public Health,2020-02-07,OONI Partner,
+https://hys.people-health.cn/m/#/pages/ncovSuff/index?type=2,PUBH,Public Health,2020-02-07,OONI Partner,
+https://ncov.html5.qq.com/community?channelid=17&from=groupmessage&isappinstalled=0,PUBH,Public Health,2020-02-07,OONI Partner,
+https://houxu.app/nconv/map,PUBH,Public Health,2020-02-07,OONI Partner,
+https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653353743&idx=1&sn=906dff87c372062ea486b5598778b1c9&chksm=bd5700558a208943345016e4565eaf326d729b9f7f0f381ee192875c014f8f10e4db2145b305&dt_dapp=1#rd,PUBH,Public Health,2020-02-07,OONI Partner,
+https://jinshuju.net/f/PAMt4O,PUBH,Public Health,2020-02-07,OONI Partner,
+https://shimo.im/sheets/hPg9t9xT6GtkC3p8/undefined,PUBH,Public Health,2020-02-07,OONI Partner,
+https://user.guancha.cn/main/content?id=238473&s=fwzxfbbt,PUBH,Public Health,2020-02-07,OONI Partner,
+https://2019-ncov.tsing-care.com/survey.html,PUBH,Public Health,2020-02-07,OONI Partner,
+https://boxmy.hayoou.com/1580562806855/city.html,PUBH,Public Health,2020-02-07,OONI Partner,
+https://2019.ncov.wtf/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://www.gov.cn/fuwu/2020-01/27/content_5472389.htm,PUBH,Public Health,2020-02-07,OONI Partner,
+https://onwh.51rry.com/#/,PUBH,Public Health,2020-02-07,OONI Partner,
+https://wuhan.support/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://charity.foodblockchain.com.cn/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://rescue.sitiits.com:9966/visur/#/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://wuhan2020.org.cn/#/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://nav.werty.cn/,PUBH,Public Health,2020-02-07,OONI Partner,
+https://wuhan2020.kaiyuanshe.cn/#,PUBH,Public Health,2020-02-07,OONI Partner,
+https://news.qq.com/zt2020/page/feiyan.htm#news,PUBH,Public Health,2020-02-07,OONI Partner,
+http://tieba.baidu.com/f?kw=%E6%AD%A6%E6%B1%89&ie=utf-8&tab=main,PUBH,Public Health,2020-02-07,OONI Partner,
+http://dm.hayoou.com/danmu.php?channel_id=63&channel_name=%E6%AD%A6%E6%B1%89%E7%96%AB%E6%83%85%E5%AE%9E%E6%97%B6%E9%9C%80%E6%B1%82%E5%AF%B9%E6%8E%A5,PUBH,Public Health,2020-02-07,OONI Partner,
+https://my.hayoou.com/userpage.php?watch_list=myhelper&search=%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E5%AE%9E%E6%97%B6%20%E7%97%85%E6%AF%92%20%E9%98%B2%E6%8E%A7%20%E7%96%AB%E6%83%85%20%E8%82%BA%E7%82%8E%20%E6%8D%90%E8%B5%A0%20%E7%96%BE%E6%8E%A7%20%E5%92%B3%E5%97%BD%20%E9%92%9F%E5%8D%97%E5%B1%B1%20%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%20%E5%8F%A3%E7%BD%A9%20%E9%98%B2%E6%8A%A4%20%E4%BC%A0%E6%9F%93%20%E6%84%9F%E6%9F%93%20%E5%8C%BB%E9%99%A2%20%E5%8C%BB%E7%94%9F%20%E6%8A%A4%E5%A3%AB%20%E6%82%A3%E8%80%85%20%E4%BD%93%E6%B8%A9%20%E6%B6%88%E6%AF%92%20%E7%A1%AE%E8%AF%8A%20%E7%A1%AC%E6%A0%B8%20%E9%9A%94%E7%A6%BB%20%E6%B6%88%E6%AF%92$$%20%E6%AD%A6%E6%B1%89%20%E7%81%AB%E7%A5%9E%E5%B1%B1%20%E9%9B%B7%E7%A5%9E%E5%B1%B1,PUBH,Public Health,2020-02-07,OONI Partner,
+https://vp.fact.qq.com/home,PUBH,Public Health,2020-02-07,OONI Partner,
+https://mapmiao.com/ncov/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://cuihuan.net/wuhan/news.html,PUBH,Public Health,2020-02-07,OONI Partner,
+https://ncovis.github.io/choropleth/,PUBH,Public Health,2020-02-07,OONI Partner,
+http://hayoou.com/cx/,PUBH,Public Health,2020-02-07,OONI Partner,
+https://www.wuhancrisis.com/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://github.com/2019ncovmemory/nCovMemory,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://chp-dashboard.geodata.gov.hk/covid-19/zh.html,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+http://www.netcraft.com.mo/dashboards.html?fbclid=IwAR0zJ91XbD-HTdXf-dgr9ChgcglP7Uk63JAwr4POSusoZlHPlhSu5eTTZIs,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://www.bloomberg.com/,NEWS,News Media,2020-04-03,tomacat,
+https://www.businessinsider.com/,NEWS,News Media,2020-04-03,tomacat,
+https://www.euronews.com/,NEWS,News Media,2020-04-03,tomacat,
+https://www.nikkei.com/,NEWS,News Media,2020-04-03,tomacat,Japan Economics Newspaper
+https://cn.reuters.com/,NEWS,News Media,2020-04-03,tomacat,
+https://www.881903.com/,NEWS,News Media,2020-04-03,tomacat,Commercial Radio Hong Kong
+https://hk.appledaily.com/,NEWS,News Media,2020-04-03,tomacat,Apple Daily is a Hong Kong-based newspaper
+https://www.hk01.com/,NEWS,News Media,2020-04-03,tomacat,HK01 is a Hong Kong-based online news portal
+https://www.hkej.com/,NEWS,News Media,2020-04-03,tomacat,Hong Kong Economic Journal
+https://www.hket.com/,NEWS,News Media,2020-04-03,tomacat,Hong Kong Economic Times
+https://www.hongkongfp.com/,NEWS,News Media,2020-04-03,tomacat,Hong Kong Free Press is a non-profit news website based in Hong Kong
+http://www.i-cable.com/,NEWS,News Media,2020-04-03,tomacat,Hong Kong Cable Television
+https://now.com/,NEWS,News Media,2020-04-03,tomacat,Now News
+https://orientaldaily.on.cc/,NEWS,News Media,2020-04-03,tomacat,Oriental Daily News is a Chinese-language newspaper in Hong Kong
+https://www.singtaousa.com/,NEWS,News Media,2020-04-03,tomacat,The Sing Tao Daily is Hong Kong's second largest Chinese language newspaper
+https://www.rthk.hk/,NEWS,News Media,2020-04-03,tomacat,Radio Television Hong Kong
+https://theinitium.com/,NEWS,News Media,2020-04-03,tomacat,Initium Media is a Hong Kong–based digital media
+http://www.thestandard.com.hk/,NEWS,News Media,2020-04-03,tomacat,The Standard is an English free newspaper in Hong Kong
+https://www.oxfordscholarship.com/,NEWS,News Media,2020-04-03,tomacat,Oxford University Press
+https://news.ycombinator.com/,GRP,Social Networking,2020-04-03,tomacat,
+https://share.america.gov/,GOVT,Government,2020-04-03,tomacat,
+https://pds.nasa.gov/,GOVT,Government,2020-04-03,tomacat,
+https://prism-break.org/,HACK,Hacking Tools,2020-04-03,tomacat,
+https://blog.cryptographyengineering.com/,HACK,Hacking Tools,2020-04-03,tomacat,Matthew Green's cryptographic blog
+http://citizenlab.org/,HUMR,Human Rights Issues,2020-04-03,tomacat,
+https://www.project-syndicate.org/,POLR,Political Criticism,2020-04-03,tomacat,
+https://www.ustream.tv/,MMED,Media sharing,2020-04-03,tomacat,
+http://mail-archive.com/,GRP,Social Networking,2020-04-03,tomacat,
+https://www.cecc.gov/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
+https://www.uscirf.gov/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
+https://www.govtrack.us/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
+https://thewire.in/,NEWS,News Media,2020-11-04,Phong - OTF fellow,Reportedly blocked
+https://covid-19truth.info/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
+http://covid19song.info/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
+https://covidcon.org/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
+https://www.covid19classaction.it/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block. Italian language site.
+http://covidhaber.net/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block. Turkish language site.
+http://gov.tw/,GOVT,Government,2022-08-19,test-lists.ooni.org contribution,
+https://hacg.me/,GRP,Social Networking,2022-08-19,test-lists.ooni.org contribution,
+https://geph.io/,ANON,Anonymization and circumvention tools,2022-08-19,test-lists.ooni.org contribution,
+https://sstm.moe/,GRP,Social Networking,2022-08-19,test-lists.ooni.org contribution,
+https://e-hentai.org/,PORN,Pornography,2022-08-19,test-lists.ooni.org contribution,
+http://shadowsocks.org/,ANON,Anonymization and circumvention tools,2022-08-19,test-lists.ooni.org contribution,
+https://steamcommunity.com/,GAME,Gaming,2022-08-19,test-lists.ooni.org contribution,
+http://exhentai.org/,PORN,Pornography,2022-08-19,test-lists.ooni.org contribution,
+https://www.pixiv.net/,CULTR,Culture,2022-08-19,test-lists.ooni.org contribution,
+http://www.falundafa.org/,REL,Religion,2022-08-19,test-lists.ooni.org contribution,
+https://anonfiles.com/,FILE,File-sharing,2022-08-19,test-lists.ooni.org contribution,
+https://zh.moegirl.org.cn/,CULTR,Culture,2022-08-19,test-lists.ooni.org contribution,
+https://pixiv.js.org/,ANON,Anonymization and circumvention tools,2022-09-08,test-lists.ooni.org contribution,
+https://www.whim.vip/,POLR,Political Criticism,2022-09-09,test-lists.ooni.org contribution,
+https://www.ncbi.nlm.nih.gov/,GOVT,Government,2022-10-24,algae,
+https://www.wainao.me/,NEWS,News Media,2023-01-31,test-lists.ooni.org contribution,Magazine for young Chinese by RFA
+https://mtf.wiki/,LGBT,LGBT,2023-01-31,test-lists.ooni.org contribution,A wiki website introducing knowledge about MTF
+https://www.qubes-os.org/,HACK,Hacking Tools,2023-01-31,test-lists.ooni.org contribution,Security-focused Linux-based operating system
+https://ftm.wiki/,LGBT,LGBT,2023-03-25,test-lists.ooni.org contribution,A wiki website introducing knowledge about FTM
+https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
+https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
+https://sputniknews.cn/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

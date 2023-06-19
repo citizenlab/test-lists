@@ -1,8 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://c9c.net/,ANON,Anonymization and circumvention tools,2017-03-05,Markus Ritzmann,
-http://appel-au-peuple.org/,POLR,Political Criticism,2017-09-17,Markus Ritzmann,
-http://freejustice.de/,POLR,Political Criticism,2017-09-17,Markus Ritzmann,
-http://swiss-corruption.com/,POLR,Political Criticism,2017-09-17,Markus Ritzmann,
 http://corruption2.com/,POLR,Political Criticism,2017-09-17,Markus Ritzmann,
 https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -74,3 +71,7 @@ http://xbet-3.com/,GMB,Gambling,2019-09-13,Markus Ritzmann,Access has been block
 http://xbet-4.com/,GMB,Gambling,2019-09-13,Markus Ritzmann,Access has been blocked in accord-ance with Art. 86 et seq. of the Federal Act on Gambling and Art. 88 et seq. of the Gambling Ordinance
 http://xbet-5.com/,GMB,Gambling,2019-09-13,Markus Ritzmann,Access has been blocked in accord-ance with Art. 86 et seq. of the Federal Act on Gambling and Art. 88 et seq. of the Gambling Ordinance
 http://xtip.de/,GMB,Gambling,2019-09-13,Markus Ritzmann,Access has been blocked in accord-ance with Art. 86 et seq. of the Federal Act on Gambling and Art. 88 et seq. of the Gambling Ordinance
+https://de.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media
+https://a-russia.ru/,NEWS,News Media,2023-04-20,OONI,
+https://www.coolstreaming.us/,MMED,Media sharing,2023-04-20,OONI,
+https://rtde.site/,NEWS,News Media,2023-04-20,OONI,mirror of de.rt.com

@@ -15,7 +15,8 @@ and regional levels, and content in local languages.  In countries where
 Internet censorship has been reported, the local lists also include many of the
 sites that are alleged to have been blocked.
 
-Categories are divided among four broad themes:
+[Categories](https://github.com/citizenlab/test-lists/blob/master/lists/00-LEGEND-new_category_codes.csv)
+are divided among four broad themes:
 
 * Political (This category is focused primarily on Web sites that express views
 in opposition to those of the current government. Content more broadly related
@@ -38,7 +39,7 @@ this category.)
 More information about testing methodology can be found
 [here](https://opennet.net/oni-faq).
 
-The only testing list that applies regionally (more than one country) is the
+The only testing list that applies regionally (more than one or more  country) is the
 CIS testing list which is intended for testing former Commonwealth of
 Independent States nations.
 
@@ -50,7 +51,7 @@ the newest list for every unique country code.
 Contributing URLs
 =================
 
-To learn how to contribute URLs for testing see: https://ooni.torproject.org/get-involved/contribute-test-lists/
+To learn how to contribute URLs for testing see: https://ooni.org/get-involved/contribute-test-lists/
 
 Citation
 ========

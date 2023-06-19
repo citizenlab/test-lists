@@ -37,19 +37,16 @@ https://almejharnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://ammannet.net/,NEWS,News Media,2014-04-15,citizenlab,Reportedly blocked in the past
 https://ilanews.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://jalaad.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://newsjo.today/,NEWS,News Media,2014-04-15,citizenlab,
 http://tajjo.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.almalaf.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://aldarbnews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.addiwannews.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ain.jo/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.assaltnews.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.tajjo.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.templeinstitute.org/,REL,Religion,2017-01-23,Alan Orth,Website of Israeli organization promoting a radical Jewish agenda for sacred sites in Jerusalem
 https://www.globes.co.il/,NEWS,News Media,2017-06-28,reemalmasri,
 https://www.mossad.gov.il/Pages/default.aspx/,GOVT,Government,2017-06-28,reemalmasri,
 https://www.isdefexpo.com/,NEWS,News Media,2017-06-28,reemalmasri,
-https://www.mykalimag.com/,CULTR,Culture,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
+https://www.mykalimag.com/,LGBT,LGBT,2018-04-12,anonymous,Blocked since July 2016 (source: https://storage.googleapis.com/qurium/index.html)
 https://www.timeout.com/travel/features/1239/jordan-the-highlights/,CULTR,Culture,2018-09-05,OONI,Reportedly blocked
 http://www.ammantoday.com/,CULTR,Culture,2018-09-05,OONI,
 https://www.myjordanjourney.com/,CULTR,Culture,2018-09-05,OONI,
@@ -125,7 +122,6 @@ https://www.watanserb.com/,NEWS,News Media,2019-01-31,Jordan Open Source Associa
 https://getspiritz.com/,ALDR,Alcohol & Drugs,2019-10-25,Netalitica,
 https://mashrobi.com/,ALDR,Alcohol & Drugs,2019-10-25,Netalitica,
 https://www.khalafwines.com/,ALDR,Alcohol & Drugs,2019-10-25,Netalitica,
-https://kaserproxy.net/,ANON,Anonymization and circumvention tools,2019-10-25,Netalitica,regional MENA relevance
 https://mahjooob.com/,ANON,Anonymization and circumvention tools,2019-10-25,Netalitica,regional MENA relevance
 https://nottrees.com/,ANON,Anonymization and circumvention tools,2019-10-25,Netalitica,regional MENA relevance
 https://salamatechwiki.org/,ANON,Anonymization and circumvention tools,2019-10-25,Netalitica,regional MENA relevance
@@ -150,12 +146,12 @@ http://thaqafat.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 http://www.adab.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 https://aljaras.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 https://ma3azef.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
-https://mawdoo3.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://mawdoo3.com/,SRCH,Search Engines,2019-10-25,Netalitica,regional MENA relevance
 https://mawred.org/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 https://www.aldiwan.net/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 https://www.arabculturefund.org/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 https://www.diwanalarab.com/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
-https://www.marefa.org/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
+https://www.marefa.org/,SRCH,Search Engines,2019-10-25,Netalitica,regional MENA relevance
 https://www.sayidaty.net/,CULTR,Culture,2019-10-25,Netalitica,regional MENA relevance
 http://al-balad.org/,CULTR,Culture,2019-10-25,Netalitica,independent theater
 http://daratalfunun.org/,CULTR,Culture,2019-10-25,Netalitica,
@@ -230,7 +226,6 @@ https://www.arbprograms.com/,FILE,File-sharing,2019-10-25,Netalitica,regional ME
 https://www.bramjfreee.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.bramjzone.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.downloadprogramsline.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
-https://www.downloadxdriver.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.esm3.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.gulf-up.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.mo7pro.com/,FILE,File-sharing,2019-10-25,Netalitica,regional MENA relevance
@@ -308,11 +303,9 @@ https://ahwaa.org/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
 https://majal.org/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
 https://www.beirutpride.org/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
 https://www.lgbtarabic.com/,LGBT,LGBT,2019-10-25,Netalitica,regional MENA relevance
-http://geekandqueer.org/,LGBT,LGBT,2019-10-25,Netalitica,"presently not working, may sping back - monitor"
 http://www.aswatmag.com/,LGBT,LGBT,2019-10-25,Netalitica,LGBT Magazine from Morocco
 https://thevoiceofthequeer.com/,LGBT,LGBT,2019-10-25,Netalitica,Akaliyat Association/ Morocco
 http://mawjoudin.org/,LGBT,LGBT,2019-10-25,Netalitica,"Tunisian LGBT Rights Group, presently not working, may sping back - monitor"
-https://www.damj.co/,LGBT,LGBT,2019-10-25,Netalitica,"Tunisian LGBT Rights Group, presently not working, may sping back - monitor"
 https://www.youtubeto.com/ar/,MMED,Media sharing,2019-10-25,Netalitica,for control purposes
 http://3arbt.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 http://anakbnet.co/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
@@ -321,7 +314,7 @@ http://cima4u.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevan
 http://cima4up.co/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 http://melody4arab.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 http://movizland.online/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
-http://panet.co.il/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
+http://panet.co.il/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
 http://www.aflamedia.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 http://www.al-fann.net/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 http://www.nsaem.net/videos/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
@@ -335,7 +328,6 @@ https://mp3songs.alarab.com/,MMED,Media sharing,2019-10-25,Netalitica,regional M
 https://nogomistars.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://rmdan.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://video.mzarita.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
-https://www.4helal.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.abdwap2.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.dardarkom.tv/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.farfeshplus.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
@@ -343,40 +335,37 @@ https://www.maghreb.space/,MMED,Media sharing,2019-10-25,Netalitica,regional MEN
 https://www.nghmaty.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://www.series4watch.online/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
 https://yomlek.com/,MMED,Media sharing,2019-10-25,Netalitica,regional MENA relevance
-http://ar.farsnews.com/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
 http://assafirarabi.com/ar/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 http://kayhan.ir/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
 http://sowt.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Podcast Platform
-http://www.alhayat.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform 
+http://www.alhayat.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 http://www.almayadeen.net/,NEWS,News Media,2019-10-25,Netalitica,Lebanese TV close to hezbollah
-http://www.alnour.com.lb/,NEWS,News Media,2019-10-25,Netalitica,Lebanese Radio close to hezbollah
+http://www.alnour.com.lb/,MILX,Terrorism and Militants,2019-10-25,Netalitica,Lebanese Radio close to hezbollah
 http://www.alsharq.net.sa/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
 http://www.khamenei.ir/,NEWS,News Media,2019-10-25,Netalitica,Iranian supreme leader
 http://www.musharaka.me/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
 https://al-akhbar.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
 https://arabi21.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://arb.majalla.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
-https://arij.net/,NEWS,News Media,2019-10-25,Netalitica,Regional Investigative Reporting Platform 
+https://arij.net/,NEWS,News Media,2019-10-25,Netalitica,Regional Investigative Reporting Platform
 https://elaph.com/,NEWS,News Media,2019-10-25,Netalitica,Regional News website
 https://euroabia.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
-https://jeem.me/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform on Gender and sexuality
-https://kohljournal.press/,NEWS,News Media,2019-10-25,Netalitica,Regional Journal on Body and Gender 
+https://jeem.me/,LGBT,LGBT,2019-10-25,Netalitica,Regional Media Platform on Gender and sexuality
+https://kohljournal.press/,LGBT,LGBT,2019-10-25,Netalitica,Regional Journal on Body and Gender
 https://raseef22.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://www.al-akhbar.com/,NEWS,News Media,2019-10-25,Netalitica,Lebanese based newspaper with regional coverage
 https://www.alahednews.com.lb/,NEWS,News Media,2019-10-25,Netalitica,Lebanese website close to hezbollah
 https://www.alalamtv.net/,NEWS,News Media,2019-10-25,Netalitica,a TV station in Arabic based in Tehran
-https://www.alhudood.net/,NEWS,News Media,2019-10-25,Netalitica,Regional satire website in Arabic based in London 
+https://www.alhudood.net/,NEWS,News Media,2019-10-25,Netalitica,Regional satire website in Arabic based in London
 https://www.almamlakatv.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
-https://www.alquds.co.uk/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform 
+https://www.alquds.co.uk/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://www.annahar.com/,NEWS,News Media,2019-10-25,Netalitica,Lebanese newspaper regional coverage
 https://www.arabiaweather.com/,NEWS,News Media,2019-10-25,Netalitica,Regional weather forecast
 https://www.edraak.org/,NEWS,News Media,2019-10-25,Netalitica,Educational Platform
 https://www.eremnews.com/,NEWS,News Media,2019-10-25,Netalitica,Regional media platform close to UAE
-https://www.farsnews.com/,NEWS,News Media,2019-10-25,Netalitica,Iranian Media
 https://www.haaretz.co.il/,NEWS,News Media,2019-10-25,Netalitica,Israeli Newspaper
-https://www.ikhtyar.org/,NEWS,News Media,2019-10-25,Netalitica,Regional research Collective producing knowledge  on Gender Studies
+https://www.ikhtyar.org/,LGBT,LGBT,2019-10-25,Netalitica,Regional research Collective producing knowledge  on Gender Studies
 https://www.kooora.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Sport News
-https://www.mc-doualiya.com/,NEWS,News Media,2019-10-25,Netalitica,French based radio in Arabic
 https://www.raialyoum.com/,NEWS,News Media,2019-10-25,Netalitica,Regional Media Platform
 https://www.rozana.fm/,NEWS,News Media,2019-10-25,Netalitica,Syrian Independent radio
 https://www.skynewsarabia.com/,NEWS,News Media,2019-10-25,Netalitica,regional media platform
@@ -399,13 +388,13 @@ http://www.civilsociety-jo.net/,NEWS,News Media,2019-10-25,Netalitica,Guide to c
 http://www.shuranews.com/,NEWS,News Media,2019-10-25,Netalitica,News website that is linked to political party
 https://alsawt.net/,NEWS,News Media,2019-10-25,Netalitica,Media website based in Istanbul in Arabic
 https://elbalad.news/,NEWS,News Media,2019-10-25,Netalitica,Egyptian Website
-https://eldorar.com/,NEWS,News Media,2019-10-25,Netalitica,news targeted to Syrians 
+https://eldorar.com/,NEWS,News Media,2019-10-25,Netalitica,news targeted to Syrians
 https://enjaznews.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.3lnar.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.alraqeb.net/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.alwatanvoice.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.awa2el.net/,NEWS,News Media,2019-10-25,Netalitica,Educational Platform
-https://www.jea.org.jo/,NEWS,News Media,2019-10-25,Netalitica,Syndicate of Engineers 
+https://www.jea.org.jo/,NEWS,News Media,2019-10-25,Netalitica,Syndicate of Engineers
 https://foodprotection.news/,NEWS,News Media,2019-10-25,Netalitica,
 https://alordoon.com/,NEWS,News Media,2019-10-25,Netalitica,
 https://www.jn-news.com/,NEWS,News Media,2019-10-25,Netalitica,
@@ -496,15 +485,13 @@ http://zwaj-jordan.com/,DATE,Online Dating,2019-10-25,Netalitica,
 https://www.ordon-chat.com/,DATE,Online Dating,2019-10-25,Netalitica,
 https://www.fes-jordan.org/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
 http://arabliberals.org/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
-http://islamion.com/,POLR,Political Criticism,2019-10-25,Netalitica,website focused on political islam movenments news
+http://islamion.com/,NEWS,News Media,2019-10-25,Netalitica,website focused on political islam movenments news
 http://www.ahewar.org/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
 https://alaalam.org/,POLR,Political Criticism,2019-10-25,Netalitica,Syrian research organization
 https://almohammara.com/,POLR,Political Criticism,2019-10-25,Netalitica,a website in Arabic calling for liberating of ahwaz that mentioned Jordan
-https://www.noonpost.com/,POLR,Political Criticism,2019-10-25,Netalitica,regional MENA relevance
+https://www.noonpost.com/,NEWS,News Media,2019-10-25,Netalitica,regional MENA relevance
 http://www.jabha.net/,POLR,Political Criticism,2019-10-25,Netalitica,Monitor. Political Party/ the website is down and last was archived functioning March 2017. the last election was Sept 2016.
 http://www.jpm.jo/,POLR,Political Criticism,2019-10-25,Netalitica,"Parliament Monitor,Civil Society. presently not working, may sping back - monitor"
-http://www.thab7toona.com/,POLR,Political Criticism,2019-10-25,Netalitica,Students rights movenment. Website seems down/ was last functioning Jan 2019. Monitor
-https://www.zamzamparty.jo/,POLR,Political Criticism,2019-10-25,Netalitica,"Political Party, presently not working, may sping back - monitor"
 http://alhayahparty.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
 http://elections.rasedjo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Election Monitoring Group
 http://jorpp.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
@@ -515,7 +502,6 @@ http://www.ncp-jo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Political 
 https://abu-shreek.blogspot.com/,POLR,Political Criticism,2019-10-25,Netalitica,
 https://alb3th1947jordan.wordpress.com/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
 https://ardd-jo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Local NGO
-https://furssanparty.blogspot.com/#sthash.9vKGR4Q4.dpuf/,POLR,Political Criticism,2019-10-25,Netalitica,Political Party
 https://www.arab-reform.net/,POLR,Political Criticism,2019-10-25,Netalitica,Regional iniative for reform and supporting democracy. MENA relevant
 https://www.arabianchicks.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 http://3arabporn.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
@@ -533,7 +519,6 @@ https://www.tubev.sex/,PORN,Pornography,2019-10-25,Netalitica,regional MENA rele
 https://www.youporngay.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://neswangy.net/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 http://etam.jo/,PROV,Provocative Attire,2019-10-25,Netalitica,
-http://www.laprima.jo/,PROV,Provocative Attire,2019-10-25,Netalitica,
 https://www.zoritalingerie.com/,PROV,Provocative Attire,2019-10-25,Netalitica,
 http://emphnet.net/,PUBH,Public Health,2019-10-25,Netalitica,regional MENA relevance
 http://jordanhealthaid.org/,PUBH,Public Health,2019-10-25,Netalitica,Website is under maintenance
@@ -555,12 +540,42 @@ https://aljens.info/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relev
 https://lmarabic.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
 https://www.dailymedicalinfo.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
 https://www.e7kky.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
-https://www.webteb.com/,XED,Sex Education,2019-10-25,Netalitica,regional MENA relevance
+https://www.webteb.com/,PUBH,Public Health,2019-10-25,Netalitica,regional MENA relevance
 https://www.zanzu.de/ar/,XED,Sex Education,2019-10-25,Netalitica,
 https://3dlat.com/,GRP,Social Networking,2019-10-25,Netalitica,
-http://www.plf1977.org/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://hamas.ps/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://hsm.news/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://jaishalislam.com/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://www.kataibhezbollah.com/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://www.moqawama.org/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
+https://www.protonvpn.com/,ANON,Anonymization and circumvention tools,2021-01-04,rayasharbain,ProtonVPN website
+https://alurdunyya.net/,NEWS,News Media,2021-01-04,rayasharbain,local news website
+https://josa.link/,MISC,Miscellaneous content,2021-03-24,rayasharbain,URL shortener belonging to a digital rights organisation
+https://knightfoundation.org/,MISC,Miscellaneous content,2021-11-10,rayasharbain,Knight Foundation
+https://maghtas.com/,REL,Religion,2022-02-18,raya sharbain,website on Jordanian and Palestinian Christians
+https://facebook.com/watch,GRP,Social Networking,2022-06-21,rayasharbain,
+https://webcast.tiktok.com/webcast/wallet_api/diamond_buy/permission/,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://vmweb-va.byteoversea.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://v16-webapp.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf16-short-va.bytedapm.com/slardar/fe/sdk_lite/plugins/sample.1.1.0.maliva.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.449/webmssdk.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf16-scmcdn-va.ibytedtos.com/obj/static-us/secsdk/secsdk-lastest.umd.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://s20.tiktokcdn.com/tiktok/common/init.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p77-va.tiktokcdn.com/img/tos-useast2a-v-2774/4fcd4d23462548b3a4ca332ddf8bd6bd~c5_100x100.jpeg,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p77-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p19-sign.tiktokcdn-us.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p16-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://mssdk-va.tiktok.com/web/resource,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://mon-va.byteoversea.com/monitor_web/settings/browser-settings?bid=webmssdk&store=1,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://mcs-va.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-web.tiktokcdn.com/obj/tiktok-web-wp-us/wp-content/uploads/2021/05/accImg4.png,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-mobile/runtime.55b64d1527fbff92816c.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-common.ibytedtos.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-web.neutral.ttwstatic.com/obj/bd-s3-va-tos-tiktok-web-neutral-us/pns/tiktok-cookie-banner/mali_va/1.0.0.101/web/web.esm.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-common.ttwstatic.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p16-sign-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf77-ies-music-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p77-sign-sg-lite.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

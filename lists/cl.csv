@@ -1,7 +1,6 @@
 url,category_code,category_description,date_added,source,notes
 http://atacamanoticias.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://biobiochile.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
-http://blog.latercera.com/blog/pnavia/entry/da%C3%B1os_colaterales,POLR,Political Criticism,2016-08-05,OONI,Presents 403 Forbidden error
 http://cnnchile.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 https://coyunturapolitica.wordpress.com/,POLR,Political Criticism,2016-08-05,OONI,
 http://creas.uahurtado.cl/html/index.html/,HUMR,Human Rights Issues,2016-08-05,OONI,
@@ -56,7 +55,6 @@ http://www.concierto.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Radio sta
 http://www.cooperativa.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.df.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.diarioatacama.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
-http://www.diarioaysen.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.diarioeldia.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.diarioelgong.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.diarioelobservador.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
@@ -97,7 +95,6 @@ http://www.elvacanudo.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional
 http://www.emol.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.enteratehoy.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.esperanzafm.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional radio station
-http://www.estrategia.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.estrellaantofagasta.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.estrellaarica.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.estrellaconcepcion.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
@@ -119,14 +116,13 @@ http://www.lahora.cl/,NEWS,News Media,2016-08-05,OONI,
 http://www.laizquierdadiario.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,
 http://www.lanacion.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Mainstream media
 http://www.laopinon.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
-http://www.laradioneta.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Community radio station
 http://www.lasegunda.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.latercera.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.lidersanantonio.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
 http://www.lun.com/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.mapuche-nation.org/,NEWS,News Media,2016-08-05,OONI,
 http://www.mapuche-nation.org/espanol/indice.htm/,NEWS,News Media,2016-08-05,OONI,
-http://www.mapuche.info/,HUMR,Human Rights Issues,2016-08-05,OONI,
+http://www.mapuche.info/,NEWS,News Media,2016-08-05,OONI,
 http://www.mapuche.nl/,HUMR,Human Rights Issues,2016-08-05,OONI,
 http://www.mapuexpress.net/,HUMR,Human Rights Issues,2016-08-05,OONI,
 http://www.maray.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional radio station
@@ -169,9 +165,7 @@ https://www.terra.cl/,NEWS,News Media,2016-08-05,OONI,Mainstream media
 http://www.theclinic.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Mainstream media
 http://www.ufromedios.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,University radio station
 http://www.vivimoslanoticia.cl/,NEWS,News Media,2016-11-17,Derechos Digitales,Regional media
-http://www.wallmapuwen.cl/,HUMR,Human Rights Issues,2016-08-05,OONI,
 https://www.youtube.com/watch?v=IxIPAZ8XKSo,CULTR,Culture,2016-08-05,OONI,Band preserving Mapuche ethnic culture
-http://www.youtube.com/watch?v=RoHXUAah9tI,HUMR,Human Rights Issues,2016-08-05,OONI,
 https://www.youtube.com/watch?v=XDWXvKzLYwk,CULTR,Culture,2016-08-05,OONI,Band preserving Mapuche ethnic culture
 https://www.youtube.com/watch?v=dLCPWmraLtI,CULTR,Culture,2016-08-05,OONI,Band preserving Mapuche ethnic culture
 https://www.youtube.com/watch?v=jesgHutKIiY,CULTR,Culture,2016-08-05,OONI,Band preserving Mapuche ethnic culture
@@ -179,3 +173,4 @@ https://es.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by w
 https://pt.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://es.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://www.mums.cl/,LGBT,LGBT,2019-11-18,OutRight International,
+https://sputniknews.lat/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

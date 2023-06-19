@@ -7,10 +7,10 @@ http://www.ansarh.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.ansarweb.net/,REL,Religion,2014-04-15,citizenlab,
 http://www.bahai-faith.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.bahai.com/,REL,Religion,2014-04-15,citizenlab,
-http://www.coptic.net/,REL,Religion,2014-04-15,citizenlab,
+http://www.coptic.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.light-of-life.com/,REL,Religion,2014-04-15,citizenlab,
 https://www.yahosein.com/,REL,Religion,2014-04-15,citizenlab,
-https://www.anti-cair-net.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.anti-cair-net.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://annabaa.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://answering-islam.org/,REL,Religion,2014-04-15,citizenlab,
 https://www.rafed.net/ar/,REL,Religion,2014-04-15,citizenlab,
@@ -71,7 +71,7 @@ https://www.hiamag.com/,CULTR,Culture,2019-05-02,Netalitica,
 https://www.alukah.net/,CULTR,Culture,2019-05-02,Netalitica,
 https://www.zahratalkhaleej.ae/,CULTR,Culture,2019-05-02,Netalitica,
 https://www.sayidaty.net/,CULTR,Culture,2019-05-02,Netalitica,
-https://arb.majalla.com/,CULTR,Culture,2019-05-02,Netalitica,
+https://arb.majalla.com/,NEWS,News Media,2019-05-02,Netalitica,
 http://www.xn--mgbai3a1bycq.net/,DATE,Online Dating,2019-05-02,Netalitica,
 https://www.betrallyelarab.com/,DATE,Online Dating,2019-05-02,Netalitica,
 https://www.buzzarab.com/,DATE,Online Dating,2019-05-02,Netalitica,
@@ -165,7 +165,7 @@ http://www.doniacomputer.com/,FILE,File-sharing,2019-05-02,Netalitica,
 http://www.ar.obfog.com/,GAME,Gaming,2019-05-02,Netalitica,
 http://game-game.ma/,GAME,Gaming,2019-05-02,Netalitica,
 http://www.337.com/ar/minigame,GAME,Gaming,2019-05-02,Netalitica,
-https://www.alsindibad.com/,GAME,Gaming,2019-05-02,Netalitica,
+https://www.alsindibad.com/,FILE,File-sharing,2019-05-02,Netalitica,
 https://viptarneeb.com/,GAME,Gaming,2019-05-02,Netalitica,
 https://www.jawaker.com/,GAME,Gaming,2019-05-02,Netalitica,
 https://www.gamku.com/,GAME,Gaming,2019-05-02,Netalitica,
@@ -361,16 +361,16 @@ https://www.gulf-times.com/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 https://thepeninsulaqatar.com/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 https://www.mofa.gov.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 http://doc.aljazeera.net/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
-https://www.qatarairways.com/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
-http://www.qu.edu.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
+https://www.qatarairways.com/,ECON,Economics,2019-05-02,Netalitica,Qatar-aligned
+http://www.qu.edu.qa/,CTRL,Control content,2019-05-02,Netalitica,Qatar-aligned
 http://www.qtv.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
-https://www.beinsports.com/en/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
+https://www.beinsports.com/en/,CULTR,Culture,2019-05-02,Netalitica,Qatar-aligned
 https://portal.www.gov.qa/wps/portal,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 http://www.mcs.gov.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 http://www.cb.gov.qa/English/Pages/default.aspx,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 https://www.binzaid.gov.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 https://www.singlewindow.gov.qa/BookServ/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
-https://www.diwan.gov.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
+https://www.diwan.gov.qa/,CTRL,Control content,2019-05-02,Netalitica,Qatar-aligned
 http://www.edu.gov.qa/Ar/Pages/Home.aspx,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 http://www.namlc.gov.qa/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
 http://www.qatar-tribune.com/,NEWS,News Media,2019-05-02,Netalitica,Qatar-aligned
@@ -386,12 +386,11 @@ https://www.trtarabi.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.turkishpress.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.hurriyetdailynews.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 https://www.turk.life/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
-https://www.dailysabah.com/,NEWS,News Media,2019-05-02,Netalitica,Turkey-aligned
 http://www.mepanorama.net/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
-http://aletejahtv.com/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
+http://aletejahtv.com/,POLR,Political Criticism,2019-05-02,Netalitica,Hezbollah-aligned
 https://www.alahednews.com.lb/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
 http://alwelayah.net/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
-https://www.islamtimes.org/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
+https://www.islamtimes.org/,POLR,Political Criticism,2019-05-02,Netalitica,Hezbollah-aligned
 http://www.almayadeen.net/,NEWS,News Media,2019-05-02,Netalitica,Hezbollah-aligned
 http://sabq.org/,NEWS,News Media,2019-05-02,Netalitica,
 http://www.almowaten.net/,NEWS,News Media,2019-05-02,Netalitica,
@@ -438,10 +437,10 @@ https://www.middleeastmonitor.com/,NEWS,News Media,2019-05-02,Netalitica,
 http://assabeel.net/,NEWS,News Media,2019-05-02,Netalitica,
 http://www.saadalfagih.com/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://tajdeed.org.uk/,POLR,Political Criticism,2019-05-02,Netalitica,
-https://thenewkhalij.news/,POLR,Political Criticism,2019-05-02,Netalitica,
-https://arabi21.com/,POLR,Political Criticism,2019-05-02,Netalitica,
-https://www.watanserb.com/,POLR,Political Criticism,2019-05-02,Netalitica,
-https://www.sasapost.com/,POLR,Political Criticism,2019-05-02,Netalitica,
+https://thenewkhalij.news/,NEWS,News Media,2019-05-02,Netalitica,
+https://arabi21.com/,NEWS,News Media,2019-05-02,Netalitica,
+https://www.watanserb.com/,NEWS,News Media,2019-05-02,Netalitica,
+https://www.sasapost.com/,NEWS,News Media,2019-05-02,Netalitica,
 http://islah.org.uk/arabic/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://hizb-ut-tahrir.info/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://asrararabiya.com/,POLR,Political Criticism,2019-05-02,Netalitica,
@@ -452,7 +451,7 @@ http://khabir.net/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://wahabia.com/ar/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://www.hourriya-tagheer.org/,POLR,Political Criticism,2019-05-02,Netalitica,
 https://nabaa.tv/,POLR,Political Criticism,2019-05-02,Netalitica,
-https://www.altamkeen.net/,POLR,Political Criticism,2019-05-02,Netalitica,
+https://www.altamkeen.net/,NEWS,News Media,2019-05-02,Netalitica,
 https://emiratesleaks.com/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://www.ikhwanonline.com/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://www.ikhwantube.com/,POLR,Political Criticism,2019-05-02,Netalitica,
@@ -464,7 +463,7 @@ http://www.al-jamaa.org/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://www.ikhwan.sd/,POLR,Political Criticism,2019-05-02,Netalitica,
 http://www.alqassam.ps/arabic/index.php,POLR,Political Criticism,2019-05-02,Netalitica,
 http://www.ikhwanpress.com/,POLR,Political Criticism,2019-05-02,Netalitica,
-https://www.middleeasteye.net/,POLR,Political Criticism,2019-05-02,Netalitica,
+https://www.middleeasteye.net/,NEWS,News Media,2019-05-02,Netalitica,
 https://mbsmetoo.org/,POLR,Political Criticism,2019-05-02,Netalitica,
 https://www.raya.com/,POLR,Political Criticism,2019-05-02,Netalitica,
 https://www.tubev.sex/,PORN,Pornography,2019-05-02,Netalitica,
@@ -504,7 +503,6 @@ https://www.victoriassecret.ae/en,PROV,Provocative Attire,2019-05-02,Netalitica,
 https://www.daloah.com/,PROV,Provocative Attire,2019-05-02,Netalitica,
 https://www.miraclelingerie.ae/,PROV,Provocative Attire,2019-05-02,Netalitica,
 https://en-ae.namshi.com/,PROV,Provocative Attire,2019-05-02,Netalitica,
-https://www.agentprovocateur.com/,PROV,Provocative Attire,2019-05-02,Netalitica,
 https://www.spicylingerie.com/,PROV,Provocative Attire,2019-05-02,Netalitica,
 https://www.klynn.com/,PROV,Provocative Attire,2019-05-02,Netalitica,
 https://www.kiabi.ae/,PROV,Provocative Attire,2019-05-02,Netalitica,
@@ -526,7 +524,7 @@ http://www.dca.org.sa/Pages/default.aspx,PUBH,Public Health,2019-05-02,Netalitic
 http://saautism.org/autism/,PUBH,Public Health,2019-05-02,Netalitica,
 http://sdea.org.sa/,PUBH,Public Health,2019-05-02,Netalitica,
 http://www.alsolb.com/,PUBH,Public Health,2019-05-02,Netalitica,
-https://www.dailymedicalinfo.com/,PUBH,Public Health,2019-05-02,Netalitica,
+https://www.dailymedicalinfo.com/,XED,Sex Education,2019-05-02,Netalitica,
 https://www.doctoori.net/,PUBH,Public Health,2019-05-02,Netalitica,
 https://www.sehaama.com/,PUBH,Public Health,2019-05-02,Netalitica,
 https://a3chabe.com/public-health,PUBH,Public Health,2019-05-02,Netalitica,
@@ -593,7 +591,6 @@ https://twitter.com/salman_alodah,POLR,Political Criticism,2019-05-02,Netalitica
 https://twitter.com/jkhashoggi,POLR,Political Criticism,2019-05-02,Netalitica,
 https://twitter.com/m3takl,POLR,Political Criticism,2019-05-02,Netalitica,
 https://twitter.com/TurkiShalhoub,POLR,Political Criticism,2019-05-02,Netalitica,
-https://www.youtube.com/channel/UCqWXKz36T1V-M5mI87NEybg,POLR,Political Criticism,2019-05-02,Netalitica,
 https://www.youtube.com/user/aljazeerachannel,POLR,Political Criticism,2019-05-02,Netalitica,
 https://www.youtube.com/channel/UC_fNP2ettM5ius4BZ6G7MOg,POLR,Political Criticism,2019-05-02,Netalitica,
 https://ar-ar.facebook.com/alqst.org/,POLR,Political Criticism,2019-05-02,Netalitica,
@@ -608,12 +605,11 @@ https://mfa.gov.il/MFA/Pages/default.aspx,GOVT,Government,2014-04-15,citizenlab,
 https://www.mossad.gov.il/default.aspx,GOVT,Government,2014-04-15,citizenlab,
 https://euromedrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://rhr.org.il/eng/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.business-humanrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.childsrights.org/en/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.nbn.org.il/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.nbn.org.il/,CULTR,Culture,2014-04-15,citizenlab,
 https://gayguide.net/,LGBT,LGBT,2014-04-15,citizenlab,
 https://gayswithoutborders.wordpress.com/,LGBT,LGBT,2014-04-15,citizenlab,
-https://www.lavaplace.com/,LGBT,LGBT,2014-04-15,citizenlab,
+https://www.lavaplace.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.galilcol.ac.il/,CTRL,Control content,2014-04-15,citizenlab,
 https://ammartalk.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://saudijeans.org/,NEWS,News Media,2014-04-15,citizenlab,
@@ -622,7 +618,6 @@ https://www.albawaba.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.alquds.co.uk/,NEWS,News Media,2014-04-15,citizenlab,
 https://arabic.cnn.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://elaph.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.islamonline.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://middle-east-online.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.radiosawa.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.azzaman.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -631,8 +626,8 @@ https://www.watan.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://alaraby.tv/,NEWS,News Media,2018-06-14,frekeeh,
 https://middleeasttransparent.com/en/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.ikhwanweb.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.likud.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://meretz.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://www.likud.org.il/,GOVT,Government,2014-04-15,citizenlab,
+https://meretz.org.il/,GOVT,Government,2014-04-15,citizenlab,
 https://centerforinquiry.org/blog/category/secular-islam/,REL,Religion,2014-04-15,citizenlab,
 https://irshadmanji.com/,REL,Religion,2014-04-15,citizenlab,
 https://www.arabicbible.com/,REL,Religion,2014-04-15,citizenlab,
@@ -652,7 +647,7 @@ http://www.anhri.net/ifex/alerts/saudi/,HUMR,Human Rights Issues,2014-04-15,citi
 http://www.defendingwomen-defendingrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.freemuslim.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.humum.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.isa.gov.il/,CTRL,Control content,2014-04-15,citizenlab,
+http://www.isa.gov.il/,GOVT,Government,2014-04-15,citizenlab,
 http://arabic.peopledaily.com.cn/,NEWS,News Media,2014-04-15,citizenlab,
 http://bbcarabic.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://khabaragency.net/,NEWS,News Media,2016-04-19,citizenlab,
@@ -663,7 +658,7 @@ http://www.althawranews.net/,NEWS,News Media,2016-04-19,citizenlab,
 http://www.ansarallah.net/,NEWS,News Media,2016-04-19,citizenlab,
 http://www.arabmail.de/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.bbc.co.uk/arabic/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.danielpipes.org/,NEWS,News Media,2014-04-15,citizenlab,
+http://www.danielpipes.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.islamtoday.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.whatreallyhappened.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.alaraby.co.uk/portal,NEWS,News Media,2018-06-14,frekeeh,
@@ -672,6 +667,12 @@ http://www.baath-party.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.freearabvoice.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.hadash.org.il/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.saudiaffairs.net/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.dubai-escort-list.com/,PORN,Pornography,2014-04-15,citizenlab,
+http://www.dubai-escort-list.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.the-good-way.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.thekoran.com/,REL,Religion,2014-04-15,citizenlab,
+http://www.stupidcensorship.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://bedayaa.org/,LGBT,LGBT,2020-03-19,OONI,
+https://sites.google.com/view/meemmuslim-en/resources?authuser=0,LGBT,LGBT,2020-03-19,OONI,Meem Muslim Initiative
+https://ijhad.org/,XED,Sex Education,2020-08-21,OONI,Related to Women on Web
+https://dawnmena.org/,HUMR,Human Rights Issues,2022-12-07,rayasharbain,Organization founded by Jamal Khashoggi
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
