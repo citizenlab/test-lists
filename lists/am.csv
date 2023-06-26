@@ -172,8 +172,8 @@ http://armhels.com/,HUMR,Human Rights Issues,2021-06-12,cyberhub-am,
 http://hahr.am/,HUMR,Human Rights Issues,2021-06-12,cyberhub-am,
 http://xirat.com/,HUMR,Human Rights Issues,2021-06-12,cyberhub-am,
 https://coalitionagainstviolence.org/,HUMR,Human Rights Issues,2021-06-12,cyberhub-am,
-https://spyur.am/,MISC,Miscelaneous content,2021-06-12,cyberhub-am,
-https://www.yell.am/,MISC,Miscelaneous content,2021-06-12,cyberhub-am,
+https://spyur.am/,MISC,Miscellaneous content,2021-06-12,cyberhub-am,
+https://www.yell.am/,MISC,Miscellaneous content,2021-06-12,cyberhub-am,
 https://www.trtworld.com/,NEWS,News Media,2021-06-12,cyberhub-am,
 https://www.aa.com.tr/,NEWS,News Media,2021-06-12,cyberhub-am,
 https://1lurer.am/,NEWS,News Media,2021-06-12,cyberhub-am,
@@ -265,3 +265,6 @@ https://sf77-ies-music-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09
 https://p77-sign-sg-lite.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-15,OONI,TikTok reportedly blocked in Armenia
 https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2022-09-15,OONI,TikTok reportedly blocked in Armenia
 https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-09-15,OONI,TikTok reportedly blocked in Armenia
+https://www.azatutyun.am/,NEWS,News Media,2022-10-26,test-lists.ooni.org contribution,
+https://azatutyun.gitlab.io/,ANON,Anonymization and circumvention tools,2022-11-03,rayasharbain,
+https://azatutyun.github.io/,ANON,Anonymization and circumvention tools,2022-11-03,rayasharbain,

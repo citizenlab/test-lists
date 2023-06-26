@@ -1,5 +1,5 @@
 url,category_code,category_description,date_added,source,notes
-http://fast-die.kiev.ua/,MISC,Miscelaneous content,2014-04-15,citizenlab,
+http://fast-die.kiev.ua/,MISC,Miscellaneous content,2014-04-15,citizenlab,
 http://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://fei.ru/,PORN,Pornography,2014-04-15,citizenlab,
 https://psyplants.info/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
@@ -36,7 +36,6 @@ https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wi
 https://uz.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://uz.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://www.cnews.ru/,NEWS,News Media,2018-07-11,OONI,Reportedly blocked
-http://rus.ozodlik.org/,NEWS,News Media,2018-07-23,OONI,
 https://www.bbc.com/uzbek/,NEWS,News Media,2018-07-23,OONI,
 http://bride.ru/,DATE,Online Dating,2019-05-25,Netalitica,
 http://buddhist.ru/,REL,Religion,2019-05-25,Netalitica,
@@ -316,7 +315,6 @@ https://www.kp.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 https://www.mamba.ru/,DATE,Online Dating,2019-12-09,Netalitica,
 https://www.med2000.ru/,XED,Sex Education,2019-12-09,Netalitica,
 https://www.memo.ru/,HUMR,Human Rights Issues,2019-12-09,Netalitica,
-https://www.ntv.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 https://www.pochta.ru/,COMT,Communication Tools,2019-12-09,Netalitica,Russian Post site
 https://www.rbc.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 https://www.reg.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
@@ -334,3 +332,11 @@ https://azattyq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13
 https://azattyq.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
 https://azadliq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
 https://azadli.github.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
+https://azattyk.gitlab.io/,ANON,Anonymization and circumvention tools,2022-11-03,rayasharbain,
+https://azattyk.github.io/,ANON,Anonymization and circumvention tools,2022-11-03,rayasharbain,
+https://ozodi.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodiozodi.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodlik.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodlik.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://human.uz/,NEWS,News Media,2023-01-30,test-lists.ooni.org contribution,
+https://oz.sputniknews.uz/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

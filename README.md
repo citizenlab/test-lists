@@ -15,7 +15,8 @@ and regional levels, and content in local languages.  In countries where
 Internet censorship has been reported, the local lists also include many of the
 sites that are alleged to have been blocked.
 
-Categories are divided among four broad themes:
+[Categories](https://github.com/citizenlab/test-lists/blob/master/lists/00-LEGEND-new_category_codes.csv)
+are divided among four broad themes:
 
 * Political (This category is focused primarily on Web sites that express views
 in opposition to those of the current government. Content more broadly related
