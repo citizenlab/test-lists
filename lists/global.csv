@@ -1611,8 +1611,10 @@ https://isa.gov.ly/,GOVT,Government,2023-05-04,test-lists.ooni.org contribution,
 https://files.pythonhosted.org/,FILE,File-sharing,2023-05-15,OONI,
 https://meet.jit.si/,COMT,Communication Tools,2023-05-16,test-lists.ooni.org contribution,Open source secure video conferencing (in-browser or in-app)
 https://www.njal.la/,ANON,Anonymization and circumvention tools,2023-05-26,gus,
-https://ipfs.io/,COMT,Communication Tools,2023-06-04,willscott,
-https://cloudflare-ipfs.com/,COMT,Communication Tools,2023-06-04,willscott,
+https://ipfs.io/,COMT,Communication Tools,2023-06-04,willscott,IPFS Gateway
+https://dweb.link/,COMT,Communication Tools,2023-06-26,lidel,IPFS Gateway with Origin per CID (same s ipfs.io)
+https://cloudflare-ipfs.com/,COMT,Communication Tools,2023-06-04,willscott,IPFS Gateway
+https://cf-ipfs.com/,COMT,Communication Tools,2023-06-26,lidel,IPFS Gateway with ORigin per CID (same as cloudflare-ipfs.com)
 https://cid.contact/,COMT,Communication Tools,2023-06-04,willscott,
 https://abortionpillinfo.org/,XED,Sex Education,2023-06-13,gus,
 https://womenhelp.org/,XED,Sex Education,2023-06-13,gus,
