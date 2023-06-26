@@ -1052,16 +1052,6 @@ https://ar.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by 
 https://en.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://es.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pt.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://128.31.0.39:9131/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://86.59.21.38/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://194.109.206.212/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://66.111.2.131:9030/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://131.188.40.189/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://193.23.244.244/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://171.25.193.9:443/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://154.35.175.225/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://199.58.81.140/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
-http://204.13.164.118/tor/server/authority,ANON,Anonymization and circumvention tools,2019-03-19,magma,Tor directory authority
 https://credibilitycoalition.org/,CULTR,Culture,2019-04-19,OONI,Reportedly inaccessible on WE in Egypt (but probably worth testing globally)
 https://gitlab.com/,HOST,Hosting and Blogging Platforms,2019-07-17,chelchela,
 https://dl.bintray.com/jfrog/xray/,HOST,Hosting and Blogging Platforms,2019-07-17,chelchela,
@@ -1624,3 +1614,12 @@ https://www.njal.la/,ANON,Anonymization and circumvention tools,2023-05-26,gus,
 https://ipfs.io/,COMT,Communication Tools,2023-06-04,willscott,
 https://cloudflare-ipfs.com/,COMT,Communication Tools,2023-06-04,willscott,
 https://cid.contact/,COMT,Communication Tools,2023-06-04,willscott,
+https://abortionpillinfo.org/,XED,Sex Education,2023-06-13,gus,
+https://womenhelp.org/,XED,Sex Education,2023-06-13,gus,
+https://www.abortoinfosegura.com/,XED,Sex Education,2023-06-13,gus,
+https://abortion.eu/,XED,Sex Education,2023-06-13,gus,
+https://abortionfunds.org/,XED,Sex Education,2023-06-13,gus,
+https://abortionnetwork.amsterdam/,XED,Sex Education,2023-06-13,gus,
+https://www.plancpills.org/,XED,Sex Education,2023-06-13,gus,
+https://www.reprolegalhelpline.org/,HUMR,Human Rights Issues,2023-06-13,gus,
+https://rumble.com/,MMED,Media sharing,2023-06-15,test-lists.ooni.org contribution,
