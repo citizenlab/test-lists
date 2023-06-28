@@ -574,7 +574,7 @@ https://zh.moegirl.org.cn/,CULTR,Culture,2022-08-19,test-lists.ooni.org contribu
 https://pixiv.js.org/,ANON,Anonymization and circumvention tools,2022-09-08,test-lists.ooni.org contribution,
 https://www.whim.vip/,POLR,Political Criticism,2022-09-09,test-lists.ooni.org contribution,
 https://www.ncbi.nlm.nih.gov/,GOVT,Government,2022-10-24,algae,
-https://hub.docker.com/,MISC,Library and community for container images,2023-06-20,algae,
+https://hub.docker.com/,MISC,Miscellaneous content,2023-06-20,algae,Library and community for container images
 https://www.wainao.me/,NEWS,News Media,2023-01-31,test-lists.ooni.org contribution,Magazine for young Chinese by RFA
 https://mtf.wiki/,LGBT,LGBT,2023-01-31,test-lists.ooni.org contribution,A wiki website introducing knowledge about MTF
 https://www.qubes-os.org/,HACK,Hacking Tools,2023-01-31,test-lists.ooni.org contribution,Security-focused Linux-based operating system
@@ -582,3 +582,5 @@ https://ftm.wiki/,LGBT,LGBT,2023-03-25,test-lists.ooni.org contribution,A wiki w
 https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
 https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
 https://sputniknews.cn/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+http://mirrors.tuna.tsinghua.edu.cn/,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+http://mirrors.nju.edu.cn/,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
