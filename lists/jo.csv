@@ -580,5 +580,6 @@ https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2022-1
 https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
 https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
 https://alhudood.net/,NEWS,News Media,2023-06-22,rayasharbain,arabic language sarcastic magazine seems to be blocked in Jordan
-https://mail.proton.me,COMT,Communication Tools,2023-07-07,rayasharbain,reports that Proton mail might be blocked in Jordan
-https://account.proton.me,COMT,Communication Tools,2023-07-07,rayasharbain,reports that Proton mail might be blocked in Jordan
+https://mail.proton.me/,COMT,Communication Tools,2023-07-07,rayasharbain,reports that Proton mail might be blocked in Jordan
+https://account.proton.me/,COMT,Communication Tools,2023-07-07,rayasharbain,reports that Proton mail might be blocked in Jordan
+
