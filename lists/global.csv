@@ -1633,3 +1633,16 @@ https://plug-mirror.rcac.purdue.edu/fdroid/repo,FILE,File-sharing,2023-06-28,tes
 https://mail.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
 https://account.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
 https://x.com/,GRP,Social Networking,2023-07-26,test-lists.ooni.org contribution,new domain for Twitter
+https://codeberg.org/,HOST,Hosting and Blogging Platforms,2023-07-05,test-lists.ooni.org contribution,Git Hosting Alternative to GitHub
+https://dn42.tk/Home,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://dn42.wiki/Home,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://dn42.cc/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://dn42.eu/Home,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://dn42.de/Home,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://dn42.g-load.eu/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,I2P Network Information / Tools
+https://dn42.burble.com/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,I2P Network Information / Tools
+https://openwrt.org/,MISC,Miscelaneous content,2023-07-05,test-lists.ooni.org contribution,Free operating system for embedded devices
+https://www.debian.org/,MISC,Miscelaneous content,2023-07-05,test-lists.ooni.org contribution,Free Linux-based operating system
+https://ubuntu.com/,MISC,Miscelaneous content,2023-07-05,test-lists.ooni.org contribution,Free Linux-based operating system
+https://yggdrasil-network.github.io/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Yggdrasil is a new type of encrypted self-managed overlay network. Among other things, Tor and Telegram proxies are made available in this network."
+https://neilalexander.s3.dualstack.eu-west-2.amazonaws.com/deb/key.txt,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Yggdrasil is a new type of encrypted self-managed overlay network. Among other things, Tor and Telegram proxies are made available in this network. This is a download mirror. Since, if you don't know the exact file, only 403 is returned, here is a test file."
