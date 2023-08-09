@@ -1593,7 +1593,7 @@ https://www.westernunion.com/,COMM,E-commerce,2023-03-21,anonymous contribution,
 https://drive.google.com/,FILE,File-sharing,2023-03-19,OONI,
 https://www.ivpn.net/,ANON,Anonymization and circumvention tools,2023-03-19,OONI,
 https://breached.vc/,HACK,Hacking Tools,2023-03-19,OONI,
-https://chat.openai.com/,HACK,Hacking Tools,2023-04-03,test-lists.ooni.org contribution,
+https://chat.openai.com/,MISC,Miscellaneous content,2023-04-03,test-lists.ooni.org contribution,
 https://www.benarnews.org/,HUMR,Human Rights Issues,2023-04-12,arky,SE.Asian regional HR issues
 https://sputnikglobe.com/,NEWS,News Media,2023-04-20,OONI,
 https://rtr-planeta.com/,NEWS,News Media,2023-04-20,OONI,
@@ -1632,5 +1632,16 @@ https://plug-mirror.rcac.purdue.edu/fdroid/repo,FILE,File-sharing,2023-06-28,tes
 https://mail.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
 https://account.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
 https://x.com/,GRP,Social Networking,2023-07-26,test-lists.ooni.org contribution,new domain for Twitter
+https://codeberg.org/,HOST,Hosting and Blogging Platforms,2023-07-05,test-lists.ooni.org contribution,Git Hosting Alternative to GitHub
+https://dn42.dev/Home,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://openwrt.org/,MISC,Miscellaneous content,2023-07-05,test-lists.ooni.org contribution,Free operating system for embedded devices
+https://www.debian.org/,MISC,Miscellaneous content,2023-07-05,test-lists.ooni.org contribution,Free Linux-based operating system
+https://ubuntu.com/,MISC,Miscellaneous content,2023-07-05,test-lists.ooni.org contribution,Free Linux-based operating system
+https://yggdrasil-network.github.io/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Yggdrasil is a new type of encrypted self-managed overlay network. Among other things, Tor and Telegram proxies are made available in this network."
+https://neilalexander.s3.dualstack.eu-west-2.amazonaws.com/deb/key.txt,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Yggdrasil is a new type of encrypted self-managed overlay network. Among other things, Tor and Telegram proxies are made available in this network. This is a download mirror. Since, if you don't know the exact file, only 403 is returned, here is a test file."
+https://i2pgit.org/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Git hosting of I2P, which contains the source code for almost all I2P projects."
+https://i2pd.website/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Website of I2Pd, an alternative I2P implementation."
+https://pulse.internetsociety.org/,IGO,Intergovernmental Organizations,2023-07-05,test-lists.ooni.org contribution,Pulse keeps reporting with #NoExamShutdowns on countries that briefly block the internet to prevent cheating on exams.
+https://proxy.i2phides.me/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,Popular I2P Inproxy
 https://www.y2mate.com/,MMED,Media sharing,2023-08-08,test-lists.ooni.org contribution,Youtube video download site
 http://cdns.grindr.com/,LGBT,LGBT,2023-08-09,test-lists.ooni.org contribution,one of the www.grindr.com endpoints
