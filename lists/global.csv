@@ -761,7 +761,7 @@ https://reproductiverights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,U
 http://www.repubblica.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rescue.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.rfa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.rferl.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.rferl.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2023-08-08
 http://www.rfi.fr/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.riftgame.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.righttodie.ca/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1252,7 +1252,6 @@ https://1.0.0.3/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,
 https://family.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,HOST,Hosting and Blogging Platforms,2020-09-28,Chelchela,
 https://i2p2.de/,ANON,Anonymization and circumvention tools,2020-10-16,Chelchela,
 https://i2pforum.net/,ANON,Anonymization and circumvention tools,2020-10-16,Chelchela,Also GRP-Social Networking
-https://muwire.com/,FILE,File-sharing,2020-10-16,Chelchela,New address for limewire.com -- Easy anonymous file sharing using I2P technology
 https://googleweblight.com/i?u=https%3A%2F%2Fexample.com%2F,ANON,Anonymization and circumvention tools,2020-11-30,Chelchela,
 https://makeamazonpay.com/,POLR,Political Criticism,2020-11-30,OONI,
 https://www.eventbrite.com/,CULTR,Culture,2020-12-15,OONI Partner,
@@ -1644,3 +1643,6 @@ https://i2pgit.org/,ANON,Anonymization and circumvention tools,2023-07-05,test-l
 https://i2pd.website/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Website of I2Pd, an alternative I2P implementation."
 https://pulse.internetsociety.org/,IGO,Intergovernmental Organizations,2023-07-05,test-lists.ooni.org contribution,Pulse keeps reporting with #NoExamShutdowns on countries that briefly block the internet to prevent cheating on exams.
 https://proxy.i2phides.me/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,Popular I2P Inproxy
+https://www.y2mate.com/,MMED,Media sharing,2023-08-08,test-lists.ooni.org contribution,Youtube video download site
+http://cdns.grindr.com/,LGBT,LGBT,2023-08-09,test-lists.ooni.org contribution,one of the www.grindr.com endpoints
+>>>>>>> e2ada401ca372b942137ac1ab98d69599d41e336
