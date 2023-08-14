@@ -89,7 +89,6 @@ https://lotoru.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.russiancasino.com/,GMB,Gambling,2014-04-15,citizenlab,
 https://www.svoboda.org/,NEWS,News Media,2014-04-15,citizenlab,Radio Freedom service
 https://www.yabloko.ru/,POLR,Political Criticism,2014-04-15,citizenlab,political party site
-https://www.rferl.org/,NEWS,News Media,2017-09-17,igorv,Radio Freedom - English service
 https://www.radiosvoboda.org/,NEWS,News Media,2017-09-17,igorv,Radio Freedom - Ukraine service
 https://graniru.org/,NEWS,News Media,2017-09-28,igorv,critical medium
 https://www.facebook.com/GraniRu/,NEWS,News Media,2017-09-28,igorv,for control purposes
@@ -268,7 +267,6 @@ https://www.svoboda.org/radio/schedule/81/,NEWS,News Media,2019-06-04,Netalitica
 https://www.severreal.org/,NEWS,News Media,2019-06-04,Netalitica,Sever Realii
 https://www.azadliq.org/,NEWS,News Media,2019-06-04,Netalitica,RFE/RL Azerbaijan (small Azerbaijani minority in RU)
 https://www.azattyq.org/,NEWS,News Media,2019-06-04,Netalitica,RFE/RL Kazakhstan (small Kazakh minority in RU)
-https://www.vesti.ru/,NEWS,News Media,2019-06-04,Netalitica,
 https://smi2.ru/,NEWS,News Media,2019-06-04,Netalitica,
 https://www.mk.ru/,NEWS,News Media,2019-06-04,Netalitica,
 https://rusvesna.su/,NEWS,News Media,2019-06-04,Netalitica,focus on politics
@@ -809,3 +807,14 @@ https://backstage-api.com/,NEWS,News Media,2023-04-18,test-lists.ooni.org contri
 https://svtv.org/,NEWS,News Media,2023-06-24,test-lists.ooni.org contribution,Libertarian news site in Russian language blocked in Russia for criticism of Putin
 https://riafan.ru/,NEWS,News Media,2023-06-24,test-lists.ooni.org contribution,News site owned by Prigozhin's media group Patriot
 https://nation-news.ru/,NEWS,News Media,2023-06-24,test-lists.ooni.org contribution,News site owned by Prigozhin's media group Patriot
+https://nevnov.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,Prigozhin's media reported to be blocked after the coup attempt
+https://rueconomics.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,Prigozhin's media reported to be blocked after the coup attempt
+https://nation-news.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,Prigozhin's media reported to be blocked after the coup attempt
+https://polit.info/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,Prigozhin's media reported to be blocked after the coup attempt
+https://slovodel.com/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,Prigozhin's media reported to be blocked after the coup attempt
+https://jpgazeta.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
+https://politexpert.net/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
+https://inforeactor.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
+https://newinform.com/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
+https://politros.com/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
+https://mediapatriot.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
