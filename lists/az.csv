@@ -35,7 +35,6 @@ https://az.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by w
 https://az.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://az.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://www.rferl.org/,NEWS,News Media,2018-06-27,Community member,
 https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.azerbaycanrealligi.com/,NEWS,News Media,2019-11-09,Community member,
@@ -104,3 +103,4 @@ https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok rep
 https://azadliq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
 https://azadli.github.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
 https://news.az/,NEWS,News Media,2022-11-29,test-lists.ooni.org contribution,
+https://sputnik.az/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
