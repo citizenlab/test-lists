@@ -546,10 +546,9 @@ https://www.argaam.com/,ECON,Economics,2019-05-02,Netalitica,Saudi-aligned
 https://www.alyaum.com/,NEWS,News Media,2019-05-02,Netalitica,Saudi-aligned
 https://www.radiofarda.com/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
 https://www.voanews.com/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
-https://www.rferl.org/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
 https://www.azadiradio.com/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
 https://www.iraqhurr.org/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
-https://www.mashaalradio.com/,HUMR,Human Rights Issues,2019-05-02,Netalitica,USG-aligned
+https://www.mashaalradio.com/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
 https://www.rfa.org/english/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
 https://www.radiotelevisionmarti.com/,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
 https://www.cia.gov/index.html,NEWS,News Media,2019-05-02,Netalitica,USG-aligned
@@ -954,3 +953,12 @@ http://www.christianmuslimanswers.com/,REL,Religion,2017-10-19,citizenlab,
 http://www.debate.org.uk/,REL,Religion,2017-10-19,citizenlab,
 http://www.mahdi-alumma.com/,REL,Religion,2017-10-19,citizenlab,Cntroversial religious content
 http://www.thekoran.com/,REL,Religion,2017-10-19,citizenlab,
+https://radiofa.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiofa.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azadiradio.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://azadiradio.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
+https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://arij.net/,NEWS,News Media,2023-08-09,test-lists.ooni.org contribution,Investigative journalism working accross Mena
+https://arabfcn.net/,NEWS,News Media,2023-08-11,test-lists.ooni.org contribution,is a grassroots network that works towards fostering transparent and impartial fact-checking in the Arab region
