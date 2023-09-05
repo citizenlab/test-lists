@@ -72,7 +72,6 @@ https://www.ajc.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.amnesty.org.hk/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://chinamediaproject.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.ntd.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://tw.appledaily.com/home/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.bbc.com/zhongwen/simp/,NEWS,News Media,2014-04-15,citizenlab,
 https://eurasianet.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.theguardian.com/technology/series/battle-for-the-internet/,NEWS,News Media,2014-04-15,citizenlab,
@@ -183,7 +182,6 @@ https://matters.news/,HOST,Hosting and Blogging Platforms,2019-05-30,shenzhenlug
 https://github.com/programthink/zhao/issues/38/,POLR,Political Criticism,2019-08-06,,GitHub government takedown notice from 2016-06-08
 https://www.uupt.com/,ECON,Economics,2019-09-09,Netalitica,Express shipping service
 https://www.torrentkitty.tv/,FILE,File-sharing,2019-09-09,Netalitica,"Sharing torrents, mostly porn"
-http://www.zhuixinfan.com/main.php/,FILE,File-sharing,2019-09-09,Netalitica,Movie piracy site
 https://hk.sandsmacao.com/,GMB,Gambling,2019-09-09,Netalitica,Website of a Casino
 https://www.grandlisboahotels.com/zh-hans/,GMB,Gambling,2019-09-09,Netalitica,Website of a Casino
 https://uu.163.com/,GAME,Gaming,2019-09-09,Netalitica,Online gaming accelerator
@@ -205,7 +203,6 @@ http://skype.gmw.cn/,COMT,Communication Tools,2019-09-10,Netalitica,"Online chat
 http://www.goldenhorse.org.tw/,CULTR,Culture,2019-09-10,Netalitica,"Taiwan's major film award, Chinese filmmakers have been forbidden to attend since 2019"
 http://www.bjiff.com/,CULTR,Culture,2019-09-10,Netalitica,Beijing international film festival
 https://www.ctrip.com/,CULTR,Culture,2019-09-10,Netalitica,Hotel and travel booking site
-https://www.btcchina.com/,COMM,E-commerce,2019-09-10,Netalitica,Cryptocurrency exchange
 https://www.tmall.com/,COMM,E-commerce,2019-09-10,Netalitica,Online shopping site
 https://www.yit.com/,COMM,E-commerce,2019-09-10,Netalitica,Design shop
 http://cn.unionpay.com/,ECON,Economics,2019-09-10,Netalitica,Credit card company
@@ -216,7 +213,6 @@ https://linux.cn/,FILE,File-sharing,2019-09-10,Netalitica,Linux news site
 https://www.csdn.net/,FILE,File-sharing,2019-09-10,Netalitica,IT Developer news site
 http://xiazai.sogou.com/,FILE,File-sharing,2019-09-10,Netalitica,Software download site
 http://btbit.org/,FILE,File-sharing,2019-09-10,Netalitica,Bittorrent search engine
-http://guazicili.com/,FILE,File-sharing,2019-09-10,Netalitica,Bittorrent search engine
 https://www.mac.gov.tw/,GOVT,Government,2019-09-10,Netalitica,Mainland Affairs Council of Taiwan is a government agency in charge of affairs with China.
 https://coa.immigration.gov.tw/coa-frontend/overseas-foreign-china/,GOVT,Government,2019-09-10,Netalitica,National Immigration Agency of Taiwan foreigner visa application system
 https://china.usembassy-china.org.cn/zh/,GOVT,Government,2019-09-10,Netalitica,US Embassy in China
@@ -286,7 +282,6 @@ https://www.ixigua.com/,MMED,Media sharing,2019-09-14,Netalitica,Video sharing s
 https://v.qq.com/,MMED,Media sharing,2019-09-14,Netalitica,Video sharing site
 https://live.kuaishou.com/,MMED,Media sharing,2019-09-14,Netalitica,Game livestreaming
 https://chinaqna.com/,NEWS,News Media,2019-09-14,Netalitica,Curated articles from Weixin
-https://www.chainnews.com/,NEWS,News Media,2019-09-14,Netalitica,Blockchain community news
 https://www.businessweekly.com.tw/,NEWS,News Media,2019-09-14,Netalitica,Business news from Taiwan
 http://www.people.cn/,NEWS,News Media,2019-09-14,Netalitica,Biggest newspaper group
 http://www.womenvoice.cn/,NEWS,News Media,2019-09-14,Netalitica,Government organized news focused on women
@@ -384,7 +379,7 @@ http://culture.taiwan.cn/,NEWS,News Media,2019-09-21,Netalitica,Media operated b
 http://www.tibet.cn/,NEWS,News Media,2019-09-21,Netalitica,State-operated media on Tibet
 http://www.cri.cn/,NEWS,News Media,2019-09-21,Netalitica,News site targeted at foreign audience
 http://idemocracy.asia/,POLR,Political Criticism,2019-09-21,Netalitica,Pro-democracy group operating from HK and Taiwan
-https://www.tok.life/,ANON,Anonymization and circumvention tools,2019-09-22,Netalitica,New popular anonymous chat app
+https://tok.life/,ANON,Anonymization and circumvention tools,2019-09-22,Netalitica,New popular anonymous chat app
 http://www.cnr.cn/,NEWS,News Media,2019-09-22,Netalitica,State-operated radio media
 http://epaper.southcn.com/,NEWS,News Media,2019-09-22,Netalitica,Guangdong Province's local government operated newspaper
 http://www.bjd.com.cn/,NEWS,News Media,2019-09-22,Netalitica,Beijing CIty's local government operated newspaper
@@ -392,7 +387,6 @@ https://www.jfdaily.com/home/,NEWS,News Media,2019-09-22,Netalitica,Shanghai CIt
 http://www.cyol.net/,NEWS,News Media,2019-09-22,Netalitica,News operated by the Youth Corp
 https://wallstreetcn.com/,NEWS,News Media,2019-09-22,Netalitica,"Economic news, has been ordered taken down by government"
 http://ctdsb.cnhubei.com/cache/paper_ctdsb.aspx/,NEWS,News Media,2019-09-22,Netalitica,Hubei Province's local private newspaper
-https://hkleaks.ru/,HACK,Hacking Tools,2019-09-24,Netalitica,Doxxing HK activists site
 http://www.fupin.org.cn/,IGO,Intergovernmental Organizations,2019-09-24,Netalitica,Poverty reduction philanthropy organization established by the government
 http://www.iprcc.org.cn/,IGO,Intergovernmental Organizations,2019-09-24,Netalitica,Poverty reduction philanthropy organization established by the government and UN
 http://www.chinacharityfederation.org/,IGO,Intergovernmental Organizations,2019-09-24,Netalitica,Registered charity group
@@ -446,7 +440,6 @@ https://www.thinkingtaiwan.com/,POLR,Political Criticism,2019-09-28,Netalitica,P
 http://minzhuzhongguo.org/,POLR,Political Criticism,2019-09-28,Netalitica,Promoting democracy
 https://humanrightshouse.org/,HUMR,Human Rights Issues,2019-10-03,Netalitica,
 https://www.vox.com/,NEWS,News Media,2019-10-03,Netalitica,Investigative journalism media
-https://368365bet.com/,GMB,Gambling,2019-10-03,Netalitica,
 https://freetibet.org/,HUMR,Human Rights Issues,2019-10-03,Netalitica,
 http://tchrd.org/,HUMR,Human Rights Issues,2019-10-03,Netalitica,
 http://www.tibetpolicy.eu/,HUMR,Human Rights Issues,2019-10-03,Netalitica,
@@ -500,7 +493,6 @@ https://shimo.im/sheets/hPg9t9xT6GtkC3p8/undefined,PUBH,Public Health,2020-02-07
 https://user.guancha.cn/main/content?id=238473&s=fwzxfbbt,PUBH,Public Health,2020-02-07,OONI Partner,
 https://2019-ncov.tsing-care.com/survey.html,PUBH,Public Health,2020-02-07,OONI Partner,
 https://boxmy.hayoou.com/1580562806855/city.html,PUBH,Public Health,2020-02-07,OONI Partner,
-https://2019.ncov.wtf/,PUBH,Public Health,2020-02-07,OONI Partner,
 http://www.gov.cn/fuwu/2020-01/27/content_5472389.htm,PUBH,Public Health,2020-02-07,OONI Partner,
 https://onwh.51rry.com/#/,PUBH,Public Health,2020-02-07,OONI Partner,
 https://wuhan.support/,PUBH,Public Health,2020-02-07,OONI Partner,
@@ -528,7 +520,6 @@ https://www.euronews.com/,NEWS,News Media,2020-04-03,tomacat,
 https://www.nikkei.com/,NEWS,News Media,2020-04-03,tomacat,Japan Economics Newspaper
 https://cn.reuters.com/,NEWS,News Media,2020-04-03,tomacat,
 https://www.881903.com/,NEWS,News Media,2020-04-03,tomacat,Commercial Radio Hong Kong
-https://hk.appledaily.com/,NEWS,News Media,2020-04-03,tomacat,Apple Daily is a Hong Kong-based newspaper
 https://www.hk01.com/,NEWS,News Media,2020-04-03,tomacat,HK01 is a Hong Kong-based online news portal
 https://www.hkej.com/,NEWS,News Media,2020-04-03,tomacat,Hong Kong Economic Journal
 https://www.hket.com/,NEWS,News Media,2020-04-03,tomacat,Hong Kong Economic Times
@@ -554,7 +545,6 @@ https://www.cecc.gov/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly b
 https://www.uscirf.gov/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
 https://www.govtrack.us/,GOVT,Government,2020-11-04,Phong - OTF fellow,Reportedly blocked
 https://thewire.in/,NEWS,News Media,2020-11-04,Phong - OTF fellow,Reportedly blocked
-https://covid-19truth.info/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
 http://covid19song.info/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
 https://covidcon.org/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block
 https://www.covid19classaction.it/,PUBH,Public Health,2021-01-04,Phong - OTF fellow,Coronavirus related and potential DNS block. Italian language site.
