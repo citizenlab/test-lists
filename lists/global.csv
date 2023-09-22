@@ -211,7 +211,7 @@ https://strongvpn.com/,ANON,Anonymization and circumvention tools,2014-04-15,cit
 https://support.therapytribe.com/hivaids-support-group/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://t.co/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://tacticaltech.org/,HUMR,Human Rights Issues,2017-02-17,OONI,
-https://tails.boum.org/,ANON,Anonymization and circumvention tools,2016-08-31,sinarproject,Updated by OONI on 2017-02-14
+https://tails.net/,ANON,Anonymization and circumvention tools,2016-08-31,sinarproject,Updated by OONI on 2017-02-14
 https://technorati.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://thehackernews.com/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://theintercept.com/,NEWS,News Media,2017-08-28,Artigo 19 + CryptoRave + Coding Rights,Jornalismo independente (Mapeamento Artigo 19)
@@ -525,7 +525,7 @@ http://www.honduras.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 
 http://www.hostgator.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.hotbot.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.hotspotshield.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.hrc.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.hrc.org/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.hrea.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.hrusa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.hrw.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -546,7 +546,7 @@ https://www.ictj.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by 
 http://www.idea.int/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.idrc.ca/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.idsoftware.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.iea.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.iea.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.ifad.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://ifeminists.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ifex.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -658,13 +658,13 @@ https://mytrans.com.tw/,COMT,Communication Tools,2014-04-15,citizenlab,Updated b
 http://www.mywebcalls.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.namecheap.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.naral.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.nato.int/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.nato.int/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.nature.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.navy.mil/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://nazarene.org/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-05-31
 http://www.nazi-lauck-nsdapao.com/,HATE,Hate Speech,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.ndi.org/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.ned.org/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.ned.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.neonjoint.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.netaddress.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.netaddress.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -695,7 +695,7 @@ http://www.onlinedating.com/,DATE,Online Dating,2014-04-15,citizenlab,Updated by
 https://www.onlinegambling.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.onlinewomeninpolitics.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.oovoo.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.opec.org/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.opec.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.opendns.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.openpgp.org/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2022-02-27
 https://www.opensocietyfoundations.org/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -857,8 +857,8 @@ http://www.u4.no/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI
 http://www.ucc.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ultimate-anonymity.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.ultimatebirthcontrol.com/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.umc.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.un.int/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.umc.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.un.int/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.un.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.un.org/docs/sc/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.un.org/rights/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -869,7 +869,7 @@ http://www.unhcr.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by 
 https://www.unicef.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.unlockme.co.uk/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://unwatch.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Blocked in China
-http://www.upci.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.upci.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.usacasino.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.usafa.af.mil/,GOVT,Government,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.usaid.gov/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1518,15 +1518,15 @@ https://8kun.top/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists.ooni
 https://www.infowars.com/,NEWS,News Media,2022-08-26,test-lists.ooni.org contribution,
 https://banthis.tv/,NEWS,News Media,2022-08-26,test-lists.ooni.org contribution,
 https://put.io/,FILE,File-sharing,2022-08-26,test-lists.ooni.org contribution,
-https://www.kucoin.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
+https://www.kucoin.com/,COMM,E-commerce,2022-08-26,test-lists.ooni.org contribution,
 https://www.coinex.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://localcryptos.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://hodlhodl.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://localmonero.co/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://blockdx.co/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://wasabiwallet.io/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
-https://bitcoin-mix.org/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
-https://localbitcoins.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
+https://bitcoin-mix.org/,COMM,E-commerce,2022-08-26,test-lists.ooni.org contribution,
+https://localbitcoins.com/,COMM,E-commerce,2022-08-26,test-lists.ooni.org contribution,
 https://coinmarketcap.com/,ECON,Economics,2022-08-12,OONI,
 https://rebellion.global/,ENV,Environment,2022-09-09,OONI,
 https://sea-watch.org/,HUMR,Human Rights Issues,2022-09-09,OONI,
@@ -1593,7 +1593,7 @@ https://www.westernunion.com/,COMM,E-commerce,2023-03-21,anonymous contribution,
 https://drive.google.com/,FILE,File-sharing,2023-03-19,OONI,
 https://www.ivpn.net/,ANON,Anonymization and circumvention tools,2023-03-19,OONI,
 https://breached.vc/,HACK,Hacking Tools,2023-03-19,OONI,
-https://chat.openai.com/,MISC,Miscellaneous content,2023-04-03,test-lists.ooni.org contribution,
+https://chat.openai.com/,SRCH,Search Engines,2023-04-03,test-lists.ooni.org contribution,
 https://www.benarnews.org/,HUMR,Human Rights Issues,2023-04-12,arky,SE.Asian regional HR issues
 https://sputnikglobe.com/,NEWS,News Media,2023-04-20,OONI,
 https://rtr-planeta.com/,NEWS,News Media,2023-04-20,OONI,
@@ -1624,6 +1624,11 @@ https://abortionnetwork.amsterdam/,XED,Sex Education,2023-06-13,gus,
 https://www.plancpills.org/,XED,Sex Education,2023-06-13,gus,
 https://www.reprolegalhelpline.org/,HUMR,Human Rights Issues,2023-06-13,gus,
 https://rumble.com/,MMED,Media sharing,2023-06-15,test-lists.ooni.org contribution,
+http://kremlin.ru/,GOVT,Government,2023-06-24,test-lists.ooni.org contribution,The official website of the President of the Russian Federation
+http://www.fsb.ru/,GOVT,Government,2023-06-24,test-lists.ooni.org contribution,The Federal Security Service of the Russian Federation
+https://ya.ru/,SRCH,Search Engines,2023-06-24,test-lists.ooni.org contribution,Russian search engine
+https://dzen.ru/,HOST,Hosting and Blogging Platforms,2023-06-24,test-lists.ooni.org contribution,Russian blogging and news platform
+https://rutube.ru/,HOST,Hosting and Blogging Platforms,2023-06-24,test-lists.ooni.org contribution,Russian video hosting platform
 https://www.vesti.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
 https://fdroid.tetaneutral.net/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
 https://ftp.fau.de/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
@@ -1631,6 +1636,9 @@ https://mirror.cyberbits.eu/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.
 https://plug-mirror.rcac.purdue.edu/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
 https://mail.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
 https://account.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
+https://bard.google.com/,SRCH,Search Engines,2023-07-25,test-lists.ooni.org contribution,EngageMedia
+https://cinemata.org/,MMED,Media sharing,2023-07-25,test-lists.ooni.org contribution,EngageMedia
+https://linktr.ee/,MISC,Miscellaneous content,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
 https://x.com/,GRP,Social Networking,2023-07-26,test-lists.ooni.org contribution,new domain for Twitter
 https://codeberg.org/,HOST,Hosting and Blogging Platforms,2023-07-05,test-lists.ooni.org contribution,Git Hosting Alternative to GitHub
 https://dn42.dev/Home,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
@@ -1644,7 +1652,6 @@ https://i2pd.website/,ANON,Anonymization and circumvention tools,2023-07-05,test
 https://pulse.internetsociety.org/,IGO,Intergovernmental Organizations,2023-07-05,test-lists.ooni.org contribution,Pulse keeps reporting with #NoExamShutdowns on countries that briefly block the internet to prevent cheating on exams.
 https://proxy.i2phides.me/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,Popular I2P Inproxy
 https://www.y2mate.com/,MMED,Media sharing,2023-08-08,test-lists.ooni.org contribution,Youtube video download site
-http://cdns.grindr.com/,LGBT,LGBT,2023-08-09,test-lists.ooni.org contribution,one of the www.grindr.com endpoints
 https://intelligence.weforum.org/,MISC,Miscelaneous content,2023-08-12,test-lists.ooni.org contribution,
 https://www.khanacademy.org/,MISC,Miscelaneous content,2023-08-12,test-lists.ooni.org contribution,
 https://dartcenter.org/,NEWS,News Media,2023-08-12,test-lists.ooni.org contribution,
@@ -1654,3 +1661,4 @@ https://www.propublica.org/,NEWS,News Media,2023-08-12,test-lists.ooni.org contr
 https://moodle.com/,MISC,Miscelaneous content,2023-08-12,test-lists.ooni.org contribution,
 https://dl.acm.org/,MISC,Miscelaneous content,2023-08-12,test-lists.ooni.org contribution,
 https://www.hyphanet.org/,ANON,Anonymization and circumvention tools,2023-08-12,test-lists.ooni.org contribution,
+https://cdns.grindr.com/,LGBT,LGBT,2023-08-09,test-lists.ooni.org contribution,one of the www.grindr.com endpoints
