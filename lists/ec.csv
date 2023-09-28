@@ -1,9 +1,7 @@
 url,category_code,category_description,date_added,source,notes
 https://www.cannadicina.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,sale of cannabis products
 http://ecuadorcannabico.blogspot.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,pro-legalization of cannabis
-https://shuraec.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,sale of cannabis products
 https://cannalifegye.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,sale of cannabis products
-https://www.cannlivecuador.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,medical cannabis
 https://www.dracannabisec.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,medical cannabis
 https://pharmacannabismedical.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,medical cannabis
 https://licorec.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor industry / sale
@@ -11,18 +9,15 @@ https://andinalicores.com.ec/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,wholesa
 https://bravitosa.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,wholesale liquor sale
 https://distribuidoraquisimalin.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor distributor
 http://www.hernancabezaslicores.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor sale
-https://siflicores.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor sale
 https://elcofredorado.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor sale
 https://licoreria-a-domicilio-quito-la-pinta.negocio.site/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor store at home
 http://lacigarralicores.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor sale
 https://licoreschullavida.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor store at home
 https://lataberna.com.ec/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor sale
 https://www.yositomo.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor store at home
-https://alambiconline.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,liquor sale
 https://paisaseeds.com/,ALDR,Alcohol & Drugs,2021-06-26,Netalitica,marijuana seed shop
 https://tienda.supermercadosantamaria.com/,COMM,E-commerce,2021-06-22,Netalitica,online supermarket
 https://www.coralhipermercados.com/,COMM,E-commerce,2021-06-22,Netalitica,online supermarket
-http://www.orvehogar.com.ec/,COMM,E-commerce,2021-06-22,Netalitica,home appliances store
 https://www.frecuento.com/,COMM,E-commerce,2021-06-22,Netalitica,home appliances store
 https://modarm.com/,COMM,E-commerce,2021-06-22,Netalitica,clothing store
 https://www.novicompu.com/,COMM,E-commerce,2021-06-22,Netalitica,computer store
@@ -77,7 +72,6 @@ https://consultasec.com/,CULTR,Culture,2021-06-24,Netalitica,blog about ecuadori
 https://informacionecuador.com/,CULTR,Culture,2021-06-24,Netalitica,blog about ecuadorian paperwork
 http://adictoec.com/,CULTR,Culture,2021-06-24,Netalitica,blog about ecuadorian paperwork
 https://catabela.com/,CULTR,Culture,2021-06-24,Netalitica,blog about experiences�
-http://www.bipedosdepredadores.com/,CULTR,Culture,2021-06-24,Netalitica,blog about experiences�
 http://fotoreportajesec.blogspot.com/,CULTR,Culture,2021-06-24,Netalitica,blog with ecuadorian people pictures
 https://www.quebakan.com/,CULTR,Culture,2021-07-04,Netalitica,"News, fashion, events website"
 https://hazteverecuador.com/,CULTR,Culture,2021-06-26,Netalitica,varied information about Ecuador
@@ -138,7 +132,6 @@ https://ajeecuador.org/,ECON,Economics,2021-07-09,Netalitica,young entrepreneurs
 https://www.aei.ec/,ECON,Economics,2021-07-09,Netalitica,alliance for entrepreneurship
 https://www.impaqto.net/,ECON,Economics,2021-07-09,Netalitica,consulting and coworking space
 http://cee.org.ec/,ECON,Economics,2021-07-10,Netalitica,business representation
-https://www.todaunavida.gob.ec/,ECON,Economics,2021-07-11,Netalitica,modify the structural conditions of inequality and poverty in Ecuador
 https://www.cepal.org/,ECON,Economics,2021-06-22,Netalitica,Regional/ LATAM
 https://www.cesla.com/,ECON,Economics,2021-06-22,Netalitica,Regional/ LATAM
 https://www.techo.org/ecuador/,ECON,Economics,2021-07-10,Netalitica,settlements to eradicate poverty
@@ -159,8 +152,6 @@ https://ecociencia.org/,ENV,Environment,2021-06-26,Netalitica,Eco-ciencia fundat
 https://www.accionecologica.org/,ENV,Environment,2021-06-26,Netalitica,ecological action
 https://www.efeverde.com/,ENV,Environment,2021-06-26,Netalitica,Efe verde
 https://www.proyectaverde.com/,ENV,Environment,2021-06-26,Netalitica,Proyecta verde
-http://redforestal.org/,ENV,Environment,2021-06-26,Netalitica,Red forestal
-https://redigeo.org/,ENV,Environment,2021-06-26,Netalitica,Redigeo fundation
 https://fundacionlaiguana.org/,ENV,Environment,2021-06-26,Netalitica,La Iguana fundation
 https://chiribogaecuador.wordpress.com/,ENV,Environment,2021-06-26,Netalitica,Chiriboga Foundation ecological project
 http://www.fsembrandoesperanza.org/es/index.php/,ENV,Environment,2021-06-26,Netalitica,Sembrando esperanza
@@ -198,7 +189,6 @@ https://trafficnews.ec/,GMB,Gambling,2021-06-23,Netalitica,casino
 https://apuestasenecuador.com/,GMB,Gambling,2021-06-23,Netalitica,sports bets
 https://apuesta.com.ec/,GMB,Gambling,2021-06-23,Netalitica,sports bets
 https://www.apuestas.com.ec/,GMB,Gambling,2021-06-23,Netalitica,online betting
-https://www.betway.ec/,GMB,Gambling,2021-06-23,Netalitica,sports bets
 https://sportbet.ec/,GMB,Gambling,2021-06-23,Netalitica,sports bets
 https://ecuabet.com/,GMB,Gambling,2021-06-23,Netalitica,sports bets
 https://apostarenecuador.com/,GMB,Gambling,2021-06-23,Netalitica,betting options
@@ -276,14 +266,12 @@ https://odjec.org/,HUMR,Human Rights Issues,2021-06-24,Netalitica,Observatorio d
 https://www.care.org.ec/,HUMR,Human Rights Issues,2021-06-24,Netalitica,CARE- Programs with Gender approach
 https://www.childfund.ec/,HUMR,Human Rights Issues,2021-06-24,Netalitica,Child fund- children`s rights�
 http://www.fundacionaldea.org/,HUMR,Human Rights Issues,2021-06-24,Netalitica,Aldea- development of a sustainable local culture
-http://mujereslunacreciente.com/,HUMR,Human Rights Issues,2021-06-25,Netalitica,Luna creciente- women`s rights
 https://trenzandofeminismos.elchuro.org/,HUMR,Human Rights Issues,2021-06-28,Netalitica,Trenzando feminismos- feminist organization
 https://lafuega.org/,HUMR,Human Rights Issues,2021-06-28,Netalitica,La fuega- women`s rights
 http://lafede.org/,HUMR,Human Rights Issues,2021-06-28,Netalitica,Federaci�n de muejres Sucumbios- Women`s rigts
 https://www.derechoshumanos.gob.ec/,HUMR,Human Rights Issues,2021-06-28,Netalitica,Secretaria de derechos humanos- Human rights
 https://gammaecuador.org/,HUMR,Human Rights Issues,2021-06-28,Netalitica,GAMMA- Human Rights
 https://www.iee.org.ec/,HUMR,Human Rights Issues,2021-07-04,Netalitica,NGO - Instituto de Estudios Ecuatorianos
-https://www.kaleidos.ec/,HUMR,Human Rights Issues,2021-07-04,Netalitica,Centro de etnografia Interdisciplinaria
 https://www.cdh.org.ec/,HUMR,Human Rights Issues,2021-06-30,Netalitica,Comit� Permanente por la Defensa de los Derechos Humanos- Human Rights
 http://hias.org.ec/,IGO,Intergovernmental Organizations,2021-06-23,Netalitica,HIAS- organization that protects the refugee
 https://www.ec.undp.org/,IGO,Intergovernmental Organizations,2021-06-24,Netalitica,Sustainable Development Goals
@@ -296,16 +284,13 @@ https://www.unv.org/es/,IGO,Intergovernmental Organizations,2021-06-28,Netalitic
 https://rostrosdeladiversidad.ec/,LGBT,LGBT,2021-06-24,Netalitica,Rostros de la diversidad- LGBTI Women
 https://www.fequidadecuador.org/,LGBT,LGBT,2021-06-24,Netalitica,Fundaci�n Ecuatoriana Equidad- LGBTI Rights
 https://elclosetlgbt.com/,LGBT,LGBT,2021-06-24,Netalitica,El Closet LGBT - LATAM
-http://amoryfortaleza.org/,LGBT,LGBT,2021-06-24,Netalitica,Fundacion Amor y Fortaleza- ONG for kids and teenagers Trans
 https://vequilibrante.wixsite.com/verdeequilibrante/,LGBT,LGBT,2021-06-24,Netalitica,Fundaci�n Ecuatoriana Verde Equilibrante - sexual diversity
 http://mujerymujer.org/,LGBT,LGBT,2021-06-24,Netalitica,Fundaci�n Mujer & Mujer- lidership for women and LGBTIQ comunity
 https://camaralgbt.com/,LGBT,LGBT,2021-06-24,Netalitica,"La C�mara de Comercio LGBT de Ecuador, support to LGBT comunity in entrepreneurship"
 https://prideconnectionecuador.com/,LGBT,LGBT,2021-06-24,Netalitica,Pride Connection Ecuador- Einclusive spaces for LGBTIQ comunities
 https://nineztrans.com/,LGBT,LGBT,2021-06-24,Netalitica,Fundaci�n de ni�ez trans Ecuador
-https://guayaqueer.com/,LGBT,LGBT,2021-06-25,Netalitica,Guayaqueer- artistic and activist plataform�
 https://revoluciontrans.com/,LGBT,LGBT,2021-06-27,Netalitica,Revoluci�n Trans- Promotes rights of trans populations
 https://orgulloecuador.com/,LGBT,LGBT,2021-06-27,Netalitica,Orgullo Ecuador -organize pride activities
-https://uneslgbt.com/,LGBT,LGBT,2021-06-27,Netalitica,UNES LGBTI por la esperanza�
 https://votolgbt.com/,LGBT,LGBT,2021-06-27,Netalitica,Acuerdo por la Igualdad- help to know the parties that support the equiality of LGBT comunities
 https://museolgbt.com/,LGBT,LGBT,2021-06-27,Netalitica,Museo del Patrimonio LGBT Ecuador- archive that collects the historical processes of LGBT people and who have been or are made invisible�
 https://orgulloguayaquil.com/,LGBT,LGBT,2021-06-27,Netalitica,"El Orgullo Guayaquil, es la organizaci�n de Guayaquil, Ecuador para mostrar los avances en los derechos humanos de las poblaciones LGBT"
@@ -363,7 +348,6 @@ https://latarde.net/,NEWS,News Media,2021-06-21,Netalitica,cuenca news
 https://www.lavozdeltomebamba.com/,NEWS,News Media,2021-06-21,Netalitica,cuenca news
 https://www.elheraldo.com.ec/,NEWS,News Media,2021-06-21,Netalitica,news site
 https://www.elnorte.ec/,NEWS,News Media,2021-06-21,Netalitica,imbabura news
-https://www.lanaciontv.ec/,NEWS,News Media,2021-06-21,Netalitica,ecuadorian news
 https://www.hoy.com.ec/,NEWS,News Media,2021-06-21,Netalitica,news site
 https://cronica.com.ec/,NEWS,News Media,2021-06-21,Netalitica,Loja news
 https://www.diariolosandes.com.ec/,NEWS,News Media,2021-06-21,Netalitica,Riobamba news
@@ -381,7 +365,6 @@ https://lagaceta.com.ec/,NEWS,News Media,2021-06-21,Netalitica,news site
 https://carchialdia.com/,NEWS,News Media,2021-06-21,Netalitica,Carchi news
 https://channelgalapagos.com/,NEWS,News Media,2021-06-21,Netalitica,Galapagos news
 https://www.contenido.com.ec/,NEWS,News Media,2021-06-21,Netalitica,Los Rios news
-http://www.laverdad.ec/,NEWS,News Media,2021-06-21,Netalitica,news site
 https://www.noticiasdelcanar.com/,NEWS,News Media,2021-06-21,Netalitica,Canar news
 https://www.heraldodelcanar.com/,NEWS,News Media,2021-06-21,Netalitica,Canar news
 https://www.tctelevision.com/,NEWS,News Media,2021-06-21,Netalitica,live newscast
@@ -391,7 +374,6 @@ https://confirmado.net/,NEWS,News Media,2021-06-22,Netalitica,ecuadorian and int
 https://ekosnegocios.com/,NEWS,News Media,2021-06-22,Netalitica,business news
 https://www.planv.com.ec/,NEWS,News Media,2021-06-23,Netalitica,journalism
 https://gk.city/,NEWS,News Media,2021-06-23,Netalitica,news site
-https://www.ecuadorenpositivo.com/,NEWS,News Media,2021-06-26,Netalitica,online news
 https://www.eloriente.com/,NEWS,News Media,2021-06-26,Netalitica,Amazon region news
 http://www.pontecool.com/,NEWS,News Media,2021-06-30,Netalitica,ecuadorian and international news
 https://www.pichinchacomunicaciones.com.ec/,NEWS,News Media,2021-07-01,Netalitica,Pichincha news
@@ -415,18 +397,14 @@ https://elcolectivouio.wixsite.com/elcolectivo/,POLR,Political Criticism,2021-06
 https://lakolmenaec.com/,POLR,Political Criticism,2021-06-28,Netalitica,La kolmena
 https://unionporlaesperanza.com/,POLR,Political Criticism,2021-06-28,Netalitica,UNES political party
 https://pachakutik.org/,POLR,Political Criticism,2021-06-28,Netalitica,Pachakutik political party
-https://movimientomanabas.org/index.html/,POLR,Political Criticism,2021-06-28,Netalitica,Movimiento Manabas
 http://www.llacta.org/,POLR,Political Criticism,2021-06-30,Netalitica,Ecuarunari- Indigenous and Social Movements
 https://conaie.org/,POLR,Political Criticism,2021-06-30,Netalitica,CONAIE political party
 https://psocialista.ec/,POLR,Political Criticism,2021-07-01,Netalitica,Partido socialista political party
 http://democraciasi.ec/,POLR,Political Criticism,2021-07-08,Netalitica,Political party Democracia si
-https://ecuatorianounido.com/,POLR,Political Criticism,2021-07-08,Netalitica,Political party Ecuatoriano unido
 https://www.suma.ec/,POLR,Political Criticism,2021-07-08,Netalitica,Political party SUMA
 https://construye.ec/,POLR,Political Criticism,2021-07-08,Netalitica,Political party construye
-https://concertacion51.com/,POLR,Political Criticism,2021-07-08,Netalitica,Political party Concertacion�
 http://www.pcmle.org/EM/,POLR,Political Criticism,2021-07-08,Netalitica,Communist organization
 http://pcecu.org/,POLR,Political Criticism,2021-07-08,Netalitica,Communist party
-https://www.jre-ecuador.ml/,POLR,Political Criticism,2021-07-08,Netalitica,youth political organization
 http://banderaroja.uy/,POLR,Political Criticism,2021-07-12,Netalitica,Left-wing media.
 https://yakuperez.com/,POLR,Political Criticism,2021-07-12,Netalitica,ecuadorian politician
 http://antifascistasecuador.org/,POLR,Political Criticism,2021-07-12,Netalitica,Antifascist Organization
@@ -476,7 +454,6 @@ http://www.investigacionsalud.gob.ec/,PUBH,Public Health,2021-06-30,Netalitica,p
 https://www.plataformalac.org/,PUBH,Public Health,2021-06-30,Netalitica,Regional/LATAM
 https://www.coronavirusecuador.com/,PUBH,Public Health,2021-06-30,Netalitica,COVID info
 http://sesp-ec.com/,PUBH,Public Health,2021-06-30,Netalitica,public healt society
-http://www.calidadsalud.gob.ec/,PUBH,Public Health,2021-06-30,Netalitica,public health quality
 https://hospitalgeneralchone.gob.ec/,PUBH,Public Health,2021-06-30,Netalitica,public hospital
 https://hcam.iess.gob.ec/,PUBH,Public Health,2021-07-09,Netalitica,public hospital
 https://www.donaciontrasplante.gob.ec/,PUBH,Public Health,2021-07-09,Netalitica,donation and transplant institute

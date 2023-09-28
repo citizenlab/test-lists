@@ -69,8 +69,6 @@ http://avn.info.ve/,NEWS,News Media,2016-06-22,veinteligente,
 http://confirmado.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
 http://correodelcaroni.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://cronica.uno/,NEWS,News Media,2016-06-22,veinteligente,
-http://dolarparalelo.biz/,NEWS,News Media,2016-06-22,veinteligente,currently blocked
-http://dolarparalelovenezuela.com/,NEWS,News Media,2016-06-22,veinteligente,"403 error (2020-03-20), currently blocked"
 https://dolartoday.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://dolartoday.info/,NEWS,News Media,2016-06-22,veinteligente,to cloudfront (2016-06-22)
 https://dolartoday.org/,NEWS,News Media,2016-06-22,veinteligente,to cloudfront (2016-06-22)
@@ -82,7 +80,6 @@ http://opinionynoticias.com/,NEWS,News Media,2016-06-22,veinteligente,
 http://sunoticiero.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://vivoplay.net/,NEWS,News Media,2016-06-22,veinteligente,
 http://www.2001.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
-http://www.correodelorinoco.gob.ve/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.elespectador.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.elimpulso.com/,NEWS,News Media,2016-06-22,veinteligente,
 http://www.infobae.media/,NEWS,News Media,2016-06-22,veinteligente,Alternative domain for infomae.com
@@ -117,7 +114,6 @@ https://www.canalrcn.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.clarin.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.diariolavoz.net/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.el-nacional.com/,NEWS,News Media,2016-06-22,veinteligente,
-https://www.elinformador.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.elmundo.es/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.infobae.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.laprensalara.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
@@ -133,7 +129,6 @@ http://capriles.tv/,NEWS,News Media,2016-06-22,veinteligente,monitor
 http://dollar.ru/,NEWS,News Media,2016-06-22,veinteligente,monitor
 http://liberal-venezolano.blogspot.com/,NEWS,News Media,2016-06-22,veinteligente,blocked
 http://www.aguacateverde.com/,NEWS,News Media,2016-06-22,veinteligente,blocked
-http://nuvipa.org/,POLR,Political Criticism,2016-06-22,veinteligente,monitor
 http://partidounnuevotiempo.org/,POLR,Political Criticism,2016-06-22,veinteligente,monitor
 http://www.primerojusticia.org.ve/,POLR,Political Criticism,2016-06-22,veinteligente,monitor
 https://vendata.org/,HUMR,Human Rights Issues,2017-03-05,OONI,
@@ -198,7 +193,6 @@ https://www.notitarde.com/,NEWS,News Media,2018-10-04,OONI,
 https://www.ntn24.com/,NEWS,News Media,2018-10-04,OONI,Reportedly blocked (in the past)
 https://www.primicia.com.ve/,NEWS,News Media,2018-10-04,OONI,
 http://cantv.net/,NEWS,News Media,2018-10-04,OONI,monitor
-http://unnuevotiempo.org/,POLR,Political Criticism,2018-10-04,OONI,monitor
 https://evtvmiami.com/,NEWS,News Media,2019-02-28,OONI,Reportedly blocked
 https://venezuelaaidlive.com/,POLR,Political Criticism,2019-02-28,OONI,Reportedly blocked
 https://puntodecorte.com/,NEWS,News Media,2020-03-18,VE sin Filtro / veinteligente,Blocked
@@ -221,12 +215,10 @@ http://laclase.info/,NEWS,News Media,2020-03-19,Netalitica,
 http://www.opinionynoticias.com/,NEWS,News Media,2020-03-19,Netalitica,
 https://solucionesparavenezuela.org/,POLR,Political Criticism,2020-03-19,Netalitica,
 https://unionrepublicanademocratica.blogspot.com/,POLR,Political Criticism,2020-03-19,Netalitica,
-https://www.lacausar.org/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
 https://www.acciondemocratica.org/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
 http://copei.org.ve/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
 http://banderaroja.com.ve/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
 http://solidaridadindependiente.blogspot.com/,POLR,Political Criticism,2020-03-19,Netalitica,Desactualizada (2011)
-http://www.pptoficial.org.ve/,POLR,Political Criticism,2020-03-19,Netalitica,
 http://crvnacional.blogspot.com/,POLR,Political Criticism,2020-03-19,Netalitica,
 https://partidoupv.wordpress.com/,POLR,Political Criticism,2020-03-19,Netalitica,
 http://mareasocialista.org/,POLR,Political Criticism,2020-03-19,Netalitica,
@@ -242,7 +234,6 @@ https://observatoriodeviolencia.org.ve/,HUMR,Human Rights Issues,2020-03-20,Neta
 http://comiteddhhguajira.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://derechoshumanosincide.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://oportunidadong.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://www.codhez.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://unaventanaalalibertad.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://sinergia.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.excubitusdhe.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
@@ -268,32 +259,25 @@ http://catedradelapaz.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netaliti
 http://www.cnpven.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://humanoderecho.com/,NEWS,News Media,2020-03-20,Netalitica,
 https://comunicas.org/,NEWS,News Media,2020-03-20,Netalitica,
-https://www.somos-venezuela.org/,POLR,Political Criticism,2020-03-20,Netalitica,
 http://institutoprogresista.org/,POLR,Political Criticism,2020-03-20,Netalitica,
 https://www.stopvih.org/,PUBH,Public Health,2020-03-20,Netalitica,
 https://www.funcamama.org/,PUBH,Public Health,2020-03-20,Netalitica,
-http://www.aanonimos.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 https://avessoc.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 https://www.aciva.net.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 http://asovida.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,last updated in 2016
 http://colegiopsicologoscapital.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,last updated in 2018
 http://www.cardioamigos.org/,PUBH,Public Health,2020-03-20,Netalitica,
 http://noalosbiopolimeros.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,last updated in 2017
-http://www.operacionsonrisa.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
-http://www.fundahipertension.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 http://sentidovih.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,
-https://www.fundasidarta.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 http://meressere.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,last updated in 2017
 http://musasvenezuela.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,
 https://www.ovsalud.org/,PUBH,Public Health,2020-03-20,Netalitica,
-http://www.provive.com.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 http://proyectolumen.org/,PUBH,Public Health,2020-03-20,Netalitica,
 http://svcardiologia.org/es/,PUBH,Public Health,2020-03-20,Netalitica,
 http://www.elhumanoinfinito.net/,REL,Religion,2020-03-20,Netalitica,
 http://www.feyalegria.org/,CULTR,Culture,2020-03-25,Netalitica,
 http://latierraprimero.blogspot.com/,ENV,Environment,2020-03-25,Netalitica,
 http://phynatura.blogspot.com/,ENV,Environment,2020-03-25,Netalitica,
-https://www.aveaguagwp.net/,ENV,Environment,2020-03-25,Netalitica,
 https://www.andigena.org/,ENV,Environment,2020-03-25,Netalitica,
 http://fundacionlasalle.org.ve/,ENV,Environment,2020-03-25,Netalitica,
 http://www.museomarino.com/,ENV,Environment,2020-03-25,Netalitica,
@@ -327,7 +311,6 @@ http://ofsdevenezuela.blogspot.com/,REL,Religion,2020-03-25,Netalitica,
 https://www.avec.org.ve/,REL,Religion,2020-03-25,Netalitica,
 https://www.mercadolibre.com.ve/,COMM,E-commerce,2020-03-27,Netalitica,
 https://iqoption.com/,COMM,E-commerce,2020-03-27,Netalitica,"trading, forex, criptos with a lot of inauthentic traffic"
-https://www.cinecalidad.to/,FILE,File-sharing,2020-03-27,Netalitica,
 https://www.patria.org.ve/,GOVT,Government,2020-03-27,Netalitica,
 http://seniat.gob.ve/,GOVT,Government,2020-03-27,Netalitica,
 http://www.bloquedearmas.com/,NEWS,News Media,2020-03-27,Netalitica,
@@ -340,7 +323,6 @@ https://bodcabodegon.com/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
 http://www.glasgow.com.ve/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
 http://limoca.com.ve/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
 https://licoreriasgrupocanarias.com/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
-https://licoresmaxinorcenter.com/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
 http://www.civea.org/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
 https://www.cannabisn24.com/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
 https://ciudadcannabis.com/,ALDR,Alcohol & Drugs,2020-03-28,Netalitica,
@@ -350,7 +332,6 @@ https://windscribe.com/,ANON,Anonymization and circumvention tools,2020-03-28,Ne
 https://tunnelbear.com/,ANON,Anonymization and circumvention tools,2020-03-28,Netalitica,currently blocked
 https://guuao.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.locanto.com.ve/,COMM,E-commerce,2020-03-28,Netalitica,
-https://surbitcoin.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.payoneer.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.chase.com/,COMM,E-commerce,2020-03-28,Netalitica,Bank used in VE as alternative to difficult use of local currency
 https://www.banesco.com.pa/,COMM,E-commerce,2020-03-28,Netalitica,Bank used in VE as alternative to difficult use of local currency
@@ -365,7 +346,6 @@ https://www.fiverr.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://libertyexpress.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://venezuela.wanuncios.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.planetavenezuela.com.ve/,COMM,E-commerce,2020-03-28,Netalitica,
-http://claxi.com.ve/,COMM,E-commerce,2020-03-28,Netalitica,
 http://ve.clasificados.com/,COMM,E-commerce,2020-03-28,Netalitica,
 https://clasificados.vip/,COMM,E-commerce,2020-03-28,Netalitica,
 https://www.ubiipagos.com/,COMM,E-commerce,2020-03-28,Netalitica,
@@ -381,9 +361,7 @@ https://www.amigae.com/,DATE,Online Dating,2020-03-28,Netalitica,
 https://ilovia-latam.com/,DATE,Online Dating,2020-03-28,Netalitica,
 http://aguacateverde1.blogspot.com/,ECON,Economics,2020-03-28,Netalitica,"Currently blocked, despite being outdated"
 http://dolar-permuta.com/,ECON,Economics,2020-03-28,Netalitica,currently blocked
-http://dolarparalelo.net/,ECON,Economics,2020-03-28,Netalitica,currently blocked
 http://dolarparalelo.org/,ECON,Economics,2020-03-28,Netalitica,currently blocked
-http://dolarparalelo.tk/,ECON,Economics,2020-03-28,Netalitica,currently blocked
 http://www.conindustria.org/,ECON,Economics,2020-03-28,Netalitica,
 http://internetintel.oracle.com/,ECON,Economics,2020-03-28,Netalitica,
 http://ioda.caida.org/,ECON,Economics,2020-03-28,Netalitica,
@@ -394,7 +372,6 @@ https://www.cerebriti.com/,GAME,Gaming,2020-03-28,Netalitica,
 https://www.parleyvenezuela.com/,GMB,Gambling,2020-03-28,Netalitica,
 https://apuestasonline.net/venezuela/,GMB,Gambling,2020-03-28,Netalitica,
 https://parley.la/,GMB,Gambling,2020-03-28,Netalitica,
-https://www.ona.gob.ve/,GOVT,Government,2020-03-28,Netalitica,
 http://www.guardia.mil.ve/,GOVT,Government,2020-03-28,Netalitica,
 https://yaracuy.gob.ve/,GOVT,Government,2020-03-28,Netalitica,
 https://www.justice.gov/,GOVT,Government,2020-03-28,Netalitica,
@@ -413,14 +390,11 @@ https://www.oas.org/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
 https://www.caf.com/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
 https://www.mercosur.int/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
 https://www.redlgbtidevenezuela.org/,LGBT,LGBT,2020-03-28,Netalitica,
-https://www.directvplay.com/,MMED,Media sharing,2020-03-28,Netalitica,
-https://www.inspirulina.com/,NEWS,News Media,2020-03-28,Netalitica,
 http://www.bancaynegocios.com/,NEWS,News Media,2020-03-28,Netalitica,
 http://tureporte.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://venezuelaaldia.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://www.quepasa.com.ve/,NEWS,News Media,2020-03-28,Netalitica,
 https://www.revistavenezolana.com/,NEWS,News Media,2020-03-28,Netalitica,
-http://www.vidaagro.com.ve/,NEWS,News Media,2020-03-28,Netalitica,
 http://meridiano.com.ve/,NEWS,News Media,2020-03-28,Netalitica,"Has been blocked, currelty redirects to meridiano.net  (2020-03-28)"
 http://meridiano.net/,NEWS,News Media,2020-03-28,Netalitica,
 http://antena3internacional.com/,NEWS,News Media,2020-03-28,Netalitica,
@@ -440,7 +414,6 @@ https://es.panampost.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://www.radiofeyalegrianoticias.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://serviciodeinformacionpublica.com/,NEWS,News Media,2020-03-28,Netalitica,
 http://guayoyoenletras.net/,NEWS,News Media,2020-03-28,Netalitica,
-https://konzapata.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://www.voanoticias.com/,NEWS,News Media,2020-03-28,Netalitica,
 https://www.conelmazodando.com.ve/,POLR,Political Criticism,2020-03-28,Netalitica,
 https://haimaneltroudi.com/,POLR,Political Criticism,2020-03-28,Netalitica,
@@ -516,7 +489,6 @@ https://www.elcomercio.com/,NEWS,News Media,2020-04-13,Netalitica,
 https://laopinion.com/,NEWS,News Media,2020-04-13,Netalitica,
 https://noticias.caracoltv.com/,NEWS,News Media,2020-04-13,Netalitica,
 https://www.caracoltv.com/senal-vivo/,NEWS,News Media,2020-04-13,Netalitica,
-http://planemergencianacional.com/,PUBH,Public Health,2020-04-14,Netalitica,Related to Venezuelan presidential crisis of 2019
 https://ioda.caida.org/,HUMR,Human Rights Issues,2020-04-15,Netalitica,Internet outages monitoring
 https://eln-voces.net/,MILX,Terrorism and Militants,2020-04-15,Netalitica,
 https://radiocomunitariala.wixsite.com/lapiedrita951fm/,MILX,Terrorism and Militants,2020-04-15,Netalitica,
@@ -531,7 +503,6 @@ https://1fichier.com/,FILE,File-sharing,2020-04-17,Netalitica,
 https://www.y8.com/,GAME,Gaming,2020-04-17,Netalitica,
 https://www.derechosdigitales.org/,HUMR,Human Rights Issues,2020-04-17,Netalitica,
 https://www.xataka.com/,HACK,Hacking Tools,2020-04-17,Netalitica,
-http://www.mdivenezuela.org/,POLR,Political Criticism,2020-04-17,Netalitica,
 https://www.livejasmin.com/en/girls/,PORN,Pornography,2020-04-17,Netalitica,
 https://www.worldometers.info/coronavirus/country/venezuela/,PUBH,Public Health,2020-04-17,Netalitica,
 https://gisanddata.maps.arcgis.com/,PUBH,Public Health,2020-04-17,Netalitica,
@@ -548,7 +519,6 @@ https://www.mirales.es/,LGBT,LGBT,2020-05-08,Netalitica,
 https://sinetiquetas.org/,LGBT,LGBT,2020-05-08,Netalitica,
 https://www.homosensual.com/,LGBT,LGBT,2020-05-08,Netalitica,
 https://hablemosdesexo.com/,XED,Sex Education,2020-05-08,Netalitica,
-https://www.unifertes.com/,XED,Sex Education,2020-05-08,Netalitica,
 https://cazadoresdefakenews.info/,POLR,Political Criticism,2021-08-20,OONI,Reportedly blocked in Cuba
 https://vesinfiltro.org/,HUMR,Human Rights Issues,2023-03-19,OONI,
 https://sputniknews.lat/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,

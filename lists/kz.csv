@@ -2,12 +2,10 @@ url,category_code,category_description,date_added,source,notes
 http://www.akorda.kz/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.dumaem.ru/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.kazbio.info/,CULTR,Culture,2014-04-15,citizenlab,
-http://blogos.kz/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.blog.kz/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://ajur.kz/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.adilsoz.kz/,HUMR,Human Rights Issues,2014-04-15,citizenlab,media rights NGO reportedlly blocked in KZ
 https://medianet.kz/,HUMR,Human Rights Issues,2014-04-15,citizenlab,focus on journalism and freedom of speech in Central Asia
-http://gay.kz/,LGBT,LGBT,2014-04-15,citizenlab,
 http://eurasia.org.ru/,NEWS,News Media,2014-04-15,citizenlab,Eurasia focus - blocked in the past; not updated since 2013
 http://minber.kz/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.dialog.kz/,NEWS,News Media,2014-04-15,citizenlab,
@@ -17,12 +15,10 @@ http://www.nomad.su/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.presscenter.kz/,NEWS,News Media,2014-04-15,citizenlab,site for journalism
 http://www.radiomayak.ru/,NEWS,News Media,2014-04-15,citizenlab,
 https://zonakz.net/,NEWS,News Media,2014-04-15,citizenlab,independent news site popular as a discussion platform. DDoS attacked
-http://www.strana.kz/ru/search.phtml/,DATE,Online Dating,2014-04-15,citizenlab,
 http://socialismkz.info/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.spik.kz/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://islam.ru/,REL,Religion,2014-04-15,citizenlab,
 https://vse.kz/,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.as-ansar.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://ct.kz/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 https://www.cars.com/,CTRL,Control content,2014-04-15,citizenlab,
 https://www.award.kz/,CULTR,Culture,2014-04-15,citizenlab,
@@ -39,7 +35,6 @@ http://www.kub.kz/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.titus.kz/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.nur.kz/,NEWS,News Media,2014-04-15,citizenlab,
 http://namba.kz/#!/,FILE,File-sharing,2014-04-15,citizenlab,
-http://astana.gov.kz/,NEWS,News Media,2014-04-15,citizenlab,
 https://yvision.kz/explore/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.moviesarena.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.freeproxy.ru/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
@@ -70,12 +65,8 @@ https://www.almatinki.com/,PROV,Provocative Attire,2014-04-15,citizenlab,
 https://www.astaninki.com/,PROV,Provocative Attire,2014-04-15,citizenlab,
 https://www.muftyat.kz/kz/,REL,Religion,2014-04-15,citizenlab,
 https://yandex.kz/,SRCH,Search Engines,2014-04-15,citizenlab,also news platform and email service
-http://respublika-kaz.info/,POLR,Political Criticism,2014-04-15,citizenlab,"old domain of critical resource, keep monitoring"
 http://respublika-kz.blogspot.ru/,POLR,Political Criticism,2014-04-15,citizenlab,"outdated portal of critical website, keep monitoring"
-http://respublika-kz.com/,POLR,Political Criticism,2014-04-15,citizenlab,"critical resource not accessible, keep monitoring"
 http://sarap.kz/,POLR,Political Criticism,2014-04-15,citizenlab,"not updated since 2018, keep monitoring"
-http://www.ablyazov.info/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://guljan.org/,POLR,Political Criticism,2014-04-15,citizenlab,"opposition medium in the ppast, now - coloring images - monitor"
 https://www.bbc.com/kyrgyz/,NEWS,News Media,2017-07-19,BBC,
 https://www.bbc.com/uzbek/,NEWS,News Media,2017-07-19,BBC,
 https://leader.ru/secure/,ANON,Anonymization and circumvention tools,2018-03-26,igorv,Reportedly blocked
@@ -134,9 +125,7 @@ http://gamsoft.ru/,GMB,Gambling,2019-05-25,Netalitica,
 http://www.annacasino.ru/,GMB,Gambling,2019-05-25,Netalitica,
 http://www.casinoking.com/,GMB,Gambling,2019-05-25,Netalitica,
 http://xn--80aaifmgl1achx.xn--p1ai/,GMB,Gambling,2019-05-25,Netalitica,
-https://goldfishka66.com/,GMB,Gambling,2019-05-25,Netalitica,
 https://stoloto.ru/,GMB,Gambling,2019-05-25,Netalitica,Lotto Russia
-https://www.russiancasino.com/,GMB,Gambling,2019-05-25,Netalitica,
 http://www.hateit.ru/,HATE,Hate Speech,2019-05-25,Netalitica,
 http://www.fairhost.ru/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
 http://hrights.ru/,HUMR,Human Rights Issues,2019-05-25,Netalitica,
@@ -192,7 +181,6 @@ http://slanet.kz/,COMM,E-commerce,2019-05-30,Netalitica,classifieds
 http://www.ekomissionka.kz/,COMM,E-commerce,2019-05-30,Netalitica,classifieds
 http://www.i-r.kz/,COMM,E-commerce,2019-05-30,Netalitica,classifieds
 https://arbuz.kz/,COMM,E-commerce,2019-05-30,Netalitica,
-https://irr.kz/,COMM,E-commerce,2019-05-30,Netalitica,classifieds
 https://kazfin.info/,COMM,E-commerce,2019-05-30,Netalitica,currency exchange rates
 https://www.mechta.kz/,COMM,E-commerce,2019-05-30,Netalitica,
 http://on.kz/,HOST,Hosting and Blogging Platforms,2019-05-30,Netalitica,
@@ -207,7 +195,6 @@ https://altaynews.kz/ru/,NEWS,News Media,2019-05-30,Netalitica,news portal for E
 https://baigenews.kz/,NEWS,News Media,2019-05-30,Netalitica,
 https://baq.kz/,NEWS,News Media,2019-05-30,Netalitica,
 https://diapazon.kz/,NEWS,News Media,2019-05-30,Netalitica,
-https://i-news.kz/,NEWS,News Media,2019-05-30,Netalitica,
 https://kapital.kz/,NEWS,News Media,2019-05-30,Netalitica,business news
 https://khabar.kz/kk/,NEWS,News Media,2019-05-30,Netalitica,
 https://mgorod.kz/,NEWS,News Media,2019-05-30,Netalitica,news portal for West part of KZ
@@ -240,8 +227,6 @@ http://dev.chromium.org/,HOST,Hosting and Blogging Platforms,2019-08-15,Netaliti
 https://www.blogger.com/about/?r=1-null_user/,HOST,Hosting and Blogging Platforms,2019-08-15,Netalitica,blocked in 2012 for access to political posts
 http://usrf.us/,HUMR,Human Rights Issues,2019-08-15,Netalitica,US foundation blocked in Russia
 https://bambuser.com/,MMED,Media sharing,2019-08-15,Netalitica,"video streaming site, blocked since 2012"
-https://openrussia.org/,HUMR,Human Rights Issues,2019-08-15,Netalitica,blocked in Russia - for upstrem filtering test
-https://or.team/,HUMR,Human Rights Issues,2019-08-15,Netalitica,blocked in Russia - for upstrem filtering test
 https://www.usrf.us/,HUMR,Human Rights Issues,2019-08-15,Netalitica,US foundation blocked in Russia
 http://bluesystem.ru/,LGBT,LGBT,2019-08-15,Netalitica,blocked in Russia
 https://lgbti-ep.eu/,LGBT,LGBT,2019-08-15,Netalitica,
@@ -277,7 +262,6 @@ https://satu.kz/,COMM,E-commerce,2019-11-11,Netalitica,online shopping
 https://shop.kz/,COMM,E-commerce,2019-11-11,Netalitica,online shopping
 https://www.flip.kz/,COMM,E-commerce,2019-11-11,Netalitica,online shopping
 https://www.lamoda.kz/,COMM,E-commerce,2019-11-11,Netalitica,online shopping
-http://detki.kz/,NEWS,News Media,2019-11-11,Netalitica,women's focus
 http://ivest.kz/,NEWS,News Media,2019-11-11,Netalitica,business focus
 http://kerekinfo.kz/,NEWS,News Media,2019-11-11,Netalitica,light content
 http://tv7.kz/,NEWS,News Media,2019-11-11,Netalitica,TV channel
@@ -336,7 +320,6 @@ https://radiomayak.ru/,NEWS,News Media,2019-11-17,Netalitica,popular Russian rad
 http://sprashivai.ru/,GRP,Social Networking,2019-11-17,Netalitica,
 http://www.narkotiki.ru/,ALDR,Alcohol & Drugs,2019-12-09,Netalitica,
 http://www.nodrugs.ru/,ALDR,Alcohol & Drugs,2019-12-09,Netalitica,
-http://forum.lingvolive.com/,COMT,Communication Tools,2019-12-09,Netalitica,forum for linguists
 http://mamadu.ru/transl.htm/,COMT,Communication Tools,2019-12-09,Netalitica,online dictionaries
 http://www.netman.ru/,COMT,Communication Tools,2019-12-09,Netalitica,
 http://www.nextmail.ru/,COMT,Communication Tools,2019-12-09,Netalitica,email service
@@ -346,9 +329,7 @@ http://www.scepsis.ru/,CULTR,Culture,2019-12-09,Netalitica,
 https://araxgroup.ru/,COMM,E-commerce,2019-12-09,Netalitica,business software
 https://www.1c-bitrix.ru/,COMM,E-commerce,2019-12-09,Netalitica,Russian software company
 https://ecodefense.ru/,ENV,Environment,2019-12-09,Netalitica,green organization
-https://greenpeace.ru/,ENV,Environment,2019-12-09,Netalitica,Greenpeace Russia
 http://alein.org/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
-http://kinobolt.ru/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 http://megatfile.cc/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 http://nnmclub.to/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 http://seedoff.zannn.top/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
@@ -359,8 +340,6 @@ https://nnmclub.to/forum/search.php?search_author=psycrow17/,FILE,File-sharing,2
 https://rutracker.org/forum/index.php/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 https://tapochek.net/index.php/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 https://torrents3d.ru/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
-http://ru.onlinecasinos5.ru/,GMB,Gambling,2019-12-09,Netalitica,
-https://goldfishka68.com/,GMB,Gambling,2019-12-09,Netalitica,
 https://grand-casino0.com/grand/,GMB,Gambling,2019-12-09,Netalitica,
 https://www.goldfishka.ru/,GMB,Gambling,2019-12-09,Netalitica,
 http://www.blogdir.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,blogging platform
@@ -390,7 +369,6 @@ https://lenta.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 https://ria.ru/,NEWS,News Media,2019-12-09,Netalitica,RIA news
 https://tass.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian information agency TASS
 https://www.bbc.com/russian/,NEWS,News Media,2019-12-09,Netalitica,
-https://www.golos-ameriki.ru/,NEWS,News Media,2019-12-09,Netalitica,VOA - Russia
 https://www.interfax.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 https://www.rbc.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 http://dating.ru/,DATE,Online Dating,2019-12-09,Netalitica,
@@ -427,7 +405,6 @@ https://mail.rambler.ru/,COMT,Communication Tools,2019-12-18,Netalitica,popular 
 https://www.msn.com/ru-ru/,COMT,Communication Tools,2019-12-18,Netalitica,MSN service in Russian
 http://medicalj.ru/,PUBH,Public Health,2019-12-18,Netalitica,articles on mediical topics
 https://medi.ru/,PUBH,Public Health,2019-12-18,Netalitica,drugs information repository
-https://vitaportal.ru/,PUBH,Public Health,2019-12-18,Netalitica,healthy lifestyle and diet
 https://www.03.ru/,PUBH,Public Health,2019-12-18,Netalitica,medical consultaitons online
 https://www.webapteka.ru/,PUBH,Public Health,2019-12-18,Netalitica,online drug store
 https://azbyka.ru/,REL,Religion,2019-12-18,Netalitica,
@@ -435,7 +412,6 @@ https://islam-today.ru/,REL,Religion,2019-12-18,Netalitica,
 https://go.mail.ru/,SRCH,Search Engines,2019-12-18,Netalitica,
 https://www.sputnik.ru/,SRCH,Search Engines,2019-12-18,Netalitica,search engine and news platform
 https://yandex.ru/,SRCH,Search Engines,2019-12-18,Netalitica,"popular search engine, and email service"
-http://vkrugudruzei.ru/reg/,GRP,Social Networking,2019-12-18,Netalitica,
 https://career.habr.com/,GRP,Social Networking,2019-12-18,Netalitica,career search site
 https://fotostrana.ru/,GRP,Social Networking,2019-12-18,Netalitica,
 https://molodost.bz/,GRP,Social Networking,2019-12-18,Netalitica,focus on business relations
