@@ -1665,13 +1665,10 @@ https://dnsleaktest.com/,HACK,Hacking Tools,2023-10-02,test-lists.ooni.org contr
 https://test-ipv6.com/,COMT,Communication Tools,2023-10-02,test-lists.ooni.org contribution,
 https://www.internetsociety.org/,ECON,Economics,2023-10-02,test-lists.ooni.org contribution,
 https://www.privacidade.digital/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
-https://geti2p.net/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
-https://www.laquadrature.net/,HUMR,Human Rights,2023-10-02,test-lists.ooni.org contribution,
+https://www.laquadrature.net/,HUMR,Human Rights Issues,2023-10-02,test-lists.ooni.org contribution,
 https://www.chromium.org/,HACK,Hacking Tools,2023-10-02,test-lists.ooni.org contribution,
 https://arxiv.org/,FILE,File-sharing,2023-10-02,test-lists.ooni.org contribution,
-https://ssd.eff.org/,HUMR,Human Rights,2023-10-02,test-lists.ooni.org contribution,
-https://tutanota.com/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
-https://brave.com/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
+https://ssd.eff.org/,HUMR,Human Rights Issues,2023-10-02,test-lists.ooni.org contribution,
 https://leap.se/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
 https://www.babbel.com/,COMM,E-commerce,2023-10-09,test-lists.ooni.org contribution,
 https://www.videolan.org/,FILE,File-sharing,2023-10-09,test-lists.ooni.org contribution,
@@ -1682,9 +1679,8 @@ https://moodle.org/,COMM,E-commerce,2023-10-09,test-lists.ooni.org contribution,
 https://we.riseup.net/,HOST,Hosting and Blogging Platforms,2023-10-09,test-lists.ooni.org contribution,
 https://prism-break.org/,ANON,Anonymization and circumvention tools,2023-10-09,test-lists.ooni.org contribution,
 https://bsky.app/,GRP,Social Networking,2023-10-09,test-lists.ooni.org contribution,
-https://threema.ch/,ANON,Anonymization and circumvention tools,2023-10-09,test-lists.ooni.org contribution,
 https://bughunters.google.com/,HACK,Hacking Tools,2023-10-15,test-lists.ooni.org contribution,
 https://toolbox.googleapps.com/,HACK,Hacking Tools,2023-10-15,test-lists.ooni.org contribution,
 https://jw.org/,REL,Religion,2023-09-30,test-lists.ooni.org contribution,Official website of Jehovah's Witnesses
 https://kick.com/,MMED,Media sharing,2023-10-04,test-lists.ooni.org contribution,Gaming and livestreaming platform
-https://dlive.tv/,MMED,Media sharing,2023-10-04,test-lists.ooni.org contribution,Livestreaming platform
+https://dlive.tv/,HOST,Hosting and Blogging Platforms,2023-10-04,test-lists.ooni.org contribution,Livestreaming platform
