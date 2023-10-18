@@ -9,7 +9,6 @@ http://www.concordwines.com.hk/dev/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.eccevino.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.mycellarhk.com/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.redwine.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
-http://www.winemaster.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 http://www.winetown.com.hk/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 https://cellarmasterwines.com/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
 https://hkwineclub.boutir.com/,ALDR,Alcohol & Drugs,2020-07-14,Netalitica,
@@ -49,7 +48,6 @@ https://www.wellcome.com.hk/,COMM,E-commerce,2020-07-08,Netalitica,
 https://shop.three.com.hk/home/,COMM,E-commerce,2020-07-09,Netalitica,
 https://shopee.com.hk/,COMM,E-commerce,2020-07-09,Netalitica,
 https://shopline.hk/en/,COMM,E-commerce,2020-07-09,Netalitica,
-https://www.bigbigshop.com/,COMM,E-commerce,2020-07-09,Netalitica,
 https://www.chicle.com.hk/en/home.php/,COMM,E-commerce,2020-07-09,Netalitica,
 https://www.hksuning.com/,COMM,E-commerce,2020-07-09,Netalitica,
 https://www.lingsik.com/,COMM,E-commerce,2020-07-09,Netalitica,
@@ -59,7 +57,6 @@ https://www.ashop.com.hk/,COMM,E-commerce,2022-07-10,Netalitica,
 https://www.jetsoclub.com/,COMM,E-commerce,2022-07-18,Netalitica,
 https://world.taobao.com/,COMM,E-commerce,2020-07-09,Netalitica,
 https://hk.mail.yahoo.com/,COMT,Communication Tools,2020-07-18,Netalitica,
-https://www.net2phone.com.hk/,COMT,Communication Tools,2020-07-18,Netalitica,
 https://im.qq.com/pcqq/,COMT,Communication Tools,2020-07-20,Netalitica,
 https://mail.qq.com/,COMT,Communication Tools,2020-07-20,Netalitica,
 https://www.microsoft.com/zh-hk/microsoft-365/microsoft-teams/group-chat-software/,COMT,Communication Tools,2020-07-20,Netalitica,
@@ -104,7 +101,6 @@ https://www.hkepc.com/,CULTR,Culture,2020-07-19,Netalitica,
 http://timable.com/,CULTR,Culture,2020-07-20,Netalitica,
 https://hypebeast.com/zh/,CULTR,Culture,2020-07-20,Netalitica,
 https://post76.hk/portal.php/,CULTR,Culture,2020-07-20,Netalitica,
-https://gardemagazine.com/,CULTR,Culture,2020-07-09,Netalitica,site appears dead and blocked on several ASNs - monitor
 https://www.discoverhongkong.com/uk/index.html/,CULTR,Culture,2022-07-18,Netalitica,
 https://www.mpweekly.com/,CULTR,Culture,2022-08-12,Netalitica,
 http://www.modernchineseliterature.net/,CULTR,Culture,2020-07-09,Netalitica,
@@ -132,7 +128,6 @@ https://www.shhk.org/,ECON,Economics,2022-07-10,Netalitica,
 http://cleartheair.org.hk/,ENV,Environment,2020-07-07,Netalitica,
 http://greensense.org.hk/,ENV,Environment,2020-07-07,Netalitica,
 http://www.designinghongkong.com/v4/,ENV,Environment,2020-07-07,Netalitica,
-http://www.earth.org.hk/,ENV,Environment,2020-07-07,Netalitica,
 http://www.greeners-action.org/,ENV,Environment,2020-07-07,Netalitica,
 http://www.greenpengchau.org.hk/,ENV,Environment,2020-07-07,Netalitica,
 http://www.taipoea.org.hk/index.php/,ENV,Environment,2020-07-07,Netalitica,
@@ -237,7 +232,6 @@ https://www.cybersecurity.hk/tc/index.php/,HACK,Hacking Tools,2020-07-18,Netalit
 http://linux.vbird.org/,HACK,Hacking Tools,2020-07-19,Netalitica,
 https://alwaysfreesir.blogspot.com/,HACK,Hacking Tools,2020-07-19,Netalitica,
 https://www.20cn.net/,HACK,Hacking Tools,2020-07-19,Netalitica,
-https://cyberrange.hk/,HACK,Hacking Tools,2020-07-18,Netalitica,dead website but appears blocked on select ASNs - monitor
 https://matters.news/,HOST,Hosting and Blogging Platforms,2019-08-30,OONI partner,
 https://blog.ulifestyle.com.hk/,HOST,Hosting and Blogging Platforms,2020-07-08,Netalitica,
 http://blog.qooza.hk/,HOST,Hosting and Blogging Platforms,2020-07-19,Netalitica,
@@ -254,7 +248,6 @@ https://www.charlotteinwhite.com/blog/,HOST,Hosting and Blogging Platforms,2020-
 https://www.fanpiece.com/,HOST,Hosting and Blogging Platforms,2020-07-19,Netalitica,
 https://www.herbaceousteas.com/blog/,HOST,Hosting and Blogging Platforms,2020-07-19,Netalitica,
 https://www.pixnet.net/blog/,HOST,Hosting and Blogging Platforms,2020-07-19,Netalitica,
-https://xuite.net/,HOST,Hosting and Blogging Platforms,2020-07-19,Netalitica,
 https://zh-hk.wordpress.org/,HOST,Hosting and Blogging Platforms,2020-07-19,Netalitica,
 https://blog.stheadline.com/,HOST,Hosting and Blogging Platforms,2020-07-20,Netalitica,
 https://hk.iherb.com/blog/,HOST,Hosting and Blogging Platforms,2020-07-20,Netalitica,
@@ -271,7 +264,6 @@ http://www.skhlmc-em.org/,HUMR,Human Rights Issues,2020-07-09,Netalitica,
 https://hkcscheer.net/,HUMR,Human Rights Issues,2020-07-09,Netalitica,
 https://humanrightspressawards.org/zh-hant/,HUMR,Human Rights Issues,2020-07-09,Netalitica,
 http://www.chosenpower.org/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
-http://www.stophk.org/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
 http://www.unison.org.hk/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
 https://aaf.org.hk/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
 https://www.forum-asia.org/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
@@ -283,7 +275,6 @@ https://www.justicecentre.org.hk/,HUMR,Human Rights Issues,2020-07-19,Netalitica
 https://www.nchrd.org/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
 https://www.rightsexposure.org/,HUMR,Human Rights Issues,2020-07-19,Netalitica,
 https://hka8964.wordpress.com/,HUMR,Human Rights Issues,2019-07-10,OONI partner,webpage closedown due to its politically sensitive topicn. Not blocked at the moment - monitor
-https://www.amnesty.org.hk/,HUMR,Human Rights Issues,2019-07-10,OONI partner,Service stopped. Not blocked. Monitor. Amnesty International has left Hong Kong due to political pressure https://www.amnesty.org/en/latest/news/2022/05/amnesty-international-has-left-hong-kong-but-there-will-still-be-candles-in-the-darkness/
 https://www.hkcro.org/,HUMR,Human Rights Issues,2019-07-10,OONI partner,Service stopped - Hong Kong Citizen Rights Organization terminated its operation due to political environment change. Monitor
 https://www.hrw.org/zh-hant/tag/hong-kong/,HUMR,Human Rights Issues,2022-07-15,Netalitica,
 https://www.plan.org.hk/,HUMR,Human Rights Issues,2022-07-15,Netalitica,
@@ -378,10 +369,8 @@ https://www2.hkej.com/,NEWS,News Media,2020-07-21,Netalitica,
 https://www.scmp.com/news/hong-kong/law-and-crime/article/3096679/hong-kong-national-security-law-media-mogul-jimmy-lai/,NEWS,News Media,2020-08-10,Netalitica,
 https://www.msn.com/zh-hk/news/,NEWS,News Media,2020-07-19,Netalitica,
 http://www.mybb.com.hk/,NEWS,News Media,2020-07-20,Netalitica,
-https://hk.appledaily.com/,NEWS,News Media,2019-07-10,OONI partner,Apple Daily closed after national security agents investigation. closedown due to political environment change. Not blocked. Monitor
 https://thehousenewsbloggers.net/,NEWS,News Media,2019-07-10,OONI partner,The owner closed its operation due to political pressure. Not blocked
 https://thestandnews.com/,NEWS,News Media,2019-07-10,OONI partner,The House closed after national security agent freezed its bank account and arrested the management team members. Monitor
-https://www.nextdigital.com.hk/,NEWS,News Media,2019-07-10,OONI partner,Apple Daily closed after national security agents investigation. Monitor
 https://www.post852.com/,NEWS,News Media,2020-06-29,Netalitica,The owner closed its operation due to financial and political pressure. Monitor
 http://www.hkcna.hk/,NEWS,News Media,2022-08-12,Netalitica,
 https://www.voacantonese.com/,NEWS,News Media,2022-08-12,Netalitica,
@@ -426,7 +415,6 @@ http://wangyujian.hku.hk/?lang=zh-hant/,POLR,Political Criticism,2020-07-21,Neta
 http://www.martinlee.org.hk/,POLR,Political Criticism,2020-07-21,Netalitica,
 https://darwinchan.wordpress.com/,POLR,Political Criticism,2020-07-21,Netalitica,
 https://npp.org.hk/npp/,POLR,Political Criticism,2020-07-21,Netalitica,
-https://simonshen.blog/,POLR,Political Criticism,2020-07-21,Netalitica,
 https://www.bpahk.org/,POLR,Political Criticism,2020-07-21,Netalitica,
 https://www.facebook.com/hongkongpda/,POLR,Political Criticism,2020-07-21,Netalitica,keep for control purposes
 https://www.facebook.com/HongkongSeparatism/,POLR,Political Criticism,2020-07-21,Netalitica,keep for control purposes
@@ -434,13 +422,9 @@ https://hkchronicles.com/,POLR,Political Criticism,2021-01-07,citizenlab,blocked
 https://blockedbyhk.com/,POLR,Political Criticism,2021-01-19,Community member,Additional domain for hkchronicles.com
 https://8964museum.com/,POLR,Political Criticism,2021-09-29,Community member,Reportedly blocked site
 https://www.demosisto.hk/,POLR,Political Criticism,2019-08-30,OONI partner,Demosisto disbanded due to political pressure. Monitor
-http://itvoice.hk/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
 https://hkimperium.com/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
 https://hkplg.org/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
-https://neodemocrats.org.hk/,POLR,Political Criticism,2020-06-29,Netalitica,political group dissolved in 2021 due to change of political environment. Appears blocked on few ASNs. Monitor
-https://www.hkctu.org.hk/zh-hant/,POLR,Political Criticism,2020-06-29,Netalitica,Hong Kong Confederation of Trade Unions disbanded due to political environment change. Monitor
 https://www.wemaker.hk/,POLR,Political Criticism,2020-06-29,Netalitica,dead website but appears blocked on select ASNs - monitor
-http://civicpassion.hk/,POLR,Political Criticism,2020-07-21,Netalitica,political party disbanded in 2021 due to political environment change. Still blovked on few ASNs. Monitor
 https://www.bauhinia.hk/,POLR,Political Criticism,2022-07-20,Netalitica,
 https://www.pori.hk/,POLR,Political Criticism,2022-08-12,Netalitica,This is Robert Chung's independent political opinion polling website. Could be considered as political criticism. 
 https://groups.google.com/g/2ncn/c/MMm0pFSWqVQ?pli=1,POLR,Political Criticism,2022-08-12,Netalitica,

@@ -1,5 +1,4 @@
 url,category_code,category_description,date_added,source,notes
-http://233today.com/,GRP,Social Networking,2016-11-24,OONI,
 http://3news.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://Easytrackghana.com/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 http://Ghana-net.com/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
@@ -19,10 +18,8 @@ http://cocobod.gh/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercia
 http://culturalcollaborative.org/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 http://dailyguideafrica.com/,NEWS,News Media,2016-11-23,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://data.gov.gh/,ENV,Environment,2016-11-30,OONI partner,"Pollution, international environmental treaties, deforestation, environmental justice, disasters, etc."
-http://datacenta.com/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
 http://datememateme.com/dating/ghana/accra-ghana/accra-33,DATE,Online Dating,2016-11-24,OONI,
 http://desiredland.wixsite.com/glorygcfi,REL,Religion,2016-11-24,OONI,
-http://druginfo.adf.org.au/,ALDR,Alcohol & Drugs,2016-11-24,OONI,
 http://drumghana.tripod.com/multiculturalstudies/,CULTR,Culture,2016-11-24,OONI,
 http://eleganthomesgh.com/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
 http://elminabayresort.com/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
@@ -50,7 +47,6 @@ http://ghanaianlens.com/,NEWS,News Media,2016-11-30,OONI partner,"This category 
 http://ghanaladies.com/,COMM,E-commerce,2016-11-24,OONI,
 http://ghanalodging.com/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
 http://ghanamoviechannel.tv/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
-http://ghanaparadise.com/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
 http://ghanapoliticsonline.com/,POLR,Political Criticism,2016-11-24,OONI,
 http://ghanaproperty.org/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
 http://ghanasafaritours.com/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
@@ -77,11 +73,9 @@ http://lavenderlodgeghana.com/,CULTR,Culture,2016-11-30,OONI partner,"Content re
 http://maafo-visions.com/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 http://members.ghanaweb.com/dating/,DATE,Online Dating,2016-11-24,OONI,
 http://mingle2.com/online-dating/carriacou/ghana/gay-personals,LGBT,LGBT,2016-11-24,OONI,
-http://mmofraghana.org/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 http://mofa.gov.gh/site/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://moys.gov.gh/moys/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://mplaza-hotel.com/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
-http://mypaddies.com/,GRP,Social Networking,2016-11-24,OONI,
 http://niitghana.com/,COMM,E-commerce,2016-11-30,OONI partner,Websites of commercial services and products
 http://nkrumah.net/,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 http://omgvoice.com/,NEWS,News Media,2016-11-24,OONI,
@@ -123,23 +117,18 @@ http://www.alcoholanddrugshistorysociety.org/,ALDR,Alcohol & Drugs,2016-11-24,OO
 http://www.amazon.com/,COMM,E-commerce,2016-11-24,OONI,
 https://www.amnesty.org/en/countries/africa/ghana/,HUMR,Human Rights Issues,2016-11-24,OONI,
 http://www.apostlescontinuation.org/,REL,Religion,2016-11-24,OONI,
-http://www.asempaonline.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://www.baahe.com/,COMM,E-commerce,2016-11-24,OONI,
 http://www.bahai.org/national-communities/ghana,REL,Religion,2016-11-24,OONI,
-http://www.bantamasdachurch.org/,REL,Religion,2016-11-24,OONI,
 https://www.bog.gov.gh/,GOVT,Government,2016-11-24,OONI,
 http://www.capecoast.anglican.org/,REL,Religion,2016-11-24,OONI,
 http://www.chathour.com/members/room/ghana/chat,LGBT,LGBT,2016-11-24,OONI,
-http://www.cheki.com.gh/,COMM,E-commerce,2016-11-24,OONI,
 http://www.choicefmghana.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://www.chrajghana.com/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.christiancouncilgh.org/,REL,Religion,2016-11-24,OONI,
 http://www.citifmonline.com/,NEWS,News Media,2016-11-24,OONI,
 http://www.copyright.gov.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.creativestormghana.com/,COMM,E-commerce,2016-11-24,OONI,
-http://www.csagchildghana.org/,HUMR,Human Rights Issues,2016-11-24,OONI,
 http://www.cstc.gov.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
-http://www.disabilityghana.org/,HUMR,Human Rights Issues,2016-11-24,OONI,
 http://www.dvla.gov.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.ec.gov.gh/,GOVT,Government,2016-11-24,OONI,
 http://www.ecgonline.info/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
@@ -149,11 +138,9 @@ http://www.eskimi.com/,GRP,Social Networking,2016-11-24,OONI,
 http://www.estis.net/sites/ghana/,ENV,Environment,2016-11-24,OONI,
 http://www.everyculture.com/ge-it/ghana.html,CULTR,Culture,2016-11-24,OONI,
 http://www.fdaghana.gov.gh/,ALDR,Alcohol & Drugs,2016-11-24,OONI,
-http://www.gaf.mil.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.gbcghana.com/home,NEWS,News Media,2016-11-29,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://www.gcaa.com.gh/extweb/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.gfdgh.org/,HUMR,Human Rights Issues,2016-11-24,OONI,
-http://www.gfzb.gov.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.ghana-mining.org/GhanaIMS/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.ghana.com/,NEWS,News Media,2016-11-24,OONI,
 http://www.ghana.gov.gh/,GOVT,Government,2016-11-24,OONI,
@@ -178,7 +165,6 @@ http://www.grahamghana.wordpress.com/,HOST,Hosting and Blogging Platforms,2016-1
 http://www.graphic.com.gh/,NEWS,News Media,2016-11-24,OONI,
 http://www.graphic.com.gh/features/features/how-to-bypass-electronic-communication-censorship.html,ANON,Anonymization and circumvention tools,2016-11-24,OONI,
 http://www.gsa.gov.gh/,GOVT,Government,2016-11-24,OONI,
-http://www.hitzfmonline.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://www.hourofevangelism.20fr.com/,REL,Religion,2016-11-24,OONI,
 http://www.hracghana.org/,HUMR,Human Rights Issues,2016-11-24,OONI,
 https://www.hrw.org/africa/ghana,HUMR,Human Rights Issues,2016-11-24,OONI,
@@ -221,7 +207,6 @@ http://www.nkrumah.net/,HOST,Hosting and Blogging Platforms,2016-11-24,OONI,
 http://www.ogvoghana.org/,HUMR,Human Rights Issues,2016-11-24,OONI,
 http://www.ohcs.gov.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.okayfmonline.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
-http://www.olx.com.gh/,COMM,E-commerce,2016-11-24,OONI,
 http://www.onclickads.net/,COMM,E-commerce,2016-11-24,OONI,
 http://www.parliament.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.peacefmonline.com/,NEWS,News Media,2016-11-24,OONI,
@@ -234,9 +219,7 @@ http://www.rgd.gov.gh/,GOVT,Government,2016-11-24,OONI,
 http://www.ringier.com.gh/en,CULTR,Culture,2016-11-30,OONI partner,"Content relating to entertainment, history, literature, music, film, books, satire and humour"
 http://www.schoolgh.com/,CULTR,Culture,2016-11-24,OONI,
 http://www.sheeltech.com/,COMM,E-commerce,2016-11-24,OONI,
-http://www.store.souqafrique.com/,COMM,E-commerce,2016-11-24,OONI,
 http://www.sweetmelodiesfm.com/index.php/en/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
-http://www.tcpghana.gov.gh/,GOVT,Government,2016-11-30,OONI partner,"Government-run websites, including military sites."
 http://www.techbaron.com/,HOST,Hosting and Blogging Platforms,2016-11-24,OONI,
 http://www.thepiratebay.org/,FILE,File-sharing,2016-11-24,OONI,
 http://www.thestatesmanonline.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
@@ -249,6 +232,5 @@ https://www.websoftghana.com/,COMM,E-commerce,2016-11-24,OONI,
 http://www.xfm951.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 http://www.yafca.com/,REL,Religion,2016-11-24,OONI,
 http://www.yea.gov.gh/,GOVT,Government,2016-11-24,OONI,
-http://www.zoobashop.com/,COMM,E-commerce,2016-11-24,OONI,
 http://yfmghana.com/,NEWS,News Media,2016-11-30,OONI partner,"This category includes major news outlets (BBC, CNN, etc.) as well as regional news outlets and independent media"
 https://www.ghanaweb.com/GhanaHomePage/NewsArchive/CSE-If-you-lose-guard-you-ll-be-trapped-into-LGBT-Baako-warns-785875,LGBT,LGBT,2019-11-18,OutRight International,
