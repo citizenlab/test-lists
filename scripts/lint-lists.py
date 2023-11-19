@@ -65,7 +65,7 @@ class TestListErrorWithValue(TestListError):
         print(msg)
 
 class InvalidHeader(TestListError):
-    name = 'Invalid Column Number'
+    name = 'Invalid Header'
 
 class InvalidColumnNumber(TestListError):
     name = 'Invalid Column Number'
