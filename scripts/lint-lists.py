@@ -64,6 +64,9 @@ class TestListErrorWithValue(TestListError):
             msg += ' ({})'.format(self.details)
         print(msg)
 
+class InvalidHeader(TestListError):
+    name = 'Invalid Header'
+
 class InvalidColumnNumber(TestListError):
     name = 'Invalid Column Number'
 
@@ -149,7 +152,11 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
             continue
         with open(csv_path, 'r', encoding='utf-8') as in_file:
             reader = csv.reader(in_file, delimiter=',')
-            next(reader) # skip header
+            first_line = next(reader)
+            if first_line != header:
+                errors.append(
+                    InvalidHeader(csv_path, 0)
+                )
             urls_bag = set()
             errors = []
             rows = []
