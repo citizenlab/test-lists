@@ -118,7 +118,7 @@ https://jainworld.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 201
 https://jezebel.com/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-05-31
 http://justicewomen.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.kabobfest.com/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-02-21
-http://kickassclassical.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.kickassclassical.com/,CULTR,Culture,2014-04-15,citizenlab,Updated on 2023-11-17
 https://kidshealth.org/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://krishna.com/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-05-31
 https://laborrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -923,13 +923,12 @@ http://www.wordreference.com/enfr/test,COMT,Communication Tools,2014-04-15,citiz
 http://www.worldbank.org/,ECON,Economics,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.worldhealth.net/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.worldjewishcongress.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.worldrtd.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://wfrtds.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on 2023-11-17
 https://www.worldwildlife.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.xbox.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.xenu.net/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-02-21
 http://www.xinhuanet.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.xroxy.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.worldrtd.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.worldwildlife.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.xbox.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.xroxy.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1681,7 +1680,7 @@ https://prism-break.org/,ANON,Anonymization and circumvention tools,2023-10-09,t
 https://bsky.app/,GRP,Social Networking,2023-10-09,test-lists.ooni.org contribution,
 https://bughunters.google.com/,HACK,Hacking Tools,2023-10-15,test-lists.ooni.org contribution,
 https://toolbox.googleapps.com/,HACK,Hacking Tools,2023-10-15,test-lists.ooni.org contribution,
-https://jw.org/,REL,Religion,2023-09-30,test-lists.ooni.org contribution,Official website of Jehovah's Witnesses
+https://www.jw.org/,REL,Religion,2023-09-30,test-lists.ooni.org contribution,Official website of Jehovah's Witnesses
 https://kick.com/,MMED,Media sharing,2023-10-04,test-lists.ooni.org contribution,Gaming and livestreaming platform
 https://dlive.tv/,HOST,Hosting and Blogging Platforms,2023-10-04,test-lists.ooni.org contribution,Livestreaming platform
 https://www.jabber.ru/,COMT,Communication Tools,2023-10-31,Contributation over Git,"jabber.ru has been attacked, furthermore some ISPs block Russian sites"
