@@ -209,7 +209,6 @@ https://www.btcchina.com/,COMM,E-commerce,2019-09-10,Netalitica,Cryptocurrency e
 https://www.tmall.com/,COMM,E-commerce,2019-09-10,Netalitica,Online shopping site
 https://www.yit.com/,COMM,E-commerce,2019-09-10,Netalitica,Design shop
 http://cn.unionpay.com/,ECON,Economics,2019-09-10,Netalitica,Credit card company
-https://www.openstreetmap.org/,ENV,Environment,2019-09-10,Netalitica,"Open map site. In China, it is illegal to make maps without approval"
 http://map.sogou.com/,ENV,Environment,2019-09-10,Netalitica,Map
 https://www.dytt8.net/index.htm/,FILE,File-sharing,2019-09-10,Netalitica,Movie piracy site
 https://linux.cn/,FILE,File-sharing,2019-09-10,Netalitica,Linux news site
@@ -405,7 +404,6 @@ https://www.iyouport.org/,POLR,Political Criticism,2019-09-24,Netalitica,Digital
 http://miliao.com/,GRP,Social Networking,2019-09-24,Netalitica,Chat app
 https://www.abc.net.au/,NEWS,News Media,2019-09-27,Netalitica,Australian Broadcasting Company
 https://www.worldcat.org/,SRCH,Search Engines,2019-09-27,Netalitica,International library search
-https://arxiv.org/,CULTR,Culture,2019-09-27,Netalitica,Research publication site
 https://www.zoom.cn/,COMT,Communication Tools,2019-09-27,Netalitica,"Zoom teleconferencing tool, Chinese version"
 https://www.researchgate.net/publication/255967143_Demographic_Trends_Policy_Influences_and_Economic_Effects_in_China_and_India_Through_2025/,CULTR,Culture,2019-09-27,Netalitica,Research publication site
 https://www.icourse163.org/,CULTR,Culture,2019-09-27,Netalitica,Online courses
@@ -544,7 +542,6 @@ https://www.oxfordscholarship.com/,NEWS,News Media,2020-04-03,tomacat,Oxford Uni
 https://news.ycombinator.com/,GRP,Social Networking,2020-04-03,tomacat,
 https://share.america.gov/,GOVT,Government,2020-04-03,tomacat,
 https://pds.nasa.gov/,GOVT,Government,2020-04-03,tomacat,
-https://prism-break.org/,HACK,Hacking Tools,2020-04-03,tomacat,
 https://blog.cryptographyengineering.com/,HACK,Hacking Tools,2020-04-03,tomacat,Matthew Green's cryptographic blog
 http://citizenlab.org/,HUMR,Human Rights Issues,2020-04-03,tomacat,
 https://www.project-syndicate.org/,POLR,Political Criticism,2020-04-03,tomacat,

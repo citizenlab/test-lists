@@ -763,7 +763,6 @@ http://www.ispovednik.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.itar-tass.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.iucn.ru/,ENV,Environment,2014-04-15,citizenlab,
 http://www.jino.ru/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://www.jw.org/en/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.kanal-o.ru/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 https://www.karusel-tv.ru/,NEWS,News Media,2018-05-28,ksenia,Order of the President of Ukraine 126
 http://www.kasparov.ru/,NEWS,News Media,2014-04-15,citizenlab,
@@ -1033,3 +1032,7 @@ https://ua.krymr.com/,NEWS,News Media,2022-10-26,test-lists.ooni.org contributio
 https://ru.krymr.com/,NEWS,News Media,2022-10-26,test-lists.ooni.org contribution,
 https://diia.gov.ua/,GOVT,Government,2023-03-14,test-lists.ooni.org contribution,"Default e-gov app of Ukraine, test if blocked on RU-occupied areas"
 http://fdroid.astra.in.ua/,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+https://samizdatonline.org/,NEWS,News Media,2023-10-15,test-lists.ooni.org contribution,News media helping people to tell their stories despite government's censorship
+https://jinrieluosi.cn/,NEWS,News Media,2023-10-01,test-lists.ooni.org contribution,Russian propaganda 'Rossiya segodnya' in Chinese
+https://rossiyasegodnya.com/,NEWS,News Media,2023-10-01,test-lists.ooni.org contribution,Russian propaganda 'Rossiya segodnya' in English
+https://hochuzhit.com/,GOVT,Government,2023-10-18,test-lists.ooni.org contribution,Instruction for military personnel of the Russian Federation and the Republic of Belarus upon voluntary surrender. Added to test on occupied Ukranian territories
