@@ -67,7 +67,7 @@ https://docs.google.com/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI
 https://download.cnet.com/Freegate/3000-2085_4-10415391.html,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://drugs-forum.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://duckduckgo.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://earth-liberation-front.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://earthliberationfront.com/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://ebuddy.com/,GRP,Social Networking,2014-04-15,citizenlab,"Updated on 2022-02-21, website under construction"
 https://www.emailaddresses.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated on 2022-02-21
 https://emchurch.org/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-02-21
@@ -202,7 +202,7 @@ https://www.sierraclub.org/,ENV,Environment,2014-04-15,citizenlab,Updated on 202
 https://site.voicepulse.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://sites.google.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://slashdot.org/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://sourceforge.net/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://sourceforge.net/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://sourceforge.net/projects/loic/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://spideroak.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://spys.one/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated on 2022-05-31
@@ -1684,3 +1684,31 @@ https://www.jw.org/,REL,Religion,2023-09-30,test-lists.ooni.org contribution,Off
 https://kick.com/,MMED,Media sharing,2023-10-04,test-lists.ooni.org contribution,Gaming and livestreaming platform
 https://dlive.tv/,HOST,Hosting and Blogging Platforms,2023-10-04,test-lists.ooni.org contribution,Livestreaming platform
 https://www.jabber.ru/,COMT,Communication Tools,2023-10-31,Contributation over Git,"jabber.ru has been attacked, furthermore some ISPs block Russian sites"
+https://bitmask.net/,ANON,Anonymization and circumvention tools,2023-12-14,test-lists.ooni.org contribution,
+https://enigmail.net/,COMT,Communication Tools,2023-12-14,test-lists.ooni.org contribution,
+https://theconversation.com/global,NEWS,News Media,2023-12-14,test-lists.ooni.org contribution,
+https://scmp.com/,NEWS,News Media,2023-12-14,test-lists.ooni.org contribution,
+https://putty.org/,HACK,Hacking Tools,2023-12-14,test-lists.ooni.org contribution,
+https://openssh.com/,HACK,Hacking Tools,2023-12-14,test-lists.ooni.org contribution,
+https://ipleak.net/,HACK,Hacking Tools,2023-12-14,test-lists.ooni.org contribution,
+https://dnsmap.io/,HACK,Hacking Tools,2023-12-14,test-lists.ooni.org contribution,
+https://culturalsurvival.org/,HUMR,Human Rights Issues,2023-12-14,test-lists.ooni.org contribution,
+https://youthforhumanrights.org/,HUMR,Human Rights Issues,2023-12-14,test-lists.ooni.org contribution,
+https://hg.org/,HUMR,Human Rights Issues,2023-12-14,test-lists.ooni.org contribution,
+https://cfr.org/,POLR,Political Criticism,2023-12-14,test-lists.ooni.org contribution,
+https://ciel.org/,ENV,Environment,2023-12-14,test-lists.ooni.org contribution,
+https://foei.org/,ENV,Environment,2023-12-14,test-lists.ooni.org contribution,
+https://baptistworld.org/,REL,Religion,2023-12-14,test-lists.ooni.org contribution,
+https://jilworldwide.org/,REL,Religion,2023-12-14,test-lists.ooni.org contribution,
+https://worldmethodistcouncil.org/,REL,Religion,2023-12-14,test-lists.ooni.org contribution,
+https://openlibrary.org/,CULTR,Culture,2023-12-14,test-lists.ooni.org contribution,
+https://lgbtqbar.org/,LGBT,LGBT,2023-12-16,test-lists.ooni.org contribution,
+https://theweek.com/,NEWS,News Media,2023-12-16,test-lists.ooni.org contribution,
+https://www.straitstimes.com/global,NEWS,News Media,2023-12-16,test-lists.ooni.org contribution,
+https://www.channelnewsasia.com/international,NEWS,News Media,2023-12-16,test-lists.ooni.org contribution,
+https://www.arabtimesonline.com/,NEWS,News Media,2023-12-16,test-lists.ooni.org contribution,
+https://www.thenationalnews.com/,NEWS,News Media,2023-12-16,test-lists.ooni.org contribution,
+https://www.loveme.com/,DATE,Online Dating,2023-12-16,test-lists.ooni.org contribution,
+https://www.gcatholic.org/,REL,Religion,2023-12-16,test-lists.ooni.org contribution,
+https://catholicculture.org/,REL,Religion,2023-12-16,test-lists.ooni.org contribution,
+https://catholicdirectory.com/,REL,Religion,2023-12-16,test-lists.ooni.org contribution,
