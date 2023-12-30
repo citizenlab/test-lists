@@ -1,9 +1,7 @@
 url,category_code,category_description,date_added,source,notes
 http://www.14tula.com/,CULTR,Culture,2014-04-15,citizenlab,14 October 1973 memorial (for 14 October B.E. 2516 demonstration) [th]
-https://www.asiasoft.net/,CULTR,Culture,2014-04-15,citizenlab,"Asia Soft, a computer games developer [en]"
 https://www.baanrak.com/,DATE,Online Dating,2014-04-15,citizenlab,"Dating, horoscope [th]"
 http://www.dateinasia.com/,DATE,Online Dating,2014-04-15,citizenlab,Date in Asia. A dating site. [en]
-http://www.thailove.com/,DATE,Online Dating,2014-04-15,citizenlab,Thai Dating website - in English language [en]
 http://www.tff.or.th/,ECON,Economics,2014-04-15,citizenlab,"Thai Fund Foundation, supports works of local and regional civil society groups"
 https://adeq.or.th/,ENV,Environment,2014-04-15,citizenlab,Association for the Development of Environmental Quality [th]
 https://biothai.net/,ENV,Environment,2014-04-15,citizenlab,"Biodiversity, sustainable agriculture, food sovereignty group [th] [en]"
@@ -41,7 +39,7 @@ http://www.bangkokrainbow.org/,LGBT,LGBT,2014-04-15,citizenlab,"Bangkok Rainbow 
 https://www.fridae.asia/,LGBT,LGBT,2014-04-15,citizenlab,Fridae - connecting gay Asia [en] [zh]
 http://www.gthai.net/,LGBT,LGBT,2014-04-15,citizenlab,Thailand's gay portal
 https://www.utopia-asia.com/,LGBT,LGBT,2014-04-15,citizenlab,Asian gay and lesbian resource [en]
-https://www.utopia-asia.com/tipsthai.htm/,LGBT,LGBT,2014-04-15,citizenlab,Information for LGBT in Thailand [en]
+https://www.utopia-asia.com/tipsthai.htm,LGBT,LGBT,2014-04-15,citizenlab,Information for LGBT in Thailand [en]
 http://www.thaicounsel.com/,CULTR,Culture,2014-04-15,citizenlab,Professional training. Run by Psychology Hotline Institute. [th]
 http://www.flickr.com/people/prachatai/,MMED,Media sharing,2014-04-15,citizenlab,Flickr account of Prachatai newspapers
 http://www.asianpacificpost.com/,NEWS,News Media,2014-04-15,citizenlab,Asian Pacific Post [en]
