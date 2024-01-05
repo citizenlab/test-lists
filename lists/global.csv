@@ -1211,7 +1211,7 @@ https://www.sbs.com.au/language/coronavirus?cid=infocus,NEWS,News Media,2020-04-
 https://write.as/,HOST,Hosting and Blogging Platforms,2020-05-18,thebaer,Getting reports of domain issues in Indonesia
 https://www.gutenberg.org/,CULTR,Culture,2020-05-18,eshellman,Public domain site targeted by copyright extremists
 https://letsencrypt.org/,HOST,Hosting and Blogging Platforms,2020-05-20,OONI,
-http://ocsp.int-x3.letsencrypt.org/,HOST,Hosting and Blogging Platforms,2020-05-20,OONI,
+http://r3.o.lencr.org/,HOST,Hosting and Blogging Platforms,2020-05-20,OONI,
 https://discord.com/,COMT,Communication Tools,2020-06-04,Chelchela,
 https://zoom.us/,COMT,Communication Tools,2020-06-04,Chelchela,
 https://www.tiktok.com/,GRP,Social Networking,2019-09-27,Netalitica,Short video sharing site
@@ -1686,3 +1686,16 @@ https://dlive.tv/,HOST,Hosting and Blogging Platforms,2023-10-04,test-lists.ooni
 https://www.jabber.ru/,COMT,Communication Tools,2023-10-31,Contributation over Git,"jabber.ru has been attacked, furthermore some ISPs block Russian sites"
 https://worldcouncilforhealth.org/,PUBH,Public Health,2023-12-08,test-lists.ooni.org contribution,
 https://www.arukikata.co.jp/,CULTR,Culture,2023-12-08,test-lists.ooni.org contribution,
+https://use-application-dns.net/,CTRL,Control content,2023-12-18,Arturo,firefox DoT canary domain
+https://www.vpnunlimited.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.cyberghostvpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://hide.me/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://zenvpn.net/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.surfeasy.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://1.1.1.1/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://lantern.io/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://orbot.app/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://privatevpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.expressvpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://trustvpn.me/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.vpngate.net/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
