@@ -1684,8 +1684,6 @@ https://www.jw.org/,REL,Religion,2023-09-30,test-lists.ooni.org contribution,Off
 https://kick.com/,MMED,Media sharing,2023-10-04,test-lists.ooni.org contribution,Gaming and livestreaming platform
 https://dlive.tv/,HOST,Hosting and Blogging Platforms,2023-10-04,test-lists.ooni.org contribution,Livestreaming platform
 https://www.jabber.ru/,COMT,Communication Tools,2023-10-31,Contributation over Git,"jabber.ru has been attacked, furthermore some ISPs block Russian sites"
-https://worldcouncilforhealth.org/,PUBH,Public Health,2023-12-08,test-lists.ooni.org contribution,
-https://www.arukikata.co.jp/,CULTR,Culture,2023-12-08,test-lists.ooni.org contribution,
 https://use-application-dns.net/,CTRL,Control content,2023-12-18,Arturo,firefox DoT canary domain
 https://www.vpnunlimited.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
 https://www.cyberghostvpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
