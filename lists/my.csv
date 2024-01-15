@@ -62,6 +62,7 @@ https://search.malaysiadirectory.com/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://new.medicine.com.my/,XED,Sex Education,2014-04-15,citizenlab,
 https://ecentral.my/,XED,Sex Education,2014-04-15,citizenlab,
 https://www.malaysia-today.net/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://malaysia-today.net/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.unodc.org/southeastasiaandpacific/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 https://mir.com.my/,CULTR,Culture,2014-04-15,citizenlab,
 https://allmalaysia.info/,CULTR,Culture,2014-04-15,citizenlab,
@@ -136,7 +137,6 @@ https://harakahdaily.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.irrawaddy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://jeffooi.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://komas.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.malaysia-today.net//,NEWS,News Media,2014-04-15,citizenlab,
 https://www.newsweek.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.nst.com.my/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.orientaldaily.com.my/,NEWS,News Media,2014-04-15,citizenlab,
@@ -524,3 +524,7 @@ https://www.malaysianow.com/,NEWS,News Media,2023-06-28,test-lists.ooni.org cont
 https://weechookeong.com/,POLR,Political Criticism,2023-08-01,sinarproject,Blog belonging to former MP. Found blocked in Malaysia
 https://tvpertiwi.com.my/,NEWS,News Media,2023-08-15,sinarproject,Tiktok account reportedly blocked https://www.malaysianow.com/news/2023/08/15/now-tiktok-account-of-tv-pertiwi-blocked-as-well
 https://www.pendatangmovie.com/,CULTR,Culture,2023-12-19,sinarproject,Crowdfunded movie aired on Youtube to avoid censorship via offline screening
+https://samudera.my/,NEWS,News Media,2023-08-22,sinarproject,"Conservative media, found blocked"
+https://agendadaily.com/,NEWS,News Media,2023-08-22,sinarproject,Conservative media
+https://sokong.org/,ECON,Economics,2023-08-28,sinarproject,"Malaysiakini, an independent news media’s platform to fund various non-profit organizations"
+https://www.samudera.my/,NEWS,News Media,2023-08-22,sinarproject,"Conservative media, found blocked"
