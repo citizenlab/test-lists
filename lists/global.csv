@@ -713,7 +713,7 @@ http://www.pandora.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI
 http://www.partypoker.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.partypoker.net/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.paypal.com/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.pc2call.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.pc2call.com/,COMM,E-commerce,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.pcgamer.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.pcusa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.pdhre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1518,7 +1518,6 @@ https://banthis.tv/,NEWS,News Media,2022-08-26,test-lists.ooni.org contribution,
 https://put.io/,FILE,File-sharing,2022-08-26,test-lists.ooni.org contribution,
 https://www.kucoin.com/,COMM,E-commerce,2022-08-26,test-lists.ooni.org contribution,
 https://www.coinex.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
-https://localcryptos.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://hodlhodl.com/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://localmonero.co/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
 https://blockdx.co/,ECON,Economics,2022-08-26,test-lists.ooni.org contribution,
