@@ -1113,7 +1113,7 @@ https://dns.google/,HOST,Hosting and Blogging Platforms,2019-12-04,Chelchela,
 https://slate.com/,NEWS,News Media,2020-01-08,OONI,
 https://kiwifarms.net/,GRP,Social Networking,2022-01-24,,blocked in Russia
 https://getintra.org/,ANON,Anonymization and circumvention tools,2020-02-03,OONI,
-https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6,PUBH,Public Health,2020-02-04,Community member,coronavirus
+https://gisanddata.maps.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6,PUBH,Public Health,2020-02-04,Community member,coronavirus
 https://tuta.com/,COMT,Communication Tools,2020-02-04,OONI,
 https://www.uproxy.org/,ANON,Anonymization and circumvention tools,2020-02-16,tomacat,
 https://getlantern.org/,ANON,Anonymization and circumvention tools,2020-02-16,tomacat,
@@ -1140,18 +1140,14 @@ https://coronavirus.jhu.edu/map.html,PUBH,Public Health,2020-03-21,OONI,coronavi
 https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.healthmap.org/covid-19/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://hgis.uw.edu/virus/,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://nssac.bii.virginia.edu/covid-19/dashboard/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://app.developer.here.com/coronavirus/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://apps.crowdtangle.com/public-hub/covid19,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://google.org/crisisresponse/covid19-map,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://www.bing.com/covid,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://covidtracking.com/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://www.projectbaseline.com/study/covid-19/,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html,PUBH,Public Health,2020-03-21,OONI,coronavirus
-http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.projectbaseline.com/studies/covid-research/,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://en.wikipedia.org/wiki/COVID-19_pandemic,PUBH,Public Health,2020-03-21,OONI,coronavirus
+https://www.who.int/europe/emergencies/situations/covid-19,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher,PUBH,Public Health,2020-03-21,OONI,coronavirus
