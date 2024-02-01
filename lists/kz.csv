@@ -22,14 +22,14 @@ http://socialismkz.info/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.spik.kz/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://islam.ru/,REL,Religion,2014-04-15,citizenlab,
 https://vse.kz/,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.as-ansar.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+http://www.as-ansar.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://ct.kz/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 https://www.cars.com/,CTRL,Control content,2014-04-15,citizenlab,
 https://www.award.kz/,CULTR,Culture,2014-04-15,citizenlab,
 https://bureau.kz/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://dknews.kz/,NEWS,News Media,2014-04-15,citizenlab,
 https://kursiv.kz/,NEWS,News Media,2014-04-15,citizenlab,business news
-https://www.liveinternet.ru/,SRCH,Search Engines,2014-04-15,citizenlab,Russian blog platform blocked 2011-2015 for critical political posts
+https://www.liveinternet.ru/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Russian blog platform blocked 2011-2015 for critical political posts
 http://www.kstu.kz/,CULTR,Culture,2014-04-15,citizenlab,Technical university site
 http://www.kazrena.kz/,ECON,Economics,2014-04-15,citizenlab,
 http://www.toiganbayev.kz/,GOVT,Government,2014-04-15,citizenlab,site of Kazakh polititian
@@ -57,7 +57,7 @@ https://2ip.ru/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab
 https://halykbank.kz/,COMM,E-commerce,2014-04-15,citizenlab,
 https://gcup.ru/,GAME,Gaming,2014-04-15,citizenlab,
 https://kaztube.kz/,MMED,Media sharing,2014-04-15,citizenlab,
-https://neonomad.kz/,MISC,Miscelaneous content,2014-04-15,citizenlab,
+https://neonomad.kz/,MISC,Miscellaneous content,2014-04-15,citizenlab,
 https://vesti.kz/,NEWS,News Media,2014-04-15,citizenlab,
 https://globalvoices.org/-/world/central-asia-caucasus/kazakhstan/,NEWS,News Media,2014-04-15,citizenlab,
 https://kzinform.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -175,7 +175,6 @@ https://pornoelena.net/,PORN,Pornography,2019-05-25,Netalitica,
 http://buddhist.ru/,REL,Religion,2019-05-25,Netalitica,
 http://islam.plus/ru/,REL,Religion,2019-05-25,Netalitica,
 http://www.islam.ru/,REL,Religion,2019-05-25,Netalitica,
-https://www.jw.org/,REL,Religion,2019-05-25,Netalitica,
 http://www.filesearch.ru/,SRCH,Search Engines,2019-05-25,Netalitica,
 https://www.google.ru/,SRCH,Search Engines,2019-05-25,Netalitica,
 https://spid.center/ru/,XED,Sex Education,2019-05-25,Netalitica,
@@ -223,7 +222,7 @@ http://flirchi.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 http://match.privet.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://24open.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://beboo.ru/,DATE,Online Dating,2019-06-04,Netalitica,
-https://kismia.com/,DATE,Online Dating,2019-06-04,Netalitica,
+https://kismia.com/,PORN,Pornography,2019-06-04,Netalitica,
 https://mylove.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://teamo.ru/,DATE,Online Dating,2019-06-04,Netalitica,
 https://www.edarling.ru/,DATE,Online Dating,2019-06-04,Netalitica,
@@ -314,7 +313,6 @@ https://www.zakon.kz/,NEWS,News Media,2019-11-12,Netalitica,
 https://www.youtube.com/channel/UCf0jMvh9QJZrR3sKkyHDjNQ/,POLR,Political Criticism,2019-11-12,Netalitica,Channel of KZ opposition leader - possible connectivity problems
 http://tnt-online.ru/,NEWS,News Media,2019-11-15,Netalitica,popular Russian TV channel
 http://www.politnavigator.net/,NEWS,News Media,2019-11-15,Netalitica,Russian journal with focus on politics
-http://www.tvc.ru/,NEWS,News Media,2019-11-15,Netalitica,popular Russian TV channel
 http://www.woman.ru/,NEWS,News Media,2019-11-15,Netalitica,joournal for women
 https://cont.ws/,NEWS,News Media,2019-11-15,Netalitica,Russian journal with focus on politics
 https://novorosinform.org/,NEWS,News Media,2019-11-15,Netalitica,Russian journal with focus on politics
@@ -326,7 +324,6 @@ https://www.1tv.ru/,NEWS,News Media,2019-11-15,Netalitica,popular Russian TV cha
 https://www.cosmo.ru/,NEWS,News Media,2019-11-15,Netalitica,
 https://www.elle.ru/,NEWS,News Media,2019-11-15,Netalitica,journal for women
 https://www.etvnet.com/,NEWS,News Media,2019-11-15,Netalitica,Aggregator of Russian TV and Radio channels
-https://www.ntv.ru/,NEWS,News Media,2019-11-15,Netalitica,popular Russian TV channel
 https://www.babyplan.ru/,XED,Sex Education,2019-11-15,Netalitica,
 http://lurkmore.to/,CULTR,Culture,2019-11-17,Netalitica,Russian version of Wikipedia
 https://dic.academic.ru/,CULTR,Culture,2019-11-17,Netalitica,academic online dictionaries
@@ -445,3 +442,123 @@ https://ok.ru/,GRP,Social Networking,2019-12-18,Netalitica,one of most popular s
 https://postila.ru/,GRP,Social Networking,2019-12-18,Netalitica,
 https://qip.ru/,GRP,Social Networking,2019-12-18,Netalitica,also news and email service
 https://www.pinme.ru/,GRP,Social Networking,2019-12-18,Netalitica,
+https://svobod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://svobodaorg.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azattyq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://azattyq.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://ozodlik.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://ozodlik.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
+https://erkindikqanaty.com/,HUMR,Human Rights Issues,2022-11-14,test-lists.ooni.org contribution,
+https://femagora.org/,HUMR,Human Rights Issues,2022-11-14,test-lists.ooni.org contribution,
+https://astanatv.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://ratel.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://tobolinfo.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://716.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://the-village-kz.com/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://orda.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://qazaqtimes.com/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://kaztag.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://newtimes.kz/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://masa.media/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://sarpa.media/,NEWS,News Media,2022-11-14,test-lists.ooni.org contribution,
+https://oyan.digital/,POLR,Political Criticism,2022-11-14,test-lists.ooni.org contribution,the website is temporarily down but the movement is active
+https://ulysmedia.kz/,NEWS,News Media,2022-11-19,test-lists.ooni.org contribution,
+https://sputnik.kz/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://bes.media/,NEWS,News Media,2023-09-27,test-lists.ooni.org contribution,
+https://echo.kz/,POLR,Political Criticism,2023-09-27,test-lists.ooni.org contribution,
+https://www.bis.doc.gov/,GOVT,Government,2023-10-17,test-lists.ooni.org contribution,US Department of Commerce Bureau of Industry and Security Website has been blocked since April 2023
+https://egov.press/,HUMR,Human Rights Issues,2023-10-17,test-lists.ooni.org contribution,"online petition website. The state registry indicates that website should be blocked by District Court of Esilsky District of the city of Nur-Sultan decision since May 20, 2022"
+https://www.interactivebrokers.co.uk/ru/index.php?f=5457&gclid=EAIaIQobChMI3u6r-6GD_QIVEweLCh3EWwVvEAAYASAAEgIGFPD_BwE,ECON,Economics,2023-10-17,test-lists.ooni.org contribution,American multinational brokerage firm website (Great Britain's domain)
+https://disconnect.me/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocks trackers and suspected malware sites to prevent device infection. the site has been blocked since 2020, reason: Violation of the provisions of the Law “On Communications” (anonymizers, proxy servers such as TOR, VPN servers, etc. Art 41-1) since 14.07.2020"
+https://atlasvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 11.07.2022 (Law “On Communications”, Art. 41-1)"
+https://belkavpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 17.03.2022 (Law “On Communications”, Art. 41-1)"
+https://free-vpn.pro/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 17.03.2022 (Law “On Communications”, Art. 41-1)"
+https://hit-tool.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 17.03.2022 (Law “On Communications”, Art. 41-1)"
+https://cloudvpn.pro/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 30.09.2021 (Law “On Communications”, Art. 41-1)"
+https://mybrowservpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 30.09.2021 (Law “On Communications”, Art. 41-1)"
+https://1progs.ru/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 04.09.2021 (Law “On Communications”, Art. 41-1)"
+https://www.avg.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 21.09.2020 (Law “On Communications”, Art. 41-1)"
+https://www.lifetimepremiumvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 21.09.2020 (Law “On Communications”, Art. 41-1)"
+https://www.netflixvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 21.09.2020 (Law “On Communications”, Art. 41-1)"
+https://www.pandasecurity.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 21.09.2020 (Law “On Communications”, Art. 41-1)"
+https://www.privatevpn.biz/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked since 21.09.2020 (Law “On Communications”, Art. 41-1)"
+https://www.avira.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://altvpn.net/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vyprvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.gethotspotshield.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpnmentor.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.opera.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.le-vpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://ringvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.urban-vpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://ultravpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://myvpn.run/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://vpn.softok.info/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://biblsoft.com/,HACK,Hacking Tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://softcatalog.io/,HACK,Hacking Tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://brovpn.io/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://mrpvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://torguard.net/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://ru.vpnmentor.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://geekhacker.ru/,COMM,E-commerce,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://vpnka.org/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://hidemy.io/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"new domain of ""hidemy.name"", old domain is blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://fri-gate.org/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpnside.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://sproot.it/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+http://spotflux.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"redirect to https://fastvpn.com, blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.bananavpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://trust.zone/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://vpnclientapp.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://usemyvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://goosevpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://activpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.pearlvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://privateproxy.me/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.getkeepsafe.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.ivacy.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://borderlessvpn.io/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://mac.eltima.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpntracker.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpnbook.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://vpnki.ru/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://dotvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://saturnvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://droidvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpn.asia/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.bulletvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.keenow.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.gohotspotshield.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpnreactor.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.vpnuk.net/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.smartvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.hideway.eu/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.okayfreedom.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://12vpx.com/,HOST,Hosting and Blogging Platforms,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://www.personalvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://zoogvpn.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://vpnbaron.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://zenmate.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://windscribe.com/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://supervpn.im/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-1-25/2057 since 14.07.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://ifkz.org/,HUMR,Human Rights Issues,2023-10-17,test-lists.ooni.org contribution,human rights 
+https://www.touchvpn.net/,ANON,Anonymization and circumvention tools,2023-10-17,test-lists.ooni.org contribution,"blocked by the Committee of information order № 25-1-2-25/2727 since 21.09.2020 (Law “On Communications”, Art. 41-1, par. 1-3)"
+https://ffin.bz/,COMM,E-commerce,2023-10-17,test-lists.ooni.org contribution,"investment instruments. blocked, but a state registry doesn't indicate"
+https://a-sert.kz/,COMM,E-commerce,2023-10-17,test-lists.ooni.org contribution,corporate website blocked by Ministry of information and Committee for Technical Regulation and Metrology Ministry of Trade and Integration
+https://youth.kz/,HUMR,Human Rights Issues,2023-10-17,test-lists.ooni.org contribution,
+https://digitalrights.kz/,HUMR,Human Rights Issues,2023-10-17,test-lists.ooni.org contribution,
+https://digitalrights.asia/,HUMR,Human Rights Issues,2023-10-17,test-lists.ooni.org contribution,
+https://drfl.kz/,HUMR,Human Rights Issues,2023-10-17,test-lists.ooni.org contribution,
+https://kz.tsargrad.tv/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-01-2-23/2071 of 31.05.2023 (reason: Propaganda of extremism)
+https://www.for.kg/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/3061 of 13.10.2022 (reason: Dissemination of information promoting violent change of the constitutional order)
+https://knews.kg/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/2995 of 05.10.2022 (reason: Dissemination of information promoting violent change of the constitutional order)
+https://360tv.ru/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/2554 of 26.08.2022 (reason: Dissemination of information that incites ethnic hatred)
+https://regnum.ru/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/2554 of 26.08.2022 (reason: Dissemination of information that incites ethnic hatred)
+https://astrakhan.sm.news/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/2554 of 26.08.2022 (reason: Dissemination of information that incites ethnic hatred)
+https://ukraina.ru/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/2554 of 26.08.2022 (reason: Dissemination of information that incites ethnic hatred)
+https://stanradar.com/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-2-23/2323 of 08.08.2022 (reason: Dissemination of information promoting violent change of the constitutional order)
+http://www.newspot.ru/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-1-23/1016 of 05.04.2022 (reason: Dissemination of information insulting the honor and dignity of another person)
+http://vlasti.info/news/29770-mehti_mamedov_v_kazahstane_kontroliruet_tranzit_afganskogo_geroina_v_rossiju,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,Blocked by order №23-1-1-23/1016 of 05.04.2022 (reason: Dissemination of information insulting the honor and dignity of another person)
+http://vlasti.info/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,
+https://brokers.ru/,COMM,E-commerce,2023-10-17,test-lists.ooni.org contribution,blocked by order #25-1-1-25/2348 since 05.08.2021 (reason: Use of the media to commit criminal and administrative offenses)
+https://fergana.media/,NEWS,News Media,2023-10-17,test-lists.ooni.org contribution,blocked by order #25-1-2-25/63 since 10.01.2022 (reason: Dissemination of knowingly false information)
