@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 https://4genderjustice.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://666games.net/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://abpr2.railfan.net/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://addons.mozilla.org/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://adium.im/,GRP,Social Networking,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1431,6 +1430,7 @@ https://mattermost.com/,COMT,Communication Tools,2022-06-11,OONI,
 https://www.imqq.com/,GRP,Social Networking,2022-06-11,OONI,
 https://www.douyin.com/,GRP,Social Networking,2022-06-11,OONI,
 https://weibo.com/,GRP,Social Networking,2022-06-11,OONI,
+https://code.org/,CULTR,Culture,2024-02-01,test-lists.ooni.org contribution,"Reportedly blocked in Russia, but worth testing globally"
 https://cdn.jsdelivr.net/favicon.ico,HOST,Hosting and Blogging Platforms,2022-07-25,Chelchela,
 https://cdnjs.cloudflare.com/,HOST,Hosting and Blogging Platforms,2022-07-25,Chelchela,
 https://epicgames.com/,GAME,Gaming,2022-08-01,OONI,
