@@ -679,6 +679,7 @@ https://skat.media/,NEWS,News Media,2022-07-25,OONI,
 https://www.proekt.media/,NEWS,News Media,2022-07-25,OONI,
 https://www.sobaka.ru/,NEWS,News Media,2022-07-25,OONI,
 https://www.pap.pl/,NEWS,News Media,2022-08-17,anonymous,Blocked the Polish Press Agency (PAP) portal along with other 22 websites according to Roskomsvoboda
+https://localbitcoins.com/,COMM,E-commerce,2022-08-26,test-lists.ooni.org contribution,
 https://www.votvot.tv/,NEWS,News Media,2023-01-26,OONI,
 https://azatli.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
 https://azatli.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
@@ -852,3 +853,20 @@ https://instructions.peaceplea.org/,HUMR,Human Rights Issues,2024-01-15,test-lis
 https://peaceplea.org/,HUMR,Human Rights Issues,2024-01-15,test-lists.ooni.org contribution,Legal support for military draft evaders
 https://www.thevintagesteakhouse.com/,GMB,Gambling,2024-01-28,test-lists.ooni.org contribution,
 https://www.junction-nine.com/,GMB,Gambling,2024-01-28,test-lists.ooni.org contribution,
+https://www.hetzner.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.networksolutions.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://wpengine.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.hostgator.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.ionos.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.fastcomet.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://aws.amazon.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.bluehost.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.kamatera.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://www.digitalocean.com/,HOST,Hosting and Blogging Platforms,2024-01-19,test-lists.ooni.org contribution,Possibility of future blocking for violation of federal law № 236-ФЗ 01.07.2021
+https://wikianime.club/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,New domain of a blocked website
+https://animego.watch/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,New domain of the website blocked by RKN for 'LGBT propaganda'
+http://anime-portal.ru/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
+https://yummyanime.org/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
+https://animedub.ru/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
+https://animelib.me/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
+https://animevost.tv/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
