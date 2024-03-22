@@ -1146,10 +1146,7 @@ https://covidtracking.com/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.projectbaseline.com/studies/covid-research/,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://en.wikipedia.org/wiki/COVID-19_pandemic,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://www.who.int/europe/emergencies/situations/covid-19,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,PUBH,Public Health,2020-03-21,OONI,coronavirus
-https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/,PUBH,Public Health,2020-03-21,OONI,coronavirus
 https://nextstrain.org/ncov,PUBH,Public Health,2020-03-21,OONI,coronavirus
@@ -1158,7 +1155,6 @@ https://bit.ly/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,Blocked in 
 https://bitly.com/,HOST,Hosting and Blogging Platforms,2020-03-27,magma,
 http://discord.gg/,COMT,Communication Tools,2020-03-27,magma,Blocked in PT: https://revolucaodosbytes.pt/a-nos-e-o-bloqueio-de-dominios-legitimos/
 https://discordapp.com/,COMT,Communication Tools,2020-03-27,magma,
-https://www.bbc.com/news/world-51235105,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://icao.maps.arcgis.com/apps/webappviewer3d/index.html?id=d9d3f8fa9a23425c8f0889baab626186,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://icao.maps.arcgis.com/apps/opsdashboard/index.html#/977dde48256b489fb48fa98e724721e8,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://help.unhcr.org/,HUMR,Human Rights Issues,2020-04-01,OONI,URL shared by community member
