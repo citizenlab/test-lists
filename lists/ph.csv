@@ -37,6 +37,7 @@ http://www.cebuanas.com/,DATE,Online Dating,2014-04-15,citizenlab,
 https://www.cfr.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://cmfr-phil.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.congress.gov.ph/,GOVT,Government,2014-04-15,citizenlab,
+https://www.cpp.ph/,MILX,Terrorism and Militants,2018-12-09,citizenlab,
 https://dakila.org.ph/,NEWS,News Media,2016-04-19,citizenlab,
 https://dfa.gov.ph/,GOVT,Government,2014-04-15,citizenlab,
 https://www.dnd.gov.ph/,GOVT,Government,2014-04-15,citizenlab,
@@ -51,7 +52,7 @@ http://www.globalvoicesonline.org/-/world/east-asia/philippines/,NEWS,News Media
 https://www.gmanetwork.com/news/,NEWS,News Media,2014-04-15,citizenlab,
 https://haribon.org.ph/,ENV,Environment,2014-04-15,citizenlab,
 http://www.ibon.org/,POLR,Political Criticism,2016-04-19,citizenlab,
-https://josemariasison.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+https://www.josemariasison.eu/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://liberal.ph/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.loveme.com/,DATE,Online Dating,2014-04-15,citizenlab,
 http://www.loveme.com/women/philippines/,DATE,Online Dating,2014-04-15,citizenlab,
@@ -60,7 +61,8 @@ http://www.luwaran.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://malaya.com.ph/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.maranao.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.mindanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://ndfp.org/,MILX,Terrorism and Militants,2018-12-09,citizenlab,Official website of the National Democratic Front of the Philippines; the political arm and peace negotiator of the Communist Party of the Philippines
+https://www.nacionalistaparty.com/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://ndfp.info/,MILX,Terrorism and Militants,2018-12-09,citizenlab,Official website of the National Democratic Front of the Philippines; the political arm and peace negotiator of the Communist Party of the Philippines
 https://nujp.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.pcij.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.philonline.com.ph/,COMM,E-commerce,2014-04-15,citizenlab,
@@ -209,7 +211,6 @@ https://lgbtchamberph.org/,LGBT,LGBT,2018-12-27,engagemedia,
 http://lgbt.ie/,LGBT,LGBT,2018-12-27,engagemedia,
 https://aseansogiecaucus.org/,LGBT,LGBT,2018-12-27,engagemedia,
 http://outragemag.com/,LGBT,LGBT,2018-12-27,engagemedia,
-https://www.facebook.com/manpride.mandaue,LGBT,LGBT,2018-12-27,engagemedia,
 https://www.facebook.com/groups/820023431429160/,LGBT,LGBT,2018-12-27,engagemedia,
 https://www.facebook.com/mmprideorg/,LGBT,LGBT,2018-12-27,engagemedia,
 https://www.facebook.com/groups/CebuBiPride/,LGBT,LGBT,2018-12-27,engagemedia,
@@ -300,7 +301,6 @@ https://www.interracialdating.com/,DATE,Online Dating,2018-12-27,engagemedia,
 https://www.freedating.co.uk/,DATE,Online Dating,2018-12-27,engagemedia,
 https://christianfilipina.com/,DATE,Online Dating,2018-12-27,engagemedia,
 https://www.spiritualsingles.com/,DATE,Online Dating,2018-12-27,engagemedia,
-https://www.match.com/,DATE,Online Dating,2018-12-27,engagemedia,
 https://www.flirt.com/,DATE,Online Dating,2018-12-27,engagemedia,
 https://www.quackquack.in/,DATE,Online Dating,2018-12-27,engagemedia,
 https://www.chemistry.com/,DATE,Online Dating,2018-12-27,engagemedia,
@@ -335,9 +335,9 @@ https://ph.oceana.org/,ENV,Environment,2018-12-27,engagemedia,
 https://www.foei.org/,ENV,Environment,2018-12-27,engagemedia,
 http://www.pemsea.org/,ENV,Environment,2018-12-27,engagemedia,
 https://doh.gov.ph/covid19tracker,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
-https://liberation.ndfp.org/,MILX,Terrorism and Militants,2022-07-12,OONI,Reportedly blocked
+https://liberation.ndfp.info/,MILX,Terrorism and Militants,2022-07-12,OONI,Reportedly blocked
 https://bulatlat.com/,NEWS,News Media,2022-07-12,OONI,Reportedly blocked
-https://hiyaw.net/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
+https://hiyaw.org/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
 https://prwcinfo.wordpress.com/,MILX,Terrorism and Militants,2022-07-12,OONI,Reportedly blocked
 https://rctundfp.wordpress.com/,MILX,Terrorism and Militants,2022-07-12,OONI,Reportedly blocked
 https://compatriotsndf.wordpress.com/,MILX,Terrorism and Militants,2022-07-12,OONI,Reportedly blocked
@@ -348,7 +348,7 @@ https://rmp-national.weebly.com/,HUMR,Human Rights Issues,2022-07-12,OONI,Report
 https://pamalakayaweb.wordpress.com/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
 https://angpamalakaya.org/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
 https://amihanwomen.org/,HUMR,Human Rights Issues,2022-07-12,OONI,Reportedly blocked
-https://ilps.info/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
+https://peoplesstruggle.org/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
 https://www.counterpunch.org/,NEWS,News Media,2022-07-12,OONI,Reportedly blocked
 https://iacenter.org/,POLR,Political Criticism,2022-07-12,OONI,Reportedly blocked
 https://monthlyreview.org/,NEWS,News Media,2022-07-12,OONI,Reportedly blocked
@@ -358,8 +358,6 @@ http://partisan-news.blogspot.com/,POLR,Political Criticism,2022-07-12,OONI,Repo
 https://bagongalyansangmakabayan.org/,POLR,Political Criticism,2022-08-11,OONI,Reportedly blocked
 https://peopleresist.net/,POLR,Political Criticism,2022-08-11,OONI,Reportedly blocked
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
-https://philippinerevolution.nu/,MILX,Terrorism and Militants,2023-08-08,test-lists.ooni.org contribution,
-https://bayan.ph/,MILX,Terrorism and Militants,2023-08-08,test-lists.ooni.org contribution,
+https://philippinerevolution.nu/,MILX,Terrorism and Militants,2023-08-08,test-lists.ooni.org contribution,"Official website of the Communist Party of the Philippines; a Marxist-Leninist-Maoist party marked as a terrorist organization by the United States of America, the European Union, Australia, the United Kingdom, New Zealand, and the Philippines"
+https://bayan.ph/,POLR,Political Criticism,2023-08-08,test-lists.ooni.org contribution,
 https://www.afp.mil.ph/,GOVT,Government,2023-09-08,test-lists.ooni.org contribution,Official website of Armed Forces of the Philippines (AFP)
-https://hiyaw.org/,NEWS,News Media,2023-12-19,test-lists.ooni.org contribution,
-https://www.cpp.ph/,POLR,Political Criticism,2023-12-26,test-lists.ooni.org contribution,
