@@ -81,7 +81,6 @@ https://www.clickastro.com/,CULTR,Culture,2016-06-14,OONI,Astrology website
 http://www.indian-heritage.org/,CULTR,Culture,2016-06-14,OONI,
 http://www.scientificastrology.com/,CULTR,Culture,2016-06-14,OONI,
 http://www.thisismyindia.com/,CULTR,Culture,2016-06-14,OONI,
-https://www.greenpeace.org/india/en/,ENV,Environment,2016-06-14,OONI,NGO 
 https://india.gov.in/,GOVT,Government,2016-06-14,OONI,Indian gov website
 http://www.indianrail.gov.in/,GOVT,Government,2016-06-14,OONI,
 http://www.aardip.org/,HUMR,Human Rights Issues,2016-06-14,OONI,
@@ -545,7 +544,6 @@ https://www.comdotgame.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic
 https://www.nutaku.net/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
 https://1escorts.net/,PROV,Provocative Attire,2021-03-22,Netalitica,"Sex work website, reportedly blocked on ACT"
 https://translate.baidu.com/,SRCH,Search Engines,2021-03-22,Netalitica,Chinese app ban order in July 2020
-https://duckdudckgo.com/,SRCH,Search Engines,2021-03-22,Netalitica,Reportedly blocked across multiple ISPs for a short duration
 https://www.shop101.com/,COMM,E-commerce,2021-03-23,Netalitica,"Reselling website, reportedly blocked on ACT"
 https://stdfireworks.com/,COMM,E-commerce,2021-03-23,Netalitica,Buy firecrackers online; reportedly blocked on ISPs
 https://www.tencent.com/,COMM,E-commerce,2021-03-23,Netalitica,Reportedly blocked on ACT
@@ -566,33 +564,32 @@ https://www.abc.net.au/news/,NEWS,News Media,2021-03-23,Netalitica,Australian me
 https://runforkashmir.org/,POLR,Political Criticism,2021-03-23,Netalitica,"Running campaign, against central government for action in Kashmir "
 http://standupamericanow.org/,POLR,Political Criticism,2021-03-23,Netalitica,"American issue focused group, reportedly blocked on ACT"
 https://standwithkashmir.org/,POLR,Political Criticism,2021-03-23,Netalitica,"Kashmir related, reportedly blocked on ACT"
-https://livingliquidz.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol delivery in certain states in India
-http://www.madhuloka.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol outlet in India
-https://www.hipbar.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol delivery in certain states in India
-https://itshemp.in/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India
-https://cbdstore.in/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India
-https://bohecolife.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India
-https://hemponest.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,CBD oil delivery in India
-https://www.amrutdistilleries.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol brand India
-https://sulavineyards.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica ,Alcohol brand India
-https://www.adb.org/,ECON,Economics,2021-04-20,Netalitica ,Asian Development Bank
-https://idronline.org/,ECON,Economics,2021-04-20,Netalitica ,India Development Review
-https://www.in.undp.org/,ECON,Economics,2021-04-20,Netalitica ,UNDP in India
-https://www.dream11.com/,GMB,Gambling,2021-04-20,Netalitica ,Sports betting
-https://mycasino.in/,GMB,Gambling,2021-04-30,Netalitica ,Gambling site aggregator
+https://livingliquidz.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,Alcohol delivery in certain states in India
+http://www.madhuloka.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,Alcohol outlet in India
+https://www.hipbar.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,Alcohol delivery in certain states in India
+https://itshemp.in/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,CBD oil delivery in India
+https://cbdstore.in/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,CBD oil delivery in India
+https://bohecolife.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,CBD oil delivery in India
+https://hemponest.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,CBD oil delivery in India
+https://www.amrutdistilleries.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,Alcohol brand India
+https://sulavineyards.com/,ALDR,Alcohol & Drugs,2021-04-19,Netalitica,Alcohol brand India
+https://www.adb.org/,ECON,Economics,2021-04-20,Netalitica,Asian Development Bank
+https://idronline.org/,ECON,Economics,2021-04-20,Netalitica,India Development Review
+https://www.dream11.com/,GMB,Gambling,2021-04-20,Netalitica,Sports betting
+https://mycasino.in/,GMB,Gambling,2021-04-30,Netalitica,Gambling site aggregator
 https://dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino
 https://www.dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino
 https://m.dafabet.com/,GMB,Gambling,2022-04-07,sportsgambler,Sports and Casino mobile entry
-https://www.indiacasinos.com/,GMB,Gambling,2021-04-30,Netalitica ,Gambling site aggregator
-https://eng.mod.gov.cn/,GOVT,Government,2021-04-30,Netalitica ,China Ministry of Defence
-https://www.gov.cn/english/,GOVT,Government,2021-04-30,Netalitica ,Chinese Government
-https://www.fmprc.gov.cn/mfa_eng/,GOVT,Government,2021-04-30,Netalitica ,Foreign Ministry of China
-https://www.mod.gov.pk/,GOVT,Government,2021-04-30,Netalitica ,"Ministry of Defence, Pakistan"
-http://www.mofept.gov.pk/,GOVT,Government,2021-04-30,Netalitica ,"Ministry of Federal Education and Professional Training, Pakistan"
-https://www.covid19india.org/,PUBH,Public Health,2021-04-30,Netalitica ,Covid 19 dashboard India
-https://covid19.india.gov.in/,PUBH,Public Health,2021-04-30,Netalitica ,Updates on government notifications on Covid 19
-https://phfi.org/,PUBH,Public Health,2021-04-30,Netalitica ,Public Health Foundation of India
-https://www.healis.org/,PUBH,Public Health,2021-04-30,Netalitica ,Sekhsaria Institute for Public Health
+https://www.indiacasinos.com/,GMB,Gambling,2021-04-30,Netalitica,Gambling site aggregator
+https://eng.mod.gov.cn/,GOVT,Government,2021-04-30,Netalitica,China Ministry of Defence
+https://www.gov.cn/english/,GOVT,Government,2021-04-30,Netalitica,Chinese Government
+https://www.fmprc.gov.cn/mfa_eng/,GOVT,Government,2021-04-30,Netalitica,Foreign Ministry of China
+https://www.mod.gov.pk/,GOVT,Government,2021-04-30,Netalitica,"Ministry of Defence, Pakistan"
+http://www.mofept.gov.pk/,GOVT,Government,2021-04-30,Netalitica,"Ministry of Federal Education and Professional Training, Pakistan"
+https://www.covid19india.org/,PUBH,Public Health,2021-04-30,Netalitica,Covid 19 dashboard India
+https://covid19.india.gov.in/,PUBH,Public Health,2021-04-30,Netalitica,Updates on government notifications on Covid 19
+https://phfi.org/,PUBH,Public Health,2021-04-30,Netalitica,Public Health Foundation of India
+https://www.healis.org/,PUBH,Public Health,2021-04-30,Netalitica,Sekhsaria Institute for Public Health
 https://sheikhabubakrahmad.com/,REL,Religion,2021-05-25,Netalitica,Grand Mufti of India (Islam)
 https://keralamuslimjamaath.org/,REL,Religion,2021-05-25,Netalitica,Muslim org based in Kerala
 http://www.aimplboard.in/,REL,Religion,2021-05-25,Netalitica,All India Muslim Personal Law Board
@@ -724,4 +721,4 @@ http://www.videolan.org/,MMED,Media sharing,2022-08-12,community member,VLC medi
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
 https://hindi.sputniknews.in/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
 http://mirror.albony.xyz/,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
-https://hindutvawatch.org/,NEWS,News Media,2024-01-18,test-lists.ooni.org contribution,Twitter account of this organisation was withheld in India. 
+https://hindutvawatch.org/,NEWS,News Media,2024-01-18,test-lists.ooni.org contribution,Twitter account of this organisation was withheld in India
