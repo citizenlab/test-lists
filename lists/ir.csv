@@ -15,7 +15,7 @@ http://www.fadaian.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,block
 https://www.fnoor.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Blocked. NEWS-POLR-REL. Language is Arabic
 https://www.ghoghnoos.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked. POLR-CULTR.
 https://www.hambastegi.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked. HUMR-POLR
-http://www.heineken.com/,ALDR,Alcohol & Drugs	,2014-04-15,citizenlab,blocked with 503 error code.
+http://www.heineken.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,blocked with 503 error code.
 https://www.hemid.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.homa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code. Redirected to http://www.go-stuttgart-hotels.com/en/homa.html
 http://www.iran-newspaper.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -24,7 +24,7 @@ http://www.jebhemelli.net/,MILX,Terrorism and Militants,2014-04-15,citizenlab,bl
 http://www.kasr-alsanam.com/,GMB,Gambling,2014-04-15,citizenlab,blocked with 503 error code.
 https://www.khomainy.com/,POLR,Political Criticism,2014-04-15,citizenlab,language is Arabic
 https://www.komala.org/,POLR,Political Criticism,2014-04-15,citizenlab,language is Kurdish
-https://www.kurdishworld.com,HUMR,Human Rights Issues,2014-04-15,citizenlab,language is Kurdish
+https://www.kurdishworld.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,language is Kurdish
 https://kurdistanmedia.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code. 2719 in Kurdish calendar = 2019
 https://pdki.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked
 https://www.pezhvakeiran.com/,NEWS,News Media,2014-04-15,citizenlab,blocked
@@ -129,7 +129,6 @@ https://fa.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wi
 https://fa.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.rfi.fr/,NEWS,News Media,2018-09-13,OONI,blocked
 https://spnfa.ir/,NEWS,News Media,2018-09-13,OONI,
-https://www.dw.com/,NEWS,News Media,2018-09-13,OONI,blocked with RST injection: ERR_CONNECTION_RESET.
 https://www.instagram.com/masih.alinejad/,HUMR,Human Rights Issues,2019-06-04,chelchela,
 https://www.instagram.com/p/BxcElVMhBAH/,HUMR,Human Rights Issues,2019-06-04,chelchela,
 https://termux.org/,HOST,Hosting and Blogging Platforms,2019-08-06,chelchela,This address provides the main termux app files that it needs to get started. Ignore error 404.
@@ -241,10 +240,9 @@ https://wp-persian.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenla
 https://www.ansaaar.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,language is Arabic. HUMR-REL-POLR forums
 https://www.asriran.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.azadegy.de/,POLR,Political Criticism,2014-04-15,citizenlab,blocked
-https://www.carlsberg.com/en/,ALDR,Alcohol & Drugs	,2014-04-15,citizenlab,blocked with 503 error code.
+https://www.carlsberg.com/en/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,blocked with 503 error code.
 https://www.dd-sunnah.net/,REL,Religion,2014-04-15,citizenlab,blocked
 https://neshatshop.com/shop/Default.aspx/,XED,Sex Education,2014-04-15,citizenlab,
-https://www.dw.com/,NEWS,News Media,2015-03-20,OONI,dw.de and dw.com blocked. Persian content: https://www.dw.com/fa-ir/%D8%AF%D9%88%DB%8C%DA%86%D9%87-%D9%88%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/s-9993
 https://albiladdaily.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with timeout error. Language is Arabic
 https://hailnews.net/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code. Language is Arabic
 https://www.ahmadbatebi.com/,POLR,Political Criticism,2017-05-16,ASL19,blocked
@@ -255,7 +253,6 @@ https://www.livejasmin.com/en/girls/,PORN,Pornography,2017-09-05,OONI,blocked
 https://www.fardanews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://news.gooya.com/,NEWS,News Media,2014-04-15,citizenlab,blocked
 https://fararu.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.fardanews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://iranianuk.com/,NEWS,News Media,2014-04-15,citizenlab,blocked with 503 error code.
 https://www.kaleme.com/,NEWS,News Media,2014-04-15,citizenlab,blocked
 https://www.azadiradio.com/,NEWS,News Media,2014-04-15,citizenlab,blocked
@@ -272,7 +269,6 @@ https://blogfa.com/,HOST,Hosting and Blogging Platforms,2015-03-20,OONI,
 https://p30download.com/,FILE,File-sharing,2015-03-20,OONI,
 https://persianblog.ir/,HOST,Hosting and Blogging Platforms,2015-03-20,OONI,persianblog.com new address
 https://www.varzesh3.com/,CULTR,Culture,2015-03-20,OONI,
-https://aawsat.com/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 https://alraynews.net/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
 https://sabq.org/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 https://www.afifnews.com/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 error code.
@@ -290,7 +286,6 @@ https://www.okaz.com.sa/,NEWS,News Media,2016-04-20,citizenlab,blocked with 503 
 https://www.oswego.lib.il.us/,CTRL,Control content,2016-04-20,citizenlab,
 https://www.spa.gov.sa/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
 https://farsi.euronews.com/,NEWS,News Media,2016-05-12,berkman,blocked
-https://www.bbc.com/,NEWS,News Media,2016-05-12,berkman,blocked
 https://justice4iran.org/,HUMR,Human Rights Issues,2016-07-16,ICLab,Justice for Iran. Blocked
 https://www.1pezeshk.com/,CULTR,Culture,2017-05-16,ASL19,
 https://3docean.net/,MMED,Media sharing,2017-05-16,ASL19,The site has blocked Iranian ip.
@@ -801,7 +796,6 @@ https://azadiradio.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12
 https://azadiradio.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
 https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
 https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
-https://spnfa.ir/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
 https://samizdatonline.org/,NEWS,News Media,2023-10-15,test-lists.ooni.org contribution,News media helping people to tell their stories despite government's censorship
 https://www.rahavardjournal.org/,POLR,Political Criticism,2024-03-05,Miaan Group,
 https://iranhumanrights.org/,HUMR,Human Rights Issues,2024-03-05,Miaan Group,
@@ -810,45 +804,22 @@ https://theworld.org/,NEWS,News Media,2024-03-05,Miaan Group,
 https://pa.azadiradio.com/,NEWS,News Media,2024-03-05,Miaan Group,
 https://parsi.euronews.com/,NEWS,News Media,2024-03-05,Miaan Group,
 https://irannovin.party/,POLR,Political Criticism,2024-03-05,Miaan Group,
-https://www.bing.com/,SRCH,Search Engines,2024-04-08,Miaan Group,
-https://www.bbc.com/,NEWS,News Media,2024-04-08,Miaan Group,
-https://edition.cnn.com/,NEWS,News Media,2024-04-08,Miaan Group,
-https://www.nytimes.com/,NEWS,News Media,2024-04-08,Miaan Group,
-https://www.wikipedia.org/,NEWS,News Media,2024-04-08,Miaan Group,"it's not a news website, it's an Online encyclopedia"
 https://www.coursera.org/,CULTR,Culture,2024-04-08,Miaan Group,it's a Massive Open Online or Educational website
 https://edx.com/,CULTR,Culture,2024-04-08,Miaan Group,"Business Services, specifically focused on the engineering field."
-https://www.linkedin.com/,GRP,Social Networking,2024-04-08,Miaan Group,
 https://www.upwork.com/,HOST,Hosting and Blogging Platforms,2024-04-08,Miaan Group,"it's a network for freelancers to get projects and make a network"
 https://www.freelancer.com/,COMT,Communication Tools,2024-04-08,Miaan Group,"it's a network for freelancers to get projects and make a network"
-https://www.google.com/,SRCH,Search Engines,2024-04-08,Miaan Group,navigation tool
 https://www.waze.com/,SRCH,Search Engines,2024-04-08,Miaan Group,navigation tool
-https://www.apple.com/,COMM,E-commerce,2024-04-08,Miaan Group,navigation tool
-https://www.amazon.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
 https://alibaba.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
 https://www.etsy.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
-https://www.ebay.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
 https://www.instacart.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
 https://peapod.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
 https://www.booking.com/,COMM,E-commerce,2024-04-08,Miaan Group,The website does not allow users from Iran to make bookings.
 https://www.airbnb.com/,COMM,E-commerce,2024-04-08,Miaan Group,The website does not allow users from Iran to make bookings.
 https://www.expedia.com/,COMM,E-commerce,2024-04-08,Miaan Group,The website does not allow users from Iran to make bookings.
 https://www.ticketmaster.com/,COMM,E-commerce,2024-04-08,Miaan Group,The website does not allow users from Iran to make bookings.
-https://www.eventbrite.com/,COMT,Communication Tools,2024-04-08,Miaan Group,it's a Event Marketing Platform
 https://stubhub.com/,COMT,Communication Tools,2024-04-08,Miaan Group,it's a Event Marketing Platform and a marketplace for tickets
-https://www.facebook.com/,GRP,Social Networking,2024-04-08,Miaan Group,
 https://tiktok.com/,GRP,Social Networking,2024-04-08,Miaan Group,
-https://twitter.com/,GRP,Social Networking,2024-04-08,Miaan Group,
-https://www.instagram.com/,GRP,Social Networking,2024-04-08,Miaan Group,
-https://www.whatsapp.com/,GRP,Social Networking,2024-04-08,Miaan Group,
-https://signal.org/,GRP,Social Networking,2024-04-08,Miaan Group,
-https://telegram.org/,GRP,Social Networking,2024-04-08,Miaan Group,
-https://zoom.us/,COMT,Communication Tools,2024-04-08,Miaan Group,
-https://meet.jit.si/,COMT,Communication Tools,2024-04-08,Miaan Group,
-https://teams.microsoft.com/,COMT,Communication Tools,2024-04-08,Miaan Group,
 https://meet.google.com/,COMT,Communication Tools,2024-04-08,Miaan Group,
-https://www.reddit.com/,GRP,Social Networking,2024-04-08,Miaan Group,a social news website and forum where content is socially curated and promoted by site members through voting.
-https://stackoverflow.com/,COMT,Communication Tools,2024-04-08,Miaan Group,is a question-and-answer website for computer programmers. It is the flagship site of the Stack Exchange Network.
-https://www.quora.com/,GRP,Social Networking,2024-04-08,Miaan Group,Quora is a website where you can ask questions for any other member to answer and/or answer any question that you have knowledge and interest in.
 https://netflix.com/,MMED,Media sharing,2024-04-08,Miaan Group,it's a video streaming platform
 https://hbomax.com/,MMED,Media sharing,2024-04-08,Miaan Group,it's a video streaming platform
 https://www.disney.com/,MMED,Media sharing,2024-04-08,Miaan Group,it's an entertainment website
@@ -856,51 +827,31 @@ https://hulu.com/,MMED,Media sharing,2024-04-08,Miaan Group,is an American subsc
 https://spotify.com/,MMED,Media sharing,2024-04-08,Miaan Group,"is a digital music, podcast, and video service"
 https://music.youtube.com/,MMED,Media sharing,2024-04-08,Miaan Group,"A new music service with official albums, singles, videos, remixes, live performances and more for Android, iOS and desktop."
 https://music.apple.com/us/browse,MMED,Media sharing,2024-04-08,Miaan Group,"is a digital music, podcast, and video service"
-https://soundcloud.com/,MMED,Media sharing,2024-04-08,Miaan Group,"is a digital music, podcast, and video service"
 https://steam.com/,GAME,Gaming,2024-04-08,Miaan Group,is a video game digital distribution service
 https://store.playstation.com/,GAME,Gaming,2024-04-08,Miaan Group,"is a digital media store available to users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via the PlayStation Network."
 https://store.epicgames.com/,GAME,Gaming,2024-04-08,Miaan Group,a video game digital distribution service
-https://www.roblox.com/,GAME,Gaming,2024-04-08,Miaan Group,"At its core, Roblox is a gaming platform that allows you to play dozens of user-created games or create games through Roblox Studio."
-https://www.twitch.tv/,GAME,Gaming,2024-04-08,Miaan Group,"is a video live-streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content, and ""in real life"" streams."
 https://minecraft.com/,GAME,Gaming,2024-04-08,Miaan Group,"Minecraft is a game made up of blocks, creatures, and community."
 https://gmail.com/,COMT,Communication Tools,2024-04-08,Miaan Group,
-https://mail.yahoo.com/,COMT,Communication Tools,2024-04-08,Miaan Group,
-https://outlook.live.com/,COMT,Communication Tools,2024-04-08,Miaan Group,
-https://drive.google.com/,FILE,File-sharing,2024-04-08,Miaan Group,
 https://onedrive.live.com/,FILE,File-sharing,2024-04-08,Miaan Group,
 https://dropbox.com/,FILE,File-sharing,2024-04-08,Miaan Group,"cloud-based productivity platform that include apps like Microsoft Teams, Word, Excel, PowerPoint, Outlook, and OneDrive,..."
 https://workspace.google.com/,COMT,Communication Tools,2024-04-08,Miaan Group,"is a collection of cloud computing, productivity and collaboration tools, software and products "
 https://asana.com/,COMM,E-commerce,2024-04-08,Miaan Group,is a software-as-a-service platform designed for team collaboration and work management.
-https://slack.com/,COMM,E-commerce,2024-04-08,Miaan Group,is a software-as-a-service platform designed for team collaboration and work management.
-https://trello.com/,COMM,E-commerce,2024-04-08,Miaan Group,is a software-as-a-service platform designed for team collaboration and work management.
 https://unicef.com/,IGO,Intergovernmental Organizations,2024-04-08,Miaan Group,
-https://www.amnesty.org/,HUMR,Human Rights Issues,2024-04-08,Miaan Group,
-https://www.hrw.org/,HUMR,Human Rights Issues,2024-04-08,Miaan Group,
-https://www.article19.org/,HUMR,Human Rights Issues,2024-04-08,Miaan Group,
 https://hrwf.eu/,HUMR,Human Rights Issues,2024-04-08,Miaan Group,
-https://www.researchgate.net/,CULTR,Culture,2024-04-08,Miaan Group,is the professional network for scientists and researchers
 https://www.jstor.org/,CULTR,Culture,2024-04-08,Miaan Group,is a digital library for the intellectually curious
 https://www.nasa.gov/,GOVT,Government,2024-04-08,Miaan Group,"related to latest news, images and videos from America's space agency"
-https://www.theguardian.com/,NEWS,News Media,2024-04-08,Miaan Group,
-https://medium.com/,COMT,Communication Tools,2024-04-08,Miaan Group,"Medium is a social publishing platform that is open to all and home to a diverse array of stories, ideas, and perspectives"
 https://www.sciencedirect.com/,PUBH,Public Health,2024-04-08,Miaan Group,is a website that provides access to a large bibliographic database of scientific and medical publications
-https://www.goodreads.com/,COMT,Communication Tools,2024-04-08,Miaan Group," is a website that allows book lovers to track reading history, review books, and share recommendations with others."
 https://www.nature.com/,NEWS,News Media,2024-04-08,Miaan Group,it's a prestigious scientific journal that covers a wide range of scientific and technological research through peer-reviewed articles
 https://www.ncbi.nlm.nih.gov/,PUBH,Public Health,2024-04-08,Miaan Group,"it's related to storing and analyzing knowledge about molecular biology, biochemistry, and genetics."
 https://www.pinterest.co.uk/,GRP,Social Networking,2024-04-08,Miaan Group,is a social website for sharing and categorizing images found online
-https://www.snapchat.com/,GRP,Social Networking,2024-04-08,Miaan Group,
 https://discover.hubpages.com/,GRP,Social Networking,2024-04-08,Miaan Group,user-generated online publishing platform
-https://substack.com/,MMED,Media sharing,2024-04-08,Miaan Group,"online platform that provides publishing, payment, analytics, and design infrastructure to support subscription newsletters."
 https://parspack.ir/,HOST,Hosting and Blogging Platforms,2024-04-08,Miaan Group,
 https://edaalat.org/,POLR,Political Criticism,2024-04-08,Miaan Group,
 https://tinymov127.xyz/,MMED,Media sharing,2024-04-08,Miaan Group,video streaming platform
 https://tinymov167.xyz/,MMED,Media sharing,2024-04-08,Miaan Group,video streaming platform
-https://www.accessnow.org/,HUMR,Human Rights Issues,2024-04-08,Miaan Group,related to digital rights
-https://jadi.net/,POLR,Political Criticism,2024-04-08,Miaan Group,"is a blog of a person who is a Geek, blogger, podcaster, linux admin, data lover and advocate of freedom"
 https://500px.com/,GRP,Social Networking,2024-04-08,Miaan Group,is the leading online network for photographers
 https://www.pexels.com/,MMED,Media sharing,2024-04-08,Miaan Group,"is a free stock photo and video website and app that helps designers, bloggers, and everyone who is looking for visuals to find great photos and videos that can be downloaded and used for free. "
 https://wetransfer.com/,FILE,File-sharing,2024-04-08,Miaan Group,
-https://www.freepik.com/,MMED,Media sharing,2024-04-08,Miaan Group,"is a free stock photo and video website and app that helps designers, bloggers, and everyone who is looking for visuals to find great photos and videos that can be downloaded and used for free. "
 https://www.shutterstock.com/,MMED,Media sharing,2024-04-08,Miaan Group,"is a free stock photo and video website and app that helps designers, bloggers, and everyone who is looking for visuals to find great photos and videos that can be downloaded and used for free. "
 https://unsplash.com/,MMED,Media sharing,2024-04-08,Miaan Group,"is a free stock photo and video website and app that helps designers, bloggers, and everyone who is looking for visuals to find great photos and videos that can be downloaded and used for free. "
 https://opensea.io/,COMM,E-commerce,2024-04-08,Miaan Group,"a non-fungible token (NFT) marketplace where users can buy, sell, or create NFTs"
@@ -910,11 +861,9 @@ https://gemini.google.com/,COMM,E-commerce,2024-04-08,Miaan Group,an AI safety a
 https://amazonprime.com/,COMM,E-commerce,2024-04-08,Miaan Group,
 https://mubi.com/,MMED,Media sharing,2024-04-08,Miaan Group,is a global streaming platform
 https://miro.com/,COMM,E-commerce,2024-04-08,Miaan Group,is a digital collaboration platform designed to facilitate remote and distributed team communication and project management
-https://wordpress.com/,HOST,Hosting and Blogging Platforms,2024-04-08,Miaan Group,web building platform for self-publishing that is popular for blogging and other works
-https://discord.com/,COMT,Communication Tools,2024-04-08,Miaan Group,"a voice, video and text communication service"
 https://www.kwai.com/,GRP,Social Networking,2024-04-08,Miaan Group,Teens can create short videos and photo edits to share publicly
 https://bumble.com/,DATE,Online Dating,2024-04-08,Miaan Group,
-https://www.paypal.com,COMM,E-commerce,2024-04-08,Miaan Group,PayPal works as an intermediary between you and a bank
+https://www.paypal.com/,COMM,E-commerce,2024-04-08,Miaan Group,PayPal works as an intermediary between you and a bank
 https://subwaysurfersgame.io/,GAME,Gaming,2024-04-08,Miaan Group,Thrill-seeking young teenagers are catching rides on top of moving trains in the social media trend dubbed “subway surfing”
 https://www.king.com/,GAME,Gaming,2024-04-08,Miaan Group,
 https://ff.garena.com/,GAME,Gaming,2024-04-08,Miaan Group,
@@ -927,4 +876,3 @@ https://ucbrowser.io/,SRCH,Search Engines,2024-04-08,Miaan Group,
 https://www.tmall.com/,COMM,E-commerce,2024-04-08,Miaan Group,
 https://www.qq.com/,GRP,Social Networking,2024-04-08,Miaan Group,"used for online messaging, casual video and voice calls, document-sharing, and social networking"
 https://world.taobao.com/,COMM,E-commerce,2024-04-08,Miaan Group,
-https://trello.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Trello is the visual tool that empowers your team to manage any type of project, workflow, or task tracking."
