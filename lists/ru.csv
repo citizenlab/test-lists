@@ -14,6 +14,7 @@ https://humanrights-ru.livejournal.com/,POLR,Political Criticism,2014-04-15,citi
 http://limonka.nbp-info.com/,POLR,Political Criticism,2014-04-15,citizenlab,"blocked, redirects to dead site, monitor"
 http://milli-mejlis.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://republic.ru/,NEWS,News Media,2014-04-15,citizenlab,
+http://slon.ru/,NEWS,News Media,2014-04-15,citizenlab,"Redirects to new domain, but still blocked"
 https://vk.com/minitrue/,NEWS,News Media,2014-04-15,citizenlab,"critical blog, outdated"
 http://www.mashina.org/,NEWS,News Media,2014-04-15,citizenlab,"projects temporarily stopped, keep monitoring"
 http://www.minjust.net/,NEWS,News Media,2014-04-15,citizenlab,dead site but still blocked
@@ -22,10 +23,11 @@ https://www.shamilonline.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab
 https://www.kavkazcenter.com/russ/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI in March 2024
 https://2ch.hk/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 https://navalny.livejournal.com/,POLR,Political Criticism,2014-04-15,citizenlab,archive of 2015 and older posts
-https://www.jw.org/en/,REL,Religion,2014-04-15,citizenlab,
 https://www.mhg.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.putin-itogi.ru/,POLR,Political Criticism,2014-04-15,citizenlab,critical of Putin
 http://fast-die.kiev.ua/,MISC,Miscellaneous content,2014-04-15,citizenlab,
+http://lib.rus.ec/,CULTR,Culture,2014-04-15,citizenlab,Popular book sharing platform
+http://lurkmore.to/,CULTR,Culture,2014-04-15,citizenlab,Russia version of Wikipedia
 https://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://zhurnal.lib.ru/,CULTR,Culture,2014-04-15,citizenlab,samiizdat journal
 https://lgbt-grani.livejournal.com/,LGBT,LGBT,2014-04-15,citizenlab,archive of LGBT project
@@ -34,7 +36,6 @@ https://yandex.ru/,SRCH,Search Engines,2014-04-15,citizenlab,and popular email s
 https://6ott-mit-uns.livejournal.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://flibusta.is/,MMED,Media sharing,2014-04-15,citizenlab,books sharing platform
 https://roskomsvoboda.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,largest digital rights org in Russia
-https://www.business-humanrights.org/en/major-sporting-events/russia-human-rights-abuses-related-to-2014-winter-olympic-games-in-sochi/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hrw.org/report/2013/02/06/race-bottom/exploitation-migrant-workers-ahead-russias-2014-winter-olympic-games/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Sochi Olympycs
 https://www.hrw.org/video-photos/interactive/2013/02/01/people-and-power-2014-sochi-olympics/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Sochi Olympycs
 https://www.indiegogo.com/projects/know-sochi-olympics-on-the-land-of-genocide#/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -995,7 +996,4 @@ https://poligonmedia.io/,NEWS,News Media,2024-03-28,RKS,
 https://doxa.team/,NEWS,News Media,2024-03-28,RKS,
 https://paperpaper.io/,NEWS,News Media,2024-03-28,RKS,
 https://trv-science.org/,NEWS,News Media,2024-03-28,RKS,
-http://lurkmore.to/,CULTR,Culture,2024-03-29,test-lists.ooni.org contribution,Russia version of Wikipedia
-http://slon.ru/,NEWS,News Media,2024-03-29,test-lists.ooni.org contribution,"Redirects to new domain, but still blocked"
-https://lib.rus.ec/,CULTR,Culture,2024-03-29,test-lists.ooni.org contribution,Popular book sharing platform
 https://d2dj0qptshsals.cloudfront.net/,NEWS,News Media,2024-04-03,test-lists.ooni.org contribution,
