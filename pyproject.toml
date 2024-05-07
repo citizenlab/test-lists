@@ -37,7 +37,7 @@ dependencies = ["coverage[toml]>=6.5", "pytest", "click"]
 path = ".venv/"
 
 [tool.hatch.envs.default.scripts]
-test-lists = "python -m test_lists.cli {args}"
+lint-lists = "python -m test_lists.cli lint-lists {args}"
 test = "pytest {args:tests}"
 test-cov = "coverage run -m pytest {args:tests}"
 cov-report = ["- coverage combine", "coverage report"]
