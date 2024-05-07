@@ -280,7 +280,7 @@ def lint_lists(lists_path, fix_duplicates=False, fix_slash=False, fix_notes=Fals
             for idx, row in enumerate(reader):
                 processor.process_row(idx, row)
 
-            if fix_slash or fix_duplicates:
+            if fix_slash or fix_duplicates or fix_notes:
                 processor.write_fixed()
 
             print(f"* {processor.csv_path}")
