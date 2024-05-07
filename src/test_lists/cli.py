@@ -16,7 +16,10 @@ def cli():
 @click.option(
     "--fix-notes", is_flag=True, help="Fix notes field by converting it to JSON"
 )
-def cli_lint_lists(lists_path, fix_duplicates, fix_slash, fix_notes):
+@click.option(
+    "--force-update", is_flag=True, help="Forces updating of the tests list formats"
+)
+def cli_lint_lists(lists_path, fix_duplicates, fix_slash, fix_notes, force_update):
     """
     Check that the test lists are OK.
 
@@ -25,12 +28,14 @@ def cli_lint_lists(lists_path, fix_duplicates, fix_slash, fix_notes):
         fix_duplicates (bool): Option to fix duplicates in the test list.
         fix_slash (bool): Option to fix slashes in the test list.
         fix_notes (bool): Option to fix notes in the test list.
+        force_update (bool): Option to force update of the test list. Useful to change quoting.
     """
     lint_lists(
         lists_path,
         fix_duplicates=fix_duplicates,
         fix_slash=fix_slash,
         fix_notes=fix_notes,
+        force_update=force_update,
     )
 
 

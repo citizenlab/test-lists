@@ -119,10 +119,10 @@ def load_categories(path, get_description_code=get_new_description_code):
     return code_map
 
 
-def load_global_list(path):
+def load_global_list(path, quotechar):
     check_list = set()
     with open(path, "r") as in_file:
-        reader = csv.reader(in_file, delimiter=",", quotechar="'")
+        reader = csv.reader(in_file, delimiter=",", quotechar=quotechar)
         for idx, row in enumerate(reader):
             if idx != 0 and (len(row) == 6):
                 check_list.add(row[0])
@@ -167,6 +167,7 @@ class TestListProcessor:
         csv_path,
         category_codes,
         global_urls_bag,
+        writer_quotechar,
         fix_duplicates=False,
         fix_slash=False,
         fix_notes=False,
@@ -183,6 +184,7 @@ class TestListProcessor:
         self.urls_bag = set()
         self.errors = []
         self.idx = -1
+        self.writer_quotechar = writer_quotechar
 
     def open(self):
         return open(self.csv_path, "r", encoding="utf-8")
@@ -247,13 +249,24 @@ class TestListProcessor:
     def write_fixed(self):
         with open(self.csv_path + ".fixed", "w") as out_file:
             csv_writer = csv.writer(
-                out_file, quoting=csv.QUOTE_MINIMAL, quotechar="'", lineterminator="\n"
+                out_file,
+                quoting=csv.QUOTE_MINIMAL,
+                quotechar=self.writer_quotechar,
+                lineterminator="\n",
             )
             csv_writer.writerows(self.rows)
         os.rename(self.csv_path + ".fixed", self.csv_path)
 
 
-def lint_lists(lists_path, fix_duplicates=False, fix_slash=False, fix_notes=False):
+def lint_lists(
+    lists_path,
+    fix_duplicates=False,
+    fix_slash=False,
+    fix_notes=False,
+    force_update=False,
+    reader_quotechar='"',
+    writer_quotechar='"',
+):
     all_errors = []
     total_urls = 0
     total_countries = 0
@@ -263,7 +276,9 @@ def lint_lists(lists_path, fix_duplicates=False, fix_slash=False, fix_notes=Fals
     )
 
     # preload the global list to check against looking for dupes
-    global_urls_bag = load_global_list(os.path.join(lists_path, "global.csv"))
+    global_urls_bag = load_global_list(
+        os.path.join(lists_path, "global.csv"), quotechar=reader_quotechar
+    )
     for csv_path in glob(os.path.join(lists_path, "*")):
         if os.path.basename(csv_path).startswith("00-"):
             continue
@@ -276,9 +291,10 @@ def lint_lists(lists_path, fix_duplicates=False, fix_slash=False, fix_notes=Fals
             fix_duplicates=fix_duplicates,
             fix_notes=fix_notes,
             fix_slash=fix_slash,
+            writer_quotechar=writer_quotechar,
         )
         with processor.open() as in_file:
-            reader = csv.reader(in_file, delimiter=",", quotechar="'")
+            reader = csv.reader(in_file, delimiter=",", quotechar=reader_quotechar)
             first_line = next(reader)
             if first_line != TEST_LISTS_HEADER:
                 processor.errors.append(InvalidHeader(csv_path, 0))
@@ -286,7 +302,7 @@ def lint_lists(lists_path, fix_duplicates=False, fix_slash=False, fix_notes=Fals
             for idx, row in enumerate(reader):
                 processor.process_row(idx, row)
 
-            if fix_slash or fix_duplicates or fix_notes:
+            if fix_slash or fix_duplicates or fix_notes or force_update:
                 processor.write_fixed()
 
             print(f"* {processor.csv_path}")
