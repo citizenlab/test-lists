@@ -10,9 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = "MPL-2.0"
 keywords = []
-authors = [
-  { name = "Arturo Filastò", email = "arturo@filasto.net" },
-]
+authors = [{ name = "Arturo Filastò", email = "arturo@filasto.net" }]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python",
@@ -35,29 +33,21 @@ Source = "https://github.com/ooni/test-lists"
 path = "src/test_lists/__about__.py"
 
 [tool.hatch.envs.default]
-dependencies = [
-  "coverage[toml]>=6.5",
-  "pytest",
-]
+dependencies = ["coverage[toml]>=6.5", "pytest", "click"]
+path = ".venv/"
+
 [tool.hatch.envs.default.scripts]
+test-lists = "python -m test_lists.cli {args}"
 test = "pytest {args:tests}"
 test-cov = "coverage run -m pytest {args:tests}"
-cov-report = [
-  "- coverage combine",
-  "coverage report",
-]
-cov = [
-  "test-cov",
-  "cov-report",
-]
+cov-report = ["- coverage combine", "coverage report"]
+cov = ["test-cov", "cov-report"]
 
 [[tool.hatch.envs.all.matrix]]
 python = ["3.8", "3.9", "3.10", "3.11", "3.12"]
 
 [tool.hatch.envs.types]
-dependencies = [
-  "mypy>=1.0.0",
-]
+dependencies = ["mypy>=1.0.0"]
 [tool.hatch.envs.types.scripts]
 check = "mypy --install-types --non-interactive {args:src/test_lists tests}"
 
@@ -65,17 +55,11 @@ check = "mypy --install-types --non-interactive {args:src/test_lists tests}"
 source_pkgs = ["test_lists", "tests"]
 branch = true
 parallel = true
-omit = [
-  "src/test_lists/__about__.py",
-]
+omit = ["src/test_lists/__about__.py"]
 
 [tool.coverage.paths]
 test_lists = ["src/test_lists", "*/test-lists/src/test_lists"]
 tests = ["tests", "*/test-lists/tests"]
 
 [tool.coverage.report]
-exclude_lines = [
-  "no cov",
-  "if __name__ == .__main__.:",
-  "if TYPE_CHECKING:",
-]
+exclude_lines = ["no cov", "if __name__ == .__main__.:", "if TYPE_CHECKING:"]
