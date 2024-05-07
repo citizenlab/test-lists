@@ -3,6 +3,7 @@ import os
 import re
 import sys
 import csv
+import json
 from glob import glob
 
 from urllib.parse import urlparse
@@ -128,6 +129,14 @@ def load_global_list(path):
     return check_list
 
 
+VALID_NOTES_JSON_KEYS = ["notes"]
+
+
+def validate_notes_keys(notes):
+    for k in notes.keys():
+        assert k in VALID_NOTES_JSON_KEYS, f"invalid notes key {k}"
+
+
 ERR_NOSLASH = "No trailing slash"
 
 
@@ -189,6 +198,16 @@ class TestListProcessor:
             self.errors.append(InvalidURL(url, self.csv_path, idx + 2, details=err))
             if err == ERR_NOSLASH and self.fix_slash:
                 row[0] = row[0] + "/"
+        try:
+            d = json.loads(notes)
+            validate_notes_keys(d)
+        except AssertionError as exc:
+            err = f"{exc} in {notes}"
+            self.errors.append(InvalidNotes(err, self.csv_path, idx + 2, details=err))
+        except json.decoder.JSONDecodeError:
+            self.errors.append(InvalidNotes(notes, self.csv_path, idx + 2, details=err))
+            if self.fix_notes:
+                row[5] = json.dumps({"notes": notes})
 
         if os.path.basename(self.csv_path) != "global.csv":
             if url in self.global_urls_bag:
