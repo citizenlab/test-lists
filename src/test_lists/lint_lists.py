@@ -122,7 +122,7 @@ def load_categories(path, get_description_code=get_new_description_code):
 def load_global_list(path):
     check_list = set()
     with open(path, "r") as in_file:
-        reader = csv.reader(in_file, delimiter=",")
+        reader = csv.reader(in_file, delimiter=",", quotechar="'")
         for idx, row in enumerate(reader):
             if idx != 0 and (len(row) == 6):
                 check_list.add(row[0])
@@ -198,16 +198,22 @@ class TestListProcessor:
             self.errors.append(InvalidURL(url, self.csv_path, idx + 2, details=err))
             if err == ERR_NOSLASH and self.fix_slash:
                 row[0] = row[0] + "/"
-        try:
-            d = json.loads(notes)
-            validate_notes_keys(d)
-        except AssertionError as exc:
-            err = f"{exc} in {notes}"
-            self.errors.append(InvalidNotes(err, self.csv_path, idx + 2, details=err))
-        except json.decoder.JSONDecodeError:
-            self.errors.append(InvalidNotes(notes, self.csv_path, idx + 2, details=err))
-            if self.fix_notes:
-                row[5] = json.dumps({"notes": notes})
+
+        if notes.startswith("{"):
+            try:
+                d = json.loads(notes)
+                validate_notes_keys(d)
+            except AssertionError as exc:
+                err = f"{exc} in {notes}"
+                self.errors.append(
+                    InvalidNotes(err, self.csv_path, idx + 2, details=err)
+                )
+            except json.decoder.JSONDecodeError:
+                self.errors.append(
+                    InvalidNotes(notes, self.csv_path, idx + 2, details=err)
+                )
+        elif self.fix_notes:
+            row[5] = json.dumps({"notes": notes})
 
         if os.path.basename(self.csv_path) != "global.csv":
             if url in self.global_urls_bag:
@@ -241,7 +247,7 @@ class TestListProcessor:
     def write_fixed(self):
         with open(self.csv_path + ".fixed", "w") as out_file:
             csv_writer = csv.writer(
-                out_file, quoting=csv.QUOTE_MINIMAL, lineterminator="\n"
+                out_file, quoting=csv.QUOTE_MINIMAL, quotechar="'", lineterminator="\n"
             )
             csv_writer.writerows(self.rows)
         os.rename(self.csv_path + ".fixed", self.csv_path)
@@ -272,7 +278,7 @@ def lint_lists(lists_path, fix_duplicates=False, fix_slash=False, fix_notes=Fals
             fix_slash=fix_slash,
         )
         with processor.open() as in_file:
-            reader = csv.reader(in_file, delimiter=",")
+            reader = csv.reader(in_file, delimiter=",", quotechar="'")
             first_line = next(reader)
             if first_line != TEST_LISTS_HEADER:
                 processor.errors.append(InvalidHeader(csv_path, 0))
