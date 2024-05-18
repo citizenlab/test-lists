@@ -1384,7 +1384,6 @@ https://remailer.paranoici.org/,ANON,Anonymization and circumvention tools,2022-
 https://fleegle.mixmin.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 https://www.usatoday.com/,NEWS,News Media,2022-02-15,community member,
 https://www.washingtonpost.com/,NEWS,News Media,2022-02-15,community member,
-https://www.webs.com/,HOST,Hosting and Blogging Platforms,2022-02-16,citizenlab,
 https://vk.com/,GRP,Social Networking,2022-02-16,citizenlab,
 https://www.francemediasmonde.com/,NEWS,News Media,2022-02-23,OONI,
 https://www.france24.com/ar/,NEWS,News Media,2022-02-23,OONI,
@@ -1476,7 +1475,7 @@ https://substack.com/,NEWS,News Media,2022-08-26,test-lists.ooni.org contributio
 https://www.getrevue.co/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists.ooni.org contribution,
 https://www.wikidata.org/,MISC,Miscellaneous content,2022-08-26,test-lists.ooni.org contribution,
 https://www.wikimedia.org/,MISC,Miscellaneous content,2022-08-26,test-lists.ooni.org contribution,
-https://wordpress.org/openverse/,FILE,File-sharing,2022-08-26,test-lists.ooni.org contribution,
+https://openverse.org/,FILE,File-sharing,2022-08-26,test-lists.ooni.org contribution,
 https://defcad.com/,MISC,Miscellaneous content,2022-08-26,test-lists.ooni.org contribution,
 https://8kun.top/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists.ooni.org contribution,
 https://www.infowars.com/,NEWS,News Media,2022-08-26,test-lists.ooni.org contribution,
