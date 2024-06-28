@@ -14,6 +14,7 @@ https://humanrights-ru.livejournal.com/,POLR,Political Criticism,2014-04-15,citi
 http://limonka.nbp-info.com/,POLR,Political Criticism,2014-04-15,citizenlab,"blocked, redirects to dead site, monitor"
 http://milli-mejlis.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://republic.ru/,NEWS,News Media,2014-04-15,citizenlab,
+http://slon.ru/,NEWS,News Media,2014-04-15,citizenlab,"Redirects to new domain, but still blocked"
 https://vk.com/minitrue/,NEWS,News Media,2014-04-15,citizenlab,"critical blog, outdated"
 http://www.mashina.org/,NEWS,News Media,2014-04-15,citizenlab,"projects temporarily stopped, keep monitoring"
 http://www.minjust.net/,NEWS,News Media,2014-04-15,citizenlab,dead site but still blocked
@@ -22,10 +23,11 @@ https://www.shamilonline.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab
 https://www.kavkazcenter.com/russ/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI in March 2024
 https://2ch.hk/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 https://navalny.livejournal.com/,POLR,Political Criticism,2014-04-15,citizenlab,archive of 2015 and older posts
-https://www.jw.org/en/,REL,Religion,2014-04-15,citizenlab,
 https://www.mhg.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.putin-itogi.ru/,POLR,Political Criticism,2014-04-15,citizenlab,critical of Putin
 http://fast-die.kiev.ua/,MISC,Miscellaneous content,2014-04-15,citizenlab,
+http://lib.rus.ec/,CULTR,Culture,2014-04-15,citizenlab,Popular book sharing platform
+http://lurkmore.to/,CULTR,Culture,2014-04-15,citizenlab,Russia version of Wikipedia
 https://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://zhurnal.lib.ru/,CULTR,Culture,2014-04-15,citizenlab,samiizdat journal
 https://lgbt-grani.livejournal.com/,LGBT,LGBT,2014-04-15,citizenlab,archive of LGBT project
@@ -34,7 +36,6 @@ https://yandex.ru/,SRCH,Search Engines,2014-04-15,citizenlab,and popular email s
 https://6ott-mit-uns.livejournal.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://flibusta.is/,MMED,Media sharing,2014-04-15,citizenlab,books sharing platform
 https://roskomsvoboda.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,largest digital rights org in Russia
-https://www.business-humanrights.org/en/major-sporting-events/russia-human-rights-abuses-related-to-2014-winter-olympic-games-in-sochi/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hrw.org/report/2013/02/06/race-bottom/exploitation-migrant-workers-ahead-russias-2014-winter-olympic-games/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Sochi Olympycs
 https://www.hrw.org/video-photos/interactive/2013/02/01/people-and-power-2014-sochi-olympics/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Sochi Olympycs
 https://www.indiegogo.com/projects/know-sochi-olympics-on-the-land-of-genocide#/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -1001,3 +1002,93 @@ https://lib.rus.ec/,CULTR,Culture,2024-03-29,test-lists.ooni.org contribution,Po
 https://kamori.goats.dev/,GAME,Gaming,2024-04-02,test-lists.ooni.org contribution,Related to XIVLauncher. Reported to have been blocked in russia 31 Mar 2024
 https://goats.dev/,GAME,Gaming,2024-04-02,test-lists.ooni.org contribution,Related to XIVLauncher. Reported to have been blocked in russia 31 Mar 2024
 https://goatcorp.github.io/,GAME,Gaming,2024-04-02,test-lists.ooni.org contribution,Related to XIVLauncher. Reported to have been blocked in russia 31 Mar 2024
+https://d2dj0qptshsals.cloudfront.net/,NEWS,News Media,2024-04-03,test-lists.ooni.org contribution,
+https://lgbtnet.org/,LGBT,LGBT,2024-04-17,test-lists.ooni.org contribution,
+https://orf.at/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.oe24.at/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.levif.be/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.knack.be/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.mediapool.bg/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.24chasa.bg/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://444.hu/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.zeit.de/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.faz.net/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+http://ert.gr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://ertnews.gr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.skai.gr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.megatv.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.protothema.gr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.berlingske.dk/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.information.dk/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.rte.ie/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.irishtimes.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.independent.ie/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.elmundo.es/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://elpais.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://efe.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.rtve.es/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.la7.it/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.lastampa.it/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.repubblica.it/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.rai.it/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.rainews.it/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://cyprustimes.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://politis.com.cy/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://cyprus-mail.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://lsm.lv/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.apollo.lv/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.tvnet.lv/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://diena.lv/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.lrt.lt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.15min.lt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.lrytas.lt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://tvmnews.mt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://timesofmalta.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://independent.com.mt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://maltatoday.com.mt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://nos.nl/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://nrc.nl/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://ad.nl/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://belsat.pl/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://novayapolsha.eu/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://novayapolsha.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://novayapolsha.pl/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://rtp.pt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://publico.pt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://expresso.pt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://observador.pt/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://stirileprotv.ro/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://protv.ro/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://digi24.ro/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://b1tv.ro/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://sme.sk/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://dennikn.sk/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://nova24.si/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://nova24tv.si/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://demokracija.si/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://demokracija.eu/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://is.fi/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://iltalehti.fi/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://hs.fi/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://yle.fi/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://tf1info.fr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://lemonde.fr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://la-croix.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://liberation.fr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://lexpress.fr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://radiofrance.fr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://afp.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://afpforum.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://cnews.fr/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://arte.tv/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://ceskatelevize.cz/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://seznamzpravy.cz/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://svt.se/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://sverigesradio.se/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://propastop.org/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://err.ee/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://delfi.ee/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://agenceurope.eu/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.politico.eu/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://www.politico.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
+https://euobserver.com/,NEWS,News Media,2024-06-25,OONI,reported to be blocked accroding to the Russian Foreign Ministry (https://www.mid.ru/ru/foreign_policy/news/1959391/)
