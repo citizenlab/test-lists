@@ -1663,4 +1663,5 @@ https://trustvpn.me/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
 https://www.vpngate.net/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
 https://www.globalgiving.org/,ECON,Economics,2024-01-29,test-lists.ooni.org contribution,
 https://s3.amazonaws.com/ooni-data/archives-raw/yaml_tar_vault.json,CTRL,Control content,2024-03-28,Arturo,aws s3 bucket rumored to be blocked in places
+http://archive.ubuntu.com/,HACK,Hacking Tools,2024-04-23,test-lists.ooni.org contribution,HTTP requests to this host resolving to 91.189.91.83 are currently route blackholed by some Indian ISPs. This URL is used by a relevant share of Ubuntu installations world-wide to retrieve software updates.
 https://allthefallen.moe/,LGBT,LGBT,2024-05-14,test-lists.ooni.org contribution,
