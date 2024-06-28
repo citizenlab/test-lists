@@ -145,7 +145,6 @@ https://now.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI 
 https://nypost.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.oca.org/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-02-21
 https://occupystreams.org/,POLR,Political Criticism,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage/,FILE,File-sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.wsj.com/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-02-21
 http://onlybingo.com/,GMB,Gambling,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://ooni.torproject.org/,ANON,Anonymization and circumvention tools,2017-05-31,ADEF,blocked in Egypt as of 2017-05-31
@@ -903,9 +902,6 @@ https://www.xbox.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-
 https://www.xenu.net/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-02-21
 http://www.xinhuanet.com/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.xroxy.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.worldwildlife.org/,ENV,Environment,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.xbox.com/,GAME,Gaming,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.xroxy.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.xvideos.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-08-05
 http://www.xvideos.com/,PORN,Pornography,2014-04-15,citizenlab,Updated by OONI on 2017-08-05
 http://www.xxlmag.com/,CULTR,Culture,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1385,7 +1381,6 @@ https://remailer.paranoici.org/,ANON,Anonymization and circumvention tools,2022-
 https://fleegle.mixmin.net/,ANON,Anonymization and circumvention tools,2022-01-04,,Type II anonymous remailer
 https://www.usatoday.com/,NEWS,News Media,2022-02-15,community member,
 https://www.washingtonpost.com/,NEWS,News Media,2022-02-15,community member,
-https://www.webs.com/,HOST,Hosting and Blogging Platforms,2022-02-16,citizenlab,
 https://vk.com/,GRP,Social Networking,2022-02-16,citizenlab,
 https://www.francemediasmonde.com/,NEWS,News Media,2022-02-23,OONI,
 https://www.france24.com/ar/,NEWS,News Media,2022-02-23,OONI,
@@ -1475,7 +1470,7 @@ https://substack.com/,NEWS,News Media,2022-08-26,test-lists.ooni.org contributio
 https://www.getrevue.co/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists.ooni.org contribution,
 https://www.wikidata.org/,MISC,Miscellaneous content,2022-08-26,test-lists.ooni.org contribution,
 https://www.wikimedia.org/,MISC,Miscellaneous content,2022-08-26,test-lists.ooni.org contribution,
-https://wordpress.org/openverse/,FILE,File-sharing,2022-08-26,test-lists.ooni.org contribution,
+https://openverse.org/,FILE,File-sharing,2022-08-26,test-lists.ooni.org contribution,
 https://defcad.com/,MISC,Miscellaneous content,2022-08-26,test-lists.ooni.org contribution,
 https://8kun.top/,HOST,Hosting and Blogging Platforms,2022-08-26,test-lists.ooni.org contribution,
 https://www.infowars.com/,NEWS,News Media,2022-08-26,test-lists.ooni.org contribution,
