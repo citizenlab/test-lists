@@ -1,5 +1,5 @@
 url,category_code,category_description,date_added,source,notes
-http://www.unodc.org/eastasiaandpacific/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
+http://www.unodc.org/eastasiaandpacific/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,UN agency addressing world drug problem. 
 https://www.burbrit.com/,ALDR,Alcohol & Drugs,2020-02-06,Kyaw,
 http://myanmar-brewery.com/,ALDR,Alcohol & Drugs,2021-05-17,Netalitica,
 https://drugsinc.eu/my/,ALDR,Alcohol & Drugs,2021-07-11,Netalitica,
@@ -22,42 +22,42 @@ https://www.kbzbank.com/en/,COMM,E-commerce,2016-10-18,MIDO,KBZ Bank
 https://www.mobmyanmar.com/,COMM,E-commerce,2016-10-18,MIDO,MOB Bank
 https://www.myanmar-housing.com/,COMM,E-commerce,2016-10-18,MIDO,Real Estate
 https://www.naungmoon.com/,COMM,E-commerce,2016-10-18,MIDO,Exchange rate information
-https://www.telenor.com.mm/,COMM,E-commerce,2016-10-18,MIDO,Telecommunication Company
+https://www.telenor.com.mm/,COMM,E-commerce,2016-10-18,MIDO,Domain name change 
 https://www.umfcci.com.mm/,COMM,E-commerce,2016-10-18,MIDO,Republic of the Union of Myanmar Federation of Chambers of Commerce and Industry
 https://www.visit-bagan.com/,COMM,E-commerce,2016-10-18,MIDO,Travel and Tour
 https://www.bestbuy.com/,COMM,E-commerce,2017-04-10,OONI,Reported to be inaccessible in Myanmar
 https://www.wavemoney.com.mm/,COMM,E-commerce,2020-02-07,Kyaw,
-http://www.mumhouse.com/,COMM,E-commerce,2014-04-15,citizenlab,
-https://chatesat.com/#/,COMM,E-commerce,2021-05-17,Netalitica,
-https://oway.com.mm/,COMM,E-commerce,2021-05-17,Netalitica,
-https://owayfresh.com/,COMM,E-commerce,2021-05-17,Netalitica,
-https://www.citymall.com.mm/,COMM,E-commerce,2021-05-17,Netalitica,
-https://www.flymna.com/,COMM,E-commerce,2021-05-17,Netalitica,
-https://www.imyanmarhouse.com/en/,COMM,E-commerce,2021-05-17,Netalitica,
-https://www.onekyat.com/,COMM,E-commerce,2021-05-17,Netalitica,
-http://www.365myanmar.com/,COMM,E-commerce,2021-05-24,Netalitica,
-http://www.omyanmar.com/mm/,COMM,E-commerce,2021-05-24,Netalitica,
-http://yangononlinestore.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://kmdmart.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://metro-wholesale.com.mm/page/home,COMM,E-commerce,2021-05-24,Netalitica,
-https://mymedicine.com.mm/mm/,COMM,E-commerce,2021-05-24,Netalitica,
-https://realestate-myanmar.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://spree.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,
-https://strategyfirst.edu.mm/,COMM,E-commerce,2021-05-24,Netalitica,
-https://technoland.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.khitzay.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.makromyanmar.com/en/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.mogozay.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.myanmarmandalayrealestate.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.onepay.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.pro1globalhomecenter.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.remaxonlineshop.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.rgo47.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.rocketonlineshopping.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.shop.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,
-https://www.shweproperty.com/,COMM,E-commerce,2021-05-24,Netalitica,
-https://dyomacoffee.com/,COMM,E-commerce,2021-05-26,Netalitica,
-https://isuremyanmar.com/,COMM,E-commerce,2021-05-26,Netalitica,
+http://www.mumhouse.com/,COMM,E-commerce,2014-04-15,citizenlab,House sale platform
+https://chatesat.com/#/,COMM,E-commerce,2021-05-17,Netalitica,review
+https://oway.com.mm/,COMM,E-commerce,2021-05-17,Netalitica,Traveling platform
+https://owayfresh.com/,COMM,E-commerce,2021-05-17,Netalitica,Sale platform_Not reachable (Undergoing maintenance)
+https://www.citymall.com.mm/,COMM,E-commerce,2021-05-17,Netalitica,Online sale platform
+https://www.flymna.com/,COMM,E-commerce,2021-05-17,Netalitica,Myanmar National Airlines ticket sale platform
+https://www.imyanmarhouse.com/en/,COMM,E-commerce,2021-05-17,Netalitica,Myanmar Properties sale website
+https://www.onekyat.com/,COMM,E-commerce,2021-05-17,Netalitica,Online sale platform
+http://www.365myanmar.com/,COMM,E-commerce,2021-05-24,Netalitica,Online sale platform
+http://www.omyanmar.com/mm/,COMM,E-commerce,2021-05-24,Netalitica,Online Shopping platform (Not reachable)
+http://yangononlinestore.com/,COMM,E-commerce,2021-05-24,Netalitica,Online Shopping platform (Not active)
+https://kmdmart.com/,COMM,E-commerce,2021-05-24,Netalitica,The page is not reachable.
+https://metro-wholesale.com.mm/page/home,COMM,E-commerce,2021-05-24,Netalitica,The page is not reachable.
+https://mymedicine.com.mm/mm/,COMM,E-commerce,2021-05-24,Netalitica,Online Sale Medical platform
+https://realestate-myanmar.com/,COMM,E-commerce,2021-05-24,Netalitica,The page is not found.
+https://spree.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,The page is not found.
+https://strategyfirst.edu.mm/,COMM,E-commerce,2021-05-24,Netalitica,MISC. It more specifies to EDU categories.
+https://technoland.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,Electronic and IT retailers
+https://www.khitzay.com/,COMM,E-commerce,2021-05-24,Netalitica,Fashion and lifestyles online sale platform.
+https://www.makromyanmar.com/en/,COMM,E-commerce,2021-05-24,Netalitica,Cash & Carry operator
+https://www.mogozay.com/,COMM,E-commerce,2021-05-24,Netalitica,The page is not reachable.
+https://www.myanmarmandalayrealestate.com/,COMM,E-commerce,2021-05-24,Netalitica,The page is not reachable.
+https://www.onepay.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,E-commerce platforms
+https://www.pro1globalhomecenter.com/,COMM,E-commerce,2021-05-24,Netalitica,Not accessible
+https://www.remaxonlineshop.com/,COMM,E-commerce,2021-05-24,Netalitica,Remax Online Sale platform
+https://www.rgo47.com/,COMM,E-commerce,2021-05-24,Netalitica,The page is not reachable.
+https://www.rocketonlineshopping.com/,COMM,E-commerce,2021-05-24,Netalitica,Online Sale platform
+https://www.shop.com.mm/,COMM,E-commerce,2021-05-24,Netalitica,Online Sale platform
+https://www.shweproperty.com/,COMM,E-commerce,2021-05-24,Netalitica,Properties Online sale platform
+https://dyomacoffee.com/,COMM,E-commerce,2021-05-26,Netalitica,Myanmar Coffee Association
+https://isuremyanmar.com/,COMM,E-commerce,2021-05-26,Netalitica,Electronic and IT retailers
 https://mdriveasia.com/,COMM,E-commerce,2021-05-26,Netalitica,
 https://www.geniuscoffee.info/,COMM,E-commerce,2021-05-26,Netalitica,
 https://www.hladaymyanmar.org/,COMM,E-commerce,2021-05-26,Netalitica,
@@ -828,3 +828,64 @@ https://burma.irrawaddy.com/,NEWS,News Media,2022-04-06,,This is news site in My
 https://www.ndi.org/asia/burmamyanmar,NEWS,News Media,2022-04-06,,media website for Myanmar
 https://myanmarinternet.info/,HOST,Hosting and Blogging Platforms,2022-04-26,,digital and internet affairs in Myanmar and blocked one
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
+https://www.ayeyarwadyregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Irrawaddy Region Government under the SAC (State Administration Council)
+https://www.moi.gov.mm/km/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,SAC news outlet
+https://www.moi.gov.mm/mal/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,SAC news outlet
+https://www.kayahstate.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Kayah state gov (State Administration Council)
+https://www.sagaingregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,SAC (Sagaing division gov)
+https://www.gad.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,General Administration Department_Under the Ministry of Home Affairs(State Administration Council)
+http://www.mdyregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Mandalay division gov (State Administration Council)
+https://www.emandalay.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Mandalay division gov't web portal (State Administration Council)
+https://myanmarpost.com.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Post portal (State Administration Council)
+http://www.shanstate.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Shan state gov (State Administration Council)
+http://www.mmu.edu.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Maritime University (State Administration Council)
+https://www.moha.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Ministry of Home Affairs (State Administration Council)
+http://www.mmmc.edu.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Mercantile Marine College (State Administration Council)
+https://www.pyidaungsu.hluttaw.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,reviewed (State Administration Council)
+http://www.pyithuhluttaw.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Pyithu Hluttaw (State Administration Council)
+https://www.constitutionaltribunal.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Reviewed (State Administration Council)
+https://www.uec.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Union Election Commission (State Administration Council)
+http://www.dotp.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Department of Transport Planning (State Administration Council)
+https://www.dca.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Department of Civil Aviation (State Administration Council)
+https://dma.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Department of Marine Administration (State Administration Council)
+https://www.dwir.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Department of Water Resources and Improvement of River Systems (State Administration Council)
+https://www.myawady.net.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myawady Web portal under the (State Administration Council) control
+https://www.rtad.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Road Transport Administration Department (State Administration Council)
+https://www.myanmarrtad.com/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Not accessible 
+https://www.fsd.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Fire Services Department_Under the Ministry of Home Affairs(State Administration Council)
+https://www.mopf.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Ministry of Planning and Finance_Union Minister’s Office(State Administration Council)
+https://www.mmcert.org.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Information Technology and Cyber Security Department (State Administration Council)
+https://www.ncsc.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Statistic platform under the Information Technology and Cyber Security Department (State Administration Council)
+https://www.policeforce.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Police Force_Under the Ministry of Home Affairs(State Administration Council)
+https://www.iwt.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Inland Water Transport (State Administration Council)
+https://www.mpa.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanma Port Authority (State Administration Council)
+https://www.railways.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanma Railways (State Administration Council)
+https://www.projectbank.gov.mm/en/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Planning Department(State Administration Council)
+http://www.nam.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,National Achives Department(State Administration Council)
+https://www.mmsis.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Central Statistical Organization(State Administration Council)
+https://www.mmftb.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Foreign Trade Bank (State Administration Council)
+http://www.meb.gov.mm/mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Economic Bank (State Administration Council)
+http://www.micb.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Investment and Commercial Bank(State Administration Council)
+http://www.mopfi.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,The page is not reachable.
+https://www.mminsurance.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanmar Insurance(State Administration Council)
+https://www.customs.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Customs Department (State Administration Council)
+https://www.ird.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Internal Revenue Department(State Administration Council)
+https://www.pension.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Pension Department(State Administration Council)
+https://secm.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Securities and Exchange Commission of Myanmar(State Administration Council)
+https://www.frd.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Financial Regulatory Department(State Administration Council)
+https://www.mofa.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Foreign Affairs(State Administration Council)
+http://www.mougo.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Union Government Office(State Administration Council)
+https://moba.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Border Affairs(State Administration Council)
+https://www.mifer.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Investment and Foreign Economic Relations(State Administration Council)
+https://www.dica.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Directorate of Investment and Company Administration(State Administration Council)
+http://www.ferd.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Foreign Economic Relations Department(State Administration Council)
+https://www.mola.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Legal Affairs(State Administration Council)
+http://www.mrtvmyanmar.com/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Radio and Television(State Administration Council)
+https://www.moi.gov.mm/npe/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,News and Periodical Enterprise(State Administration Council)
+https://www.mora.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Religious Affairs and Culture(State Administration Council)
+https://www.spsumdy.org/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,State Pariyatti Sasana University of Mandalay(State Administration Council)
+https://www.doa.gov.mm/doa/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Department of Agriculture(State Administration Council)
+https://www.lbvd.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Livestock Breeding and Veterinary Department(State Administration Council)
+http://www.dof.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Department of Fisheries(State Administration Council)
+https://www.yau.edu.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Yezin Agricultural University(State Administration Council)
+http://www.uvsyezin.edu.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,University of Veterinary Science(State Administration Council)
