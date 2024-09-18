@@ -1668,6 +1668,6 @@ https://trustvpn.me/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
 https://www.vpngate.net/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
 https://www.globalgiving.org/,ECON,Economics,2024-01-29,test-lists.ooni.org contribution,
 https://s3.amazonaws.com/ooni-data/archives-raw/yaml_tar_vault.json,CTRL,Control content,2024-03-28,Arturo,aws s3 bucket rumored to be blocked in places
-https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/,ANON,Anonymization and circumvention tools,2024-06-28,test-lists.ooni.org contribution,"https://github.com/net4people/bbs/issues/371 -- in fact, I know this page returns 451 in india"
+https://addons.mozilla.org/,ANON,Anonymization and circumvention tools,2024-06-28,test-lists.ooni.org contribution,"https://github.com/net4people/bbs/issues/371 -- in fact, I know this page returns 451 in india"
 https://soccerstreamshd.com/,MMED,Media sharing,2024-06-30,test-lists.ooni.org contribution,https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/
 https://bestsolaris.com/,MMED,Media sharing,2024-06-30,test-lists.ooni.org contribution,"https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ -- soccer streaming site, cloudflare returns 451 for this one in czechia"
