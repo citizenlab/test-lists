@@ -76,7 +76,6 @@ http://www.criptored.upm.es/,HACK,Hacking Tools,2014-04-15,citizenlab,
 http://laredcubana.blogspot.com/,HACK,Hacking Tools,2018-06-20,Freedom House,
 https://cubava.cu/,HOST,Hosting and Blogging Platforms,2021-07-08,Netalitica,
 http://cubaarchive.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://freedomhouse.org/country/cuba/,HUMR,Human Rights Issues,2017-05-25,OONI,
 http://negracubana.nireblog.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://religionrevolucion.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://rsf.org/en/cuba/,HUMR,Human Rights Issues,2017-05-25,OONI,
@@ -333,3 +332,11 @@ https://cuba.cultdemocratica.org/,HUMR,Human Rights Issues,2024-02-06,Proyecto I
 https://www.gobiernoyanalisispolitico.org/,POLR,Political Criticism,2024-02-06,Proyecto Inventario,
 https://www.mariopenton.com/,NEWS,News Media,2024-02-06,Proyecto Inventario,
 https://martiverifica.info/,NEWS,News Media,2024-02-06,Proyecto Inventario,
+https://delta.chat/chatmail,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,
+https://nine.testrun.org/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,Blocked by ETECSA around July 14th
+https://mehl.cloud/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,One of the Delta Chat instances (chatmail servers) that may be blocked by government
+https://mailchat.pl/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,One of the Delta Chat public instances
+https://bcc.chat/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,One of the delta chat public ijsta
+https://chatmail.woodpeckersnest.space/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,One of the Delta Chat public instances
+https://chika.aangat.lahat.computer/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,
+https://support.delta.chat/,COMT,Communication Tools,2024-07-16,test-lists.ooni.org contribution,Delta Chat support forum
