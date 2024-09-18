@@ -24,6 +24,7 @@ http://www.faithfreedom.org/,REL,Religion,2014-04-15,citizenlab,
 https://groups.google.com/group/free-proxy-list-update-daily?pli=1/,COMT,Communication Tools,2014-04-15,citizenlab,
 https://indonbodoh.blogspot.com/,HATE,Hate Speech,2014-04-15,citizenlab,
 https://anonymousproxylist.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
+http://www.pdhre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.suarakita.org/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.arabchurch.com/,REL,Religion,2014-04-15,citizenlab,
 http://papuapost.com/,NEWS,News Media,2017-04-24,sinarproject,Papua conflict 
@@ -628,7 +629,6 @@ http://www.freegaypornfinder.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.hereistheporn.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.freegaypornhdtube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.youngerbabes.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
-http://youporn.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.persiankitty.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.femalestars.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://rockettube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
@@ -674,3 +674,26 @@ https://www.ganjarpranowo.com/,POLR,Political Criticism,2023-07-26,test-lists.oo
 https://www.aniesbaswedan.com/,POLR,Political Criticism,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
 https://www.bijakmemilih.id/,HUMR,Human Rights Issues,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
 https://nafas.co.id/,ENV,Environment,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://neocities.org/,HOST,Hosting and Blogging Platforms,2023-11-16,test-lists.ooni.org contribution,
+https://narasi.tv/,NEWS,News Media,2023-11-17,test-lists.ooni.org contribution,
+https://projectmultatuli.org/,NEWS,News Media,2023-11-17,test-lists.ooni.org contribution,
+https://partaiummat.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://ppp.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaiperindo.com/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://psi.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.demokrat.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaibulanbintang.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://jabarterdepan.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaigaruda.org/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaihanura.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://pks.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.partaigelora.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaiburuh.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://nasdem.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.partaigolkar.com/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.pdiperjuangan.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://gerindra.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://pkb.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://hypixel.net/,GAME,Gaming,2023-12-27,test-lists.ooni.org contribution,
+https://www.seasiadaily.com/,NEWS,News Media,2024-05-27,test-lists.ooni.org contribution,reported to be blocked in Indonesia
+https://imgbb.com/,MMED,Media sharing,2024-07-16,test-lists.ooni.org contribution,
