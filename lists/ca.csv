@@ -1,5 +1,4 @@
 url,category_code,category_description,date_added,source,notes
-http://allpasswords.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://cyber.law.harvard.edu/,NEWS,News Media,2014-04-15,citizenlab,
 http://groups.msn.com/,GRP,Social Networking,2014-04-15,citizenlab,
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -39,4 +38,3 @@ http://live.aircell.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered bl
 http://6.aircell.cc/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL
 http://live.aircel.me/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL
 http://6.aircel.me/,FILE,File-sharing,2021-12-08,citizenlab,Court ordered blocking of this URL
-https://rutube.ru/,MMED,Media sharing,2023-01-20,test-lists.ooni.org contribution,appears  not accessible on desktops
