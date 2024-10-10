@@ -187,7 +187,6 @@ https://www.minorityvoices.net/,HUMR,Human Rights Issues,2021-07-12,Netalitica,
 https://www.womenunbounded.com/,HUMR,Human Rights Issues,2021-07-12,Netalitica,
 https://migrantmutualaid.sg/,HUMR,Human Rights Issues,2021-07-12,Netalitica,
 https://beyondhijab.sg/,HUMR,Human Rights Issues,2021-07-12,Netalitica,
-https://asean.org/,IGO,Intergovernmental Organizations,2021-07-09,Netalitica,
 https://asef.org/,IGO,Intergovernmental Organizations,2021-07-09,Netalitica,
 https://www.aseminfoboard.org/,IGO,Intergovernmental Organizations,2021-07-09,Netalitica,
 https://www.fealac.org/,IGO,Intergovernmental Organizations,2021-07-09,Netalitica,
@@ -313,7 +312,6 @@ http://www.naughty.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.penthouse.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.persiankitty.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.worldsex.com/,PORN,Pornography,2014-04-15,citizenlab,
-http://youporn.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.person.com/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.fantasies-in-lace-lingerie.com/,PROV,Provocative Attire,2014-04-15,citizenlab,
 http://www.venusswimwear.com/,PROV,Provocative Attire,2014-04-15,citizenlab,
@@ -342,7 +340,6 @@ https://www.newcreation.org.sg/,REL,Religion,2021-07-06,Netalitica,Organisation 
 https://muslim.sg/,REL,Religion,2021-07-07,Netalitica,Organisation for large religious group in Singapore
 https://family.org.sg/,REL,Religion,2021-07-07,Netalitica,
 https://www.chick.com/,REL,Religion,2021-07-07,Netalitica,Christian evangelical gospel tracts publicly banned in Singapore in 2008
-https://www.jw.org/,REL,Religion,2021-07-09,Netalitica,Religious group banned in Singapore
 https://www.friendsofjehovahswitnesses.com/,REL,Religion,2021-07-09,Netalitica,Religious group banned in Singapore
 https://www.cca.org.hk/,REL,Religion,2021-07-09,Netalitica,Religious group banned in Singapore
 http://familyfedihq.org/,REL,Religion,2021-07-09,Netalitica,Religious group banned in Singapore
@@ -375,3 +372,7 @@ https://prepsingapore.com/,XED,Sex Education,2021-07-09,Netalitica,
 https://gutzy.asia/,NEWS,News Media,2024-09-25,test-lists.ooni.org contribution,Declared by Singaporean Govt to contain false information https://www.pofmaoffice.gov.sg/registry/declared-online-locations/
 https://eastasiaforum.org/,POLR,Political Criticism,2024-09-25,test-lists.ooni.org contribution,Blocked in Singapore https://www.pofmaoffice.gov.sg/files/media-releases/pofma-pr-mci-16sep2023-01.pdf
 https://www.yan.sg/,POLR,Political Criticism,2024-09-25,test-lists.ooni.org contribution,Website of Singapore Eye (also with Facebook page https://www.facebook.com/xinjiapoyan/) quoted as providing misinformation https://www.gov.sg/article/factually161023
+http://mirror.freedif.org/,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+https://gutzy.asia/,NEWS,News Media,2024-09-25,sinarproject,Declared by Singaporean Govt to contain false information https://www.pofmaoffice.gov.sg/registry/declared-online-locations/
+https://eastasiaforum.org/,POLR,Political Criticism,2024-09-25,sinarproject,Blocked in Singapore https://www.pofmaoffice.gov.sg/files/media-releases/pofma-pr-mci-16sep2023-01.pdf
+https://www.yan.sg/,POLR,Political Criticism,2024-09-25,sinarproject,Website of Singapore Eye (also with Facebook page https://www.facebook.com/xinjiapoyan/) quoted as providing misinformation https://www.gov.sg/article/factually161023

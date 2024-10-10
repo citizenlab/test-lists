@@ -24,6 +24,7 @@ http://www.faithfreedom.org/,REL,Religion,2014-04-15,citizenlab,
 https://groups.google.com/group/free-proxy-list-update-daily?pli=1/,COMT,Communication Tools,2014-04-15,citizenlab,
 https://indonbodoh.blogspot.com/,HATE,Hate Speech,2014-04-15,citizenlab,
 https://anonymousproxylist.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
+http://www.pdhre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.suarakita.org/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.arabchurch.com/,REL,Religion,2014-04-15,citizenlab,
 http://papuapost.com/,NEWS,News Media,2017-04-24,sinarproject,Papua conflict 
@@ -149,11 +150,11 @@ https://www.persecutionofahmadis.org/,REL,Religion,2019-09-19,OONI,
 https://www.womenonweb.org/en/page/16338/safe-abortion-network-in-indonesia/,XED,Sex Education,2019-09-19,OONI,
 http://www.astaga.com/,CULTR,Culture,2019-09-19,OONI,The site is not regularly updated
 https://www.blued.com/,GRP,Social Networking,2019-09-19,OONI,Reportedly blocked in Indonesia
-http://boyahoy.com/,GRP,Social Networking,2019-09-19,OONI,"Reportedly blocked in Indonesia. As checked on 7/4/20 the URL is not blocked, but it is just one page to invite people to download the app"
+http://boyahoy.com/,LGBT,LGBT,2019-09-19,OONI,"Reportedly blocked in Indonesia. As checked on 7/4/20 the URL is not blocked, but it is just one page to invite people to download the app"
 https://forum.idws.id/,GRP,Social Networking,2019-09-19,OONI,
 https://dailysocial.id/,HACK,Hacking Tools,2019-09-19,OONI,
 https://1cak.com/,MMED,Media sharing,2019-09-19,OONI,
-https://www.reddit.com/r/indonesia/,MMED,Media sharing,2019-09-19,OONI,
+https://www.reddit.com/r/indonesia/,GRP,Social Networking,2019-09-19,OONI,
 https://www.kompasiana.com/,HOST,Hosting and Blogging Platforms,2019-09-19,OONI,
 https://www.pulsk.com/,MMED,Media sharing,2019-09-19,OONI,
 https://humanrightsinasean.info/members/indonesia/indonesias-rule-of-law-human-rights/,HUMR,Human Rights Issues,2019-09-19,OONI,content is moved to a new URL 
@@ -282,7 +283,7 @@ https://pikobar.jabarprov.go.id/,GOVT,Government,2020-04-21,Netalitica,
 https://sinchi-foundation.com/,HUMR,Human Rights Issues,2020-04-21,Netalitica,
 https://socialist-alliance.org/news/free-west-papua-0/,HUMR,Human Rights Issues,2020-04-21,Netalitica,
 https://anarchistsworldwide.noblogs.org/post/tag/free-west-papua/,HUMR,Human Rights Issues,2020-04-21,Netalitica,
-http://freewestpapuaperth.org/,MILX,Terrorism and Militants,2020-04-21,Netalitica,
+http://freewestpapuaperth.org/,POLR,Political Criticism,2020-04-21,Netalitica,
 https://www.bennywenda.org/,MILX,Terrorism and Militants,2020-04-21,Netalitica,
 https://freewestpapua.wordpress.com/,MILX,Terrorism and Militants,2020-04-21,Netalitica,
 https://www.useetv.com/,MMED,Media sharing,2020-04-21,Netalitica,
@@ -358,7 +359,6 @@ https://bidanku.com/,XED,Sex Education,2020-04-22,Netalitica,
 https://rutgers.id/,XED,Sex Education,2020-04-22,Netalitica,
 https://litebig.com/,GRP,Social Networking,2020-04-23,Netalitica,
 https://www.indorelawan.org/,GRP,Social Networking,2020-04-23,Netalitica,
-https://www.who.int/indonesia/health-topics/hiv-aids/,PUBH,Public Health,2020-04-23,Netalitica,
 http://spiritia.or.id/,PUBH,Public Health,2020-04-23,Netalitica,
 https://www.iac.or.id/,PUBH,Public Health,2020-04-23,Netalitica,
 https://ahmadiyah.id/,REL,Religion,2020-04-23,Netalitica,
@@ -394,7 +394,7 @@ https://sejuk.org/,NEWS,News Media,2020-04-24,Netalitica,
 https://alvinlie.com/,POLR,Political Criticism,2020-04-24,Netalitica,
 https://www.ombudsman.go.id/,POLR,Political Criticism,2020-04-24,Netalitica,
 https://www.narasi.tv/mata-najwa/,POLR,Political Criticism,2020-04-24,Netalitica,
-http://reformasikuhp.org/,POLR,Political Criticism,2020-04-24,Netalitica,
+http://reformasikuhp.org/,HUMR,Human Rights Issues,2020-04-24,Netalitica,
 https://rizalramli.com/,POLR,Political Criticism,2020-04-24,Netalitica,
 https://faisalbasri.com/,POLR,Political Criticism,2020-04-24,Netalitica,
 https://cokro.tv/,POLR,Political Criticism,2020-04-24,Netalitica,
@@ -502,7 +502,7 @@ https://minikino.org/,CULTR,Culture,2020-04-30,Netalitica,
 https://dkj.or.id/,CULTR,Culture,2020-04-30,Netalitica,
 https://montasefilm.com/,CULTR,Culture,2020-04-30,Netalitica,
 https://mualafbarokah.blogspot.com/,CULTR,Culture,2020-04-30,Netalitica,
-http://g30s-pki.com/,CULTR,Culture,2020-04-30,Netalitica,
+http://g30s-pki.com/,POLR,Political Criticism,2020-04-30,Netalitica,
 https://www.thejuicemedia.com/honest-government-ad-visit-west-papua-2/,CULTR,Culture,2020-04-30,Netalitica,
 https://kompas.id/baca/hiburan/2020/03/15/konpopilan-521/,CULTR,Culture,2020-04-30,Netalitica,
 https://www.fimela.com/info/about/,CULTR,Culture,2020-04-30,Netalitica,
@@ -528,10 +528,10 @@ https://www.cyberarmy.id/en/,HACK,Hacking Tools,2020-04-30,Netalitica,
 https://www.course-net.com/kursus-cyber-security/,HACK,Hacking Tools,2020-04-30,Netalitica,
 https://groups.google.com/forum/#!topic/soc.culture.indonesia/OfUVc6hGzUc/,HATE,Hate Speech,2020-04-30,Netalitica,
 http://buktidansaksi.com/,HATE,Hate Speech,2020-04-30,Netalitica,
-https://www.mampu.or.id/,HUMR,Human Rights Issues,2020-04-30,Netalitica,
+http://mampu.bappenas.go.id/,HUMR,Human Rights Issues,2020-04-30,Netalitica,
 https://www.theroadtohomefilm.com/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
 https://oppb.webs.com/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
-http://freepapua.com/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
+http://freepapua.com/,POLR,Political Criticism,2020-04-30,Netalitica,
 http://oppb.org/,MILX,Terrorism and Militants,2020-04-30,Netalitica,
 https://ambon.antaranews.com/,NEWS,News Media,2020-04-30,Netalitica,
 https://www.satumaluku.id/,NEWS,News Media,2020-04-30,Netalitica,
@@ -560,8 +560,8 @@ https://www.tradeeasy.com/,COMM,E-commerce,2020-05-01,Netalitica,
 https://www.change.org/id/,HOST,Hosting and Blogging Platforms,2020-05-01,Netalitica,
 https://karyakarsa.com/,HOST,Hosting and Blogging Platforms,2020-05-01,Netalitica,
 https://locita.co/,HOST,Hosting and Blogging Platforms,2020-05-01,Netalitica,
-https://www.ipwp.org/,MILX,Terrorism and Militants,2020-05-01,Netalitica,
-https://www.ilwp.org/,MILX,Terrorism and Militants,2020-05-01,Netalitica,
+https://www.ipwp.org/,HUMR,Human Rights Issues,2020-05-01,Netalitica,
+https://www.ilwp.org/,HUMR,Human Rights Issues,2020-05-01,Netalitica,
 https://www.bigo.tv/,MMED,Media sharing,2020-05-01,Netalitica,
 http://bigospace.com/,MMED,Media sharing,2020-05-01,Netalitica,
 http://bigolivepc.com/,MMED,Media sharing,2020-05-01,Netalitica,
@@ -599,17 +599,17 @@ https://ofhumanrights.org/,GMB,Gambling,2020-05-02,Netalitica,
 https://www.bluewafflesdisease.org/,GMB,Gambling,2020-05-02,Netalitica,
 http://www.asianbookie.com/ch/index.cfm?/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,found to be blocked
 http://passvipclub.com/,COMM,E-commerce,2020-08-20,Netalitica,found to be blocked
-http://bravo-pass.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
+http://bravo-pass.com/,GAME,Gaming,2020-08-20,Netalitica,dead website but found to be blocked
 http://www.warungbebas.com/,NEWS,News Media,2020-08-20,Netalitica,domain for sale now but still blocked
-http://crito.jw.lt/,NEWS,News Media,2020-08-20,Netalitica,dead website but found to be blocked
+http://crito.jw.lt/,PORN,Pornography,2020-08-20,Netalitica,dead website but found to be blocked
 http://zheg.nastie.co.uk/,GAME,Gaming,2020-08-20,Netalitica,domain is for sale but remains blocked
-http://9nagatangkas.com/,GAME,Gaming,2020-08-20,Netalitica,found to be blocked
-http://mupeng.com/forums/198-18-Tahun-Aza/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,dead website but found to be blocked
-http://ceritacerita.com/,HOST,Hosting and Blogging Platforms,2020-08-20,Netalitica,domain is for sale but remains blocked
+http://9nagatangkas.com/,GMB,Gambling,2020-08-20,Netalitica,found to be blocked
+http://mupeng.com/forums/198-18-Tahun-Aza/,PORN,Pornography,2020-08-20,Netalitica,dead website but found to be blocked
+http://ceritacerita.com/,MMED,Media sharing,2020-08-20,Netalitica,domain is for sale but remains blocked
 http://www.krucil.com/forumdisplay.php?f=5/,COMM,E-commerce,2020-08-20,Netalitica,dead website but found to be blocked
 http://www.ph-store.com/,COMM,E-commerce,2020-08-20,Netalitica,domain is for sale but remains blocked
-http://indonbodoh.blogspot.com/,POLR,Political Criticism,2020-08-20,Netalitica,content from 2009 - blocked
-http://trulyislam.blogspot.com/,REL,Religion,2020-08-20,Netalitica,found to be blocked in Indonesia
+http://indonbodoh.blogspot.com/,HATE,Hate Speech,2020-08-20,Netalitica,content from 2009 - blocked
+http://trulyislam.blogspot.com/,HATE,Hate Speech,2020-08-20,Netalitica,found to be blocked in Indonesia
 http://indonesia.faithfreedom.org/forum/muhammad-bukan-nabi-t1901/,REL,Religion,2020-08-20,Netalitica,dead page but found to be blocked
 http://indonesia.faithfreedom.org/doc/,REL,Religion,2020-08-20,Netalitica,dead website but found to be blocked
 http://guerrillagirls.com/,HUMR,Human Rights Issues,2020-08-20,Netalitica,found to be blocked in Indonesia
@@ -628,7 +628,6 @@ http://www.freegaypornfinder.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.hereistheporn.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.freegaypornhdtube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.youngerbabes.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
-http://youporn.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.persiankitty.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.femalestars.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://rockettube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
@@ -657,3 +656,43 @@ http://bolazoom.com/,GMB,Gambling,2020-08-20,Netalitica,blocked
 https://www.internationalrivers.org/news,ENV,Environment,2021-08-24,Arky,blocked
 http://www.mate1.com/,DATE,Online Dating,2022-02-16,citizenlab,
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
+https://portalsulut.pikiran-rakyat.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://potensibisnis.pikiran-rakyat.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://regional.suara.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.matamatanews.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://international.sindonews.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.rctiplus.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://jak-tv.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://jaring.id/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.indonesialeaks.id/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://independen.id/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
+https://infopemilu.kpu.go.id/,GOVT,Government,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.komnasham.go.id/,HUMR,Human Rights Issues,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://bawaslu.go.id/,GOVT,Government,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.ganjarpranowo.com/,POLR,Political Criticism,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.aniesbaswedan.com/,POLR,Political Criticism,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://www.bijakmemilih.id/,HUMR,Human Rights Issues,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://nafas.co.id/,ENV,Environment,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://neocities.org/,HOST,Hosting and Blogging Platforms,2023-11-16,test-lists.ooni.org contribution,
+https://narasi.tv/,NEWS,News Media,2023-11-17,test-lists.ooni.org contribution,
+https://projectmultatuli.org/,NEWS,News Media,2023-11-17,test-lists.ooni.org contribution,
+https://partaiummat.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://ppp.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaiperindo.com/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://psi.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.demokrat.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaibulanbintang.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://jabarterdepan.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaigaruda.org/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaihanura.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://pks.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.partaigelora.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://partaiburuh.or.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://nasdem.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.partaigolkar.com/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://www.pdiperjuangan.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://gerindra.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://pkb.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
+https://hypixel.net/,GAME,Gaming,2023-12-27,test-lists.ooni.org contribution,
+https://www.seasiadaily.com/,NEWS,News Media,2024-05-27,test-lists.ooni.org contribution,reported to be blocked in Indonesia
+https://imgbb.com/,MMED,Media sharing,2024-07-16,test-lists.ooni.org contribution,
