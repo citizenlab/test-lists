@@ -1646,4 +1646,4 @@ http://archive.ubuntu.com/,HACK,Hacking Tools,2024-04-23,test-lists.ooni.org con
 https://allthefallen.moe/,LGBT,LGBT,2024-05-14,test-lists.ooni.org contribution,
 https://controlplane.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
 https://login.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
-https://cloudflare-ech.com/,ANON,Anonymization and circumvention tools,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
+https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
