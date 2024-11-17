@@ -1,6 +1,6 @@
 url,category_code,category_description,date_added,source,notes
-http://aabtoursandtravel.com/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://acfode.org/,HUMR,Human Rights Issues,2016-08-06,OONI,
+https://www.aabtoursandtravel.com/,COMM,E-commerce,2014-04-15,citizenlab,
+https://acfode.or.ug/,HUMR,Human Rights Issues,2016-08-06,OONI,
 http://activists4change.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://andrewmwendasblog.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://blogs.monitor.co.ug/,MISC,Miscellaneous content,2014-04-15,citizenlab,
@@ -100,7 +100,6 @@ http://www.cipesa.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.crisisgroup.org/home/index.cfm?id=2346&l=1,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.doctorswithoutborders.org/news/uganda.cfm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.enoughproject.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.exposed2013.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.facebook.com/blackmondaymovement,GRP,Social Networking,2014-04-15,citizenlab,
 https://www.facebook.com/groups/197403350412865/,GRP,Social Networking,2014-04-15,citizenlab,
 https://www.facebook.com/groups/24455258874/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -166,7 +165,7 @@ http://www.tiuganda.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.topix.com/forum/world/uganda,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.ugandandiasporanews.com/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.ugandaonline.net/miss_world,PROV,Provocative Attire,2014-04-15,citizenlab,
-http://www.ugandaonlinelawlibrary.com/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://ugandalawlibrary.net/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.uls.or.ug/,HUMR,Human Rights Issues,2016-08-06,OONI,
 http://www.uws.or.ug/,ENV,Environment,2016-08-06,OONI,
 http://www.uyonet.or.ug/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -237,8 +236,6 @@ https://uganda.topescortbabes.com/,PORN,Pornography,2018-09-18,DefendDefenders,L
 https://kampalaexclusiveescorts.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
 https://www.selectanescort.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
 https://guysnightlife.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
-https://www.xvideos.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
-https://www.xnxx.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
 http://iporntv.net/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
 https://www.eporner.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
 https://www.heavy-r.com/,PORN,Pornography,2018-09-18,DefendDefenders,Listed by anti-porn committee
@@ -259,3 +256,4 @@ https://www.theafricareport.com/,NEWS,News Media,2021-01-12,community member,
 https://africanarguments.org/,NEWS,News Media,2021-01-12,community member,
 https://www.africanews.com/,NEWS,News Media,2021-01-12,community member,
 https://qz.com/africa/,NEWS,News Media,2021-01-12,community member,
+https://www.thenewhumanitarian.org/,HUMR,Human Rights Issues,2024-08-09,test-lists.ooni.org contribution,
