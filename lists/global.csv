@@ -1644,6 +1644,7 @@ https://soccerstreamshd.com/,MMED,Media sharing,2024-06-30,test-lists.ooni.org c
 https://bestsolaris.com/,MMED,Media sharing,2024-06-30,test-lists.ooni.org contribution,"https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/ -- soccer streaming site, cloudflare returns 451 for this one in czechia"
 http://archive.ubuntu.com/,HACK,Hacking Tools,2024-04-23,test-lists.ooni.org contribution,HTTP requests to this host resolving to 91.189.91.83 are currently route blackholed by some Indian ISPs. This URL is used by a relevant share of Ubuntu installations world-wide to retrieve software updates.
 https://allthefallen.moe/,LGBT,LGBT,2024-05-14,test-lists.ooni.org contribution,
+https://www.forum18.org/,HUMR,Human Rights Issues,2024-08-22,test-lists.ooni.org contribution,
 https://controlplane.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
 https://login.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
 https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
