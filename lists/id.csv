@@ -24,6 +24,7 @@ http://www.faithfreedom.org/,REL,Religion,2014-04-15,citizenlab,
 https://groups.google.com/group/free-proxy-list-update-daily?pli=1/,COMT,Communication Tools,2014-04-15,citizenlab,
 https://indonbodoh.blogspot.com/,HATE,Hate Speech,2014-04-15,citizenlab,
 https://anonymousproxylist.net/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
+http://www.pdhre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.suarakita.org/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.arabchurch.com/,REL,Religion,2014-04-15,citizenlab,
 http://papuapost.com/,NEWS,News Media,2017-04-24,sinarproject,Papua conflict 
@@ -358,7 +359,6 @@ https://bidanku.com/,XED,Sex Education,2020-04-22,Netalitica,
 https://rutgers.id/,XED,Sex Education,2020-04-22,Netalitica,
 https://litebig.com/,GRP,Social Networking,2020-04-23,Netalitica,
 https://www.indorelawan.org/,GRP,Social Networking,2020-04-23,Netalitica,
-https://www.who.int/indonesia/health-topics/hiv-aids/,PUBH,Public Health,2020-04-23,Netalitica,
 http://spiritia.or.id/,PUBH,Public Health,2020-04-23,Netalitica,
 https://www.iac.or.id/,PUBH,Public Health,2020-04-23,Netalitica,
 https://ahmadiyah.id/,REL,Religion,2020-04-23,Netalitica,
@@ -628,7 +628,6 @@ http://www.freegaypornfinder.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.hereistheporn.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.freegaypornhdtube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.youngerbabes.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
-http://youporn.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.persiankitty.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://www.femalestars.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
 http://rockettube.com/,PORN,Pornography,2020-08-20,Netalitica,blocked
@@ -656,6 +655,7 @@ http://fifabola.com/,GMB,Gambling,2020-08-20,Netalitica,domain for sale but stil
 http://bolazoom.com/,GMB,Gambling,2020-08-20,Netalitica,blocked
 https://www.internationalrivers.org/news,ENV,Environment,2021-08-24,Arky,blocked
 http://www.mate1.com/,DATE,Online Dating,2022-02-16,citizenlab,
+https://bitcoin-mix.org/,COMM,E-commerce,2022-08-26,test-lists.ooni.org contribution,
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
 https://portalsulut.pikiran-rakyat.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
 https://potensibisnis.pikiran-rakyat.com/,NEWS,News Media,2023-07-25,test-lists.ooni.org contribution,Added by EngageMedia
@@ -695,3 +695,10 @@ https://www.pdiperjuangan.id/,POLR,Political Criticism,2023-11-17,test-lists.oon
 https://gerindra.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
 https://pkb.id/,POLR,Political Criticism,2023-11-17,test-lists.ooni.org contribution,
 https://hypixel.net/,GAME,Gaming,2023-12-27,test-lists.ooni.org contribution,
+https://www.seasiadaily.com/,NEWS,News Media,2024-05-27,test-lists.ooni.org contribution,reported to be blocked in Indonesia
+https://imgbb.com/,MMED,Media sharing,2024-07-16,test-lists.ooni.org contribution,
+https://secure.flickr.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://site.voicepulse.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.hon.ch/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.positive.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+http://www.womenwarpeace.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
