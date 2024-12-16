@@ -1650,3 +1650,4 @@ https://login.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
 https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
 https://amnezia.org/,ANON,Anonymization and circumvention tools,2024-12-16,test-lists.ooni.org contribution,Amnezia is its own VPN and AmeziaWG is a fork of Wireguard with protection against DPI
 https://grapheneos.org/,MISC,Miscelaneous content,2024-12-16,test-lists.ooni.org contribution,GrapheneOS is a privacy and security focused mobile OS for Google Pixel phones
+https://simplex.chat/,COMT,Communication Tools,2024-12-16,test-lists.ooni.org contribution,SimpleX Chat is an instant messenger that doesn't require any kind of User IDs
