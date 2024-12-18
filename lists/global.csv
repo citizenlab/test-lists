@@ -1648,6 +1648,11 @@ https://www.forum18.org/,HUMR,Human Rights Issues,2024-08-22,test-lists.ooni.org
 https://controlplane.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
 https://login.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
 https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
+https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://root-key-sentinel-is-ta-20326.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://bogus.d2a8n1.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
 https://www.iwraw-ap.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
 https://www.womenforwomen.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
 https://www.genderit.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
