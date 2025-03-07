@@ -248,7 +248,6 @@ http://www.mod.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Defense
 https://www.mol.gov.mm/,GOVT,Government,2020-01-09,Kyaw,"Ministry of Labour, Immigration and Population"
 http://www.monrec.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Natural Resources and Environmental Conservation
 http://www.monstate.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Mon State Government
-http://www.mora.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Religious Affairs and Culture
 http://www.nptdc.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Naypyitaw Development Council
 http://www.unionsupremecourt.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Union Supreme Court
 http://www.yangon.hluttaw.mm/,GOVT,Government,2020-01-09,Kyaw,Yangon Region Parliament
@@ -281,22 +280,20 @@ http://www.monhluttaw.com/,GOVT,Government,2020-01-09,Kyaw,Mon State Parliament
 http://www.tniregion.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Tanintharyi Region Government
 http://www.tvetmyanmar.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Education
 http://www.ucsb.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Union Council Service Board
-https://moha.gov.mm/index.php?lang=en,GOVT,Government,2020-01-09,Kyaw,Ministry of Home Affairs
 https://myanmar.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Myanmar National Portal
-https://pyidaungsu.hluttaw.mm/,GOVT,Government,2020-01-09,Kyaw,Pyidaungsu Hluttaw - Union Parliament
 https://tourism.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Hotels and Tourism
 https://www.dri.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Education
 https://www.pyithu.hluttaw.mm/,GOVT,Government,2020-01-09,Kyaw,Pyithu Hluttaw - Lower House
 https://nugmyanmar.org/,GOVT,Government,2021-05-07,Netalitica,National Unity Government
 https://kyawkyawlinn.com/,GOVT,Government,2021-05-17,Netalitica,
 https://www.ddm.gov.mm/,GOVT,Government,2021-05-17,Netalitica,
-https://www.dsw.gov.mm/mm/,GOVT,Government,2021-05-17,Netalitica,
+https://www.dsw.gov.mm/,GOVT,Government,2021-05-17,Netalitica,
 https://www.mopfi.gov.mm/,GOVT,Government,2021-05-17,Netalitica,
-https://www.seniorgeneralminaunghlaing.com.mm/en/,GOVT,Government,2021-05-24,Netalitica,
+https://www.seniorgeneralminaunghlaing.com.mm/,GOVT,Government,2021-05-24,Netalitica,
 http://www.myanmar-law-library.org/,GOVT,Government,2021-05-30,Netalitica,
-https://www.mlis.gov.mm/main.do/,GOVT,Government,2021-05-30,Netalitica,
+https://www.mlis.gov.mm/,GOVT,Government,2021-05-30,Netalitica,
 https://gov.nugmyanmar.org/,GOVT,Government,2021-06-02,Netalitica,Parallel government to the military regime
-https://iwumd.gov.mm/en/home/,GOVT,Government,2021-06-02,Netalitica,
+https://iwumd.gov.mm/,GOVT,Government,2021-06-02,Netalitica,
 https://mofa.nugmyanmar.org/,GOVT,Government,2021-06-02,Netalitica,Parallel government to the military regime
 https://moh.nugmyanmar.org/,GOVT,Government,2021-06-02,Netalitica,Parallel government to the military regime
 https://mohr.nugmyanmar.org/,GOVT,Government,2021-06-02,Netalitica,Parallel government to the military regime
@@ -396,7 +393,6 @@ https://paowomensunion.wordpress.com/,HUMR,Human Rights Issues,2014-04-15,citize
 https://reliefweb.int/country/mmr,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://tbsa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://womenofburma.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.amnesty.org/en/countries/asia-and-the-pacific/myanmar/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.asianmigrantcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.burma-center.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.forum-asia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -407,8 +403,8 @@ https://www.theborderconsortium.org/,HUMR,Human Rights Issues,2014-04-15,citizen
 http://kicnews.org/,HUMR,Human Rights Issues,2016-10-17,MIDO,Karen Information Center
 http://www.mnhrc.org.mm/,HUMR,Human Rights Issues,2016-10-18,MIDO,Myanmar National Human Rights Commission
 http://www.rohringya.org/,HUMR,Human Rights Issues,2020-01-10,Kyaw,
-https://boycottmyanmar.org/#home/,HUMR,Human Rights Issues,2020-01-10,Kyaw,
-https://freerohingyacoalition.org/en/,HUMR,Human Rights Issues,2020-01-10,Kyaw,Free Rohingya Coalition
+https://boycottmyanmar.org/,HUMR,Human Rights Issues,2020-01-10,Kyaw,
+https://freerohingyacoalition.org/,HUMR,Human Rights Issues,2020-01-10,Kyaw,Free Rohingya Coalition
 https://merhrom.wordpress.com/,HUMR,Human Rights Issues,2020-01-10,Kyaw,
 https://www.brcgrohingya.org/,HUMR,Human Rights Issues,2020-01-10,Kyaw,
 http://www.myanmarmpha.org/,HUMR,Human Rights Issues,2020-01-13,Kyaw,
@@ -437,30 +433,30 @@ https://ispmyanmarpeacedesk.com/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 https://merin.org.mm/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 https://myanmar.savethechildren.net/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 https://thibi.co/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
-https://www.crisisgroup.org/latest-updates/location/asia/south-east-asia/myanmar,HUMR,Human Rights Issues,2021-05-17,Netalitica,
-https://www.ispmyanmar.com/burmese/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
-https://www.myanmar-responsiblebusiness.org/my/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
+https://www.crisisgroup.org/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
+https://www.ispmyanmar.com/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
+https://www.myanmar-responsiblebusiness.org/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 https://www.myanmarwaterportal.com/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 https://www.savemyanmar.org/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 http://karen.kicnews.org/,HUMR,Human Rights Issues,2021-05-18,Netalitica,
 https://hiburma.net/,HUMR,Human Rights Issues,2021-05-18,Netalitica,
-https://www.bhrn.org.uk/en/,HUMR,Human Rights Issues,2021-05-18,Netalitica,
+https://www.bhrn.org.uk/,HUMR,Human Rights Issues,2021-05-18,Netalitica,
 https://progressivevoicemyanmar.org/,HUMR,Human Rights Issues,2021-05-21,Netalitica,
 https://rohangking.blogspot.com/,HUMR,Human Rights Issues,2021-05-21,Netalitica,
 https://www.burmalink.org/,HUMR,Human Rights Issues,2021-05-24,Netalitica,
 https://www.gdimyanmar.org/,HUMR,Human Rights Issues,2021-05-24,Netalitica,
 https://emref.org/en/,HUMR,Human Rights Issues,2021-05-26,Netalitica,
-https://mohinga.info/my/,HUMR,Human Rights Issues,2021-05-26,Netalitica,
+https://mohinga.info/,HUMR,Human Rights Issues,2021-05-26,Netalitica,
 https://www.mmunicode.org/,HUMR,Human Rights Issues,2021-05-26,Netalitica,
 https://www.tni.org/my,HUMR,Human Rights Issues,2021-07-11,Netalitica,
 https://www.paoyouth.org/,HUMR,Human Rights Issues,2021-05-17,Netalitica,
 https://www.britishcouncil.org.mm/,IGO,Intergovernmental Organizations,2016-10-17,MIDO,British Council's website
 https://www.themimu.info/,IGO,Intergovernmental Organizations,2016-10-17,MIDO,Myanmar Information Management Unit
 http://www.info-birmanie.org/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
-https://www.mm.undp.org/content/myanmar/my/home.html/,IGO,Intergovernmental Organizations,2021-05-17,Netalitica,
-https://myanmar.un.org/en,IGO,Intergovernmental Organizations,2021-05-19,Netalitica,
+https://www.mm.undp.org/,IGO,Intergovernmental Organizations,2021-05-17,Netalitica,
+https://myanmar.un.org/,IGO,Intergovernmental Organizations,2021-05-19,Netalitica,
 https://myanmar.unfpa.org/,IGO,Intergovernmental Organizations,2021-05-19,Netalitica,
-https://www.redcross.org.mm/my_MM/,IGO,Intergovernmental Organizations,2021-05-19,Netalitica,
+https://www.redcross.org.mm/,IGO,Intergovernmental Organizations,2021-05-19,Netalitica,
 http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.utopia-asia.com/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.fridae.asia/,LGBT,LGBT,2014-04-15,citizenlab,
@@ -485,7 +481,7 @@ http://www.karennationalunion.net/,MILX,Terrorism and Militants,2014-04-15,citiz
 http://kachinindependence.org/,MILX,Terrorism and Militants,2020-02-03,Kyaw,Appear taken down due to current political situation
 https://bur.taifreedom.com/,MILX,Terrorism and Militants,2021-05-19,Netalitica,Restoration Council of Shan State
 https://www.kachinnet.net/,MILX,Terrorism and Militants,2021-05-19,Netalitica,Kachin Independence Army News Outlet
-https://www.knuhq.org/public/en/,MILX,Terrorism and Militants,2021-05-19,Netalitica,Karen National Union Portal
+https://www.knuhq.org/,MILX,Terrorism and Militants,2021-05-19,Netalitica,Karen National Union Portal
 http://www.ayinepan.com/,MMED,Media sharing,2014-04-15,citizenlab,
 https://www.myanmarmp3.net/,MMED,Media sharing,2014-04-15,citizenlab,
 https://channelmyanmar.org/,MMED,Media sharing,2021-05-17,Netalitica,
@@ -531,29 +527,21 @@ http://trend.lwinpyin.com/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
 http://www.phothutaw.com/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
 https://burmese.kachinnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://burmese.voanews.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://globalvoices.org/-/world/east-asia/myanmar-burma/,NEWS,News Media,2014-04-15,citizenlab,
-https://issuu.com/hteiktinaung/docs/vol.1_no.2/,NEWS,News Media,2014-04-15,citizenlab,
+https://issuu.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://kachinnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://koshwehtoo.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://news-eleven.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://prachatai.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://prachatai.com/english/,NEWS,News Media,2014-04-15,citizenlab,
 https://tavoyan.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://wn.com/Asia___daily/.Asia/,NEWS,News Media,2014-04-15,citizenlab,
-https://wn.com/Asia_pacific_news/Asia_Pacific/,NEWS,News Media,2014-04-15,citizenlab,
-https://wn.com/Burma_daily/Myanmar/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.asiatimes.com/section/south-east-asia/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.bbc.com/burmese/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.bbc.com/news/world-asia-pacific-12990563/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.bbc.com/news/world-asia-pacific-12992883/,NEWS,News Media,2014-04-15,citizenlab,
+https://wn.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.asiatimes.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.bnionline.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.bnionline.net/mm/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.burmapartnership.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.channelnewsasia.com/news/international/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.channelnewsasia.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.irrawaddy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.kachinlandnews.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.kaladanpress.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.koreatimes.co.kr/www2/index.asp/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.koreatimes.co.kr/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.mmtimes.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.moemaka.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.narinjara.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -561,9 +549,9 @@ https://www.nationthailand.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.newsweek.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.rfa.org/burmese/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.scmp.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.straitstimes.com/global/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.taiwannews.com.tw/en/index/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.theguardian.com/world/myanmar/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.straitstimes.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.taiwannews.com.tw/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.theguardian.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.zdnet.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://yelwinoo.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://kt-ktimes.blogspot.com/,NEWS,News Media,2016-10-17,MIDO,Ethnic Media
@@ -598,13 +586,13 @@ https://www.newsvsinformation.com/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
 https://www.rohingyanewsbank.com/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
 https://yoyarlay.com/,NEWS,News Media,2016-10-18,MIDO,Blog
 https://burmavj.net/,NEWS,News Media,2014-04-15,citizenlab,
-https://blog.moemaka.com/p/random-post-from-blogmoemakacom.html,NEWS,News Media,2014-04-15,citizenlab,
+https://blog.moemaka.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://medicalsharing.website/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
 https://7day.news/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.kamayutmedia.com/,NEWS,News Media,2016-10-17,MIDO,Online Media
 https://www.thestateless.com/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
 https://www.vom-news.com/,NEWS,News Media,2020-03-26,Kyaw,Blocklist
-http://www.thithtoolwin.com//,NEWS,News Media,2021-01-11,Netalitica,
+http://www.thithtoolwin.com/,NEWS,News Media,2021-01-11,Netalitica,
 http://www.chinworldnewsevening.com/,NEWS,News Media,2021-05-06,Netalitica,Chin Language News
 https://www.myitkyinanewsjournal.com/,NEWS,News Media,2021-05-06,Netalitica,Kachin ethnic news; agency discontinued on 5/2/2021 due to pressure from military regime
 https://www.zalen.info/,NEWS,News Media,2021-05-06,Netalitica,Chin ethnic news
@@ -626,7 +614,7 @@ https://myanmar.factcrescendo.com/,NEWS,News Media,2021-06-02,Netalitica,
 https://www.boommyanmar.com/,NEWS,News Media,2021-06-02,Netalitica,
 https://www.m-mediagroup.com/,NEWS,News Media,2021-06-02,Netalitica,
 https://www.thefarmermedia.com/,NEWS,News Media,2021-06-02,Netalitica,
-https://www.sbs.com.au/language/burmese/,NEWS,News Media,2021-07-11,Netalitica,
+https://www.sbs.com.au/,NEWS,News Media,2021-07-11,Netalitica,
 https://botauk.com/,NEWS,News Media,2021-07-11,Netalitica,
 https://mpanews.press/,NEWS,News Media,2021-07-11,Netalitica,
 https://hannyeinoo.net/,NEWS,News Media,2021-07-12,Netalitica,Clickbait/Celebrity Tabloid
@@ -658,10 +646,9 @@ https://www.birmanie.net/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.freeburmarangers.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.himalmag.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.theelders.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.theguardian.com/world/aung-san-suu-kyi/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.uscampaignforburma.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.mmpeaceMonitor.org/,POLR,Political Criticism,2016-10-18,MIDO,Myanmar Peace Monitor
-https://iimm.un.org/my/,POLR,Political Criticism,2021-03-18,OONI,Reportedly blocked
+https://iimm.un.org/,POLR,Political Criticism,2021-03-18,OONI,Reportedly blocked
 https://www.theananda.org/en/,POLR,Political Criticism,2020-02-06,Kyaw,Contents removed by web owner in current political situation
 http://cmsmdy.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://fine-leaves.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -712,7 +699,7 @@ http://aungsanu.com/my,POLR,Political Criticism,2021-06-02,Netalitica,Pro-milita
 http://www.eprpinformation.org/,POLR,Political Criticism,2021-07-11,Netalitica,Ethnic peace resource project
 https://nwayoomyanmar.com/,POLR,Political Criticism,2021-07-11,Netalitica,2021 Protests
 https://springrevolution.net/,POLR,Political Criticism,2021-07-11,Netalitica,2021 Protests
-https://waywaynay-f20f6.web.app/#/,POLR,Political Criticism,2021-07-11,Netalitica,2021 Protests
+https://waywaynay-f20f6.web.app/,POLR,Political Criticism,2021-07-11,Netalitica,2021 Protests
 https://1221cd.org/,POLR,Political Criticism,2021-07-11,Netalitica,2021 Protests
 https://www.nwayootawhlanyay.com/,POLR,Political Criticism,2021-07-11,Netalitica,2021 Protests
 https://aungttant.com/news/,POLR,Political Criticism,2021-07-11,Netalitica,Up to date political content
@@ -768,7 +755,7 @@ https://mydoctor.com.mm/,PUBH,Public Health,2021-05-19,Netalitica,
 https://www.reachoutmyanmar.com/,PUBH,Public Health,2021-05-19,Netalitica,
 https://hivinfomyanmar.org/,PUBH,Public Health,2021-05-26,Netalitica,
 https://content.ondoctor.com.mm/,PUBH,Public Health,2021-06-02,Netalitica,
-https://institute.trepson.org/my/,PUBH,Public Health,2021-06-02,Netalitica,
+https://institute.trepson.org/,PUBH,Public Health,2021-06-02,Netalitica,
 https://www.asiaroyalhospital.com/,PUBH,Public Health,2021-06-02,Netalitica,
 https://www.chubb.com/mm-en/,PUBH,Public Health,2021-06-02,Netalitica,
 https://www.donatebloodmyanmar.org/,PUBH,Public Health,2021-06-02,Netalitica,
@@ -783,7 +770,7 @@ http://atemmyanmar.org/,REL,Religion,2020-01-13,Kyaw,
 http://bsmyanmar.org/about-us/,REL,Religion,2020-01-13,Kyaw,
 http://www.friendsofburma.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.theultimateinsult.blogspot.com/,REL,Religion,2014-04-15,citizenlab,
-https://centerforinquiry.org/blog/category/secular-islam/,REL,Religion,2014-04-15,citizenlab,
+https://centerforinquiry.org/,REL,Religion,2014-04-15,citizenlab,
 https://new.cfan.org/,REL,Religion,2014-04-15,citizenlab,
 http://mbc-1813.org/,REL,Religion,2020-01-10,Kyaw,
 http://www.mahana.org.mm/,REL,Religion,2020-01-10,Kyaw,
@@ -804,8 +791,8 @@ https://easternlightningmy.wordpress.com/,REL,Religion,2021-06-02,Netalitica,
 https://maranathamedia-myanmar.com/,REL,Religion,2021-06-02,Netalitica,
 https://my.kingdomsalvation.org/,REL,Religion,2021-06-02,Netalitica,
 https://myanmar-odb.org/,REL,Religion,2021-06-02,Netalitica,
-https://www.bible.com/my/,REL,Religion,2021-06-02,Netalitica,
-https://www.gotquestions.org/Myanmar/,REL,Religion,2021-06-02,Netalitica,
+https://www.bible.com/,REL,Religion,2021-06-02,Netalitica,
+https://www.gotquestions.org/,REL,Religion,2021-06-02,Netalitica,
 https://www.thylogos.org/,REL,Religion,2021-06-02,Netalitica,
 http://www.lighthouse.com.mm/,SRCH,Search Engines,2016-10-17,MIDO,Web Portal
 http://www.lrcmyanmar.org/,SRCH,Search Engines,2016-10-17,MIDO,Local NGOs and INGOs directory and resources portal
@@ -822,7 +809,7 @@ https://www.commercejournal.com.mm/,NEWS,News Media,2022-04-06,,News website in 
 https://www.popularmyanmar.com/,NEWS,News Media,2022-04-06,,"Myanmar News ""popular journal ""site"
 https://www.unodc.org/,IGO,Intergovernmental Organizations,2022-04-06,,The specific content is about drugs and crime
 https://burma.irrawaddy.com/,NEWS,News Media,2022-04-06,,This is news site in Myanmar
-https://www.ndi.org/asia/burmamyanmar,NEWS,News Media,2022-04-06,,media website for Myanmar
+https://www.ndi.org/,NEWS,News Media,2022-04-06,,media website for Myanmar
 https://myanmarinternet.info/,HOST,Hosting and Blogging Platforms,2022-04-26,,digital and internet affairs in Myanmar and blocked one
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
 https://www.ayeyarwadyregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Irrawaddy Region Government under the SAC (State Administration Council)
