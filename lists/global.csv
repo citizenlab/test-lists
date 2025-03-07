@@ -1651,6 +1651,17 @@ https://www.privacyguides.org/,ANON,Anonymization and circumvention tools,2024-0
 https://www.techlore.tech/,NEWS,News Media,2024-09-19,test-lists.ooni.org contribution,Independent journalism on cybersecurity and digital rights
 https://triplebit.org/,ANON,Anonymization and circumvention tools,2024-09-19,test-lists.ooni.org contribution,Tor relay association/operator
 https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
+https://whrdic.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://gaggaalliance.org/,ENV,Environment,2024-12-03,test-lists.ooni.org contribution,
+https://numun.fund/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://southfeministfutures.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.doriafeministfund.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://justassociates.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.womankind.org.uk/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://urgentactionfund.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://resurj.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.mamacash.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.disabilityrightsfund.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
 https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
 https://root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
 https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
