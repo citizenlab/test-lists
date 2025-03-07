@@ -97,7 +97,6 @@ https://www.forum-asia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hati.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hrw.org/asia/malaysia/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.ilo.org/asia/lang--en/index.htm/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.iwraw-ap.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.malaysianbar.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://mfasia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.persecution.org/category/countries/asia/malaysia/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -291,7 +290,7 @@ http://www.state.gov/g/drl/rls/irf/2005/51518.htm,REL,Religion,2014-04-15,citize
 https://www.straitstimes.com/,NEWS,News Media,2016-06-10,OONI,
 http://www.suaram.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.suhakam.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.sun2surf.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://thesun.my/,NEWS,News Media,2024-09-30,sinarproject,Updated from https://sun2surf.com/
 http://www.surforever.com/sam/a2z/content1.html,ENV,Environment,2014-04-15,citizenlab,
 https://www.theedgemarkets.com/,NEWS,News Media,2023-02-21,sinarproject,
 https://www.theguardian.com/world/2016/mar/03/us-condems-ally-malaysia-for-attempts-to-muzzle-free-press,POLR,Political Criticism,2016-06-10,OONI,
@@ -456,7 +455,6 @@ https://caghi.com/,SRCH,Search Engines,2022-10-28,sinar project,"An open source 
 https://www.bravotube.net/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
 https://rarbggo.org/,FILE,File-sharing,2023-02-21,sinar project,Found blocked in Malaysia
 http://breached.co/,SRCH,Search Engines,2023-02-21,sinar project,Found blocked in Malaysia
-https://www.dandanzan.com/,MMED,Media sharing,2023-02-21,sinar project,Found blocked in Malaysia
 https://pakatanharapan.my/,POLR,Political Criticism,2023-02-21,sinar project,
 https://www.warisansabah.org/,POLR,Political Criticism,2023-02-21,sinar project,
 https://www.roketkini.com/,POLR,Political Criticism,2023-02-21,sinar project,
@@ -506,5 +504,7 @@ https://gschqckhtpkidzxz.global.ssl.fastly.net/,POLR,Political Criticism,2024-01
 https://psjowghndldovpnc.qsaob2yrzd.online/,POLR,Political Criticism,2024-03-08,sinarproject,2nd mirror site of https://murrayhunter.substack.com/
 https://eurasiareview.com/,POLR,Political Criticism,2024-03-08,sinarproject,Murray Hunter’s article
 https://codeblue.galencentre.org/,POLR,Political Criticism,2024-03-08,sinarproject,Similar Facebook post got taken down by authorities: https://www.facebook.com/story.php?story_fbid=934270301431170&id=100045446257045&mibextid=oFDknk
+https://boardgamegeek.com/,HOST,Hosting and Blogging Platforms,2024-09-08,test-lists.ooni.org contribution,
+https://www.artstation.com/,MMED,Media sharing,2024-09-08,test-lists.ooni.org contribution,confirmed by the minister as a copyright takedown
 https://www.gajiprogresif.gov.my/,GOVT,Government,2024-08-10,sinarproject,
 https://utusantv.com/,NEWS,News Media,2024-08-10,sinarproject,
