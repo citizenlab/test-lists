@@ -1651,6 +1651,9 @@ https://www.privacyguides.org/,ANON,Anonymization and circumvention tools,2024-0
 https://www.techlore.tech/,NEWS,News Media,2024-09-19,test-lists.ooni.org contribution,Independent journalism on cybersecurity and digital rights
 https://triplebit.org/,ANON,Anonymization and circumvention tools,2024-09-19,test-lists.ooni.org contribution,Tor relay association/operator
 https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
+https://bcc.chat/,COMT,Communication Tools,2024-12-11,test-lists.ooni.org contribution,chatmail server for Delta Chat
+https://support.delta.chat/,COMT,Communication Tools,2024-12-11,test-lists.ooni.org contribution,Support forum for Delta Chat messenger
+https://chika.aangat.lahat.computer/,COMT,Communication Tools,2024-12-11,test-lists.ooni.org contribution,chatmail server for Delta Chat
 https://whrdic.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
 https://gaggaalliance.org/,ENV,Environment,2024-12-03,test-lists.ooni.org contribution,
 https://numun.fund/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
