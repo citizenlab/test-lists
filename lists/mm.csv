@@ -245,7 +245,7 @@ http://www.mcf.org.mm/,GOVT,Government,2020-01-09,Kyaw,MCF is stated as non gove
 http://www.mlc.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Education
 http://www.moculture.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Religious Affairs and Culture
 http://www.mod.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Defense
-http://www.mol.gov.mm/mm/,GOVT,Government,2020-01-09,Kyaw,"Ministry of Labour, Immigration and Population"
+https://www.mol.gov.mm/,GOVT,Government,2020-01-09,Kyaw,"Ministry of Labour, Immigration and Population"
 http://www.monrec.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Natural Resources and Environmental Conservation
 http://www.monstate.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Mon State Government
 http://www.mora.gov.mm/,GOVT,Government,2020-01-09,Kyaw,Ministry of Religious Affairs and Culture
@@ -826,20 +826,15 @@ https://www.ndi.org/asia/burmamyanmar,NEWS,News Media,2022-04-06,,media website 
 https://myanmarinternet.info/,HOST,Hosting and Blogging Platforms,2022-04-26,,digital and internet affairs in Myanmar and blocked one
 https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
 https://www.ayeyarwadyregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Irrawaddy Region Government under the SAC (State Administration Council)
-https://www.moi.gov.mm/km/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,SAC news outlet
-https://www.moi.gov.mm/mal/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,SAC news outlet
 https://www.kayahstate.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Kayah state gov (State Administration Council)
 https://www.sagaingregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,SAC (Sagaing division gov)
 https://www.gad.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,General Administration Department_Under the Ministry of Home Affairs(State Administration Council)
-http://www.mdyregion.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Mandalay division gov (State Administration Council)
 https://www.emandalay.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Mandalay division gov't web portal (State Administration Council)
 https://myanmarpost.com.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Post portal (State Administration Council)
-http://www.shanstate.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Shan state gov (State Administration Council)
 http://www.mmu.edu.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Maritime University (State Administration Council)
 https://www.moha.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Ministry of Home Affairs (State Administration Council)
-http://www.mmmc.edu.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Mercantile Marine College (State Administration Council)
+https://www.mmmc.edu.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Mercantile Marine College (State Administration Council)
 https://www.pyidaungsu.hluttaw.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,reviewed (State Administration Council)
-http://www.pyithuhluttaw.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Pyithu Hluttaw (State Administration Council)
 https://www.constitutionaltribunal.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Reviewed (State Administration Council)
 https://www.uec.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Union Election Commission (State Administration Council)
 http://www.dotp.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Department of Transport Planning (State Administration Council)
@@ -853,17 +848,14 @@ https://www.fsd.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribut
 https://www.mopf.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Ministry of Planning and Finance_Union Minister’s Office(State Administration Council)
 https://www.mmcert.org.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Information Technology and Cyber Security Department (State Administration Council)
 https://www.ncsc.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Statistic platform under the Information Technology and Cyber Security Department (State Administration Council)
-https://www.policeforce.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanmar Police Force_Under the Ministry of Home Affairs(State Administration Council)
 https://www.iwt.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Inland Water Transport (State Administration Council)
 https://www.mpa.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanma Port Authority (State Administration Council)
 https://www.railways.gov.mm/,GOVT,Government,2024-06-28,test-lists.ooni.org contribution,Myanma Railways (State Administration Council)
-https://www.projectbank.gov.mm/en/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Planning Department(State Administration Council)
 http://www.nam.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,National Achives Department(State Administration Council)
 https://www.mmsis.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Central Statistical Organization(State Administration Council)
 https://www.mmftb.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Foreign Trade Bank (State Administration Council)
-http://www.meb.gov.mm/mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Economic Bank (State Administration Council)
+http://www.meb.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Economic Bank (State Administration Council)
 http://www.micb.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Investment and Commercial Bank(State Administration Council)
-http://www.mopfi.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,The page is not reachable.
 https://www.mminsurance.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanmar Insurance(State Administration Council)
 https://www.customs.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Customs Department (State Administration Council)
 https://www.ird.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Internal Revenue Department(State Administration Council)
@@ -875,43 +867,32 @@ http://www.mougo.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribu
 https://moba.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Border Affairs(State Administration Council)
 https://www.mifer.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Investment and Foreign Economic Relations(State Administration Council)
 https://www.dica.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Directorate of Investment and Company Administration(State Administration Council)
-http://www.ferd.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Foreign Economic Relations Department(State Administration Council)
 https://www.mola.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Legal Affairs(State Administration Council)
-http://www.mrtvmyanmar.com/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Radio and Television(State Administration Council)
-https://www.moi.gov.mm/npe/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,News and Periodical Enterprise(State Administration Council)
+http://mrtvmyanmar.com/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Myanma Radio and Television(State Administration Council)
 https://www.mora.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Ministry of Religious Affairs and Culture(State Administration Council)
 https://www.spsumdy.org/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,State Pariyatti Sasana University of Mandalay(State Administration Council)
-https://www.doa.gov.mm/doa/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Department of Agriculture(State Administration Council)
-https://www.lbvd.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Livestock Breeding and Veterinary Department(State Administration Council)
+https://www.doa.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Department of Agriculture(State Administration Council)
 http://www.dof.gov.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Department of Fisheries(State Administration Council)
 https://www.yau.edu.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,Yezin Agricultural University(State Administration Council)
-http://www.uvsyezin.edu.mm/,GOVT,Government,2024-07-01,test-lists.ooni.org contribution,University of Veterinary Science(State Administration Council)
 https://mcrd.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Ministry of Cooperatives and Rural Development (MCRD): Minister Office
-http://www.drdmyanmar.org/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Rural Development under MCRD.
-http://www.ucmt.edu.mm/ucmt/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,"University of Co-operative and Management, Thanlyin under MCRD."
+https://www.drdmyanmar.org/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Rural Development under MCRD.
 http://www.ucms.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,"University of Co-operative and Management, Sagaing under MCRD."
-http://www.mining.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Minister Office (Mining) under the MNREC.
-http://www.forestdepartment.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Forestry under the MNREC.
+https://www.mining.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Minister Office (Mining) under the MNREC.
+https://forestdepartment.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Forestry under the MNREC.
 http://www.mte.com.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Myanmar Timber Enterprise under the MNREC.
-http://www.dryzonegreening.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Dry Zone Greening Department under the MNREC.
-http://www.ecd.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Environmental Conservation Department under the MNREC.
+https://www.dryzonegreening.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Dry Zone Greening Department under the MNREC.
+https://www.ecd.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Environmental Conservation Department under the MNREC.
 http://www.surveydepartment.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Survey Department under the MNREC.
 https://energy.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Ministry of Energy
-http://www.industry.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Ministry of Industry: Minister Office
-http://www.disi.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Directorate of Industrial Supervision and Inspection under the Ministry of Industry.
-http://www.msme.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,SME Development Agency under the Ministry of Industry.
-http://www.itcsinde.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.1 Industrial Training Center (Sinde) under the Ministry of Industry.
-http://www.itcmandalay.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.2 Industrial Training Center (Mandalay) under the Ministry of Industry.
-http://www.itcthagaya.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.3 Industrial Training Center (Thagaya) under the Ministry of Industry.
-http://www.itcpakokku.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.4 Industrial Training Center (Pakokku) under the Ministry of Industry.
-http://www.itcmagway.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.5 Industrial Training Center (Magway) under the Ministry of Industry.
-http://www.itcmyingyan.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.6 Industrial Training Center (Myingyan) under the Ministry of Industry.
-http://evisa.moip.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,e-Visa Department under MIP
-http://www.dop.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Population under MIP
-http://www.mol.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Ministry of Labour
-https://www.myanmarjob.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Labour under the Ministry of Labour
-https://www.ssb.gov.mm/portal/home,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Social Security Board under the Ministry of Labour
-http://www.commerce.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Ministry of Commerce: Ministry Office
-http://www.doca.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Consuner Affairs under the Ministry of Commerce.
-http://www.myanmartradeportal.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Myanmar National Trade Portal under the Ministry of Commerce.
+https://www.industry.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Ministry of Industry: Minister Office
+https://www.itcsinde.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.1 Industrial Training Center (Sinde) under the Ministry of Industry.
+https://www.itcmandalay.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.2 Industrial Training Center (Mandalay) under the Ministry of Industry.
+https://www.itcthagaya.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.3 Industrial Training Center (Thagaya) under the Ministry of Industry.
+https://www.itcpakokku.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.4 Industrial Training Center (Pakokku) under the Ministry of Industry.
+https://www.itcmagway.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.5 Industrial Training Center (Magway) under the Ministry of Industry.
+https://www.itcmyingyan.edu.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,No.6 Industrial Training Center (Myingyan) under the Ministry of Industry.
+https://www.dop.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Population under MIP
+https://www.ssb.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Social Security Board under the Ministry of Labour
+https://www.doca.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Department of Consuner Affairs under the Ministry of Commerce.
+https://www.myanmartradeportal.gov.mm/,GOVT,Government,2024-09-27,test-lists.ooni.org contribution,Myanmar National Trade Portal under the Ministry of Commerce.
 https://burma.ac/,HOST,Hosting and Blogging Platforms,2024-09-30,sinarproject,Online learning platform that is allegedly blocked
