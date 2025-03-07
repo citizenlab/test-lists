@@ -1,101 +1,75 @@
 url,category_code,category_description,date_added,source,notes
-http://fncancer.org.ve/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://futuropresente.com.ve/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.orinoco.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://cedema.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://complotmagazine.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://dialogo-americas.com/,NEWS,News Media,2014-04-15,citizenlab,
-https://globovision.com/,NEWS,News Media,2014-04-15,citizenlab,supports https but as cloudflare error
-http://nmidigital.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.descifrado.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.televen.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.venezuelaawareness.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://fncancer.org.ve/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.orinoco.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://cedema.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+https://dialogo-americas.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://globovision.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://nmidigital.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.descifrado.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.televen.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.venezuelaawareness.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://alekboyd.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,http version blocked in some ISPs
 https://daniel-venezuela.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://lasarmasdecoronel.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://luchadeclases.org.ve/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://manosfueradevenezuela.org/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://luchadeclases.org.ve/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://socialdemencia.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://sumate.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://unidadvenezuela.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://urru.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://es.catholic.net/,REL,Religion,2014-04-15,citizenlab,
-http://prosalud.org.ve/,XED,Sex Education,2014-04-15,citizenlab,
-https://www.mercado.com.ve/,COMM,E-commerce,2014-04-15,citizenlab,
-http://gumilla.org/,ECON,Economics,2014-04-15,citizenlab,
-http://www4.cne.gob.ve/,GOVT,Government,2014-04-15,citizenlab,
+https://sumate.org/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://unidadvenezuela.org/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://urru.org/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://prosalud.org.ve/,XED,Sex Education,2014-04-15,citizenlab,
+https://gumilla.org/,ECON,Economics,2014-04-15,citizenlab,
+http://www.cne.gob.ve/,GOVT,Government,2014-04-15,citizenlab,
 http://www.pdv.com/,GOVT,Government,2014-04-15,citizenlab,
-http://www.controlciudadano.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://caracasgringo.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://orvex.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://caracasktc.org/,REL,Religion,2014-04-15,citizenlab,
-http://www.sgiv.org/,REL,Religion,2014-04-15,citizenlab,
-https://www.elchiguirebipolar.com/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://www.controlciudadano.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.sgiv.org/,REL,Religion,2014-04-15,citizenlab,
+https://www.elchiguirebipolar.net/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.fedecamaras.org.ve/,ECON,Economics,2014-04-15,citizenlab,
 https://caiv.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.cecodap.org.ve/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.fundacionreflejosdevenezuela.com/,LGBT,LGBT,2014-04-15,citizenlab,
-https://dollar.nu/,NEWS,News Media,2014-04-15,citizenlab,
 https://ipysvenezuela.org/,NEWS,News Media,2014-04-15,citizenlab,
 https://rebelion.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.analitica.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.venelogia.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://cedice.org.ve/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://diegoarria.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://runrun.es/,POLR,Political Criticism,2014-04-15,citizenlab,supports https but as cloudflare error
-https://www.iglesia.net/,REL,Religion,2014-04-15,citizenlab,
+https://runrun.es/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://plafam.org.ve/,XED,Sex Education,2014-04-15,citizenlab,
 https://sinmordaza.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://11abril.com/,CULTR,Culture,2014-04-15,citizenlab,"Website says ""under maintenance"" - monitor"
-https://movimientoecologicodevenezuela.blogspot.com/,ENV,Environment,2014-04-15,citizenlab,Outdated website - monitor
 https://ciudadaniaactiva.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,monitor
-http://oveprisiones.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,monitor
-https://caracasqueer.blogspot.com/,LGBT,LGBT,2014-04-15,citizenlab,Outdated website - monitor
-https://devilsexcrement.com/,NEWS,News Media,2014-04-15,citizenlab,Outdated website - monitor
-http://periodismodepaz.org/,NEWS,News Media,2014-04-15,citizenlab,monitor
-https://cuentosintrascendentes.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,monitor
-http://esdata.info/,POLR,Political Criticism,2014-04-15,citizenlab,"Blocked, despite lack of use"
-http://vcrisis.com/,POLR,Political Criticism,2014-04-15,citizenlab,blocked
+http://vcrisis.com/,POLR,Political Criticism,2014-04-15,citizenlab,"Blocked, despite being not being actively updated"
 http://www.votojoven.com/,POLR,Political Criticism,2014-04-15,citizenlab,monitor
-http://www.acsol.org/,PUBH,Public Health,2014-04-15,citizenlab,monitor
-http://www.tuneloso.com/,ANON,Anonymization and circumvention tools,2016-06-22,veinteligente,
+https://www.tuneloso.com/,ANON,Anonymization and circumvention tools,2016-06-22,veinteligente,
 https://foropenal.com/,HUMR,Human Rights Issues,2016-06-22,veinteligente,
-http://www.observatoriodeconflictos.org.ve/,HUMR,Human Rights Issues,2016-06-22,veinteligente,
+https://www.observatoriodeconflictos.org.ve/,HUMR,Human Rights Issues,2016-06-22,veinteligente,
 http://6topoder.com/,NEWS,News Media,2016-06-22,veinteligente,"Currently blocked, despite focus change"
 http://6topoderweb.com/,NEWS,News Media,2016-06-22,veinteligente,"Currently blocked, despite focus change"
 https://albaciudad.org/,NEWS,News Media,2016-06-22,veinteligente,
-http://analisis24.com/,NEWS,News Media,2016-06-22,veinteligente,
-http://avn.info.ve/,NEWS,News Media,2016-06-22,veinteligente,
-http://confirmado.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
-http://correodelcaroni.com/,NEWS,News Media,2016-06-22,veinteligente,
+https://avn.info.ve/,NEWS,News Media,2016-06-22,veinteligente,
+https://confirmado.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
+https://correodelcaroni.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://cronica.uno/,NEWS,News Media,2016-06-22,veinteligente,
-http://dolarparalelo.biz/,NEWS,News Media,2016-06-22,veinteligente,currently blocked
 http://dolarparalelovenezuela.com/,NEWS,News Media,2016-06-22,veinteligente,"403 error (2020-03-20), currently blocked"
 https://dolartoday.com/,NEWS,News Media,2016-06-22,veinteligente,
-https://dolartoday.info/,NEWS,News Media,2016-06-22,veinteligente,to cloudfront (2016-06-22)
-https://dolartoday.org/,NEWS,News Media,2016-06-22,veinteligente,to cloudfront (2016-06-22)
 http://dollarparalelovenezuela.com/,NEWS,News Media,2016-06-22,veinteligente,blocked
-http://eldolarparalelo.info/,NEWS,News Media,2016-06-22,veinteligente,
 https://elperiodicovenezolano.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://informe21.com/,NEWS,News Media,2016-06-22,veinteligente,
-http://opinionynoticias.com/,NEWS,News Media,2016-06-22,veinteligente,
-http://sunoticiero.com/,NEWS,News Media,2016-06-22,veinteligente,
+https://opinionynoticias.com/,NEWS,News Media,2016-06-22,veinteligente,
+https://sunoticiero.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://vivoplay.net/,NEWS,News Media,2016-06-22,veinteligente,
-http://www.2001.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
-http://www.correodelorinoco.gob.ve/,NEWS,News Media,2016-06-22,veinteligente,
+https://2001online.com/,NEWS,News Media,2016-06-22,veinteligente,
+https://www.correodelorinoco.gob.ve/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.elespectador.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.elimpulso.com/,NEWS,News Media,2016-06-22,veinteligente,
-http://www.infobae.media/,NEWS,News Media,2016-06-22,veinteligente,Alternative domain for infomae.com
-http://www.laverdad.com/,NEWS,News Media,2016-06-22,veinteligente,
+http://www.infobae.media/,NEWS,News Media,2016-06-22,veinteligente,Alternative domain for infobae.com
+https://laverdad.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.telemundo.com/,NEWS,News Media,2016-06-22,veinteligente,
-http://www.ultimasnoticias.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
-http://www.webntn24.us/,NEWS,News Media,2016-06-22,veinteligente,
+https://www.ultimasnoticias.com.ve/,NEWS,News Media,2016-06-22,veinteligente,
 https://bandera-roja.blogspot.com/,POLR,Political Criticism,2016-06-22,veinteligente,
 https://prensapcv.wordpress.com/,POLR,Political Criticism,2016-06-22,veinteligente,
 https://www.panfletonegro.com/,POLR,Political Criticism,2016-06-22,veinteligente,
 http://www.asambleanacional.gob.ve/,GOVT,Government,2016-06-22,veinteligente,
 http://www.cencoex.gob.ve/,GOVT,Government,2016-06-22,veinteligente,
-http://veinteligente.org/,HUMR,Human Rights Issues,2016-06-22,veinteligente,
+https://veinteligente.org/,HUMR,Human Rights Issues,2016-06-22,veinteligente,
 https://vesinfiltro.com/,ANON,Anonymization and circumvention tools,2016-06-22,veinteligente,
 https://contrapunto.com/,NEWS,News Media,2016-06-22,veinteligente,
 https://efectococuyo.com/,NEWS,News Media,2016-06-22,veinteligente,
@@ -130,11 +104,8 @@ https://www.vtv.gob.ve/,NEWS,News Media,2016-06-22,veinteligente,
 https://www.maduradas.com/,POLR,Political Criticism,2016-06-22,veinteligente,
 https://vdebate.blogspot.com/,POLR,Political Criticism,2016-06-22,veinteligente,
 http://capriles.tv/,NEWS,News Media,2016-06-22,veinteligente,monitor
-http://dollar.ru/,NEWS,News Media,2016-06-22,veinteligente,monitor
 http://liberal-venezolano.blogspot.com/,NEWS,News Media,2016-06-22,veinteligente,blocked
 http://www.aguacateverde.com/,NEWS,News Media,2016-06-22,veinteligente,blocked
-http://nuvipa.org/,POLR,Political Criticism,2016-06-22,veinteligente,monitor
-http://partidounnuevotiempo.org/,POLR,Political Criticism,2016-06-22,veinteligente,monitor
 http://www.primerojusticia.org.ve/,POLR,Political Criticism,2016-06-22,veinteligente,monitor
 https://vendata.org/,HUMR,Human Rights Issues,2017-03-05,OONI,
 http://capitoliotv.com/,NEWS,News Media,2017-05-21,OONI,previusly blocked
@@ -149,43 +120,37 @@ https://es.wiktionary.org/,CULTR,Culture,2018-06-07,Wikimedia,URLs provided by w
 https://pt.wikipedia.org/,CULTR,Culture,2018-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.lapatilla.com/,NEWS,News Media,2018-07-06,OONI,Reportedly blocked
 https://futbolete.com/,CULTR,Culture,2018-10-04,OONI,
-http://ohdios.org/,CULTR,Culture,2018-10-04,OONI,
-http://www.estampas.com/,CULTR,Culture,2018-10-04,OONI,
+https://www.estampas.com/,CULTR,Culture,2018-10-04,OONI,
 http://www.supercines.com.ve/,CULTR,Culture,2018-10-04,OONI,
 https://www.venezuelasinfonica.com/,CULTR,Culture,2018-10-04,OONI,
 https://www.latinamericancupid.com/,DATE,Online Dating,2018-10-04,OONI,
 https://red-ara-venezuela.blogspot.com/,ENV,Environment,2018-10-04,OONI,
 http://www.acoana.org/,ENV,Environment,2018-10-04,OONI,
-http://www.fundacionlatortuga.org/,ENV,Environment,2018-10-04,OONI,
-http://www.tecnomovida.com/,HACK,Hacking Tools,2018-10-04,OONI,
 https://www.amnistia.org/,HUMR,Human Rights Issues,2018-10-04,OONI,
 https://www.derechos.org.ve/,HUMR,Human Rights Issues,2018-10-04,OONI,
-https://www.oas.org/es/cidh/,IGO,Intergovernmental Organizations,2018-10-04,OONI,
 https://cnnespanol.cnn.com/,NEWS,News Media,2018-10-04,OONI,Reportedly blocked during the 2017 protests
 https://difundir.org/,NEWS,News Media,2018-10-04,OONI,
 https://lanacionweb.com/,NEWS,News Media,2018-10-04,OONI,
 https://noticiaaldia.com/,NEWS,News Media,2018-10-04,OONI,
 http://radiomundial.com.ve/,NEWS,News Media,2018-10-04,OONI,
-http://todayvenezuela.com/,NEWS,News Media,2018-10-04,OONI,
 https://venezuelanalysis.com/,NEWS,News Media,2018-10-04,OONI,
 https://www.aporrea.org/,POLR,Political Criticism,2018-10-04,OONI,
 https://www.el-carabobeno.com/,NEWS,News Media,2018-10-04,OONI,
-http://www.liderendeportes.com/,NEWS,News Media,2018-10-04,OONI,
+https://www.liderendeportes.com/,NEWS,News Media,2018-10-04,OONI,
 https://www.telesurtv.net/,NEWS,News Media,2018-10-04,OONI,
-http://www.venevision.com/,NEWS,News Media,2018-10-04,OONI,
+https://www.venevision.com/,NEWS,News Media,2018-10-04,OONI,
 https://venezuelablog.org/,POLR,Political Criticism,2018-10-04,OONI,
 https://www.caracaschronicles.com/,POLR,Political Criticism,2018-10-04,OONI,
 http://www.psuv.org.ve/,POLR,Political Criticism,2018-10-04,OONI,
-http://www.ventevenezuela.org/,POLR,Political Criticism,2018-10-04,OONI,
-http://www.voluntadpopular.com/,POLR,Political Criticism,2018-10-04,OONI,
+https://www.ventevenezuela.org/,POLR,Political Criticism,2018-10-04,OONI,
+https://www.voluntadpopular.com/,POLR,Political Criticism,2018-10-04,OONI,
 https://www.accionsolidaria.info/,PUBH,Public Health,2018-10-04,OONI,
 https://www.accsi.org.ve/,PUBH,Public Health,2018-10-04,OONI,
 https://www.facebook.com/amigostrasplantados/,PUBH,Public Health,2018-10-04,OONI,keep for control purposes
-http://luzyvida.org.py/,REL,Religion,2018-10-04,OONI,
-http://cambiobolivar.com/,ECON,Economics,2018-10-04,OONI,
+https://luzyvida.org.py/,REL,Religion,2018-10-04,OONI,
 https://transparencia.org.ve/,HUMR,Human Rights Issues,2018-10-04,OONI,
 https://armando.info/,NEWS,News Media,2018-10-04,OONI,
-http://www.cofavic.org/,HUMR,Human Rights Issues,2018-10-04,OONI,
+https://www.cofavic.org/,HUMR,Human Rights Issues,2018-10-04,OONI,
 https://www.aulaabierta.edu.co/,CULTR,Culture,2018-10-04,OONI,
 https://www.cinex.com.ve/,CULTR,Culture,2018-10-04,OONI,
 https://www.cocinayvino.net/,CULTR,Culture,2018-10-04,OONI,
@@ -198,7 +163,7 @@ https://www.notitarde.com/,NEWS,News Media,2018-10-04,OONI,
 https://www.ntn24.com/,NEWS,News Media,2018-10-04,OONI,Reportedly blocked (in the past)
 https://www.primicia.com.ve/,NEWS,News Media,2018-10-04,OONI,
 http://cantv.net/,NEWS,News Media,2018-10-04,OONI,monitor
-http://unnuevotiempo.org/,POLR,Political Criticism,2018-10-04,OONI,monitor
+https://unnuevotiempo.org/,POLR,Political Criticism,2018-10-04,OONI,monitor
 https://evtvmiami.com/,NEWS,News Media,2019-02-28,OONI,Reportedly blocked
 https://venezuelaaidlive.com/,POLR,Political Criticism,2019-02-28,OONI,Reportedly blocked
 https://puntodecorte.com/,NEWS,News Media,2020-03-18,VE sin Filtro / veinteligente,Blocked
@@ -211,30 +176,23 @@ https://voluntariosxvenezuela.com/,POLR,Political Criticism,2020-03-18,VE sin Fi
 http://voluntariosxvenezuela.com/,POLR,Political Criticism,2020-03-18,VE sin Filtro / veinteligente,Supports https. but vulnerable to MITM on HTTP. it has been the target of a phishing campaign using DNS response injection.
 http://coronavirusvenezuela.info/,PUBH,Public Health,2020-03-18,VE sin Filtro / veinteligente,Blocked. though it redirects to a URL at either preseidenciave.com or venezuela.com
 https://teleconsulta.presidenciave.org/,PUBH,Public Health,2020-03-18,VE sin Filtro / veinteligente,"COVID-19 related service, canonical use uses an iframe of this URL on pvenezuela.com/teleconsulta. Related to Venezuelan presidential crisis of 2019"
-https://vuelveacasa.com/,POLR,Political Criticism,2020-03-19,VE sin Filtro / veinteligente,
 http://www.ucv.ve/,CTRL,Control content,2020-03-19,Netalitica,Autonomus natinal public university
-http://www.corteidh.or.cr/,HUMR,Human Rights Issues,2020-03-19,Netalitica,
+https://www.corteidh.or.cr/,HUMR,Human Rights Issues,2020-03-19,Netalitica,
 https://elpitazo.net/,NEWS,News Media,2020-03-19,Netalitica,
 https://alnavio.com/,NEWS,News Media,2020-03-19,Netalitica,
-https://ovario2.com/,NEWS,News Media,2020-03-19,Netalitica,Blocked
-http://laclase.info/,NEWS,News Media,2020-03-19,Netalitica,
-http://www.opinionynoticias.com/,NEWS,News Media,2020-03-19,Netalitica,
+https://laclase.info/,NEWS,News Media,2020-03-19,Netalitica,
 https://solucionesparavenezuela.org/,POLR,Political Criticism,2020-03-19,Netalitica,
 https://unionrepublicanademocratica.blogspot.com/,POLR,Political Criticism,2020-03-19,Netalitica,
-https://www.lacausar.org/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
 https://www.acciondemocratica.org/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
-http://copei.org.ve/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
-http://banderaroja.com.ve/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
+https://copei.org.ve/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
+https://banderaroja.com.ve/,POLR,Political Criticism,2020-03-19,Netalitica,Opposition Party
 http://solidaridadindependiente.blogspot.com/,POLR,Political Criticism,2020-03-19,Netalitica,Desactualizada (2011)
-http://www.pptoficial.org.ve/,POLR,Political Criticism,2020-03-19,Netalitica,
 http://crvnacional.blogspot.com/,POLR,Political Criticism,2020-03-19,Netalitica,
 https://partidoupv.wordpress.com/,POLR,Political Criticism,2020-03-19,Netalitica,
-http://mareasocialista.org/,POLR,Political Criticism,2020-03-19,Netalitica,
-http://gruposocialcesap.org/,ECON,Economics,2020-03-20,Netalitica,
-https://www.ddhhcambioclimatico.org/,ENV,Environment,2020-03-20,Netalitica,
-http://www.aguaclara.org/,ENV,Environment,2020-03-20,Netalitica,
+https://mareasocialista.org/,POLR,Political Criticism,2020-03-19,Netalitica,
+https://gruposocialcesap.org/,ECON,Economics,2020-03-20,Netalitica,
+https://www.aguaclara.org/,ENV,Environment,2020-03-20,Netalitica,
 https://www.civilisac.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://conviteac.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://ongcadef.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://coalicionporlavida.wordpress.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.fundaredes.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
@@ -243,38 +201,31 @@ http://comiteddhhguajira.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netal
 http://derechoshumanosincide.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://oportunidadong.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://www.codhez.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://unaventanaalalibertad.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://unaventanaalalibertad.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://sinergia.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.excubitusdhe.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.observademocracia.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://redunivenezuela.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://accioncampesina.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://cepaz.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://www.redhnna.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://www.redhnna.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.accesoalajusticia.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://provene.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://provene.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.unimet.edu.ve/centros-y-observatorios/cdh-unimet/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://www.edepavenezuela.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://www.defiendevenezuela.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://www.uladdhh.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://epikeiaddhh.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 https://organizacionciider.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,last updated in 2017
-http://aulaabiertavenezuela.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-https://yoteayudovenezolano.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://fundeprovzla.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-https://www.apufat.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://aulaabiertavenezuela.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://fundeprovzla.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://www.amavida.org.ve/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://catedradelapaz.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
-http://www.cnpven.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://catedradelapaz.blogspot.com/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
+https://www.cnpven.org/,HUMR,Human Rights Issues,2020-03-20,Netalitica,
 http://humanoderecho.com/,NEWS,News Media,2020-03-20,Netalitica,
-https://comunicas.org/,NEWS,News Media,2020-03-20,Netalitica,
 https://www.somos-venezuela.org/,POLR,Political Criticism,2020-03-20,Netalitica,
-http://institutoprogresista.org/,POLR,Political Criticism,2020-03-20,Netalitica,
 https://www.stopvih.org/,PUBH,Public Health,2020-03-20,Netalitica,
 https://www.funcamama.org/,PUBH,Public Health,2020-03-20,Netalitica,
-http://www.aanonimos.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 https://avessoc.org.ve/,PUBH,Public Health,2020-03-20,Netalitica,
-https://www.aciva.net.ve/,PUBH,Public Health,2020-03-20,Netalitica,
 http://asovida.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,last updated in 2016
 http://colegiopsicologoscapital.blogspot.com/,PUBH,Public Health,2020-03-20,Netalitica,last updated in 2018
 http://www.cardioamigos.org/,PUBH,Public Health,2020-03-20,Netalitica,
@@ -406,8 +357,6 @@ https://redesayuda.org/,HUMR,Human Rights Issues,2020-03-28,Netalitica,
 https://www.wola.org/,HUMR,Human Rights Issues,2020-03-28,Netalitica,
 https://cpj.org/,HUMR,Human Rights Issues,2020-03-28,Netalitica,
 http://www.isocve.org/,HUMR,Human Rights Issues,2020-03-28,Netalitica,
-http://www.cicad.oas.org/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
-https://www.oas.org/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
 https://www.caf.com/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
 https://www.mercosur.int/,IGO,Intergovernmental Organizations,2020-03-28,Netalitica,
 https://www.redlgbtidevenezuela.org/,LGBT,LGBT,2020-03-28,Netalitica,
@@ -456,7 +405,6 @@ https://hdzog.com/,PORN,Pornography,2020-03-28,Netalitica,
 https://www.vecinabellaxxx.com/,PROV,Provocative Attire,2020-03-28,Netalitica,
 https://www.paho.org/,PUBH,Public Health,2020-03-28,Netalitica,
 https://avesawordpress.wordpress.com/,XED,Sex Education,2020-03-28,Netalitica,
-https://prosalud.org.ve/,XED,Sex Education,2020-03-28,Netalitica,
 https://www.airtm.com/,COMM,E-commerce,2020-04-02,Netalitica,
 https://www.mercadolar.com/,COMM,E-commerce,2020-04-02,Netalitica,
 https://www.revolut.com/,COMM,E-commerce,2020-04-02,Netalitica,

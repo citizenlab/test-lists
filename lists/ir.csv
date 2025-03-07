@@ -805,8 +805,8 @@ https://parsi.euronews.com/,NEWS,News Media,2024-03-05,Miaan Group,
 https://irannovin.party/,POLR,Political Criticism,2024-03-05,Miaan Group,
 https://www.coursera.org/,CULTR,Culture,2024-04-08,Miaan Group,it's a Massive Open Online or Educational website
 https://edx.com/,CULTR,Culture,2024-04-08,Miaan Group,"Business Services, specifically focused on the engineering field."
-https://www.upwork.com/,HOST,Hosting and Blogging Platforms,2024-04-08,Miaan Group,"it's a network for freelancers to get projects and make a network"
-https://www.freelancer.com/,COMT,Communication Tools,2024-04-08,Miaan Group,"it's a network for freelancers to get projects and make a network"
+https://www.upwork.com/,HOST,Hosting and Blogging Platforms,2024-04-08,Miaan Group,it's a network for freelancers to get projects and make a network
+https://www.freelancer.com/,COMT,Communication Tools,2024-04-08,Miaan Group,it's a network for freelancers to get projects and make a network
 https://www.waze.com/,SRCH,Search Engines,2024-04-08,Miaan Group,navigation tool
 https://alibaba.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
 https://www.etsy.com/,COMM,E-commerce,2024-04-08,Miaan Group,"Usually, E-commerce websites do not allow users to register their address in Iran."
@@ -885,12 +885,24 @@ https://hevilgbti.org/,LGBT,LGBT,2023-04-15,Miaan Group,"Gay LGBTI Plus Associat
 https://www.niacouncil.org/,POLR,Political Criticism,2023-04-15,Miaan Group,The President's National Infrastructure Advisory Council (NIAC) includes executive leaders from private sector and state/local government who advise the White House on how to reduce physical and cyber risks and improve the security and resilience of the nation's critical infrastructure sectors.
 https://women.ncr-iran.org/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,"The Women's Mission of the National Council of Resistance of Iran promotes women's equality in all legal, social, and political fields, based on the ten-point plan of Mrs. Maryam Rajavi, the head of the National Council of Resistance, for the freedoms and rights of women in Iran future."
 https://www.asylos.eu/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,Asylos is a UK-registered charity that conducts research for asylum claims worldwide. they aim to ensure that every refugee has the evidence they need to claim their right to asylum and live in safety.
-https://iraws.ir/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,"Iranian Association of Women’s Studies"
+https://iraws.ir/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,Iranian Association of Women’s Studies
 https://www.mystealthyfreedom.org/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,"Using cross-cultural dialogue to strengthen the voices of Iranian women, My Stealthy Freedom Organization is a nonprofit public foundation"
 https://go.gale.com/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,Iranian Women and the Politics of Diasporic Websites in the Digital Age
-https://iwontario.com/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,"IWOO was initially created by Homa Sarlati and a few Iranian Canadian women as an association of volunteer women dedicated to improving the lives of Iranian women and families."
+https://iwontario.com/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,IWOO was initially created by Homa Sarlati and a few Iranian Canadian women as an association of volunteer women dedicated to improving the lives of Iranian women and families.
 https://www.vidc.org/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,
-https://ikwro.org.uk/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,"Iranian and Kurdish Women’s Rights Organisation (IKWRO)"
+https://ikwro.org.uk/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,Iranian and Kurdish Women’s Rights Organisation (IKWRO)
 https://msmagazine.com/,HUMR,Human Rights Issues,2023-04-15,Miaan Group,Ms. magazine has been at the forefront of feminist journalism for half a century.
 https://thepolygon.ca/,MMED,Media sharing,2023-04-15,Miaan Group,Polygon Gallery focuses on photography and has works by Iranian women photographers as well as photographs of women in the revolution by Mehsa Amini.
 https://www.giga-hamburg.de/,CULTR,Culture,2023-04-15,Miaan Group,German Institute for Global and Area Studies. it's useful for Iranian student it needs a new category
+https://codeinfarsi.org/,HACK,Hacking Tools,2024-09-18,test-lists.ooni.org contribution,
+http://www.positive.org/,XED,Sex Education,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.lightsailvpn.com/,ANON,Anonymization and circumvention tools,2021-03-05,OONI,Might be blocked in Myanmar but worth testing globally
+https://zaagaah.com/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://cahiersdufeminisme.com/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://feminists4jina.net/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://zananemrooz.com/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://jwica.ut.ac.ir/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://hamamoun.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://feministschool.com/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.we-change.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://femena.net/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
