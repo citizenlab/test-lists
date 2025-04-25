@@ -1468,7 +1468,7 @@ https://cryptpad.fr/,ANON,Anonymization and circumvention tools,2022-09-28,test-
 https://sandbox.cryptpad.info/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,"Sandbox domain linked to cryptpad.fr, absolutely necessary for isolation"
 https://chromewebstore.google.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://microsoftedge.microsoft.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
-https://addons.opera.com/en/extensions/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://addons.opera.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://z-lib.org/,FILE,File-sharing,2022-10-13,community member,Z-library blocked in few countries
 https://rargb.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,mirror of http://rarbg.to/
 https://yts.mx/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
