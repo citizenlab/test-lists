@@ -43,7 +43,7 @@ http://twocircles.net/2012jun01/petty_dispute_leads_death_one_mathura.html/,REL,
 https://depositfiles.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,cloud service
 https://funscrape.com/,CULTR,Culture,2014-04-15,citizenlab,"Hosting information about US universities now, but still blocked."
 https://defence.pk/,GOVT,Government,2014-04-15,citizenlab,
-https://sheikyermami.com/2012/06/burma-tensions-between-buddhist-residents-and-illegal-muslims-kill-seven/,NEWS,News Media,2014-04-15,citizenlab,"Opinion pieces, but seem a bit anti-Islam"
+https://sheikyermami.com/,NEWS,News Media,2014-04-15,citizenlab,"Opinion pieces, but seem a bit anti-Islam"
 https://www.barandbench.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://caravanmagazine.in/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.careers360.com/,NEWS,News Media,2014-04-15,citizenlab,
@@ -54,14 +54,14 @@ https://www.moneycontrol.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.ugc.ac.in/,NEWS,News Media,2014-04-15,citizenlab,
 https://epaper.anandabazar.com/,NEWS,News Media,2014-04-15,citizenlab,Telegraph India is a major newspaper in India
 https://hinduexistence.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://islampeace1.wordpress.com/2012/07/13/muslims-situation-in-burma/,REL,Religion,2014-04-15,citizenlab,Coverage of pogroms in Myanmar
+https://islampeace1.wordpress.com/,REL,Religion,2014-04-15,citizenlab,Coverage of pogroms in Myanmar
 https://desijammers.com/,CULTR,Culture,2014-04-15,citizenlab,"A website for a DJ now, but blocked on lots of ISPs."
 https://mediafire.com/,FILE,File-sharing,2014-04-15,citizenlab,
 https://musicindiaonline.com/,FILE,File-sharing,2014-04-15,citizenlab,
 https://sendspace.com/,FILE,File-sharing,2014-04-15,citizenlab,File sharing website 
 https://songzilla.com/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website 
 https://typepad.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,"Some ISPs in India may still be blocking perhaps, worth keeping for monitoring."
-https://janamejayan.wordpress.com/2012/08/14/jihad-in-assam-2-parts-sandeep/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
+https://janamejayan.wordpress.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://ragalahari.com/,MMED,Media sharing,2014-04-15,citizenlab,
 https://economictimes.indiatimes.com/,NEWS,News Media,2014-04-15,citizenlab,Relates to a popular censorship order by a court. Economic Times is a popular newspaper.
 https://thedailynewsegypt.com/,NEWS,News Media,2014-04-15,citizenlab,Myanmar muslim genocide
@@ -86,7 +86,7 @@ http://www.aardip.org/,HUMR,Human Rights Issues,2016-06-14,OONI,
 http://www.deepalaya.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO working on various issues
 http://www.pratham.org/,HUMR,Human Rights Issues,2016-06-14,OONI,
 http://www.tehelka.com/,NEWS,News Media,2016-06-14,OONI,Tehelka is known for investigations & sting operations.
-https://mic.com/articles/89441/11-photos-of-anti-muslim-violence-that-have-many-worried-about-india-s-future#.sdoXLQ911/,POLR,Political Criticism,2016-06-14,OONI,
+https://mic.com/,POLR,Political Criticism,2016-06-14,OONI,
 https://www.inc.in/,POLR,Political Criticism,2016-06-14,OONI,Indian National Congress party
 http://www.telugudesam.org/,POLR,Political Criticism,2016-06-14,OONI,
 http://www.thecsf.org/2016/01/21/india-not-safe-to-be-christian-catholic-forum-report-on-indian-persecution-2015-2/,REL,Religion,2016-06-14,OONI,
@@ -108,7 +108,7 @@ https://www.culturalindia.net/,CULTR,Culture,2016-06-14,OONI,
 https://www.esamskriti.com/,CULTR,Culture,2016-06-14,OONI,
 https://www.futurepointindia.com/,CULTR,Culture,2016-06-14,OONI,
 https://www.ganeshaspeaks.com/,CULTR,Culture,2016-06-14,OONI,
-https://www.incredibleindia.org/content/incredible-india-v2/en.html,CULTR,Culture,2016-06-14,OONI,
+https://www.incredibleindia.org/,CULTR,Culture,2016-06-14,OONI,
 https://www.indastro.com/,CULTR,Culture,2016-06-14,OONI,
 https://www.indianmirror.com/,CULTR,Culture,2016-06-14,OONI,
 https://www.indiamatch.com/,DATE,Online Dating,2016-06-14,OONI,
@@ -139,9 +139,9 @@ https://www.cpim.org/,POLR,Political Criticism,2016-06-14,OONI,Political party
 https://www.drbatras.com/,PUBH,Public Health,2016-06-14,OONI,
 https://www.medindia.net/,PUBH,Public Health,2016-06-14,OONI,
 https://www.practo.com/,PUBH,Public Health,2016-06-14,OONI,
-https://zeenews.india.com/news/india/mob-violence-against-muslims-rising-ghulam-nabi-azad_1867800.html/,REL,Religion,2016-06-14,OONI,
-https://www.christiantoday.com/article/india.600.violent.attacks.on.christians.and.muslims.since.may/50574.htm/,REL,Religion,2016-06-14,OONI,Attacks on minorities in India
-https://www.islamawareness.net/Asia/India/muslims_in_india.html/,REL,Religion,2016-06-14,OONI,
+https://zeenews.india.com/,REL,Religion,2016-06-14,OONI,
+https://www.christiantoday.com/,REL,Religion,2016-06-14,OONI,Attacks on minorities in India
+https://www.islamawareness.net/,REL,Religion,2016-06-14,OONI,
 https://www.onlymyhealth.com/,XED,Sex Education,2016-06-14,OONI,
 http://jammukashmirtimes.com/,NEWS,News Media,2016-06-15,OONI,
 http://www.kashmirtimes.com/,NEWS,News Media,2016-06-15,OONI,
@@ -149,7 +149,7 @@ http://kanglaonline.com/2016/02/corcom-questions-manipur-nationalist-party-presi
 http://www.e-pao.net/GP.asp?src=5..080714.jul14/,POLR,Political Criticism,2016-06-15,OONI,Site covering separatist movement in Manipur.
 https://www.dnaindia.com/,NEWS,News Media,2016-06-15,OONI,
 http://tehelka.com/,NEWS,News Media,2016-06-15,OONI,
-https://www.navdanya.org/site/,ENV,Environment,2016-06-15,OONI,
+https://www.navdanya.org/,ENV,Environment,2016-06-15,OONI,
 http://www.achrweb.org/,HUMR,Human Rights Issues,2016-06-15,OONI,
 https://www.ifp.co.in/,POLR,Political Criticism,2016-06-15,OONI,This news site talks about the separatist movement in Manipur.
 https://www.ndtv.com/,NEWS,News Media,2016-06-15,OONI,
@@ -159,13 +159,13 @@ https://thenortheasttoday.com/,NEWS,News Media,2016-06-15,OONI,News focusing on 
 https://www.assamtribune.com/,NEWS,News Media,2016-06-15,OONI,News website focusing on Assam
 https://www.imphaltimes.com/,NEWS,News Media,2016-06-15,OONI,
 https://www.manipurtimes.com/,NEWS,News Media,2016-06-15,OONI,Site covering separatist movement in Manipur.
-https://www.dnaindia.com/india/report-confused-between-maoists-and-naxalities-read-on-to-know-the-difference-1949798/,POLR,Political Criticism,2016-06-15,OONI,
-https://factsindia.wordpress.com/category/corcom/,POLR,Political Criticism,2016-06-15,OONI,Blog monitoring terrorism
-https://www.ibtimes.co.uk/modi-uk-visit-who-are-groups-protesting-against-narendra-modi-what-do-they-want-1528406/,POLR,Political Criticism,2016-06-15,OONI,
+https://www.dnaindia.com/,POLR,Political Criticism,2016-06-15,OONI,
+https://factsindia.wordpress.com/,POLR,Political Criticism,2016-06-15,OONI,Blog monitoring terrorism
+https://www.ibtimes.co.uk/,POLR,Political Criticism,2016-06-15,OONI,
 http://twocircles.net/,NEWS,News Media,2017-11-27,OONI,News of marginalized communities
-https://qz.com/india/,NEWS,News Media,2017-11-27,citizenlab,
+https://qz.com/,NEWS,News Media,2017-11-27,citizenlab,
 https://www.channelnewsasia.com/,NEWS,News Media,2017-11-27,citizenlab,
-https://www.scmp.com/week-asia/geopolitics/article/2115839/why-do-china-india-back-myanmar-over-rohingya-crisis/,NEWS,News Media,2017-11-27,citizenlab,Myanmar muslim genocide
+https://www.scmp.com/,NEWS,News Media,2017-11-27,citizenlab,Myanmar muslim genocide
 https://hi.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://mr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ta.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -178,7 +178,6 @@ https://www.tarshi.net/,XED,Sex Education,2019-02-17,csk,
 https://saathipads.com/,XED,Sex Education,2019-02-17,csk,Eco friendly mensturation products
 https://www.hidden-pockets.com/,XED,Sex Education,2019-02-17,csk,
 https://freepresskashmir.com/,NEWS,News Media,2019-02-19,csk,
-https://www.happn.com/en/,DATE,Online Dating,2019-02-21,csk,
 https://trulymadly.com/,DATE,Online Dating,2019-02-21,csk,
 http://queerala.org/be-you-a-gathering-on-coming-out-concerns-and-acceptance-from-families/,LGBT,LGBT,2019-02-21,csk,
 https://humsafar.org/,LGBT,LGBT,2019-02-21,csk,
@@ -187,8 +186,7 @@ https://www.sentinelassam.com/,NEWS,News Media,2019-02-21,csk,
 https://queer-ink.com/,LGBT,LGBT,2019-02-21,csk,
 https://www.medianama.com/,NEWS,News Media,2019-02-21,csk,
 https://swarajyamag.com/,NEWS,News Media,2019-02-21,csk,
-https://www.buzzfeed.com/tejasharad/dus-zero-cutoff-for-scst-students-shows-exactly-why/,POLR,Political Criticism,2019-02-21,csk,Dalit perspectives
-https://www.quikr.com/bazaar/,COMM,E-commerce,2019-02-22,csk,
+https://www.quikr.com/,COMM,E-commerce,2019-02-22,csk,
 http://loverollers.com/,COMM,E-commerce,2019-02-22,csk,
 https://goenchimati.org/,ENV,Environment,2019-02-22,csk,
 https://in.linkedin.com/,COMT,Communication Tools,2019-03-03,csk,Social Media
@@ -644,12 +642,10 @@ https://rethinkaadhaar.in/,HUMR,Human Rights Issues,2021-10-15,Maansi,advocacy o
 https://www.docsapp.in/,PUBH,Public Health,2021-10-10,workshop india,health app in india
 https://www.mohfw.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Official website of the Ministry of Health and Family Welfare
 https://analytics.icmr.org.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,India COVID-19 Vaccine Tracker
-https://www.mohfw.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,COVID-19 related information released by the Ministry of Health and Family Welfare
 https://www.mygov.in/,PUBH,Public Health,2021-10-10,OONI,Government info about COVID-19
 https://hetv.org/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Directory of official Health and Medical web sites of Government of India
 https://www.aarogyasetu.gov.in/,PUBH,Public Health,2021-10-10,OONI,Government COVID-19 app
 https://dhr.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Official website of the Ministry of Health and Family Welfare
-https://coronavirus.app/,PUBH,Public Health,2021-10-10,OONI,COVID-19 app blocked in Myanmar and worth testing elsewhere
 https://www.india.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,"Information pertainin to health programmes, policies, schemes, forms etc. for specific beneficiaries which include women, children, senior citizens etc. "
 https://www.ijph.in/,PUBH,Public Health,2021-10-10,OONI,Indian Journal of Public Health
 https://www.iphaonline.org/,PUBH,Public Health,2021-10-10,OONI,Indian Public Health Association
@@ -662,7 +658,6 @@ https://gramvaani.org/,PUBH,Public Health,2021-10-10,OONI,Rural health care
 https://nhm.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,National Health Mission
 https://cghs.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Central Government Health Scheme
 https://ncdc.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,National Center for Disease Control
-https://www.helpageindia.org/,PUBH,Public Health,2021-10-10,OONI,Listed as one of NGOs that have revolutionised healthcare in India
 https://censusindia.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Office of the Registrar General & Census Commissioner
 https://leprasociety.in/,PUBH,Public Health,2021-10-10,OONI,NGO
 https://www.ruralhealthcarefoundation.com/,PUBH,Public Health,2021-10-10,OONI,NGO
