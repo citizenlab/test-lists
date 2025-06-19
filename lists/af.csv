@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://www.bbcpashto.com/,NEWS,News Media,2017-07-19,BBC,
-http://www.bbc.com/persian,NEWS,News Media,2017-07-19,BBC,
 http://www.bbcpersian.com/,NEWS,News Media,2017-07-19,BBC,
 http://afghanistantimes.af/,NEWS,News Media,2017-08-18,OONI,
 https://www.pajhwok.com/,NEWS,News Media,2017-08-18,OONI,
@@ -70,3 +69,4 @@ https://da.azadiradio.com/,NEWS,News Media,2022-10-26,test-lists.ooni.org contri
 https://azadiradio.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
 https://azadiradio.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
 https://samizdatonline.org/,NEWS,News Media,2023-10-15,test-lists.ooni.org contribution,News media helping people to tell their stories despite government's censorship
+https://test-lists.ooni.org/,CTRL,Control content,2025-06-19,test-lists.ooni.org contribution,
