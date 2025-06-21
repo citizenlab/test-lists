@@ -58,8 +58,8 @@ https://islampeace1.wordpress.com/,REL,Religion,2014-04-15,citizenlab,Coverage o
 https://desijammers.com/,CULTR,Culture,2014-04-15,citizenlab,"A website for a DJ now, but blocked on lots of ISPs."
 https://mediafire.com/,FILE,File-sharing,2014-04-15,citizenlab,
 https://musicindiaonline.com/,FILE,File-sharing,2014-04-15,citizenlab,
-https://sendspace.com/,FILE,File-sharing,2014-04-15,citizenlab,File sharing website 
-https://songzilla.com/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website 
+https://sendspace.com/,FILE,File-sharing,2014-04-15,citizenlab,File sharing website
+https://songzilla.com/,FILE,File-sharing,2014-04-15,citizenlab,Music sharing website
 https://typepad.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,"Some ISPs in India may still be blocking perhaps, worth keeping for monitoring."
 https://janamejayan.wordpress.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://ragalahari.com/,MMED,Media sharing,2014-04-15,citizenlab,
@@ -94,7 +94,7 @@ http://www.thecsf.org/,REL,Religion,2016-06-14,OONI,
 https://www.bjp.org/,POLR,Political Criticism,2016-06-14,OONI,
 https://export.ebay.com/,COMM,E-commerce,2016-06-14,OONI,
 https://www.pmindia.gov.in/,GOVT,Government,2016-06-14,OONI,
-https://cis-india.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO working on digital rights 
+https://cis-india.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO working on digital rights
 http://janataparty.org.in/,POLR,Political Criticism,2016-06-14,OONI,
 https://christianpersecutionindia.blogspot.com/,REL,Religion,2016-06-14,OONI,Website documenting persecution of Christians in India
 https://www.flipkart.com/,COMM,E-commerce,2016-06-14,OONI,
@@ -115,7 +115,6 @@ https://www.indiamatch.com/,DATE,Online Dating,2016-06-14,OONI,
 https://www.indiancupid.com/,DATE,Online Dating,2016-06-14,OONI,
 https://www.indiandating.com/,DATE,Online Dating,2016-06-14,OONI,
 https://www.jodi365.com/,DATE,Online Dating,2016-06-14,OONI,
-https://www.metrodate.com/,DATE,Online Dating,2016-06-14,OONI,
 https://www.quackquack.in/,DATE,Online Dating,2016-06-14,OONI,
 https://www.shaadi.com/,DATE,Online Dating,2016-06-14,OONI,
 https://www.afarm.org/,ENV,Environment,2016-06-14,OONI,Website of an NGO coordinating action on environmental issues. Not sure why/when it was blocked specifically.
@@ -126,7 +125,7 @@ https://www.incometaxindia.gov.in/,GOVT,Government,2016-06-14,OONI,
 https://www.ssc.nic.in/,GOVT,Government,2016-06-14,OONI,
 https://www.aidindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,India focused NGO based in the US
 https://www.cry.org/,HUMR,Human Rights Issues,2016-06-14,OONI,Child rights NGO
-https://www.giveindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO 
+https://www.giveindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO
 https://www.goonj.org/,HUMR,Human Rights Issues,2016-06-14,OONI,Child rights NGO
 https://www.helpageindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,
 https://www.planindia.org/,HUMR,Human Rights Issues,2016-06-14,OONI,
@@ -142,7 +141,7 @@ https://www.practo.com/,PUBH,Public Health,2016-06-14,OONI,
 https://zeenews.india.com/,REL,Religion,2016-06-14,OONI,
 https://www.christiantoday.com/,REL,Religion,2016-06-14,OONI,Attacks on minorities in India
 https://www.islamawareness.net/,REL,Religion,2016-06-14,OONI,
-https://www.onlymyhealth.com/,XED,Sex Education,2016-06-14,OONI,
+https://www.onlymyhealth.com/,XED,Sex Education,2016-06-21,OONI,
 http://jammukashmirtimes.com/,NEWS,News Media,2016-06-15,OONI,
 http://www.kashmirtimes.com/,NEWS,News Media,2016-06-15,OONI,
 http://kanglaonline.com/2016/02/corcom-questions-manipur-nationalist-party-presidents-statement/,POLR,Political Criticism,2016-06-15,OONI,This site talks about the separatist movement in Manipur.
@@ -171,15 +170,14 @@ https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by w
 https://meta.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ml.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://hi.m.wikipedia.org/,CULTR,Culture,2019-02-17,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://questions.menstrupedia.com/questions/1188/what-is-the-maximum-time-one-can-take-contraceptive-pills-after-unprotected-sex-on-the-first-day-of-menstrual-cycle/,XED,Sex Education,2019-02-17,csk,
+https://www.menstrupedia.com/,XED,Sex Education,2019-02-17,csk,
 https://www.tarshi.net/,XED,Sex Education,2019-02-17,csk,
 https://saathipads.com/,XED,Sex Education,2019-02-17,csk,Eco friendly mensturation products
-https://www.hidden-pockets.com/,XED,Sex Education,2019-02-17,csk,
+https://vipasyin.io/,XED,Sex Education,2019-02-17,csk,
 https://freepresskashmir.com/,NEWS,News Media,2019-02-19,csk,
 https://trulymadly.com/,DATE,Online Dating,2019-02-21,csk,
-http://queerala.org/be-you-a-gathering-on-coming-out-concerns-and-acceptance-from-families/,LGBT,LGBT,2019-02-21,csk,
 https://humsafar.org/,LGBT,LGBT,2019-02-21,csk,
-http://www.gaylaxymag.com/latest-news/transgender-rights-bill-and-surrogacy-bill-lapse-as-rajya-sabha-adjourns-sine-die/,LGBT,LGBT,2019-02-21,csk,
+https://www.gaylaxymag.com/,LGBT,LGBT,2019-02-21,csk,
 https://www.sentinelassam.com/,NEWS,News Media,2019-02-21,csk,
 https://queer-ink.com/,LGBT,LGBT,2019-02-21,csk,
 https://www.medianama.com/,NEWS,News Media,2019-02-21,csk,
@@ -188,7 +186,7 @@ https://www.quikr.com/,COMM,E-commerce,2019-02-22,csk,
 http://loverollers.com/,COMM,E-commerce,2019-02-22,csk,
 https://goenchimati.org/,ENV,Environment,2019-02-22,csk,
 https://in.linkedin.com/,COMT,Communication Tools,2019-03-03,csk,Social Media
-http://filefreak.com/,FILE,File-sharing,2019-03-03,csk,File sharing website 
+http://filefreak.com/,FILE,File-sharing,2019-03-03,csk,File sharing website
 https://sandrp.in/,ENV,Environment,2019-03-20,csk,
 http://hrimanipur.org/,HUMR,Human Rights Issues,2019-03-20,csk,
 https://humanrightsmanipur.wordpress.com/,HUMR,Human Rights Issues,2019-03-20,csk,
@@ -352,7 +350,7 @@ https://www.cpimlnd.org/,POLR,Political Criticism,2021-02-25,Netalitica,Communis
 https://cpindiaml.wordpress.com/,POLR,Political Criticism,2021-02-25,Netalitica,Communisty Party of India (Marxist-Leninist)
 https://www.ziggo.nl/,COMT,Communication Tools,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court
 http://watchcric.org/,CULTR,Culture,2021-02-26,Netalitica,"Blocked in India, cricket website"
-https://streamplay.to/,FILE,File-sharing,2021-02-26,Netalitica,Users reported blocking 
+https://streamplay.to/,FILE,File-sharing,2021-02-26,Netalitica,Users reported blocking
 https://wetransfer.com/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through a government order in 2020
 https://www.limetorrents.info/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through Delhi High Court order
 https://kikass.to/,FILE,File-sharing,2021-02-26,Netalitica,Blocked through Delhi High Court order
@@ -373,16 +371,12 @@ https://lovelykashmir.wordpress.com/,MILX,Terrorism and Militants,2021-02-26,Net
 https://video.webcric.com/,MMED,Media sharing,2021-02-26,Netalitica,"Blocked in India, cricket website"
 https://vshare.eu/,MMED,Media sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court
 https://vipmarathi.com/,MMED,Media sharing,2021-02-26,Netalitica,Blocked through temporary injunction by Madras High Court
-https://spankbang.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order
-https://yourlust.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order
-https://www.x-art.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order
+https://queerala.org/,LGBT,LGBT,2019-02-21,csk,
 https://journals.lww.com/aidsonline/pages/default.aspx,PUBH,Public Health,2021-02-26,Netalitica,Indian Express article citing Citizen Lab work that this is blocked
 https://sendit.cloud/,FILE,File-sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked"
 https://cloud.mail.ru/,FILE,File-sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked"
 https://gogoanime.tv/,MMED,Media sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked"
 https://newgrounds.com/,MMED,Media sharing,2021-03-18,Netalitica,"Reportedly blocked, sourced through Wikipedia page on Indian websites blocked"
-https://www.savitabhabhi.vip/,PORN,Pornography,2021-03-18,Netalitica,Indian Porn web comic
-https://savitabhabhi.com/,PORN,Pornography,2021-03-18,Netalitica,"Porn web comic, domain ordered to be blocked"
 https://www.onemillionbabes.net/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
 http://rawpoint.biz/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
 https://www.mhcescorts.com/,PROV,Provocative Attire,2021-03-18,Netalitica,"Offering sex work, blocked by the Indian government in 2016"
@@ -398,7 +392,7 @@ http://www.pvchr.asia/,HUMR,Human Rights Issues,2021-03-20,Netalitica,People's V
 http://janmitranyas.in/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Jan Mitra Nyas, working on basic rights to marginalised communities"
 http://afdrpunjab.blogspot.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Association For Democratic Rights (Punjab)
 http://bondedlabour.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Bandi Mukti Morcha, against bonded labour, mostly focusing on Bengal"
-https://apdpkashmir.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica, Association of Parents of Disappeared Persons (Kashmir)
+https://apdpkashmir.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Association of Parents of Disappeared Persons (Kashmir)
 https://punjabdisappeared.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Working on enforced disappearances in Punjab
 https://milaanfoundation.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Women empowerment NGO
 https://www.assfindia.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Acid Survivors Saahas Foundation
@@ -442,15 +436,14 @@ https://www.crickethighlights.cricket/,CULTR,Culture,2021-03-22,Netalitica,"Crii
 https://www.doffitt.com/,CULTR,Culture,2021-03-22,Netalitica,"Harmless news articles, reportedly blocked on ACT"
 http://hellohyderabad.com/,CULTR,Culture,2021-03-22,Netalitica,"Information about Hyderabad tourism, reportedly blocked on ACT"
 https://ctrlq.org/,COMT,Communication Tools,2021-03-22,Netalitica,"Seems to be a personal website, reportedly blocked on ACT"
+https://spankbang.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order
+https://yourlust.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order
+https://www.x-art.com/,PORN,Pornography,2021-02-26,Netalitica,Porn websites blocked through court order
+https://www.savitabhabhi.vip/,PORN,Pornography,2021-03-18,Netalitica,Indian Porn web comic
 https://www.dateinasia.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
 https://www.singoldating.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
 https://www.trulychinese.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
 https://www.trulyasian.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
-https://www.chinalove.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
-https://www.datemyage.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
-https://www.asiandate.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
-https://www.flirtwish.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
-https://www.flirthookup.com/,DATE,Online Dating,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://shareit.one/,FILE,File-sharing,2021-03-22,Netalitica,Chinese app ban order in July 2020
 http://www.xender.com/,FILE,File-sharing,2021-03-22,Netalitica,Chinese app ban order in July 2020
 https://www.weiyun.com/,FILE,File-sharing,2021-03-22,Netalitica,Chinese app ban order in September 2020
@@ -521,12 +514,12 @@ http://influence.in/,POLR,Political Criticism,2021-03-22,Netalitica,"Complaints 
 https://kashmirawareness.org/,POLR,Political Criticism,2021-03-22,Netalitica,"Criticism of Indian state from Kashmir, reportedly blocked on ACT"
 https://kashmircivitas.com/,POLR,Political Criticism,2021-03-22,Netalitica,"Criticism of Indian state from Kashmir, reportedly blocked on ACT"
 https://kashmirscholarsnetwork.org/,POLR,Political Criticism,2021-03-22,Netalitica,"Criticism of Indian state from Kashmir, reportedly blocked on ACT"
+https://www.chinalove.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
+https://www.datemyage.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
+https://www.asiandate.com/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
+https://flirtwish.in/,DATE,Online Dating,2021-03-22,Netalitica,Chinese app ban order in November 2020
+https://www.flirthookup.com/,DATE,Online Dating,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://2adultflashgames.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
-http://30plusgirls.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT
-https://www.40somethingmag.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT
-https://www.antarvasnax.com/,PORN,Pornography,2021-03-22,Netalitica,Erotica in Hindi
-https://www.comdotgame.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
-https://www.nutaku.net/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
 https://1escorts.net/,PROV,Provocative Attire,2021-03-22,Netalitica,"Sex work website, reportedly blocked on ACT"
 https://translate.baidu.com/,SRCH,Search Engines,2021-03-22,Netalitica,Chinese app ban order in July 2020
 https://www.shop101.com/,COMM,E-commerce,2021-03-23,Netalitica,"Reselling website, reportedly blocked on ACT"
@@ -620,22 +613,15 @@ https://www.totalsportek.com/,CULTR,Culture,2021-10-10,workshop in India,"Sports
 https://indianculturalforum.in/,CULTR,Culture,2021-10-10,Mythili Srinivasamurthy,
 https://www.bollywoodhungama.com/,CULTR,Culture,2021-10-10,OONI,
 http://bolly-zone.me/,CULTR,Culture,2021-10-10,workshop india,"Bollywood Discussion Forum, reportedly blocked on ACT"
-http://orinam.net/,LGBT,LGBT,2021-10-10,Nadika,Chennai based LGBT support group
+https://orinam.net/,LGBT,LGBT,2021-10-10,Nadika,Chennai based LGBT support group
 https://www.paalputhumai.com/,LGBT,LGBT,2021-10-10,Nadika,"Tamil and English Resources and support for queer persons, by Queer Chennai Chronicles"
 https://sampoornaindiablog.wordpress.com/,LGBT,LGBT,2021-10-10,Nadika,Blog (stand in for offl website) of Sampoorna Trans & Intersex Group
-https://nirangal.ngo/,LGBT,LGBT,2021-10-10,Nadika,Website of Chennai based Trans and Queer support NGO
-https://mhi.org.in/,LGBT,LGBT,2021-10-10,workshop india,Queer affirmative counselling resources
-https://www.iglta.org/Country/India,LGBT,LGBT,2021-10-10,workshop india,LGBTQ+ Travel Guide to India
-https://list.ly/,LGBT,LGBT,2021-10-10,workshop india,list of LGBTQ+ support groups + resources in India
-https://www.saathi-iitb.org/,LGBT,LGBT,2021-10-10,workshop india,IIT Bombay’s LGBTQ+ resource group
+https://mhi.org.in/,PUBH,Public Health,2021-10-10,workshop india,Queer affirmative counselling resources
+https://www.iglta.org/,LGBT,LGBT,2021-10-10,workshop india,LGBTQ+ Travel Guide to India
 https://www.sahodaran.org/,LGBT,LGBT,2021-10-10,Nadika,Chennai based gay men/male sexual health support group
 https://sahodari.org/,LGBT,LGBT,2021-10-10,Nadika,TN based centre for trans empowerment
-http://queerala.org/,LGBT,LGBT,2021-10-10,workshop india,Malayali LGBTIQ organization
-https://lgbtqindiaresource.wordpress.com/,LGBT,LGBT,2021-10-10,workshop india,Resource lists for Indian LGBTQ communities and allies.
-http://swabhava.org/,LGBT,LGBT,2021-10-10,Nadika,Bangalore based support group for Queer persons
-http://sangama.org/,LGBT,LGBT,2021-10-10,Nadika,NGO and support group for queer persons
-https://www.utopia-asia.com/tipsindi.htm,LGBT,LGBT,2021-10-10,workshop india,list of resources
-https://www.goarainbowtrust.com/,LGBT,LGBT,2021-10-10,workshop india,Goa based LGBTQIA+ NGO
+https://lgbtqindiaresource.in/,LGBT,LGBT,2021-10-10,workshop india,Resource lists for Indian LGBTQ communities and allies.
+https://sangama.org/,LGBT,LGBT,2021-10-10,Nadika,NGO and support group for queer persons
 https://rethinkaadhaar.in/,HUMR,Human Rights Issues,2021-10-15,Maansi,advocacy on Aadhaar issues
 https://www.docsapp.in/,PUBH,Public Health,2021-10-10,workshop india,health app in india
 https://www.mohfw.gov.in/,PUBH,Public Health,2021-10-10,Mythili Srinivasamurthy,Official website of the Ministry of Health and Family Welfare
@@ -694,8 +680,8 @@ https://dravidianprofessionals.com/,POLR,Political Criticism,2021-10-10,Nadika,A
 https://swarajindia.org/,POLR,Political Criticism,2021-10-15,Maansi,new political party
 https://aazadsamajpartyk.org/,POLR,Political Criticism,2021-10-15,Maansi,new political party
 https://www.trolleytimes.online/,POLR,Political Criticism,2021-10-15,Maansi,newsletter on farmers protest
-https://indiansexstories.net/,PORN,Pornography,2021-10-10,workshop india,Erotica Blocked (old url permanently blocked)
-https://indiansexstories2.net/,PORN,Pornography,2021-10-10,workshop india,Blocked on certain ISPs (new url)
+https://30plusgirls.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT
+https://www.40somethingmag.com/,PORN,Pornography,2021-03-22,Netalitica,Reportedly blocked on ACT
 https://piratebay.live/,FILE,File-sharing,2022-01-02,community member,Torrent hosting site blocked via DNS
 http://bannedthought.net/,HUMR,Human Rights Issues,2022-04-04,,
 http://www.videolan.org/,MMED,Media sharing,2022-08-12,community member,VLC media player blocked in India
@@ -736,3 +722,49 @@ https://www.banglavision.tv/,NEWS,News Media,2025-05-27,test-lists.ooni.org cont
 https://dailyinqilab.com/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
 https://dailyamardesh.com/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
 https://thebachchaoproject.org/,HUMR,Human Rights Issues,2025-06-16,test-lists.ooni.org contribution,
+https://www.antarvasna3.com/,PORN,Pornography,2021-03-22,Netalitica,Erotica in Hindi
+https://www.comdotgame.com/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
+https://www.nutaku.net/,PORN,Pornography,2021-03-22,Netalitica,"Pornographic games, reportedly blocked on ACT"
+https://www.sapphokolkata.in/,LGBT,LGBT,2025-06-21,B,NGO and support group for LBQT persons
+https://www.raahithejourney.org/,LGBT,LGBT,2025-06-21,B,NGO and support group for LBQT persons
+https://feminisminindia.com/,HUMR,Human Rights Issues,2025-06-21,B,It is a website that covers all things feminism and gender rights
+https://vartagensex.org/,LGBT,LGBT,2025-06-21,B,NGO and website for LGBTQ+ resources and support
+https://creaworld.org/,XED,Sex Education,2025-06-21,JG,"Website on sexual and reproductive rights, "
+https://www.indiansexstories3.com/,PORN,Pornography,2025-06-21,T,Erotica. blocked on certain ISPs
+https://sahodaransociety.wordpress.com/,LGBT,LGBT,2025-06-21,B,NGO working on LGBTQ rights in Pondicherry
+https://agentsofishq.com/,XED,Sex Education,2025-06-21,JG,"pleasure, erotica, sex education, "
+https://sexed.in/,XED,Sex Education,2025-06-21,T,stigma free sex ed
+https://www.pratisandhi.com/,XED,Sex Education,2025-06-21,T,NGO that offers sex ed in semi urban and rural areas
+https://www.superschoolindia.org/,XED,Sex Education,2025-06-21,T,NGO that offers sex ed in semi urban and rural areas
+https://www.nazindia.org/,XED,Sex Education,2025-06-21,JG,"counseling, care and support services "
+https://saathii.in/,XED,Sex Education,2025-06-21,JG,"HIV awareness in LGBT, sex workers, women etc "
+https://adore-dating.com/,DATE,Online Dating,2025-06-21,V,Landing page for the dating app 'Adore'
+https://www.gendersecurityproject.com/,XED,Sex Education,2025-06-21,B,NGO working on gender issues
+https://gayconnect.com/,DATE,Online Dating,2025-06-21,V,"Directory of free and paid online chat sites, especially for gay and queer people"
+http://www.nnswindia.org/,XED,Sex Education,2025-06-21,B,National Network of Sex workers 
+https://thatmate.com/,XED,Sex Education,2025-06-21,T,appears blocked
+https://heartitout.in/,LGBT,LGBT,2025-06-21,JG,support resources for LGBTQ
+https://gaysifamily.com/,LGBT,LGBT,2025-06-21,JG,
+https://www.ourvoix.com/,XED,Sex Education,2025-06-21,T,Sex ed resources. apprears blocked.
+https://www.vikalpwomensgroup.org/,LGBT,LGBT,2025-06-21,B,NGO working on LGBTQ rights
+https://www.csrindia.org/,XED,Sex Education,2025-06-21,B,Gender training institute of Centre for Social Research
+https://www.queervoicesofindia.org/,LGBT,LGBT,2025-06-21,B,Blog on queer lives in India
+https://enfoldindia.org/,XED,Sex Education,2025-06-21,JG,"focus on sexual abuse awareness, esp in children and young people"
+https://ecofemme.org/,XED,Sex Education,2025-06-21,JG,menstrual health education and awareness in rural areas
+https://untaboo.online/,XED,Sex Education,2025-06-21,JG,
+https://www.gauravcbo.org/,LGBT,LGBT,2025-06-21,V,"Community based organisation working for promotion, protection and enhancement of health and rights of LGBTQ people"
+https://theqknit.lgbtq.co.in/,LGBT,LGBT,2025-06-21,V,"Aims to facilitate conversations about queer life in India through social media, youth leadership, advocacy and capacity building"
+https://www.populationfoundation.in/,XED,Sex Education,2025-06-21,B,NGO working on sex education and SRHR
+https://pointofview.org/,LGBT,LGBT,2025-06-21,JG,"how women, sexual and gender minorities show up in digital spaces "
+https://libertyrebellion.org/,LGBT,LGBT,2025-06-21,V,Carries out awareness and empowerment programs for the community
+https://www.pinklistindia.com/,LGBT,LGBT,2025-06-21,B,Website covering LGBTQ friendly politicians
+https://www.himachalqueerfoundation.org/,LGBT,LGBT,2025-06-21,JG,LGBTQ resource center in rural Himachal Pradesh
+https://jeevabng.wordpress.com/,LGBT,LGBT,2025-06-21,V,"Addresses issues around mental health, livelihood and community media for working class sexual minorities in Karnataka"
+https://swatantrablr.wordpress.com/,LGBT,LGBT,2025-06-21,V,"Karnataka based organization, aims to strengthen the agenda of sexual minorities in social, economical, and political spheres"
+https://bdssamabhabona.org/,LGBT,LGBT,2025-06-21,JG,intersectional advocacy for LGBTQ community in West Bengal 
+https://www.solidarityfoundation.in/,LGBT,LGBT,2025-06-21,V,"Works for dignity of sex workers, gender and sexual minorities"
+https://www.ashodayasamithi.org/,LGBT,LGBT,2025-06-21,V,Works on HIV prevention and Sexual and Reproductive Rights
+https://rainbowliteraturefestival.com/,LGBT,LGBT,2025-06-21,B,Website for LGBTQ literature festival
+https://thenazariyafoundation.org/,LGBT,LGBT,2025-06-21,,Queer Feminist Resource Group
+https://www.officialhumansofqueer.com/,LGBT,LGBT,2025-06-21,,"Page for Queer stories, work"
+https://keshavsuri.foundation/,LGBT,LGBT,2025-06-21,JG,
