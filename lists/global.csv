@@ -1484,7 +1484,6 @@ https://chat-gpt.org/,SRCH,Search Engines,2023-03-15,test-lists.ooni.org contrib
 https://www.westernunion.com/,COMM,E-commerce,2023-03-21,anonymous contribution,
 https://drive.google.com/,FILE,File-sharing,2023-03-19,OONI,
 https://www.ivpn.net/,ANON,Anonymization and circumvention tools,2023-03-19,OONI,
-https://breached.vc/,HACK,Hacking Tools,2023-03-19,OONI,
 https://www.benarnews.org/,HUMR,Human Rights Issues,2023-04-12,arky,SE.Asian regional HR issues
 https://sputnikglobe.com/,NEWS,News Media,2023-04-20,OONI,
 https://rtr-planeta.com/,NEWS,News Media,2023-04-20,OONI,
@@ -1672,3 +1671,4 @@ https://bricspress.live/,NEWS,News Media,2025-07-18,test-lists.ooni.org contribu
 https://fondfbr.ru/,POLR,Political Criticism,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
 https://tigerweb.ru/,COMM,E-commerce,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
 https://thereisnoearthb.org/,ENV,Environment,2025-08-04,test-lists.ooni.org contribution,
+https://keys.openpgp.org/,ANON,Anonymization and circumvention tools,2025-08-15,gus,OpenPGP keyserver
