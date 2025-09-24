@@ -115,7 +115,6 @@ https://iyfglobal.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated on
 https://jainworld.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://jezebel.com/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-05-31
 http://justicewomen.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.kabobfest.com/,NEWS,News Media,2014-04-15,citizenlab,Updated on 2022-02-21
 http://www.kickassclassical.com/,CULTR,Culture,2014-04-15,citizenlab,Updated on 2023-11-17
 https://kidshealth.org/,PUBH,Public Health,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://krishna.com/,REL,Religion,2014-04-15,citizenlab,Updated on 2022-05-31
@@ -549,7 +548,7 @@ https://www.ipredator.se/,ANON,Anonymization and circumvention tools,2014-04-15,
 https://www.ipvanish.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.irna.ir/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.isiswomen.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.iskcon.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.iskcon.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.islameyat.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://islamic-relief.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.islamicity.com/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -791,7 +790,7 @@ https://www.transparency.org/,POLR,Political Criticism,2014-04-15,citizenlab,Upd
 http://www.transwhiz.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.tripod.lycos.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.truthnet.org/,REL,Religion,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-http://www.tsroadmap.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
+https://www.transgendermap.com/,LGBT,LGBT,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.tumblr.com/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://www.twitch.tv/,MMED,Media sharing,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://www.typepad.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
@@ -1271,7 +1270,7 @@ https://nsw2u.com/,FILE,File-sharing,2021-07-30,mhombach,CUII-Recommendation (cu
 https://newalbumreleases.net/,FILE,File-sharing,2021-07-30,mhombach,CUII-Recommendation (cuii.info)
 http://www.qhtyzx.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outside China
 http://www.qhnews.com/,NEWS,News Media,2021-08-04,sbs,possible geoblocking outside China
-http://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
+https://www.xinjiang.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 http://www.mnr.gov.cn/,GOVT,Government,2021-08-04,sbs,possible geoblocking outside China
 https://www.clubhouse.com/,GRP,Social Networking,2021-07-06,rayasharbain,Alternative URL for Clubhouse app's homepage
 https://www.spiegel.de/,NEWS,News Media,2021-11-20,,large German news website
@@ -1674,6 +1673,7 @@ https://keys.openpgp.org/,ANON,Anonymization and circumvention tools,2025-08-15,
 https://abortion-pills.org/,HUMR,Human Rights Issues,2025-08-27,test-lists.ooni.org contribution,
 https://safeabortionpill.org/,HUMR,Human Rights Issues,2025-08-27,test-lists.ooni.org contribution,
 https://safeabortionpills.com/,HUMR,Human Rights Issues,2025-08-27,test-lists.ooni.org contribution,
+https://docs.mvt.re/,HUMR,Human Rights Issues,2025-09-08,test-lists.ooni.org contribution,Amnesty International's Mobile Verification Toolkit.
 https://sniply.io/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
 https://replug.io/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
 https://joturl.com/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
