@@ -1663,28 +1663,18 @@ https://www.happn.com/,DATE,Online Dating,2025-05-09,test-lists.ooni.org contrib
 https://www.resourcematters.org/,ENV,Environment,2025-05-24,OONI,Reportedly blocked in the DRC but worth testing globally
 https://redapes.org/,ENV,Environment,2025-05-24,OONI,Reportedly blocked in the DRC but worth testing globally
 https://globalconservation.org/,ENV,Environment,2025-05-24,OONI,Reportedly blocked in the DRC but worth testing globally
-https://minecraft.net/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Minecraft's Official Website!
+https://www.minecraft.net/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Minecraft's Official Website!
 https://store.epicgames.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Epic Games Official Website
 https://poki.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Poki Online Games
-https://nemtudo.me/jeguequiz2,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Jazzghost Quiz! Fanmade Game
+https://nemtudo.me/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Jazzghost Quiz! Fanmade Game
 https://www.lastwar.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Android game
-https://albiononline.com/home,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,MMORPG Game
-https://gamingstoree.com.br/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,game store
-https://roblox.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Game Platform
+https://albiononline.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,MMORPG Game
+https://www.roblox.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Game Platform
 https://tlauncher.org/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Alternative Minecraft Launcher
 https://www.g5.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,G5 Games
 https://www.gog.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Good Old Games
-https://residentevil.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,resident evil
-https://gog-games.to/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,GOG Games Free
 https://gamersclub.gg/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,gamer club
 https://www.playstation.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,playstation website
-https://betao.bet.br/,GMB,Gambling,2025-09-19,test-lists.ooni.org contribution,Casino site
-https://betano.bet.br/,GAME,Gaming,2025-09-19,test-lists.ooni.org contribution,Casino game
-https://suberbet.bet.br/,GAME,Gaming,2025-09-19,test-lists.ooni.org contribution,Casino game
-https://superbet.bet.br/,GAME,Gaming,2025-09-19,test-lists.ooni.org contribution,Casino game
-https://bet365.bet.br/,GAME,Gaming,2025-09-19,test-lists.ooni.org contribution,Casino game
-https://luck.bet.br/,GAME,Gaming,2025-09-19,test-lists.ooni.org contribution,Casino game
-https://betmgm.bet.br/,GAME,Gaming,2025-09-19,test-lists.ooni.org contribution,Casino game
 https://vuejs.org/,ANON,Anonymization and circumvention tools,2025-06-17,,Used as domain fronting by tor APIs
 https://annas-archive.org/,CULTR,Culture,2025-07-10,test-lists.ooni.org contribution,The largest truly open library in human history
 https://moscow.rtrs.ru/,NEWS,News Media,2025-07-18,test-lists.ooni.org contribution,"Russian national tv, sanctioned in the EU "
