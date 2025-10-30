@@ -4,3 +4,11 @@ https://bg.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by w
 https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.svobodnaevropa.bg/,NEWS,News Media,2022-10-26,test-lists.ooni.org contribution,
+https://777.ua/,GMB,Gambling,2025-08-02,test-lists.ooni.org contribution,"Supposedly blocked in Bulgaria, due to violation of its Gambling Act and the EU DSA."
+https://bel.sputnik.by/,NEWS,News Media,2025-08-02,test-lists.ooni.org contribution,Does not appear to be reachable from Bulgaria.
+https://betway.com/,GMB,Gambling,2025-08-02,test-lists.ooni.org contribution,"Supposedly blocked in Bulgaria, due to violation of the Gambling Act and Financial Markets Act."
+https://cock.li/,COMT,Communication Tools,2025-08-02,test-lists.ooni.org contribution,E-mail provider with lax sign-up requirements. It appears blocked in Belarus.
+https://ggbet.ua/,GMB,Gambling,2025-08-02,test-lists.ooni.org contribution,"Supposedly blocked in Bulgaria, due to violation of its Gambling Act and the EU DSA."
+https://mondnr.ru/,GOVT,Government,2025-08-02,test-lists.ooni.org contribution,Appears unreachable in Bulgaria.
+https://pochta.ru/,NEWS,News Media,2025-08-02,test-lists.ooni.org contribution,"May be blocked in, or blocking IPs from, Bulgaria."
+https://supergra.ua/,GMB,Gambling,2025-08-02,test-lists.ooni.org contribution,"Supposedly blocked in Bulgaria, due to violation of its Gambling Act and the EU DSA."

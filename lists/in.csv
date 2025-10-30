@@ -74,7 +74,6 @@ https://www.shopclues.com/,COMM,E-commerce,2016-06-14,OONI,
 https://www.snapdeal.com/,COMM,E-commerce,2016-06-14,OONI,
 https://www.hardnewsmedia.com/,NEWS,News Media,2016-06-14,OONI,
 https://zeenews.india.com/,NEWS,News Media,2016-06-14,OONI,
-https://thecsf.org/,REL,Religion,2016-06-14,OONI,
 https://www.telugudesam.org/,POLR,Political Criticism,2016-06-14,OONI,
 https://www.bjp.org/,POLR,Political Criticism,2016-06-14,OONI,
 https://cis-india.org/,HUMR,Human Rights Issues,2016-06-14,OONI,NGO working on digital rights
@@ -330,7 +329,6 @@ https://bondedlabour.org/,HUMR,Human Rights Issues,2021-03-20,Netalitica,"Bandi 
 https://majlislaw.com/,HUMR,Human Rights Issues,2021-03-20,Netalitica,Legal support for women
 http://www.andhravilas.net/,CULTR,Culture,2021-03-22,Netalitica,"Telegu film industry content, reportedly blocked on ACT"
 https://www.b4blaze.com/,CULTR,Culture,2021-03-22,Netalitica,"Entertainment news and updates, reportedly blocked on ACT"
-http://www.ceramopolis.com/,CULTR,Culture,2021-03-22,Netalitica,"Seems like a blog on ceramic objects, reportedly blocked on ACT"
 http://collegehumor.com/,CULTR,Culture,2021-03-22,Netalitica,"American comedy website, blocked across multiple ISPs for unknown reasons"
 https://www.crickethighlights.cricket/,CULTR,Culture,2021-03-22,Netalitica,"Criicket commentary and predictions, reportedly blocked on ACT"
 https://www.doffitt.com/,CULTR,Culture,2021-03-22,Netalitica,"Harmless news articles, reportedly blocked on ACT"
@@ -726,7 +724,7 @@ https://www.cspps.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,"the p
 https://rohingyaresponse.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,"It's the joint coordination site managed by the Inter‑Sector Coordination Group (ISCG) Secretariat and UNHCR, operating under the leadership of the Bangladesh government "
 https://thediplomat.com/,NEWS,News Media,2025-06-22,workshop india,"The diplomat raises concern related to refugees, especially Rohingya."
 https://thecompanion.in/,NEWS,News Media,2025-06-22,workshop india,Many of blog looked at Rohingya crisis- from security to humanitarian crisis
-https://www.nousnetwork.org/,NEWS,News Media,2025-06-22,workshop india,"A blog related to Rohingyas and the video posted on there news portal has some limitations: It is showing that the video is age resitricted and only available on youtube. Rohingya refugees in India: A quest for survival and justice (A short video available on youtube but not showing on nous network website)."
+https://www.nousnetwork.org/,NEWS,News Media,2025-06-22,workshop india,A blog related to Rohingyas and the video posted on there news portal has some limitations: It is showing that the video is age resitricted and only available on youtube. Rohingya refugees in India: A quest for survival and justice (A short video available on youtube but not showing on nous network website).
 https://www.mpnn.in/,NEWS,News Media,2025-06-22,workshop india,Seems to be a media site run by minority community group
 https://muslimmirror.com/,NEWS,News Media,2025-06-22,workshop india,independent online news portal
 https://jamaateislamihind.org/,REL,Religion,2025-06-22,workshop india,"JIH plays a prompt and active role in difficult situations like floods, famines, fire-tragedies, earthquakes, man-made or natural calamities, epidemics or communal riots in rescuing and rehabilitating the victims, irrespective of their caste, creed, class, or religion. religious training. community development"
@@ -740,7 +738,7 @@ https://www.himdhara.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,reg
 https://www.migrationandasylumproject.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,"India's first dedicated law centre for forced migration and displacement, started in 2013"
 https://www.zakatindia.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,"Mentioned specifically as providing makeshift shelters for Rohingya families near Madanpur Khadar, New Delhi"
 https://zakatindia.org.uk/,HUMR,Human Rights Issues,2025-06-22,workshop india,Working in UK as well
-https://boscodelhi.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,"BOSCO has a partnership with UNHCR in India"
+https://boscodelhi.org/,HUMR,Human Rights Issues,2025-06-22,workshop india,BOSCO has a partnership with UNHCR in India
 https://jrs.net/,HUMR,Human Rights Issues,2025-06-22,workshop india,"Operates in New Delhi supporting urban refugees (e.g., Chin from Myanmar, Afghan asylum seekers) with: Vocational training (beauty, cooking, tailoring), English and computer classes"
 https://slic.org.in/,HUMR,Human Rights Issues,2025-06-22,workshop india,It's a legal-aid and human rights organization working to empower marginalized communities through the legal system
 https://indiahatelab.com/,HUMR,Human Rights Issues,2025-06-22,workshop india,Hate speech monitoring website repotedly blocked 

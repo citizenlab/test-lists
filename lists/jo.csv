@@ -28,7 +28,6 @@ http://www.marayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.tourismworld-seyaha.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.aboshreek.com/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.ahl-aljordan.com/,DATE,Online Dating,2014-04-15,citizenlab,
-https://arabcrunch.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.7iber.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://afaqnews.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.noornews.net/,NEWS,News Media,2014-04-15,citizenlab,
@@ -585,3 +584,6 @@ https://alshoub.tv/,NEWS,News Media,2025-05-15,raya sharbain,
 https://rassd.com/,NEWS,News Media,2025-05-15,raya sharbain,
 https://raseef22.net/,NEWS,News Media,2025-05-15,test-lists.ooni.org contribution,
 https://arabicpost.live/,NEWS,News Media,2025-05-21,raya sharbain,
+https://cdn.discordapp.com/,GRP,Social Networking,2025-10-08,OONI,Discord reportedly blocked in Jordan today
+https://media.discordapp.net/,GRP,Social Networking,2025-10-08,OONI,Discord reportedly blocked in Jordan today
+https://support.discord.com/,GRP,Social Networking,2025-10-08,OONI,Discord reportedly blocked in Jordan today
