@@ -43,10 +43,9 @@ http://lib.rus.ec/,CULTR,Culture,2014-04-15,citizenlab,books sharing platform
 http://lurkmore.to/,CULTR,Culture,2014-04-15,citizenlab,Russia version of Wikipedia
 http://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://zhurnal.lib.ru/,CULTR,Culture,2014-04-15,citizenlab,samiizdat journal
-https://adagamov.info/,GMB,Gambling,2014-04-15,citizenlab,
 https://genderandaids.unwomen.org/en/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://lgbt-grani.livejournal.com/,LGBT,LGBT,2014-04-15,citizenlab,archive of LGBT project
-http://rutracker.org/,FILE,File-sharing,2014-04-15,citizenlab,largest torrent sharing service
+https://rutracker.org/,FILE,File-sharing,2014-04-15,citizenlab,largest torrent sharing service
 http://www.xgay.ru/,LGBT,LGBT,2014-04-15,citizenlab,
 http://kazak-chita.ru/,CULTR,Culture,2014-04-15,citizenlab,
 https://yandex.ru/,SRCH,Search Engines,2014-04-15,citizenlab,and popular email service
@@ -58,7 +57,7 @@ https://kavkazcenter.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://pornolab.net/forum/index.php,PORN,Pornography,2014-04-15,citizenlab,
 https://www.rbth.com/,CULTR,Culture,2014-04-15,citizenlab,"sporadically updated, monitor"
 https://roskomsvoboda.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,largest digital rights org in Russia
-https://www.business-humanrights.org/en/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+https://www.business-humanrights.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hrw.org/report/2013/02/06/race-bottom/exploitation-migrant-workers-ahead-russias-2014-winter-olympic-games/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Sochi Olympycs
 https://www.indiegogo.com/projects/know-sochi-olympics-on-the-land-of-genocide#/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://ispovednik.org/,REL,Religion,2014-04-15,citizenlab,site of Russian Orthodox church
@@ -88,14 +87,13 @@ https://cameleo.xyz/,ANON,Anonymization and circumvention tools,2017-09-28,igorv
 https://navalny.com/,POLR,Political Criticism,2017-09-28,igorv,Reportedly blocked in July 2021
 http://kinozal.tv/,FILE,File-sharing,2017-09-28,igorv,
 http://new-rutor.org/,FILE,File-sharing,2017-09-28,igorv,
-http://tushkan.club/,MISC,Miscelaneous content,2017-09-28,igorv,
+http://tushkan.club/,FILE,File-sharing,2017-09-28,igorv,
 http://www.sobytiya.info/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
 https://hromadske.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
 https://www.segodnya.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
 https://glavcom.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
 https://censor.net.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
 https://www.5.ua/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
-http://www.deti-404.com/,MISC,Miscelaneous content,2017-09-28,igorv,monitor
 http://www.ej.ru/,NEWS,News Media,2017-09-28,igorv,blocked critical resource
 https://sprotyv.info/,NEWS,News Media,2017-09-28,igorv,old domain
 http://bluesystem.ru/,LGBT,LGBT,2017-09-28,igorv,"blocked, monitor, redirects to porn site"
@@ -141,8 +139,7 @@ http://www.kerch.com/,NEWS,News Media,2018-02-23,igorv,"Blocked in Crimea, page 
 https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://tr.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://uk.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://www.bbc.com/russian/,NEWS,News Media,2018-09-13,OONI,
-https://www.dw.com/ru/,NEWS,News Media,2018-09-13,OONI,
+https://ru.rfi.fr/,NEWS,News Media,2018-09-13,OONI,
 https://ru.m.wikipedia.org/,CULTR,Culture,2019-02-19,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 http://www.freeproxy.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
 http://www.mysites.ru/,ANON,Anonymization and circumvention tools,2019-05-25,Netalitica,
@@ -158,6 +155,7 @@ https://www.avast.ru/secureline-vpn#pc/,ANON,Anonymization and circumvention too
 http://samlib.ru/,CULTR,Culture,2019-05-25,Netalitica,Samizdat journal
 http://zagony.ru/,CULTR,Culture,2019-05-25,Netalitica,blocked in KZ
 https://distant.msu.ru/,CULTR,Culture,2019-05-25,Netalitica,
+https://passport.yandex.ru/,COMT,Communication Tools,2019-05-25,Netalitica,
 https://proza.ru/,CULTR,Culture,2019-05-25,Netalitica,
 https://ru.wikiquote.org/,CULTR,Culture,2019-05-25,Netalitica,
 http://mega-intell.ru/,COMM,E-commerce,2019-05-25,Netalitica,
@@ -698,6 +696,7 @@ https://www.epravda.com.ua/,NEWS,News Media,2023-02-18,OONI,Ukrainian site repor
 https://www.youtube.video.az/,MMED,Media sharing,2023-02-20,test-lists.ooni.org contribution,
 https://nvdaily.ru/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://www.ng.ru/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
+https://www.amnesty.org.ru/,HUMR,Human Rights Issues,2023-02-20,test-lists.ooni.org contribution,
 https://sota.vision/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://pravdastudia.ru/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://rtvi.com/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
@@ -712,7 +711,7 @@ https://rusmonitor.com/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribut
 https://baza.io/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://redkollegia.org/,NEWS,News Media,2023-02-22,test-lists.ooni.org contribution,
 https://mediazona.by/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
-https://helpdesk.media/,IGO,Intergovernmental Organizations,2023-03-10,test-lists.ooni.org contribution,
+https://helpdesk.media/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://thetruestory.news/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://mbk-news.appspot.com/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://www.voanews.com/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
@@ -724,7 +723,6 @@ https://gazeta.ua/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://focus.ua/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://zaxid.net/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://www.ukrinform.ua/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
-https://www.ukrinform.ru/,GMB,Gambling,2023-03-10,test-lists.ooni.org contribution,
 https://vlasti.net/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://glavnoe.in.ua/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://www.unn.com.ua/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
@@ -827,6 +825,6 @@ https://tutanota.com/,COMT,Communication Tools,2020-02-04,OONI,
 https://instructions.peaceplea.org/,HUMR,Human Rights Issues,2024-01-15,test-lists.ooni.org contribution,Legal support for military draft evaders
 https://peaceplea.org/,HUMR,Human Rights Issues,2024-01-15,test-lists.ooni.org contribution,Legal support for military draft evaders
 https://pixabay.com/,MMED,Media sharing,2024-02-21,test-lists.ooni.org contribution,Is on RKN's blocklist
-https://www.shutterstock.com/ru/,MMED,Media sharing,2024-02-21,test-lists.ooni.org contribution,Was blocked by RKN in the past
+https://www.shutterstock.com/,MMED,Media sharing,2024-02-21,test-lists.ooni.org contribution,Was blocked by RKN in the past
 https://www.tadviser.ru/,NEWS,News Media,2024-02-21,test-lists.ooni.org contribution,
 https://androidapplications.store/,FILE,File-sharing,2024-02-21,test-lists.ooni.org contribution,Was blocked by RKN in the past
