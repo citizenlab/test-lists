@@ -6,7 +6,7 @@ https://www.bostonglobe.com/,NEWS,News Media,2018-06-08,RSF,
 http://www.chicagotribune.com/,NEWS,News Media,2018-06-08,RSF,
 https://www.denverpost.com/,NEWS,News Media,2018-06-08,RSF,
 https://www.houstonchronicle.com/,NEWS,News Media,2018-06-08,RSF,
-http://www.miamiherald.com/,NEWS,News Media,2018-06-08,RSF,
+https://www.miamiherald.com/,NEWS,News Media,2018-06-08,RSF,
 http://www.msnbc.com/,NEWS,News Media,2018-06-08,RSF,
 https://www.politico.com/,NEWS,News Media,2018-06-08,RSF,
 https://www.sfchronicle.com/,NEWS,News Media,2018-06-08,RSF,
@@ -15,7 +15,6 @@ https://www.breitbart.com/,NEWS,News Media,2019-05-29,Matomo,Site of right leani
 https://shareblue.com/,NEWS,News Media,2019-05-29,Matomo,Site of left leaning political opposition
 https://www.openlynews.com/,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.them.us/,LGBT,LGBT,2019-11-18,OutRight International,
-https://www.nbcnews.com/nbc-out,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.newsweek.com/queer-offensive-slur-855703,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.plannedparenthood.org/learn/sexual-orientation-gender,LGBT,LGBT,2019-11-18,OutRight International,
 https://editorial.rottentomatoes.com/guide/best-lgbt-movies-of-all-time/,LGBT,LGBT,2019-11-18,OutRight International,
@@ -25,14 +24,11 @@ https://www.cdc.gov/features/blackhivaidsawareness/index.html,LGBT,LGBT,2019-11-
 https://www.hiv.gov/events/awareness-days/black,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.thetaskforce.org/national-gay-and-lesbian-task-force-the-national-coalition-for-lgbt-health-and-national-black-justice-coalition-celebrate-lgbt-health-awareness-week/,LGBT,LGBT,2019-11-18,OutRight International,
 https://hbr.org/2019/08/how-multinationals-can-help-advance-lgbt-inclusion-around-the-world,LGBT,LGBT,2019-11-18,OutRight International,
-https://www.nbcnews.com/feature/nbc-out/two-weeks-five-states-advance-lgbtq-rights-n960421,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.humanityinaction.org/knowledge_detail/human-rights-diplomacy-amidst-world-war-lgbt-re-examining-western-promotion-of-lgbt-rights-in-light-of-the-traditional-values-discourse/,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.openglobalrights.org/using-the-un-to-advance-lgbt-rights-in-china/,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.hiv.gov/events/awareness-days/transgender,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.japantimes.co.jp/news/2019/07/14/national/politics-diplomacy/lgbt-community-hopes-upper-house-election-will-spur-debate-advance-gay-rights-legislation/#.XZellS2ZNQI,LGBT,LGBT,2019-11-18,OutRight International,
-https://www.usatoday.com/story/news/nation/2017/10/19/cities-made-strides-2017-lgbt-rights-report-shows/777907001/,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.catalyst.org/wp-content/uploads/2019/01/Building_LGBT_Inclusive_Workplaces_Engaging_Organizations_and_Individuals_in_Change.pdf,LGBT,LGBT,2019-11-18,OutRight International,
-https://www.ft.com/content/6eef8a22-8efa-11e7-9580-c651950d3672,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.cnn.com/2019/03/05/us/tennessee-lgbt-bills-trnd/index.html,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.forbes.com/sites/brandonschultz/2019/10/04/same-sex-marriage-comes-to-costa-rica-in-2020-and-you-should-too/,LGBT,LGBT,2019-11-18,OutRight International,
 https://www.outsports.com/2019/10/3/20898266/lgbtq-sports-history-billie-jean-king-tennis-lesbian-icon,LGBT,LGBT,2019-11-18,OutRight International,
@@ -50,10 +46,15 @@ https://dcpages.com/,CULTR,Culture,2021-10-28,citizenlab,
 https://www.risebroadband.com/,COMM,E-commerce,2021-10-28,community member,
 https://www.viasatprovider.com/,COMM,E-commerce,2021-10-28,community member,
 https://www.cakex.org/,ENV,Environment,2021-10-28,community member,
-https://www.npr.org/,NEWS,News Media,2021-10-28,community member,
 https://nationalinterest.org/,NEWS,News Media,2021-10-28,community member,
 https://israel.tv/,MMED,Media sharing,2022-05-06,test-lists.ooni.org contribution,This website was ordered blocked in May 2022
 https://sdarot.tv/,MMED,Media sharing,2022-05-06,test-lists.ooni.org contribution,This website was ordered blocked in May 2022
 https://israeltv.to/,MMED,Media sharing,2022-05-06,test-lists.ooni.org contribution,This website was ordered blocked in May 2022
 https://mrdeepfakes.com/,PORN,Pornography,2022-05-16,community member,
 https://www.ineedana.com/,XED,Sex Education,2022-08-28,test-lists.ooni.org contribution,Abortion access directory
+https://weareultraviolet.org/,HUMR,Human Rights Issues,2024-06-05,test-lists.ooni.org contribution,Gender justice organization based in the US
+https://comoabortar.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,
+https://www.chatwithcharley.org/,PUBH,Public Health,2025-05-19,test-lists.ooni.org contribution,chatbot providing information about abortion
+https://www.mayday.health/,PUBH,Public Health,2025-05-19,test-lists.ooni.org contribution,reproductive health education nonprofit
+https://mahotline.org/,PUBH,Public Health,2025-05-19,test-lists.ooni.org contribution,Miscarriage & Abortion Care
+https://www.abortionpillsinprivate.com/,PUBH,Public Health,2025-05-19,test-lists.ooni.org contribution,public health campaign on abortion pill access
