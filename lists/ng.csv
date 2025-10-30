@@ -1,6 +1,5 @@
 url,category_code,category_description,date_added,source,notes
 http://234next.com/,NEWS,News Media,2016-06-14,OONI,
-http://dailyindependentnig.com/,NEWS,News Media,2016-06-14,OONI,
 http://newsjournal.com.ng/,NEWS,News Media,2016-06-14,OONI,
 http://newtelegraphonline.com/,NEWS,News Media,2016-06-14,OONI,
 http://nigerianobservernews.com/,NEWS,News Media,2016-06-14,OONI,
@@ -299,3 +298,4 @@ https://budgit.org/,HUMR,Human Rights Issues,2023-01-27,test-lists.ooni.org cont
 https://peterobisupportnetwork.com/,POLR,Political Criticism,2023-01-27,test-lists.ooni.org contribution,
 https://www.obidatticampaign.com/,POLR,Political Criticism,2023-01-27,test-lists.ooni.org contribution,
 https://endsars.carrd.co/,HUMR,Human Rights Issues,2023-08-04,test-lists.ooni.org contribution,Reportedly blocked
+https://wikkitimes.com/,NEWS,News Media,2024-04-27,test-lists.ooni.org contribution,
