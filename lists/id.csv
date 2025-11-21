@@ -724,3 +724,4 @@ https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2023-1
 https://m.tiktok.com/robots.txt,GRP,Social Networking,2023-11-28,OONI,TikTok reportedly blocked in Indonesia
 https://www.terabox.com/,FILE,File-sharing,2025-11-21,test-lists.ooni.org contribution,Blocking threat due to PSE law non-compliance as of Nov 2025
 https://id.duolingo.com/,CULTR,Culture,2025-11-21,test-lists.ooni.org contribution,Blocking threat due to PSE law non-compliance as of Nov 2025
+https://www.marriott.com/id/default.mi,COMM,E-commerce,2025-11-21,test-lists.ooni.org contribution,Blocking threat due to PSE law non-compliance as of Nov 2025
