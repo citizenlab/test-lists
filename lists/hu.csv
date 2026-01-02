@@ -171,7 +171,6 @@ https://okotars.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environ
 https://wwf.hu/kezdooldal/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
 https://www.ceeweb.org/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
 https://www.e-misszio.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
-https://www.greenpeace.org/hungary/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism "
 https://www.igyleszkerekavilag.hu/,ENV,Environment,2021-12-14,Netalitica,Green lifestyle
 https://www.levego.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change, air pollution "
 https://www.mkne.hu/,ENV,Environment,2021-12-14,Netalitica,"Green rights, environmental activism, climate change "
@@ -336,7 +335,6 @@ https://romaparlament.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma ri
 https://romasajtokozpont.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
 https://romaversitas.hu/en/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
 https://somer.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish community 
-https://szka.org/category/heureka/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Roma rights
 https://tev.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,"Minority rights, discrimination of jews "
 https://web.balinthaz.hu/,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish community 
 https://www.centropa.org/hu,HUMR,Human Rights Issues,2021-12-15,Netalitica,Jewish history 
@@ -350,7 +348,6 @@ https://www.eca.europa.eu/en/Pages/ecadefault.aspx,IGO,Intergovernmental Organiz
 https://www.ecb.europa.eu/home/html/index.en.html,IGO,Intergovernmental Organizations,2022-01-27,Netalitica,European Central Bank
 https://unicef.hu/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,UNICEF's SSC
 https://www.coe.int/en/web/youth/eyc-budapest/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Youth issues
-https://www.euro.who.int/en/countries/hungary/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,World Health Organisation's SSC
 https://www.fao.org/europe/ssc/en/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Food 
 https://www.iom.int/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,migration 
 https://www.unhcr.org/hungary.html/,IGO,Intergovernmental Organizations,2021-12-29,Netalitica,Refugee rights
@@ -523,24 +520,25 @@ https://www.osmagyaregyhaz.hu/,REL,Religion,2021-12-18,Netalitica,religious maga
 https://www.serbdiocese.hu/hu/,REL,Religion,2021-12-18,Netalitica,Serbian Orthodox church 
 https://www.szombat.org/,REL,Religion,2021-12-18,Netalitica,Jewish magazine 
 https://zsido.com/,REL,Religion,2021-12-18,Netalitica,Jewish church 
-https://www.hirkereso.hu/,SRCH,Search Engines,2022-01-07,Netalitica,News search 
+https://www.hirkereso.hu/,SRCH,Search Engines,2022-01-07,Netalitica,News search
 https://www.kapu.hu/,SRCH,Search Engines,2022-01-07,Netalitica,Search engine
 https://www.startlap.hu/,SRCH,Search Engines,2022-01-07,Netalitica,Search engine
 http://magyarcegbazis.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Company directory
 https://ingatlan.com/,SRCH,Search Engines,2022-01-10,Netalitica,Real estate search engine
-https://www.ceginformacio.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory 
+https://www.ceginformacio.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory
 https://www.cegtalalo.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Company directory
-https://www.e-cegjegyzek.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory 
+https://www.e-cegjegyzek.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory
 https://www.nemzeticegtar.hu/nemzeticegtar/kereso/,SRCH,Search Engines,2022-01-10,Netalitica,Company directory
-https://www.opten.hu/dijtalan-szolgaltatasok/cegtarlight/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory 
+https://www.opten.hu/dijtalan-szolgaltatasok/cegtarlight/,SRCH,Search Engines,2022-01-10,Netalitica,Business directory
 https://www.profession.hu/,SRCH,Search Engines,2022-01-10,Netalitica,Job search engine
-http://szexmunka.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex workers 
-http://www.ifjusagi-lelkisegely.hu/index.php/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
-https://anya-lanya.hu/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
-https://hormonmentes.hu/,XED,Sex Education,2021-11-19,Netalitica,Female sex education 
+http://szexmunka.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex workers
+http://www.ifjusagi-lelkisegely.hu/index.php/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education
+https://anya-lanya.hu/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education
+https://hormonmentes.hu/,XED,Sex Education,2021-11-19,Netalitica,Female sex education
 https://ragaszkodjhozza.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex Education
 https://semmelweis.hu/borklinika/a-betegellatas-fo-profiljai/jarobeteg-ellatas/orszagos-std-centrum/,XED,Sex Education,2021-11-19,Netalitica,Sex Education
 https://www.intima.hu/,XED,Sex Education,2021-11-19,Netalitica,Sex Education
-https://www.kamaszpanasz.hu/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
-https://www.nogyogyaszatikozpont.hu/,XED,Sex Education,2021-11-19,Netalitica,Female sex education 
-https://yelon.hu/szuloknek/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education 
+https://www.kamaszpanasz.hu/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education
+https://www.nogyogyaszatikozpont.hu/,XED,Sex Education,2021-11-19,Netalitica,Female sex education
+https://yelon.hu/szuloknek/,XED,Sex Education,2021-11-19,Netalitica,Youth's sex education
+https://abortuszr.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,

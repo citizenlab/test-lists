@@ -164,7 +164,6 @@ https://timep.org/,HUMR,Human Rights Issues,2020-07-10,Netalitica,
 https://www.executive-magazine.com/,NEWS,News Media,2020-07-10,Netalitica,
 https://fanack.com/,NEWS,News Media,2020-07-10,Netalitica,
 https://www.jadaliyya.com/,NEWS,News Media,2020-07-10,Netalitica,
-https://nbntv.me/,NEWS,News Media,2020-07-10,Netalitica,
 http://www.alankabout.com/,NEWS,News Media,2020-07-10,Netalitica,
 http://beirutbizreport.com/index.php?lang=ar/,NEWS,News Media,2020-07-10,Netalitica,
 http://beirutbizreport.com/index.php?lang=en/,NEWS,News Media,2020-07-10,Netalitica,
@@ -357,9 +356,7 @@ https://www.beirut.com/,NEWS,News Media,2020-07-22,Netalitica,
 https://blogbaladi.com/,NEWS,News Media,2020-07-22,Netalitica,"Loccal blog, previously blocked"
 https://ginosblog.com/,NEWS,News Media,2020-07-22,Netalitica,"Local blog, previously blocked"
 http://www.syrleb.org/site/arabic/index.php/,POLR,Political Criticism,2020-07-22,Netalitica,Lebanese Syrian Higher Council
-http://www.smallteenpussy.com/,PORN,Pornography,2020-07-22,Netalitica,
 http://teenport.com/,PORN,Pornography,2020-07-22,Netalitica,
-https://www.xnxx.com/,PORN,Pornography,2020-07-22,Netalitica,
 https://massagerepublic.com/female-escorts-in-beirut/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
 https://www.citytourgirls.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
 https://www.topescort.com/,PROV,Provocative Attire,2020-07-22,Netalitica,Escort service
@@ -478,8 +475,6 @@ https://play.google.com/store/apps/details?id=com.isnapps.meetlebanese/,DATE,Onl
 https://mingle2.com/countries/138/lebanon/,DATE,Online Dating,2020-07-27,Netalitica,
 https://play.google.com/store/apps/details?id=ru.fotostrana.sweetmeet/,DATE,Online Dating,2020-07-27,Netalitica,
 https://play.google.com/store/apps/details?id=com.arabChat.dating/,DATE,Online Dating,2020-07-27,Netalitica,
-https://play.google.com/store/apps/details?id=com.datingchat.chatsyry/,DATE,Online Dating,2020-07-27,Netalitica,
-https://play.google.com/store/apps/details?id=dating.app.chat.flirt.wgbcv/,DATE,Online Dating,2020-07-27,Netalitica,
 https://www.lebanonhearts.com/,DATE,Online Dating,2020-07-27,Netalitica,
 http://www.pomdamour.net/,DATE,Online Dating,2020-07-27,Netalitica,
 https://www.nicosia.org.cy/en-GB/municipality/civil-marriages/procedure/,DATE,Online Dating,2020-07-27,Netalitica,
@@ -649,3 +644,11 @@ https://m-mahdi.com/,REL,Religion,2020-08-19,Netalitica,
 http://al-shia.org/,REL,Religion,2020-08-19,Netalitica,
 https://lirarate.org/,ECON,Economics,2022-08-12,OONI,Reportedly blocked
 https://www.lebaneselira.org/,ECON,Economics,2022-08-12,OONI,Reportedly blocked
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://ijhad.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,
+https://www.middleeasteye.net/,NEWS,News Media,2025-05-12,,regional news website
+https://shehabnews.com/,NEWS,News Media,2025-05-13,,
+https://www.alkhanadeq.com/,NEWS,News Media,2025-05-13,,
+https://qudspress.com/,NEWS,News Media,2025-05-13,,
+https://www.meemmagazine.net/,NEWS,News Media,2025-05-13,,
+https://daraj.media/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,

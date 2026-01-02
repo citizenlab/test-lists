@@ -28,7 +28,6 @@ http://www.marayanews.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.tourismworld-seyaha.com/,CULTR,Culture,2014-04-15,citizenlab,
 http://www.aboshreek.com/,COMM,E-commerce,2014-04-15,citizenlab,
 http://www.ahl-aljordan.com/,DATE,Online Dating,2014-04-15,citizenlab,
-https://arabcrunch.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.7iber.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://afaqnews.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.noornews.net/,NEWS,News Media,2014-04-15,citizenlab,
@@ -68,7 +67,6 @@ https://www.collateralrepairproject.org/,HUMR,Human Rights Issues,2018-09-05,OON
 https://www.rainbow-street.org/,LGBT,LGBT,2018-09-05,OONI,
 https://www.bbc.com/news/world-middle-east-14636310/,NEWS,News Media,2018-09-05,OONI,
 https://www.theguardian.com/world/jordan/,NEWS,News Media,2018-09-05,OONI,
-https://www.aljazeera.com/topics/country/jordan.html/,NEWS,News Media,2018-09-05,OONI,
 http://jordantimes.com/,NEWS,News Media,2018-09-05,OONI,
 http://petra.gov.jo/,NEWS,News Media,2018-09-05,OONI,
 http://assabeel.net/,NEWS,News Media,2018-09-05,OONI,regional MENA/ close to IKhwan in Jordan
@@ -504,20 +502,13 @@ https://alb3th1947jordan.wordpress.com/,POLR,Political Criticism,2019-10-25,Neta
 https://ardd-jo.org/,POLR,Political Criticism,2019-10-25,Netalitica,Local NGO
 https://www.arab-reform.net/,POLR,Political Criticism,2019-10-25,Netalitica,Regional iniative for reform and supporting democracy. MENA relevant
 https://www.arabianchicks.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-http://3arabporn.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-https://b3bos.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-https://mitnaka.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-https://sex4arabxxx.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://sexalarab.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://sexjk.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://sexsaoy.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://www.aflamsexhd.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-https://www.hot-arab-films.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://xnxxx.cc/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://xxxnxx.me/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 https://www.tubev.sex/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-https://www.youporngay.com/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
-https://neswangy.net/,PORN,Pornography,2019-10-25,Netalitica,regional MENA relevance
 http://etam.jo/,PROV,Provocative Attire,2019-10-25,Netalitica,
 https://www.zoritalingerie.com/,PROV,Provocative Attire,2019-10-25,Netalitica,
 http://emphnet.net/,PUBH,Public Health,2019-10-25,Netalitica,regional MENA relevance
@@ -549,8 +540,50 @@ https://jaishalislam.com/,MILX,Terrorism and Militants,2019-10-25,Netalitica,htt
 https://www.kataibhezbollah.com/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://www.moqawama.org/,MILX,Terrorism and Militants,2019-10-25,Netalitica,https://www.cia.gov/library/publications/the-world-factbook/fields/397.html
 https://www.protonvpn.com/,ANON,Anonymization and circumvention tools,2021-01-04,rayasharbain,ProtonVPN website
-https://alurdunyya.net/,NEWS,News Media,2021-01-04,rayasharbain,local news website
-https://josa.link/,MISC,Miscelaneous content,2021-03-24,rayasharbain,URL shortener belonging to a digital rights organisation
-https://knightfoundation.org/,MISC,Miscelaneous content,2021-11-10,rayasharbain,Knight Foundation
+https://alurdunyya.net/,NEWS,News Media,2021-03-24,rayasharbain,local news website
+https://josa.link/,MISC,Miscellaneous content,2021-03-24,rayasharbain,URL shortener belonging to a digital rights organisation
+https://knightfoundation.org/,MISC,Miscellaneous content,2021-11-10,rayasharbain,Knight Foundation
 https://maghtas.com/,REL,Religion,2022-02-18,raya sharbain,website on Jordanian and Palestinian Christians
 https://facebook.com/watch,GRP,Social Networking,2022-06-21,rayasharbain,
+https://webcast.tiktok.com/webcast/wallet_api/diamond_buy/permission/,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://vmweb-va.byteoversea.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://v16-webapp.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf16-short-va.bytedapm.com/slardar/fe/sdk_lite/plugins/sample.1.1.0.maliva.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.449/webmssdk.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf16-scmcdn-va.ibytedtos.com/obj/static-us/secsdk/secsdk-lastest.umd.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://s20.tiktokcdn.com/tiktok/common/init.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p77-va.tiktokcdn.com/img/tos-useast2a-v-2774/4fcd4d23462548b3a4ca332ddf8bd6bd~c5_100x100.jpeg,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p77-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p19-sign.tiktokcdn-us.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p16-sign-va.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://mssdk-va.tiktok.com/web/resource,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://mon-va.byteoversea.com/monitor_web/settings/browser-settings?bid=webmssdk&store=1,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://mcs-va.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-web.tiktokcdn.com/obj/tiktok-web-wp-us/wp-content/uploads/2021/05/accImg4.png,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-us/tiktok/webapp/main/webapp-mobile/runtime.55b64d1527fbff92816c.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-common.ibytedtos.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-web.neutral.ttwstatic.com/obj/bd-s3-va-tos-tiktok-web-neutral-us/pns/tiktok-cookie-banner/mali_va/1.0.0.101/web/web.esm.js,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://lf16-tiktok-common.ttwstatic.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p16-sign-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sf77-ies-music-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://p77-sign-sg-lite.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-12-16,OONI,TikTok reportedly blocked in Jordan today
+https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://alhudood.net/,NEWS,News Media,2023-06-22,raya sharbain,Arabic language sarcastic magazine seems to be blocked in Jordan
+https://bdsmovement.net/,HUMR,Human Rights Issues,2024-05-19,raya sharbain, website promoting boycott divestment and sanctions from the Israeli occupation
+https://ijhad.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,
+https://www.middleeasteye.net/,NEWS,News Media,2025-05-12,raya sharbain, regional news website
+https://shehabnews.com/,NEWS,News Media,2025-05-13,raya sharbain,
+https://www.alkhanadeq.com/,NEWS,News Media,2025-05-13,raya sharbain,
+https://qudspress.com/,NEWS,News Media,2025-05-13,raya sharbain,
+https://meemmagazine.net/,NEWS,News Media,2025-05-13,raya sharbain,
+https://arabicpost.net/,NEWS,News Media,2025-05-15,raya sharbain,
+https://jordan-voice.com/,NEWS,News Media,2025-05-15,raya sharbain,
+https://alshoub.tv/,NEWS,News Media,2025-05-15,raya sharbain,
+https://rassd.com/,NEWS,News Media,2025-05-15,raya sharbain,
+https://raseef22.net/,NEWS,News Media,2025-05-15,test-lists.ooni.org contribution,
+https://arabicpost.live/,NEWS,News Media,2025-05-21,raya sharbain,
+https://cdn.discordapp.com/,GRP,Social Networking,2025-10-08,OONI,Discord reportedly blocked in Jordan today
+https://media.discordapp.net/,GRP,Social Networking,2025-10-08,OONI,Discord reportedly blocked in Jordan today
+https://support.discord.com/,GRP,Social Networking,2025-10-08,OONI,Discord reportedly blocked in Jordan today

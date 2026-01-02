@@ -2,7 +2,6 @@ url,category_code,category_description,date_added,source,notes
 http://azeritoday.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://imgur.com/,MMED,Media sharing,2014-04-15,citizenlab,
 https://kavkazcenter.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-https://www.jw.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.onetwotrip.com/,COMM,E-commerce,2014-04-15,citizenlab,
 https://www.azadliq.info/,NEWS,News Media,2017-04-10,OONI,
 https://www.azadliq.org/,NEWS,News Media,2017-04-10,OONI,
@@ -11,11 +10,10 @@ http://www.abzas.net/,NEWS,News Media,2017-04-10,OONI,
 http://www.cumhuriyyet.net/,NEWS,News Media,2017-04-11,OONI,
 http://www.gununsesi.info/,NEWS,News Media,2017-04-11,OONI,
 https://www.dosye.org/,NEWS,News Media,2017-04-11,OONI,
-http://www.24saat.org/,NEWS,News Media,2017-04-11,OONI,
+https://www.az24saat.org/,NEWS,News Media,2017-04-11,OONI,
 https://www.irfs.org/,HUMR,Human Rights Issues,2017-04-11,OONI,
 http://azerbaycansaati.tv/,NEWS,News Media,2017-06-12,OONI,
 http://aztoday.az/,NEWS,News Media,2017-01-14,Community member,
-https://www.24saat.org/,NEWS,News Media,2017-01-16,Community member,
 http://masallilar.az/,NEWS,News Media,2017-01-23,Community member,
 http://criminal.az/,NEWS,News Media,2017-01-26,Community member,
 http://kulis.az/,CULTR,Culture,2017-01-30,Community member,
@@ -35,7 +33,6 @@ https://az.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by w
 https://az.wikiquote.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ru.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://az.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://www.rferl.org/,NEWS,News Media,2018-06-27,Community member,
 https://ru.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://ru.m.wikisource.org/,CULTR,Culture,2019-06-07,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://www.azerbaycanrealligi.com/,NEWS,News Media,2019-11-09,Community member,
@@ -77,7 +74,6 @@ https://www.turan.az/,NEWS,News Media,2022-07-26,test-lists.ooni.org contributio
 https://www.meydan.tv/az/,NEWS,News Media,2022-07-26,test-lists.ooni.org contribution,
 https://toplum.tv/,NEWS,News Media,2022-07-26,test-lists.ooni.org contribution,
 https://smdtaz.org/,HUMR,Human Rights Issues,2022-07-26,test-lists.ooni.org contribution,
-https://news.az/,NEWS,News Media,2022-07-27,test-lists.ooni.org contribution,
 https://webcast.tiktok.com/webcast/wallet_api/diamond_buy/permission/,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today
 https://vmweb-va.byteoversea.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today
 https://v16-webapp.tiktok.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today
@@ -102,3 +98,14 @@ https://sf77-ies-music-sg.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09
 https://p77-sign-sg-lite.tiktokcdn.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today
 https://starling-oversea.byteoversea.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today
 https://m.tiktok.com/robots.txt,GRP,Social Networking,2022-09-14,OONI,TikTok reportedly blocked in Azerbaijan today
+https://azadliq.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
+https://azadli.github.io/,ANON,Anonymization and circumvention tools,2022-10-14,rayasharbain,
+https://news.az/,NEWS,News Media,2022-11-29,test-lists.ooni.org contribution,
+https://sputnik.az/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://www.baku365.com/,GRP,Social Networking,2024-02-07,test-lists.ooni.org contribution,"Azerbaijan forum ""Baku365"" where people communicate and share news. Blocked in December 24.12.2023"
+https://www.dispute.az/,GRP,Social Networking,2024-02-12,test-lists.ooni.org contribution,"Azerbaijan forum ""Disput.az"""
+https://mikroskopmedia.com/,NEWS,News Media,2024-10-10,test-lists.ooni.org contribution,
+https://meclis.info/,POLR,Political Criticism,2024-11-20,test-lists.ooni.org contribution,
+https://eurasianet.org/,NEWS,News Media,2025-03-27,test-lists.ooni.org contribution,This is a US-based non-profit organization that specializes in reporting on Eurasia
+https://oc-media.org/,NEWS,News Media,2025-03-27,test-lists.ooni.org contribution,A news outlet that reports on Azerbaijani state repression of the media
+https://abzas.org/,NEWS,News Media,2025-03-27,test-lists.ooni.org contribution,Azeri news outlet

@@ -2,16 +2,12 @@ url,category_code,category_description,date_added,source,notes
 http://www.asiafinest.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 http://www.linguamatix.com/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.casinocity.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://virtualfriends.net/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.usj.com.my/,GRP,Social Networking,2014-04-15,citizenlab,
 http://www.webportal.com.my/,GRP,Social Networking,2014-04-15,citizenlab,
 http://blogsome.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://bolehblogs.insatiably.net/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://bravingkl.blogspot.com/,LGBT,LGBT,2014-04-15,citizenlab,
-http://break-a-leg.blogspot.com/,CULTR,Culture,2016-06-10,OONI,
 https://www.breastcancerfoundation.org.my/,PUBH,Public Health,2018-12-11,sinarproject,
 http://brimas.www1.50megs.com/,ENV,Environment,2014-04-15,citizenlab,
-http://cartoonistsrights.org/designeractivist-fahmy-reza-on-trial-for-online-dissent-in-malaysia/,POLR,Political Criticism,2016-06-10,OONI,
+https://cartoonistsrights.org/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.cato.org/blog/free-download-banned-malay-edition-islam-without-extremes,REL,Religion,2019-05-06,sinarproject,"Post on free download of book ""Islam Without Extremes"" banned by Home Ministry"
 https://www.cato.org/sites/cato.org/files/wp-content/uploads/islam_tanpa_keekstreman_-_2019_revised.pdf,REL,Religion,2019-05-06,sinarproject,"Link to free download of book on ""Islam Without Extremes"" banned by Home Ministry"
 http://mercumaya.net/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
@@ -23,13 +19,12 @@ http://www.siddha.com.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.tenaganita.net/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.vanakkammalaysia.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://partisosialis.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.fomca.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.mca.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.mtuc.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,https version with expired cert is available https://www.mtuc.org.my/
+https://www.fomca.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://www.mca.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://mtuc.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,https version with expired cert is available https://www.mtuc.org.my/
 http://www.latexgift.com/,PROV,Provocative Attire,2014-04-15,citizenlab,
 http://www.healthtoday.net/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.ptfmalaysia.org/,PUBH,Public Health,2014-04-15,citizenlab,
-https://www.gayasiantheater.com/dispatcher/frontDoor?theaterId=43045&genreId=102&locale=en/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.ytl.com/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://mykamus.com/free/,COMT,Communication Tools,2014-04-15,citizenlab,
 https://www.msn.com/en-my/,COMT,Communication Tools,2014-04-15,citizenlab,
@@ -56,10 +51,7 @@ https://asia.ucla.edu/asia/Article/139159/,NEWS,News Media,2014-04-15,citizenlab
 http://bebaskan-media.blogspot.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://umno-online.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://pbb.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.partibersatusabah.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.1supp.org.my/main/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://sloonetherapy.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.who.int/southeastasia/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.prn.usm.my/,PUBH,Public Health,2014-04-15,citizenlab,
 https://2009-2017.state.gov/j/drl/rls/irf/2005/51518.htm/,REL,Religion,2014-04-15,citizenlab,
 https://content.cfan.org/a_tale_of_three_dreams/?office=sg/,REL,Religion,2014-04-15,citizenlab,
@@ -67,6 +59,7 @@ https://search.malaysiadirectory.com/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://new.medicine.com.my/,XED,Sex Education,2014-04-15,citizenlab,
 https://ecentral.my/,XED,Sex Education,2014-04-15,citizenlab,
 https://www.malaysia-today.net/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://malaysia-today.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.unodc.org/southeastasiaandpacific/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 https://mir.com.my/,CULTR,Culture,2014-04-15,citizenlab,
 https://allmalaysia.info/,CULTR,Culture,2014-04-15,citizenlab,
@@ -104,7 +97,6 @@ https://www.forum-asia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hati.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.hrw.org/asia/malaysia/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.ilo.org/asia/lang--en/index.htm/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.iwraw-ap.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.malaysianbar.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://mfasia.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.persecution.org/category/countries/asia/malaysia/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -116,7 +108,6 @@ https://tjc.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://wao.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.wccpenang.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://womenforpeaceandjustice.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://bravingkl.blogspot.com/,LGBT,LGBT,2014-04-15,citizenlab,
 https://onglinepodcast.com/,LGBT,LGBT,2014-04-15,citizenlab,
 https://gayguide.net/,LGBT,LGBT,2014-04-15,citizenlab,
 https://www.globalgayz.com/,LGBT,LGBT,2014-04-15,citizenlab,
@@ -142,7 +133,6 @@ https://harakahdaily.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.irrawaddy.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://jeffooi.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://komas.org/,NEWS,News Media,2014-04-15,citizenlab,
-https://www.malaysia-today.net//,NEWS,News Media,2014-04-15,citizenlab,
 https://www.newsweek.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.nst.com.my/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.orientaldaily.com.my/,NEWS,News Media,2014-04-15,citizenlab,
@@ -152,17 +142,11 @@ https://time.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.utusan.com.my/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.wsws.org/en?redirect=true/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.suarakeadilan.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://twitter.com/SUARAMtweets/,POLR,Political Criticism,2014-04-15,citizenlab,keep for control
-https://twitter.com/bersih2/,POLR,Political Criticism,2014-04-15,citizenlab,keep for control
-https://www.facebook.com/BERSIH2.0/,POLR,Political Criticism,2014-04-15,citizenlab,keep for control
 https://sarawak-national-party.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://elizabethwong.wordpress.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://anwaribrahimblog.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.bersih.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://skandal.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.abu.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://asiafoundation.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://cpps.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://dapmalaysia.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.gerakan.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://keadilanrakyat.org/,POLR,Political Criticism,2014-04-15,citizenlab,
@@ -170,7 +154,6 @@ https://mic.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://pas.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://sapp.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.transparency.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://bangkokbangers.com/,PORN,Pornography,2014-04-15,citizenlab,
 https://www.hivpolicy.org/,PUBH,Public Health,2014-04-15,citizenlab,
 https://www.mac.org.my/,PUBH,Public Health,2014-04-15,citizenlab,
 https://www.unaids.org/en/regionscountries/countries/malaysia/,PUBH,Public Health,2014-04-15,citizenlab,
@@ -181,9 +164,6 @@ https://www.cari.com.my/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://www.sajasearch.com/,SRCH,Search Engines,2014-04-15,citizenlab,
 https://www.my.undp.org/,XED,Sex Education,2014-04-15,citizenlab,
 https://fc2femalecondom.com/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.publiuspundit.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,outdated but relevant - monitor
-http://hindraf.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,outdated but relevant - monitor
-https://seapa.wordpress.com/,NEWS,News Media,2014-04-15,citizenlab,outdated but relevant - monitor
 https://www.asiasentinel.com/,NEWS,News Media,2016-03-30,sinarproject,
 https://www.sarawakreport.org/,NEWS,News Media,2016-03-30,sinarproject,
 http://malaysiabest.net/,CULTR,Culture,2016-06-10,OONI,https version is available though the certificate is expired 
@@ -195,13 +175,9 @@ https://76crimes.com/anti-lgbt-laws-malaysia/,LGBT,LGBT,2016-06-10,OONI,
 https://www.malaysiakini.com/,NEWS,News Media,2016-06-10,OONI,
 https://twitter.com/kuasasiswa/,POLR,Political Criticism,2016-06-10,OONI,for control purposes
 https://peoplestrustmalaysia.wordpress.com/2016/02/29/whats-wrong-with-criticising-najib-asks-activist-fahmireza/,POLR,Political Criticism,2016-06-10,OONI,
-https://www.theguardian.com/world/2016/mar/03/us-condems-ally-malaysia-for-attempts-to-muzzle-free-press/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.researchgate.net/publication/30066578_Islam_and_violence_in_Malaysia/,REL,Religion,2016-06-10,OONI,
 https://2009-2017.state.gov/documents/organization/236666.pdf/,HUMR,Human Rights Issues,2016-06-10,OONI,
 http://www.rockybru.com.my/,POLR,Political Criticism,2016-06-10,OONI,
-https://kakicucuklangit.blogspot.com/,CULTR,Culture,2016-06-10,OONI,
-https://masak-masak.blogspot.com/,CULTR,Culture,2016-06-10,OONI,
-https://plonkwonk.blogspot.com/,CULTR,Culture,2016-06-10,OONI,
 https://www.ohchr.org/Documents/Issues/IntLaw/PreventionStudy/NHRI/Human_Rights_Commission_Malaysia.pdf/,HUMR,Human Rights Issues,2016-06-10,OONI,
 https://queermalaysians.livejournal.com/,LGBT,LGBT,2016-06-10,OONI,
 https://www.fridae.asia/,LGBT,LGBT,2016-06-10,OONI,
@@ -209,17 +185,11 @@ https://outrightinternational.org/content/malaysia-must-recognize-and-stop-hosti
 https://www.7rangers.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://niknazmi.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://dahalmi.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://powerpresent.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://desiderata2000.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://kassimahmad.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://maverickysm.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://zorro-zorro-unmasked.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://jameswongwingon-online.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://bigdogdotcom.wordpress.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://cartoonistsrights.org/designeractivist-fahmy-reza-on-trial-for-online-dissent-in-malaysia/,POLR,Political Criticism,2016-06-10,OONI,
 https://ktemoc.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://mahaguru58.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
-https://www.cnbc.com/2016/02/28/malaysia-suspends-party-official-probes-website-over-criticism-of-1mdb-scandal-wsj.html/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.freemalaysiatoday.com/category/nation/2016/06/04/activist-fahmi-reza-detained-by-police/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.ibtimes.sg/released-malaysian-activist-fahmi-reza-says-you-cant-scare-me-break-my-spirit-1762/,POLR,Political Criticism,2016-06-10,OONI,
 https://kadirjasin.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
@@ -228,18 +198,15 @@ https://prabaganesan.wordpress.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.sarawakreport.org/2016/04/the-simple-silver-bullet-solution-to-1mdb-malaysias-financial-woes-sack-najib/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.sarawakreport.org/tag/1mdb/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.straitstimes.com/asia/se-asia/malaysian-punk-artist-fahmi-reza-clowns-with-scandal-hit-pm-najib/,POLR,Political Criticism,2016-06-10,OONI,
-https://thoughtsintangents.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.wsj.com/articles/malaysia-leader-lashes-out-against-his-critics-in-party-and-media-1456500740/,POLR,Political Criticism,2016-06-10,OONI,
 https://www.astroawani.com/berita-malaysia/activist-fahmi-reza-released-after-being-arrested-saturday-107283/,POLR,Political Criticism,2016-06-10,OONI,
 https://study-islam.org/video/human-rights/religious-violence-malaysia/,REL,Religion,2016-06-10,OONI,
 https://www.aljazeera.com/program/episode/2010/1/12/religious-violence-in-malaysia/,REL,Religion,2016-06-10,OONI,
-http://www.lucialai.org/,POLR,Political Criticism,2016-06-10,OONI,outdated but relevant - monitor
-https://tabunginsider.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,
+https://lucialai.org/,POLR,Political Criticism,2016-06-10,OONI,
 https://jinggo-fotopages.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,
 https://syedsoutsidethebox.blogspot.com/,POLR,Political Criticism,2016-08-09,sinarproject,
 https://www.spr.gov.my/,GOVT,Government,2016-09-15,sinarproject,Election Commision website
 https://www.hollywoodreporter.com/news/red-granite-founder-riza-azizs-931041/,POLR,Political Criticism,2016-09-22,sinarproject,news related to 1MDB
-https://sprminsider.blogspot.com/,POLR,Political Criticism,2017-04-06,sinarproject,possible leaked anti corruption casefile on Najib Razak
 http://www.financetwitter.com/,POLR,Political Criticism,2017-04-16,sinarproject,blog on current local andinternational news blocked by MCMC
 https://www.justice.gov/opa/pr/us-seeks-recover-approximately-540-million-obtained-corruption-involving-malaysian-sovereign/,POLR,Political Criticism,2017-04-16,sinarproject,Second US DOJ filing on 1MDB announcement
 https://www.justice.gov/opa/press-release/file/973671/download/,POLR,Political Criticism,2017-04-16,sinarproject,Second US DOJ filing on 1MDB
@@ -293,7 +260,6 @@ https://itimes.my/category/my-wood-news/,NEWS,News Media,2017-10-31,sinarproject
 https://www.milosuam.net/,POLR,Political Criticism,2017-11-02,sinarproject,political blog
 https://steadyaku47.com/home/,POLR,Political Criticism,2017-12-15,sinarproject,political blog
 https://www.bfm.my/,NEWS,News Media,2018-01-09,sinarproject,BFM Independent Business Radio Station with podcasts
-https://chedet.cc/,POLR,Political Criticism,2018-01-18,sinarproject,Blog site of Mahathir Mohammad
 https://dunia.tempo.co/read/1068147/skandal-1mdb-indonesia-akan-serahkan-kapal-pesiar-ke-amerika/,NEWS,News Media,2018-03-14,sinarproject,Indonesia Tempo coverage of 1MDB
 https://dunia.tempo.co/,NEWS,News Media,2018-03-14,sinarproject,World News section of Indonesia Tempo
 https://www.queerlapis.com/,LGBT,LGBT,2018-03-20,sinarproject,Malaysian LGBT community site
@@ -306,13 +272,9 @@ https://www.rnw.org/archive/religious-violence-escalates-malaysia,REL,Religion,2
 http://www.sabah.net.my/PACOS/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.sadatv.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.sajasearch.com/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://www.sapp.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.sarawakreport.org/,NEWS,News Media,2016-03-30,sinarproject,
-http://www.sarawakreport.org/2016/04/the-simple-silver-bullet-solution-to-1mdb-malaysias-financial-woes-sack-najib/,POLR,Political Criticism,2016-06-10,OONI,
-http://www.sarawakreport.org/tag/1mdb,POLR,Political Criticism,2016-06-10,OONI,
 http://www.seapa.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.seapabkk.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.searo.who.int/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.secularislam.org/,REL,Religion,2014-04-15,citizenlab,
 http://www.seri.com.my/,ENV,Environment,2014-04-15,citizenlab,
 http://www.sinchew.com.my/,NEWS,News Media,2014-04-15,citizenlab,update to current url
@@ -324,27 +286,20 @@ http://www.standrewschurch.org.my/,REL,Religion,2017-10-03,sinarproject,St Andre
 http://www.state.gov/documents/organization/236666.pdf,HUMR,Human Rights Issues,2016-06-10,OONI,
 http://www.state.gov/g/drl/rls/hrrpt/2005/61615.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.state.gov/g/drl/rls/irf/2005/51518.htm,REL,Religion,2014-04-15,citizenlab,
-http://www.straitstimes.com/asia/se-asia/malaysian-punk-artist-fahmi-reza-clowns-with-scandal-hit-pm-najib,POLR,Political Criticism,2016-06-10,OONI,
-http://www.suarakeadilan.com/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://www.straitstimes.com/,NEWS,News Media,2016-06-10,OONI,
 http://www.suaram.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.suhakam.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.sun2surf.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.supp.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
+https://thesun.my/,NEWS,News Media,2024-09-30,sinarproject,Updated from https://sun2surf.com/
 http://www.surforever.com/sam/a2z/content1.html,ENV,Environment,2014-04-15,citizenlab,
-http://www.terrorismfiles.org/organisations/harakat_ul-mujahideen.html,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.theedgedaily.com/,NEWS,News Media,2014-04-15,citizenlab,
+https://www.theedgemarkets.com/,NEWS,News Media,2023-02-21,sinarproject,
 https://www.theguardian.com/world/2016/mar/03/us-condems-ally-malaysia-for-attempts-to-muzzle-free-press,POLR,Political Criticism,2016-06-10,OONI,
-http://www.themalaysianinsider.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.thereligionofpeace.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.thestar.com.my/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.theultimateinsult.blogspot.com/,REL,Religion,2014-04-15,citizenlab,
 http://www.thinkcentre.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.time.com/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.time.com/time/asia/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.tjc.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.tncchurch.org/,REL,Religion,2017-10-03,sinarproject,the New Covenvent Church Malaysia
-http://www.transparency.org.my/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.trees.org.my/,ENV,Environment,2014-04-15,citizenlab,
 http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,
 http://www.turfonline.com/,GAME,Gaming,2014-04-15,citizenlab,
 http://www.tvsmith.my/,CULTR,Culture,2016-06-10,OONI,
@@ -362,10 +317,8 @@ http://www.wao.org.my/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.wccpenang.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.webhosting.com.my/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
 http://www.webserver.com.my/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.whatalulu.blogspot.com/,POLR,Political Criticism,2016-06-10,OONI,
 http://www.womenforpeaceandjustice.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.wongchen.com/,POLR,Political Criticism,2018-04-30,sinarproject,Website Wong Chen opposition politician
-http://www.wsj.com/articles/malaysia-leader-lashes-out-against-his-critics-in-party-and-media-1456500740,POLR,Political Criticism,2016-06-10,OONI,
+https://www.wongchen.com/,POLR,Political Criticism,2018-04-30,sinarproject,Website Wong Chen opposition politician
 http://www.wsj.com/specialcoverage/malaysia-controversy,POLR,Political Criticism,2016-06-10,OONI,
 http://www.wsws.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.wwfmalaysia.org/,ENV,Environment,2014-04-15,citizenlab,
@@ -375,7 +328,6 @@ http://www.yss98.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.ytl.com.my/,COMT,Communication Tools,2014-04-15,citizenlab,
 http://www.zdnetasia.com/,NEWS,News Media,2014-04-15,citizenlab,
 "http://www.zdnetasia.com/downloads/pc/swinfo/0,39043052,39222404s,00.htm",ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
-http://zathilfiger.i-p.com/,COMT,Communication Tools,2014-04-15,citizenlab,
 https://ms.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://id.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -386,14 +338,12 @@ https://www.republik.ch/2018/03/26/ubs-in-the-jungle/,NEWS,News Media,2018-03-30
 https://www.pemantau.org/,POLR,Political Criticism,2018-03-31,sinarproject,
 https://www.thejakartapost.com/,NEWS,News Media,2018-04-12,sinarproject,Jakata Post is an Indonesian English daily newspaper
 https://pengundi.spr.gov.my/,GOVT,Government,2018-04-30,sinarproject,Elections Commision voter information and verification website
-http://pru14.spr.gov.my/,GOVT,Government,2018-04-30,sinarproject,14th General Elections official results webpage
 https://www.barisannasional.org.my/,POLR,Political Criticism,2018-04-30,sinarproject,Barisan Nasional governing coalition website
 https://mypt3.com/pakatan-harapan/,POLR,Political Criticism,2018-04-30,sinarproject,Pakatan Harapan opposition coalition website
 https://rafiziramli.com/,POLR,Political Criticism,2018-04-30,sinarproject,Rafizi Ramli opposition politician website
 https://www.hannahyeoh.com/,POLR,Political Criticism,2018-04-30,sinarproject,Website of Hannah Yeoh opposition politician
-https://www.najibrazak.com/bm/,POLR,Political Criticism,2018-04-30,sinarproject,Najib Razak Prime Minister of Malaysia official web page
+https://www.najibrazak.com/,POLR,Political Criticism,2018-04-30,sinarproject,
 https://www.nurulizzah.com/site/,POLR,Political Criticism,2018-04-30,sinarproject,Nurul Izzah opposition politician website
-https://www.wongchen.com/,POLR,Political Criticism,2018-04-30,sinarproject,Website Wong Chen opposition politician
 https://ms.wikipedia.org/wiki/Laman_Utama/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://id.wikipedia.org/wiki/Halaman_Utama/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/wiki/Wiktionary:Main_Page/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -410,8 +360,7 @@ https://www.cato.org/blog/free-download-banned-malay-edition-islam-without-extre
 https://www.cato.org/sites/cato.org/files/wp-content/uploads/islam_tanpa_keekstreman_-_2019_revised.pdf/,REL,Religion,2019-05-06,sinarproject,"Link to free download of book on ""Islam Without Extremes"" banned by Home Ministry"
 http://covid-19.moh.gov.my/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://cijmalaysia.net/,HUMR,Human Rights Issues,2020-10-23,sinarproject,Centre for Independent Journalism
-https://partimuda.my/,POLR,Political Criticism,2020-10-31,sinar project,Muda Party Official Website
-https://yellowvpn.net/,ANON,Anonymization and circumvention tools,2021-01-29,Netalitica,local vpn provider
+https://muda.my/,POLR,Political Criticism,2020-10-31,sinar project,Muda Party Official Website
 http://mbiv2u.com/,COMM,E-commerce,2021-01-29,Netalitica,The company that issued virtual currency and the owner was charged in court for fraud https://www.thestar.com.my/news/nation/2017/05/23/two-more-schemes-redflagged-company-of-future-richest-man-back-in-the-spotlight-but-financial-opera/
 https://www.aiskacang.com.my/,CULTR,Culture,2021-01-29,Netalitica,local podcasting website with some sexual content
 https://huazong.my/,CULTR,Culture,2021-01-29,Netalitica,"Local ethnic society focusing on promoting chinese culture, also participates in civil discourse"
@@ -427,7 +376,6 @@ https://tapangrainforest.org/,ENV,Environment,2021-01-29,Netalitica,website on d
 https://novel.banananetwork.com.my/,HOST,Hosting and Blogging Platforms,2021-01-29,Netalitica,Local chinese fiction story publishing website with LGBT content
 http://appleonlyforadam.blogspot.com/,LGBT,LGBT,2021-01-29,Netalitica,Personal blog of a local lgbt book author in chinese
 https://www.ilgaasia.org/,LGBT,LGBT,2021-01-29,Netalitica,new website for ILGA
-https://diversitymalaysia.org/,LGBT,LGBT,2021-01-29,Netalitica,Local non-profit focusing on promoting awareness and equality
 https://plusos.org/,LGBT,LGBT,2021-01-29,Netalitica,Local non-profit focusing on promoting awareness and equality
 https://amanz.my/,NEWS,News Media,2021-01-29,Netalitica,Technology news website
 https://cityplusfm.my/,NEWS,News Media,2021-01-29,Netalitica,Radio station in Chinese language focusing on business news
@@ -439,9 +387,8 @@ https://tantannews.com/,NEWS,News Media,2021-01-29,Netalitica,Supplementary news
 https://worldofbuzz.com/,NEWS,News Media,2021-01-29,Netalitica,local content farm
 https://www.cincainews.com/,NEWS,News Media,2021-01-29,Netalitica,Supplementary news website in Chinese from Malay Mail
 https://contemporary-review.com.my/,POLR,Political Criticism,2021-01-29,Netalitica,local political criticism website in chinese
-http://mediamalaysia.net/,POLR,Political Criticism,2021-01-29,Netalitica,local political criticism website
+https://mediamalaysia.net/,POLR,Political Criticism,2021-01-29,Netalitica,local political criticism website
 https://utopia-e-channel.blogspot.com/,POLR,Political Criticism,2021-01-29,Netalitica,local political criticism blog in chinese
-https://www.365buymy.com/,PORN,Pornography,2021-01-29,Netalitica,Site selling sexual adult toys
 https://www.diao.asia/,PORN,Pornography,2021-01-29,Netalitica,site selling sexual adult toys
 https://www.amirudinshari.com/stfc19/,PUBH,Public Health,2021-01-29,Netalitica,Selangor's local task force tackling covid-19 pandemic
 https://angkongkeng.com/,REL,Religion,2021-01-29,Netalitica,local blog focusing on introducing local chinese religion practices
@@ -473,7 +420,7 @@ https://www.mkn.gov.my/covid-19.html/,PUBH,Public Health,2021-02-05,Netalitica,n
 https://umlib.um.edu.my/coronavirus/,PUBH,Public Health,2021-02-05,Netalitica,University Malaya's portal on covid-19
 https://www.ummc.edu.my/covid19/default.asp/,PUBH,Public Health,2021-02-05,Netalitica,University Malaya Medical Center's website on covid-19
 https://newslab.malaysiakini.com/covid-19/my/,PUBH,Public Health,2021-02-05,Netalitica,Malaysiakini coverage on covid-19
-https://www.vaksincovid.gov.my/,PUBH,Public Health,2021-02-17,Netalitica,Covid-19 Vaccine Supply Access Guarantee Special Committee
+https://covid-19.moh.gov.my/vaksin-covid-19,PUBH,Public Health,2023-02-21,Netalitica,Covid-19 Vaccine Supply Access Guarantee Special Committee
 https://sucrebook.com/,DATE,Online Dating,2021-02-17,Netalitica,Alternative website for sugarbook due to the ban
 https://mediageramm.com/,HUMR,Human Rights Issues,2021-03-29,Netalitica,coalition of media practitioners and supporters of press freedom in Malaysia and across the South East Asian region
 https://sinarproject.org/,HUMR,Human Rights Issues,2021-03-29,Netalitica,civic tech initiative making public information more accessible
@@ -482,7 +429,7 @@ https://kryss.network/,HUMR,Human Rights Issues,2021-03-29,Netalitica,civil soci
 http://awlmalaysia.org/,HUMR,Human Rights Issues,2021-03-29,Netalitica,"organization promoting the rights, welfare and professional development of women lawyers and law graduates"
 https://beyondbordersmalaysia.org/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting and protecting the rights and welfare of refugees and stateless persons.
 https://ojmsia.wixsite.com/ourjourney/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting and protecting the rights and welfare of refugees and stateless persons.
-https://www.g25malaysia.org/,POLR,Political Criticism,2021-03-29,Netalitica,political criticism blog from the point of view of malay community and islamic values
+https://www.g25malaysia.com/,POLR,Political Criticism,2021-03-29,Netalitica,political criticism blog from the point of view of malay community and islamic values
 https://www.empowermalaysia.org/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting women rights
 http://www.persatuansahabatwanita.org/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting rights of women workers
 https://penangforum.net/,HUMR,Human Rights Issues,2021-03-29,Netalitica,coalition of progressive public-interest civil society groups based in Penang
@@ -495,4 +442,68 @@ http://www.sawo.org.my/,HUMR,Human Rights Issues,2021-03-29,Netalitica,"organiza
 https://www.ideas.org.my/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting the level of understanding and acceptance of public policies
 https://childlinefoundation.com/,HUMR,Human Rights Issues,2021-03-29,Netalitica,organization promoting the rights of children
 https://ikram.org.my/,REL,Religion,2021-03-29,Netalitica,religious group promoting islamic values
+https://www.theins.news/postview/757-business-ties-among-macc-leadership-how-deep-does-it-go-part-1,NEWS,News Media,2022-07-05,sinar project,Articles concerning alleged share trading controversy involving Malaysian Anti-Corruption Commission (MACC) chief commissioner
+https://www.theins.news/postview/758-business-ties-among-macc-leadership-how-deep-does-it-go-part-2,NEWS,News Media,2022-07-05,sinar project,Articles concerning alleged share trading controversy involving Malaysian Anti-Corruption Commission (MACC) chief commissioner
+http://sugarbook.com/,DATE,Online Dating,2022-07-05,sinar project,A sugar daddy dating site that was banned in Malaysia in 2021 (https://www.thestar.com.my/news/nation/2021/02/15/sugarbook-blocked-in-malaysia)
+http://sucrebook.com/,DATE,Online Dating,2022-07-05,sinar project,Mirror site of sugarbook.com
 https://rainbowforward.gitbook.io/,LGBT,LGBT,2022-08-05,test-lists.ooni.org contribution,"Collection of resources regarding sexual orientation, gender identity, gender expression & sex characteristics and human rights particularly affecting the LGBTIQ+ in Malaysia."
+https://maxcdn.bootstrapcdn.com/,HOST,Hosting and Blogging Platforms,2022-10-28,sinar project,Website containing templates used in Wordpress websites found blocked by MCMC (https://help.serverfreak.com/en/article/guide-to-fix-site-slow-due-to-blocked-maxcdn-url-by-mcmc-of-font-awesome-of-wordpress-1ne4621/)
+https://polyfill.io/,HOST,Hosting and Blogging Platforms,2022-10-28,sinar project,Website containing templates used in Wordpress websites found blocked by MCMC (https://help.serverfreak.com/en/article/guide-to-fix-site-slow-due-to-blocked-maxcdn-url-by-mcmc-of-font-awesome-of-wordpress-1ne4621/)
+https://caghi.com/,SRCH,Search Engines,2022-10-28,sinar project,"An open source search engine found containing personal data of Malaysian citizens, blocked by KKOM (https://themalaysianreserve.com/2022/06/14/k-komm-orders-website-allegedly-selling-personal-data-to-be-blocked/)"
+https://www.bravotube.net/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
+https://rarbggo.org/,FILE,File-sharing,2023-02-21,sinar project,Found blocked in Malaysia
+http://breached.co/,SRCH,Search Engines,2023-02-21,sinar project,Found blocked in Malaysia
+https://pakatanharapan.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.warisansabah.org/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.roketkini.com/,POLR,Political Criticism,2023-02-21,sinar project,
+https://umno.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://pejuang.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://tanahairku.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://berjasa.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.anwaribrahim.com/,POLR,Political Criticism,2023-02-21,sinar project,"Current Prime Minister, although previously an opposition leader"
+https://dashboard.spr.gov.my/#!/home,GOVT,Government,2023-02-21,sinar project,
+https://perikatan-nasional.org.my/,POLR,Political Criticism,2023-02-21,sinar project,
+https://www.porntrex.com/,PORN,Pornography,2023-02-21,sinar project,Found blocked in Malaysia
+http://32red.com/,GMB,Gambling,2023-02-21,sinar project,Found blocked in Malaysia
+https://imap.sinarproject.org/,HUMR,Human Rights Issues,2023-03-24,sinarproject,
+https://www.mcchr.org/,HUMR,Human Rights Issues,2023-04-11,sinarproject,
+https://c4center.org/,HUMR,Human Rights Issues,2023-04-11,sinarproject,
+https://aminvesment.com/,ECON,Economics,2023-04-20,sinarproject,Securities Commission Investor Alert List (selected from https://www.sc.com.my/regulation/enforcement/investor-alerts/sc-investor-alerts/investor-alert-list)
+https://admiralmarkets.com/,ECON,Economics,2023-04-20,sinarproject,Securities Commission Investor Alert List (selected from https://www.sc.com.my/regulation/enforcement/investor-alerts/sc-investor-alerts/investor-alert-list)
+https://www.alpari.org/,ECON,Economics,2023-04-20,sinarproject,Securities Commission Investor Alert List (selected from https://www.sc.com.my/regulation/enforcement/investor-alerts/sc-investor-alerts/investor-alert-list)
+https://www.algomerchant.com/,ECON,Economics,2023-04-20,sinarproject,Securities Commission Investor Alert List (selected from https://www.sc.com.my/regulation/enforcement/investor-alerts/sc-investor-alerts/investor-alert-list)
+https://bankami.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://saidila.com/,CULTR,Culture,2023-05-05,sinarproject,Claimed to have blocked before
+https://www.amenoworld.org/,POLR,Political Criticism,2023-05-05,sinarproject,Claimed to have blocked before
+https://gigitankerengga.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://wrlr.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://wfauzdin.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://alditta.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://kedahlaniie.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://penburukonline.blogspot.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://mykmu.net/,NEWS,News Media,2023-05-05,sinarproject,
+https://thesabahkini2.wordpress.com/,POLR,Political Criticism,2023-05-05,sinarproject,
+https://islamsyiah.wordpress.com/,REL,Religion,2023-05-05,sinarproject,Not updated since 2014 but found blocked
+https://abu-yusufmalizi.blogspot.com/,REL,Religion,2023-05-05,sinarproject,
+https://sebenarnya.my/,NEWS,News Media,2023-05-05,sinarproject,
+https://bersih.org/,HUMR,Human Rights Issues,2023-06-12,sinarproject,Alternative url of www.bersih.org where the former is blocked in Malaysia
+https://malaysianow.com/,NEWS,News Media,2023-06-28,test-lists.ooni.org contribution,
+https://www.malaysianow.com/,NEWS,News Media,2023-06-28,test-lists.ooni.org contribution,
+https://weechookeong.com/,POLR,Political Criticism,2023-08-01,sinarproject,Blog belonging to former MP. Found blocked in Malaysia
+https://tvpertiwi.com.my/,NEWS,News Media,2023-08-15,sinarproject,Tiktok account reportedly blocked https://www.malaysianow.com/news/2023/08/15/now-tiktok-account-of-tv-pertiwi-blocked-as-well
+https://www.pendatangmovie.com/,CULTR,Culture,2023-12-19,sinarproject,Crowdfunded movie aired on Youtube to avoid censorship via offline screening
+https://samudera.my/,NEWS,News Media,2023-08-22,sinarproject,"Conservative media, found blocked"
+https://agendadaily.com/,NEWS,News Media,2023-08-22,sinarproject,Conservative media
+https://sokong.org/,ECON,Economics,2023-08-28,sinarproject,"Malaysiakini, an independent news media’s platform to fund various non-profit organizations"
+https://www.samudera.my/,NEWS,News Media,2023-08-22,sinarproject,"Conservative media, found blocked"
+https://husseinhamid.com/,POLR,Political Criticism,2024-01-31,sinarproject,Found blocked in Malaysia
+https://murrayhunter.substack.com/,POLR,Political Criticism,2024-01-31,sinarproject,Website belonging to steadyaku (whose other website https://steadyaku47.com/home/ is blocked previously)
+https://gschqckhtpkidzxz.global.ssl.fastly.net/,POLR,Political Criticism,2024-01-31,sinarproject,"Mirror site of https://murrayhunter.substack.com/, found blocked"
+https://psjowghndldovpnc.qsaob2yrzd.online/,POLR,Political Criticism,2024-03-08,sinarproject,2nd mirror site of https://murrayhunter.substack.com/
+https://eurasiareview.com/,POLR,Political Criticism,2024-03-08,sinarproject,Murray Hunter’s article
+https://codeblue.galencentre.org/,POLR,Political Criticism,2024-03-08,sinarproject,Similar Facebook post got taken down by authorities: https://www.facebook.com/story.php?story_fbid=934270301431170&id=100045446257045&mibextid=oFDknk
+https://boardgamegeek.com/,HOST,Hosting and Blogging Platforms,2024-09-08,test-lists.ooni.org contribution,
+https://www.artstation.com/,MMED,Media sharing,2024-09-08,test-lists.ooni.org contribution,confirmed by the minister as a copyright takedown
+https://www.gajiprogresif.gov.my/,GOVT,Government,2024-08-10,sinarproject,
+https://utusantv.com/,NEWS,News Media,2024-08-10,sinarproject,
+https://asap-asia.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,

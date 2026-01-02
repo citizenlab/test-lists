@@ -108,7 +108,6 @@ http://shehab.ps/,NEWS,News Media,2017-06-24,Vecbox,
 http://omamh.net/,NEWS,News Media,2017-06-24,Vecbox,
 http://palestine.paldf.net/,NEWS,News Media,2017-06-24,Vecbox,
 https://hamas.ps/,MILX,Terrorism and Militants,2017-06-24,Vecbox,
-https://www.palinfo.com/,NEWS,News Media,2017-06-24,Vecbox,
 https://www.shfanews.net/,NEWS,News Media,2017-06-24,Vecbox,
 https://www.africanandeastern.com/,ALDR,Alcohol & Drugs,2020-12-31,Netalitica,
 https://mashrobi.com/,ALDR,Alcohol & Drugs,2020-12-31,Netalitica,
@@ -409,7 +408,6 @@ https://www.alaraby.co.uk/,NEWS,News Media,2020-12-31,Netalitica,
 https://ultrapal.ultrasawt.com/,NEWS,News Media,2020-12-31,Netalitica,Previously blocked
 https://www.ultrasawt.com/,NEWS,News Media,2020-12-31,Netalitica,Previously blocked
 https://metras.co/,NEWS,News Media,2020-12-31,Netalitica,Previously blocked
-https://www.aljazeera.net/midan/,NEWS,News Media,2020-12-31,Netalitica,Previously blocked
 https://www.aa.com.tr/,NEWS,News Media,2020-12-31,Netalitica,
 https://www.facebook.com/pal27k/,NEWS,News Media,2020-12-31,Netalitica,Ordered blocked by palestinian authorities
 https://twitter.com/pal_27km,NEWS,News Media,2020-12-31,Netalitica,
@@ -422,7 +420,6 @@ https://paltimeps.ps/,NEWS,News Media,2020-12-31,Netalitica,
 https://alghad.com/,NEWS,News Media,2020-12-31,Netalitica,
 https://ramallah.news/,NEWS,News Media,2020-12-31,Netalitica,
 https://al-shabaka.org/ar/,NEWS,News Media,2020-12-31,Netalitica,
-https://www.facebook.com/QudsN/,NEWS,News Media,2020-12-31,Netalitica,
 http://www.almajd.ps/,NEWS,News Media,2020-12-31,Netalitica,
 https://www.facebook.com/PalesAbroad/,NEWS,News Media,2020-12-31,Netalitica,
 https://www.independentarabia.com/,NEWS,News Media,2020-12-31,Netalitica,
@@ -450,7 +447,6 @@ https://www.ikhwanweb.com/,POLR,Political Criticism,2020-12-31,Netalitica,
 http://aletejahtv.com/,POLR,Political Criticism,2020-12-31,Netalitica,"Domain seized, Pro-Hizbullah group"
 https://alwelayah.net/,POLR,Political Criticism,2020-12-31,Netalitica,Pro-Hizbullah group
 https://www.islamtimes.org/,POLR,Political Criticism,2020-12-31,Netalitica,Pro-Hizbullah group
-https://ikhwanonline.info/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brotherhood
 https://www.ikhwanwiki.com/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brotherhood
 https://ikhwansyria.com/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brotherhood
 http://www.ikhwanpress.com/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brotherhood
@@ -458,10 +454,6 @@ https://www.fj-p.com/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brot
 http://www.al-jamaa.org/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brotherhood
 http://www.alqassam.ps/arabic/index.php/,POLR,Political Criticism,2020-12-31,Netalitica,Muslim Brotherhood
 http://hizb-ut-tahrir.info/,POLR,Political Criticism,2020-12-31,Netalitica,
-https://neswangy.net/,PORN,Pornography,2020-12-31,Netalitica,
-https://3arabporn.com/,PORN,Pornography,2020-12-31,Netalitica,
-https://b3boos.com/,PORN,Pornography,2020-12-31,Netalitica,
-https://sex4arabxxx.com/,PORN,Pornography,2020-12-31,Netalitica,
 https://sexalarab.com/,PORN,Pornography,2020-12-31,Netalitica,
 https://sexjk.com/,PORN,Pornography,2020-12-31,Netalitica,
 https://sexsaoy.com/,PORN,Pornography,2020-12-31,Netalitica,
@@ -547,3 +539,19 @@ https://www.e7kky.com/,XED,Sex Education,2020-12-31,Netalitica,
 https://www.zanzu.de/ar/,XED,Sex Education,2020-12-31,Netalitica,
 https://fustany.com/ar,XED,Sex Education,2020-12-31,Netalitica,
 https://stopsilencingpalestine.com/,POLR,Political Criticism,2021-06-10,Community member,
+https://arij.net/,NEWS,News Media,2023-08-09,test-lists.ooni.org contribution,Investigative journalism working accross Mena
+https://arabfcn.net/,NEWS,News Media,2023-08-11,test-lists.ooni.org contribution,is a grassroots network that works towards fostering transpare nt and impartial fact-checking in the Arab region
+https://www.aljazeera360.com/,NEWS,News Media,2025-04-24,7amleh,
+https://www.dooz.ps/,NEWS,News Media,2025-04-24,7amleh,
+https://www.alaraby.com/,NEWS,News Media,2025-04-24,7amleh,
+https://www.alarabyplus.net/,NEWS,News Media,2025-04-24,7amleh,
+https://www.middleeasteye.net/,NEWS,News Media,2025-04-24,7amleh,
+https://felesteen.news/,NEWS,News Media,2025-04-24,7amleh,
+https://qudsn.co/,NEWS,News Media,2025-04-24,7amleh,
+https://palinfo.com/,NEWS,News Media,2025-04-24,7amleh,
+https://www.middleeastmonitor.com/,NEWS,News Media,2025-04-24,7amleh,
+https://www.masarat.ps/,NEWS,News Media,2025-04-24,7amleh,
+https://ijhad.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,
+https://www.alkhanadeq.com/,NEWS,News Media,2025-05-13,,
+https://qudspress.com/,NEWS,News Media,2025-05-13,,
+https://www.meemmagazine.net/,NEWS,News Media,2025-05-13,,

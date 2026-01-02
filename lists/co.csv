@@ -82,7 +82,6 @@ https://partido-up.org/,POLR,Political Criticism,2018-09-20,OONI,Political party
 https://centrodememoriahistorica.gov.co/en-2016-para-la-paz-la-educacion/,GOVT,Government,2018-09-20,OONI,Created during the peace accord as a memorial of the armed conflict
 http://afrocolombians.com/Afro-Colombian%20News/Main%20Page.html/,HUMR,Human Rights Issues,2018-09-20,OONI,
 https://www.cinep.org.co/Home2/,HUMR,Human Rights Issues,2018-09-20,OONI,Non profit working with victims and minorities
-https://www.transparency.org/en/countries/colombia/,POLR,Political Criticism,2018-09-20,OONI,Corruption Perceptions Index
 https://colombiapeace.org/,HUMR,Human Rights Issues,2018-09-20,OONI,
 https://aapf.org/afro-colombian/,HUMR,Human Rights Issues,2018-09-20,OONI,"Afro-Colombian Women: Resistance at the Intersection of Racism, Sexism and War"
 https://colombiadiversa.org/,LGBT,LGBT,2018-09-20,OONI,
@@ -139,7 +138,6 @@ https://colombiaplural.com/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
 https://www.colombiainteligente.org/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
 https://www.colectivodeabogados.org/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
 https://confluenciademujeres.org/e61/,HUMR,Human Rights Issues,2020-07-12,Netalitica,
-https://co.match.com/,DATE,Online Dating,2020-07-17,Netalitica,
 https://www.colombia-citas.com/,DATE,Online Dating,2020-07-17,Netalitica,
 https://www.dw.com/es/actualidad/colombia/s-35950707/,ENV,Environment,2020-07-17,Netalitica,
 https://enpujanuqui-comunicaciones-com.webnode.com.co/,ENV,Environment,2020-07-17,Netalitica,
@@ -184,7 +182,6 @@ https://www.facebook.com/ligasaludtrans/,LGBT,LGBT,2020-07-17,Derechos Digitales
 https://www.trackingterrorism.org/group/las-autodefensas-gaitanistas-de-colombia-agc/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
 https://www.insightcrime.org/colombia-organized-crime-news/urabenos-profile/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
 https://primeralinea.com.co/,MILX,Terrorism and Militants,2020-07-17,Netalitica,Created during the 2019 strike to defend massive protest around Colombia. 
-https://eln-voces.net/,MILX,Terrorism and Militants,2020-07-17,Netalitica,It’s the main guerrilla as a right now. No access using Tor
 https://en.wikipedia.org/wiki/Clan_del_Golfo/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
 https://colombiareports.com/rastrojos/,MILX,Terrorism and Militants,2020-07-17,Netalitica,
 https://diarioadn.co/,NEWS,News Media,2020-07-17,Netalitica,Big media form monopoly
@@ -262,7 +259,6 @@ https://unloquer.org/,HACK,Hacking Tools,2020-07-19,Netalitica,
 https://www.cec.org.co/,REL,Religion,2020-07-19,Netalitica,
 http://cabildointerreligiosodecolombia.mex.tl/,REL,Religion,2020-07-19,Netalitica,
 https://jesuitas.co/,REL,Religion,2020-07-19,Netalitica,
-https://www.jw.org/es/testigos-de-jehov%C3%A1/por-todo-el-mundo/CO/,REL,Religion,2020-07-19,Netalitica,
 https://casaroca.org/,REL,Religion,2020-07-19,Netalitica,
 https://budismocolombia.co/,REL,Religion,2020-07-19,Netalitica,
 http://mesadeapoyo.com/,REL,Religion,2020-07-19,Netalitica,
@@ -352,11 +348,9 @@ https://tabustudios.co/,PORN,Pornography,2020-07-27,Netalitica,
 https://www.diamantewebcam.com/,PORN,Pornography,2020-07-27,Netalitica,
 https://www.dhlestudio.com.co/,PORN,Pornography,2020-07-27,Netalitica,
 http://www.livemodels.co/,PORN,Pornography,2020-07-27,Netalitica,
-https://camstagestudio.com/,PORN,Pornography,2020-07-27,Netalitica,
 https://webcammedellin.co/,PORN,Pornography,2020-07-27,Netalitica,
 http://www.estudiopenthouse.com/,PORN,Pornography,2020-07-27,Netalitica,
 https://www.studioluxus.com/,PORN,Pornography,2020-07-27,Netalitica,
-https://lovemstudios.com/,PORN,Pornography,2020-07-27,Netalitica,
 http://lila-mujer.org/,PUBH,Public Health,2020-07-27,Netalitica,
 http://www.ligasida.org.co/,PUBH,Public Health,2020-07-27,Netalitica,
 https://ipuc.org.co/,REL,Religion,2020-07-27,Netalitica,
@@ -446,3 +440,5 @@ https://www.bbc.com/mundo/topics/c7zp57yyz25t/,NEWS,News Media,2020-07-30,Netali
 https://cnnespanol.cnn.com/,NEWS,News Media,2020-07-30,Netalitica,
 https://www.dw.com/es/actualidad/s-30684/,NEWS,News Media,2020-07-30,Netalitica,
 https://ghostbin.co/,HOST,Hosting and Blogging Platforms,2021-05-26,OONI,OONI data suggests it's blocked
+https://sputniknews.lat/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://comoabortar.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,

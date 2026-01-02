@@ -18,7 +18,6 @@ http://www.balochunitedfront.org/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.hinduonnet.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,
 http://www.ipsnews.net/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.thenewhumanitarian.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.anonproxy.info/,PORN,Pornography,2014-04-15,citizenlab,
 http://www.ayubmed.edu.pk/,PUBH,Public Health,2014-04-15,citizenlab,
 http://www.zrombesh.org/,PUBH,Public Health,2014-04-15,citizenlab,
 http://danishcartoons.ytmnd.com/,REL,Religion,2014-04-15,citizenlab,
@@ -51,7 +50,6 @@ http://www.youtube.com/watch?v=nycuLpw0VV8&feature=related,HATE,Hate Speech,2014
 http://www.youtube.com/watch?v=rPOWhYp5MTw&feature=related,HATE,Hate Speech,2014-04-15,citizenlab,
 http://www.BalochVoice.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Blocked in Pakistan
 http://balochwarna.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Blocked in Pakistan
-http://governmentofbalochistan.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Not updated since 2006; Blocked in 2014
 http://lalmasjid.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Blocked in Pakistan
 http://www.BalochFront.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Blocked in Pakistan
 http://www.balochpeople.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -86,9 +84,6 @@ http://www.jamaat.org/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.jamiat.org.pk/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.zombietime.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://zombietime.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://hustler.com/,PORN,Pornography,2014-04-15,citizenlab,Blocked in Pakistan
-http://playboy.com/,PORN,Pornography,2014-04-15,citizenlab,Blocked in Pakistan
-http://porn.xxx/,PORN,Pornography,2014-04-15,citizenlab,Blocked in Pakistan
 http://sex.xxx/,PORN,Pornography,2014-04-15,citizenlab,Blocked in Pakistan
 https://everyonedrawmohammed.blogspot.com/,REL,Religion,2014-04-15,citizenlab,
 http://face-of-muhammed.blogspot.com/,REL,Religion,2014-04-15,citizenlab,Blocked in Pakistan
@@ -109,7 +104,6 @@ https://urdu.tebyan.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.ahmadiyya.ca/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.ahmadiyya.org.au/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.ahmadiyya.us/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://www.amnestyusa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.amnestyusa.org/countries/pakistan/summary.do,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.globalmarch.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.globalmarch.org/resourcecentre/world/pakistan.pdf,HUMR,Human Rights Issues,2014-04-15,citizenlab,
@@ -137,7 +131,6 @@ https://www.thenews.com.pk/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.pat.com.pk/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.ppp.org.pk/,POLR,Political Criticism,2014-04-15,citizenlab,
 https://www.transparency.org.pk/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://www.who.int/countries/pak/en/,PUBH,Public Health,2014-04-15,citizenlab,
 https://www.ahrar.org.pk/,REL,Religion,2014-04-15,citizenlab,
 https://www.aahung.org/,XED,Sex Education,2014-04-15,citizenlab,
 http://www.perlproxy.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Blocked in Pakistan
@@ -216,7 +209,7 @@ https://en.wikipedia.org/wiki/Pashtun_Tahafuz_Movement/,HUMR,Human Rights Issues
 https://aafiamovement.com/,HUMR,Human Rights Issues,2019-08-02,Netalitica,Website for Aafia Siddiqui
 https://www.bolantimes.com/,HUMR,Human Rights Issues,2019-08-02,Netalitica,News from Baluchistan
 http://pakistansafetycoalition.org/,HUMR,Human Rights Issues,2019-08-02,Netalitica,Coalition for media safety
-https://www.mashaalradio.com/,HUMR,Human Rights Issues,2019-08-02,Netalitica,Was blocked due to coverage of PTM
+https://www.mashaalradio.com/,NEWS,News Media,2019-08-02,Netalitica,Was blocked due to coverage of PTM
 http://www.internal-displacement.org/countries/pakistan/,HUMR,Human Rights Issues,2019-08-02,Netalitica,Page about IDPs
 https://pff.org.pk/,HUMR,Human Rights Issues,2019-08-02,Netalitica,Website of Pakistan Fisherfolk Forum
 https://piler.org.pk/,HUMR,Human Rights Issues,2019-08-02,Netalitica,Data about labor and statistics in Pakistan
@@ -491,7 +484,6 @@ http://president.gov.pk/,GOVT,Government,2019-08-27,Netalitica,Official website 
 http://www.pakistan.gov.pk/,GOVT,Government,2019-08-27,Netalitica,Official website for Government of Pakistan
 http://senate.gov.pk/en/index.php?id=-1&cattitle=Home/,GOVT,Government,2019-08-27,Netalitica,Official website for Senate of Pakistan
 http://na.gov.pk/en/index.php,GOVT,Government,2019-08-27,Netalitica,Official website for National Assembly of Pakistan
-https://foreignpolicy.com/2017/08/15/why-pakistan-hates-malala/,HATE,Hate Speech,2019-08-27,Netalitica,Global Website- Specific news article about why Malala is not liked in Pakistan
 http://jeaysindhqaumimahaz.blogspot.com/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Website of Sindhi nationalist party
 https://minorityrights.org/fifty/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Minority rights (Global Relevance)
 https://minorityrights.org/minorities/sindhis-and-mohajirs/,HUMR,Human Rights Issues,2019-08-27,Netalitica,Minority rights website (Sindhi & Mohajirs)
@@ -622,3 +614,58 @@ https://www.timesnownews.com/,NEWS,News Media,2019-09-12,Netalitica,Indian News 
 https://www.pakistanism.com/,SRCH,Search Engines,2019-09-12,Netalitica,Search Engine from Pakistan
 https://www.nih.org.pk/novel-coranavirus-2019-ncov/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
 https://www.nih.org.pk/covid19-dashboard/,PUBH,Public Health,2020-04-01,citizenlab,coronavirus
+https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
+https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
+https://www.insaf.pk/,POLR,Political Criticism,2024-01-26,test-lists.ooni.org contribution,Reported to be blocked since January 26th
+https://pticandidates.com/,POLR,Political Criticism,2024-01-29,test-lists.ooni.org contribution,Reported to be blocked since January 26th
+https://factfocus.com/,POLR,Political Criticism,2024-02-02,test-lists.ooni.org contribution,Reportedly blocked in Pakistan on 2nd February 2024 (ahead of elections)
+https://www.bolnews.com/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://tribune.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://dailypakistan.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://www.express.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://www.aaj.tv/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://pakistanaffairs.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://defencepk.com/,POLR,Political Criticism,2024-02-07,test-lists.ooni.org contribution,
+https://mashriqtv.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://chitraltimes.com/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://thefridaytimes.com/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://dunya.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://www.nation.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://ummat.net/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://dailyausaf.com/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://thefrontierpost.com/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://dailykhabrain.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://naibaat.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://www.dailyk2.com/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://www.app.com.pk/,NEWS,News Media,2024-02-07,test-lists.ooni.org contribution,
+https://election2024.digitalrightsfoundation.pk/,HUMR,Human Rights Issues,2024-02-07,test-lists.ooni.org contribution,
+https://pppp.org.pk/,POLR,Political Criticism,2024-02-07,test-lists.ooni.org contribution,
+https://jamaat.org/,POLR,Political Criticism,2024-02-07,test-lists.ooni.org contribution,
+https://www.haqooqekhalq.com/,POLR,Political Criticism,2024-02-07,test-lists.ooni.org contribution,
+https://istehkam-e-pakistan.org/,POLR,Political Criticism,2024-02-07,test-lists.ooni.org contribution,
+https://www.globaltimes.cn/,NEWS,News Media,2025-05-19,test-lists.ooni.org contribution,
+https://trt.global/,NEWS,News Media,2025-05-19,test-lists.ooni.org contribution,
+https://dailytimes.com.pk/,NEWS,News Media,2025-05-26,,
+https://live.samaa.tv/,NEWS,News Media,2025-05-26,,
+https://sunonews.tv/,NEWS,News Media,2025-05-26,,
+https://raftar.com/,NEWS,News Media,2025-05-26,,
+https://gnnhd.tv/,NEWS,News Media,2025-05-26,,
+https://dunyanews.tv/,NEWS,News Media,2025-05-26,,
+https://maktoobmedia.com/,NEWS,News Media,2025-05-26,,
+https://thewire.in/,NEWS,News Media,2025-05-26,,
+https://jamuna.tv/,NEWS,News Media,2025-05-26,,
+https://ekattor.tv/,NEWS,News Media,2025-05-26,,
+https://www.bvnews24.com/,NEWS,News Media,2025-05-26,,
+https://mohona.tv/,NEWS,News Media,2025-05-26,,
+https://english.news.cn/,NEWS,News Media,2025-05-26,,
+https://thekashmirwalla.com/,NEWS,News Media,2025-05-26,,
+https://www.hindustantimes.com/,NEWS,News Media,2025-05-26,,
+https://indianexpress.com/,NEWS,News Media,2025-05-26,,
+https://www.indiatvnews.com/,NEWS,News Media,2025-05-26,,
+https://www.somoynews.tv/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
+https://dbcnews.tv/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
+https://channelionline.com/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
+https://www.banglavision.tv/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
+https://dailyinqilab.com/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
+https://dailyamardesh.com/,NEWS,News Media,2025-05-27,test-lists.ooni.org contribution,
+https://thebachchaoproject.org/,HUMR,Human Rights Issues,2025-06-16,test-lists.ooni.org contribution,

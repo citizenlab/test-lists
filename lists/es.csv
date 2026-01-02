@@ -1,18 +1,12 @@
 url,category_code,category_description,date_added,source,notes
 http://gateway.ipfs.io/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://www.referendum.party/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.referendum.soy/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://alerta.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://referendum.pau.fm/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://nigeon.github.io/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://www.ref1oct.eu/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://www.ref1oct.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://referendum.zalo.nyc/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://aniol.github.io/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://referendum.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://ref1oct.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 http://www.marianorajoy.cat/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
-http://garantiespelreferendum.com/,POLR,Political Criticism,2017-09-25,user contribution,referendum in Catalonia
 https://eu.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://gl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://tsunamidemocratic.cat/,POLR,Political Criticism,2019-10-21,user contribution,Protests in Catalonia against jail sentence for governing politicians during referendum
@@ -20,7 +14,6 @@ https://app.tsunamidemocratic.cat/,POLR,Political Criticism,2019-10-21,user cont
 https://tsunamidemocratic.net/,POLR,Political Criticism,2019-10-21,user contribution,Protests in Catalonia against jail sentence for governing politicians during referendum
 https://tsunamidemocratic.com/,POLR,Political Criticism,2019-10-21,user contribution,Protests in Catalonia against jail sentence for governing politicians during referendum
 https://tsunamidemocratic.github.io/,POLR,Political Criticism,2019-10-21,user contribution,Protests in Catalonia against jail sentence for governing politicians during referendum
-https://democratictsunami.eu/,POLR,Political Criticism,2019-10-21,user contribution,Protests in Catalonia against jail sentence for governing politicians during referendum
 https://lesbicanarias.es/,LGBT,LGBT,2019-11-18,OutRight International,
 http://www.elitegoles.com/,FILE,File-sharing,2020-02-23,User contribution,Sport streaming sites block. Initiative of TELEFONICA AUDIOVISUAL DIGITAL SL.
 http://elitegoltv.me/,FILE,File-sharing,2020-02-23,User contribution,Sport streaming sites block. Initiative of TELEFONICA AUDIOVISUAL DIGITAL SL.
@@ -47,3 +40,28 @@ http://c14.xtra7.gq:26659/,FILE,File-sharing,2020-02-23,User contribution,Sport 
 https://www.todocvcd.com/,FILE,File-sharing,2020-04-03,User contribution,Just found one unlisted blocked site.
 https://www.todocvcd.co/,FILE,File-sharing,2020-04-03,User contribution,Just found one unlisted blocked site.
 https://comoabortar.org/,XED,Sex Education,2020-05-20,OONI,Reportedly blocked
+https://actualidad.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media
+https://esrt.online/,NEWS,News Media,2023-04-20,OONI,mirror of actualidad.rt.com
+https://sputniknews.lat/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://epublibre.org/,FILE,File-sharing,2024-09-17,test-lists.ooni.org contribution,"books via torrent: comercial editions, amateur translations, public domain books"
+https://www.acestream.org/,MMED,Media sharing,2024-09-17,test-lists.ooni.org contribution,Website of a p2p mutliplatform app to create and share video streams. Already blocked
+https://www.infolibre.es/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://www.rtve.es/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://ciberisciii.es/,PUBH,Public Health,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage.
+https://estudyme.com/study/,CULTR,Culture,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage.
+https://www.rae.es/,GOVT,Government,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage.
+https://lenguajehtml.com/,CULTR,Culture,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage.
+https://ciudadreal.com/,GOVT,Government,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage.
+https://bandaancha.eu/,NEWS,News Media,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage. Critic with the blocks and provides info about them.
+https://twitch.tv/,GAME,Gaming,2025-12-13,test-lists.ooni.org contribution,LaLiga shutdowns to prevent illegal retransmision of football matches. Collateral damage. Initiative of TELEFONICA AUDIOVISUAL DIGITAL SL.
+https://forocoches.com/foro/,COMT,Communication Tools,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage. Critic with the blocks and provides info about them.
+https://www.cantabriadiario.com/,NEWS,News Media,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage. Critic with the blocks and provides info about them.
+https://tebas.tv/,HOST,Hosting and Blogging Platforms,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage. Critic with the blocks and provides info about them.
+https://hayahora.futbol/,HOST,Hosting and Blogging Platforms,2025-12-13,test-lists.ooni.org contribution,Cloudflare shutdowns to prevent football pirating. Collateral damage. Legal webpage. Critic with the blocks and provides info about them.
+https://www.naranjaslola.com/,COMM,E-commerce,2025-12-13,test-lists.ooni.org contribution,Shutdowns to AS16371 as collateral damage. Legal webpage with no relation to football pirating. Initiative of TELEFONICA AUDIOVISUAL DIGITAL SL.
+https://lapichangita.sport.blog/,MMED,Media sharing,2025-12-03,test-lists.ooni.org contribution,Sport streaming sites block. Initiative of TELEFONICA AUDIOVISUAL DIGITAL SL.
+https://www.carles.cat/,CULTR,Culture,2025-12-03,test-lists.ooni.org contribution,
+https://www.sectorgaming.tv/,NEWS,News Media,2025-12-03,test-lists.ooni.org contribution,
+https://www.goalsport.info/,MMED,Media sharing,2025-11-28,test-lists.ooni.org contribution,football streaming site
+https://rojadirectahd.my/,MMED,Media sharing,2025-11-28,test-lists.ooni.org contribution,football streaming site
+https://rojadirectatv.global/,MMED,Media sharing,2025-11-28,test-lists.ooni.org contribution,football streaming site

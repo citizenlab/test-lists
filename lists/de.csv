@@ -8,7 +8,7 @@ https://bs.to/,MMED,Media sharing,2019-04-25,Anonymous,Blocked URL
 https://boerse.to/,MMED,Media sharing,2019-04-25,Anonymous,Blocked URL
 https://gen.lib.rus.ec/,CULTR,Culture,2019-04-25,Anonymous,Blocked URL
 https://pr0gramm.com/,GRP,Social Networking,2019-05-08,Community member,Controversial german imageboard
-https://verbot-aufheben.de/,POLR,Political Criticism,2021-11-17,,Website of a campaign to end the prosecution of the PKK through the german state
+https://www.verbot-aufheben.org/,POLR,Political Criticism,2021-11-17,,Website of a campaign to end the prosecution of the PKK through the german state
 https://civaka-azad.org/,HUMR,Human Rights Issues,2021-11-17,,Providing news and background information about the suppression of kurdish people
 https://anfdeutsch.com/,NEWS,News Media,2021-11-17,,kurdish news agency publishing in german language
 https://systemli.org/,HOST,Hosting and Blogging Platforms,2021-11-18,,Non-commercial provider of privacy friendly communication
@@ -26,3 +26,38 @@ https://linksunten.indymedia.org/,POLR,Political Criticism,2021-11-20,,archive o
 https://blog.fefe.de/,POLR,Political Criticism,2021-11-20,,watchblog focused on IT security and nerd subjects
 http://www.mate1.com/,DATE,Online Dating,2022-02-16,citizenlab,
 https://de.xhamster.com/,PORN,Pornography,2022-04-19,Kommission für Jugendmedienschutz,
+https://francais.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media
+https://de.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media
+https://actualidad.rt.com/,NEWS,News Media,2023-04-20,OONI,blocked russian media
+https://a-russia.ru/,NEWS,News Media,2023-04-20,OONI,
+https://www.coolstreaming.us/,MMED,Media sharing,2023-04-20,OONI,
+https://rtde.site/,NEWS,News Media,2023-04-20,OONI,mirror of de.rt.com
+https://esrt.online/,NEWS,News Media,2023-04-20,OONI,mirror of actualidad.rt.com
+https://snanews.de/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://smjg.org/,XED,Sex Education,2023-05-05,test-lists.ooni.org contribution,"Sex Education with focus on BDSM, Consent, and Safety"
+https://aniworld.to/,MMED,Media sharing,2023-07-05,Anonymous,Clearingstelle Urheberrecht im Internet
+https://streamkiste.tv/,MMED,Media sharing,2023-07-05,Anonymous,Clearingstelle Urheberrecht im Internet
+https://ge.xhamster.com/,PORN,Pornography,2023-07-05,test-lists.ooni.org contribution,Kommission für Jugendmedienschutz
+https://deu.xhamster.com/,PORN,Pornography,2023-07-05,test-lists.ooni.org contribution,Kommission für Jugendmedienschutz
+https://www.fr.de/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://www.freitag.de/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://all-inkl.com/,HOST,Hosting and Blogging Platforms,2025-09-24,,Web hosting company blocking most Tor exit nodes
+https://filmpalast.to/,MMED,Media sharing,2025-11-10,test-lists.ooni.org contribution,Blocked according to https://cuiiliste.de/domains
+https://filmfans.org/,MMED,Media sharing,2025-11-10,test-lists.ooni.org contribution,Blocked according to https://cuiiliste.de/domains
+https://megakino.red/,MMED,Media sharing,2025-11-10,test-lists.ooni.org contribution,Blocked according to https://cuiiliste.de/domains
+https://www.queer.de/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contribution,LGBTQ* news website
+https://queer-lexikon.net/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contribution,"Online contact point for sexual, romantic, and gender diversity"
+https://www.transjaund.de/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contribution,"Workshops, leisure activities, and community events for young trans* people"
+https://www.bundesverband-trans.de/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contribution,umbrella organization of trans rights groups in Germany
+https://www.afd.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,"far-right party in germany, public discussions if a party ban should be considered"
+https://www.die-linke.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,left-wing party in germany
+https://bsw-vg.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,small political party in germany
+https://werteunion.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,small political party in germany
+https://voltdeutschland.org/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,small political party in germany
+https://www.die-partei.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,small political party in germany
+https://www.nius.de/,HATE,Hate Speech,2025-11-10,test-lists.ooni.org contribution,"right-wing news page, criticized for ignoring independent press standards and intentional misrepresentation"
+https://jungefreiheit.de/,NEWS,News Media,2025-11-10,test-lists.ooni.org contribution,conservative right-wing weekly newspaper
+https://kurdistan-report.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,"german-language print and online magazin focused on news, background reporting and analysis about the kurdish political struggle"
+https://rote-hilfe.de/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,"left-wing legal and prisoner support group, government discussed ban in 2018"
+https://www.kon-med.com/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,umbrella organization of kurdish people in germany
+https://www.jugendinfo.blog/,POLR,Political Criticism,2025-11-10,test-lists.ooni.org contribution,youth-focused left-wing blog about international politics
