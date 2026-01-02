@@ -11,24 +11,15 @@ https://www.ng.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.daymohk.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"blocked, no NILX anylonger - now hosting platform, monitor"
 https://haamash.wordpress.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"outdated but blocked, monitor"
 https://humanrights-ru.livejournal.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://limonka.nbp-info.com/,POLR,Political Criticism,2014-04-15,citizenlab,"blocked, redirects to dead site, monitor"
-http://milli-mejlis.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
+http://milli-mejlis.blogspot.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,there's also https version: https://milli-mejlis.blogspot.com/
 https://republic.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://slon.ru/,NEWS,News Media,2014-04-15,citizenlab,"Redirects to new domain, but still blocked"
-http://www.mashina.org/,NEWS,News Media,2014-04-15,citizenlab,"projects temporarily stopped, keep monitoring"
-http://www.minjust.net/,NEWS,News Media,2014-04-15,citizenlab,dead site but still blocked
 http://www.owl.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"outdated but generates some traffic, monitor"
-https://www.kavkazcenter.com/russ/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI in March 2024
-https://2ch.hk/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
+https://2ch.hk/,GRP,Social Networking,2014-04-15,citizenlab,
 https://navalny.livejournal.com/,POLR,Political Criticism,2014-04-15,citizenlab,archive of 2015 and older posts
-https://www.mhg.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.putin-itogi.ru/,POLR,Political Criticism,2014-04-15,citizenlab,critical of Putin
 http://fast-die.kiev.ua/,MISC,Miscellaneous content,2014-04-15,citizenlab,
-http://lib.rus.ec/,CULTR,Culture,2014-04-15,citizenlab,Popular book sharing platform
-http://lurkmore.to/,CULTR,Culture,2014-04-15,citizenlab,Russia version of Wikipedia
-http://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
+http://www.shram.kiev.ua/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,there's also https version: https://www.shram.kiev.ua/
 http://zhurnal.lib.ru/,CULTR,Culture,2014-04-15,citizenlab,samiizdat journal
-https://genderandaids.unwomen.org/en/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
 https://lgbt-grani.livejournal.com/,LGBT,LGBT,2014-04-15,citizenlab,archive of LGBT project
 https://rutracker.org/,FILE,File-sharing,2014-04-15,citizenlab,largest torrent sharing service
 http://www.xgay.ru/,LGBT,LGBT,2014-04-15,citizenlab,
@@ -36,8 +27,7 @@ http://kazak-chita.ru/,CULTR,Culture,2014-04-15,citizenlab,
 https://yandex.ru/,SRCH,Search Engines,2014-04-15,citizenlab,and popular email service
 https://6ott-mit-uns.livejournal.com/,CULTR,Culture,2014-04-15,citizenlab,
 https://aplaycasino.com/,GMB,Gambling,2014-04-15,citizenlab,
-http://flibusta.is/,MMED,Media sharing,2014-04-15,citizenlab,books sharing platform
-https://v.growerz.club/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,online canabis store
+http://flibusta.is/,CULTR,Culture,2014-04-15,citizenlab,books sharing platform
 https://kavkazcenter.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
 https://pornolab.net/forum/index.php,PORN,Pornography,2014-04-15,citizenlab,
 https://www.rbth.com/,CULTR,Culture,2014-04-15,citizenlab,"sporadically updated, monitor"
@@ -68,7 +58,6 @@ https://www.radiosvoboda.org/,NEWS,News Media,2017-09-17,igorv,Radio Freedom - U
 https://graniru.org/,NEWS,News Media,2017-09-28,igorv,critical medium
 https://www.20khvylyn.com/,NEWS,News Media,2017-09-28,igorv,
 http://uapolitics.com/,POLR,Political Criticism,2017-09-28,igorv,Ukrainina resource
-https://vk.com/grani_ru/,NEWS,News Media,2017-09-28,igorv,
 https://uapolitics.com/,POLR,Political Criticism,2017-09-28,igorv,Ukrainina resource
 https://ua.krymr.com/,NEWS,News Media,2017-09-28,igorv,RFE/RL Ukrainian service for Crimea
 https://cameleo.xyz/,ANON,Anonymization and circumvention tools,2017-09-28,igorv,
@@ -76,7 +65,6 @@ https://navalny.com/,POLR,Political Criticism,2017-09-28,igorv,Reportedly blocke
 http://kinozal.tv/,FILE,File-sharing,2017-09-28,igorv,
 http://new-rutor.org/,FILE,File-sharing,2017-09-28,igorv,
 http://tushkan.club/,FILE,File-sharing,2017-09-28,igorv,
-https://vk.com/navalny/,POLR,Political Criticism,2017-09-28,igorv,
 https://kinozal.tv/,FILE,File-sharing,2017-09-28,igorv,
 http://kinovolt.ru/,FILE,File-sharing,2017-09-28,igorv,
 http://www.sobytiya.info/,NEWS,News Media,2017-09-28,igorv,Blocked in Crimea
@@ -1089,4 +1077,20 @@ https://m.youtube.com/,GRP,Social Networking,2025-08-19,test-lists.ooni.org cont
 https://youtu.be/,GRP,Social Networking,2025-08-19,test-lists.ooni.org contribution,Russian government started to block YouTube so it's useful to check its status 
 https://meet.google.com/,COMT,Communication Tools,2025-08-22,test-lists.ooni.org contribution,
 https://www.journlab.online/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://milli-mejlis.blogspot.com/,MILX,Terrorism and Militants,2025-12-11,test-lists.ooni.org contribution,there's also http version: http://milli-mejlis.blogspot.com/
+https://jamonshop.es/,COMM,E-commerce,2025-12-11,test-lists.ooni.org contribution,
+https://neolurk.org/,CULTR,Culture,2025-12-11,test-lists.ooni.org contribution,Internet subculture and meme wiki
+https://zhurnal.lib.ru/,CULTR,Culture,2025-12-11,test-lists.ooni.org contribution,self-publishing
+https://flibusta.is/,CULTR,Culture,2025-12-11,test-lists.ooni.org contribution,books sharing platform
+https://max.ru/,GRP,Social Networking,2025-12-11,test-lists.ooni.org contribution,messenger which is controlled by Russian government
+https://vk.ru/,GRP,Social Networking,2025-12-11,test-lists.ooni.org contribution,social network which is controlled by Russian government
+https://yande.re/,PORN,Pornography,2025-12-11,test-lists.ooni.org contribution,
+https://sukebei.nyaa.si/,PORN,Pornography,2025-12-11,test-lists.ooni.org contribution,
+https://flac24.ru/,CULTR,Culture,2025-12-11,test-lists.ooni.org contribution,
+https://www.mailo.com/,COMT,Communication Tools,2025-12-11,test-lists.ooni.org contribution,
+https://european-union.europa.eu/,IGO,Intergovernmental Organizations,2025-12-11,test-lists.ooni.org contribution,
+https://www.duckdns.org/,ANON,Anonymization and circumvention tools,2025-12-11,test-lists.ooni.org contribution,
+https://atcoder.jp/,MISC,Miscelaneous content,2025-12-11,test-lists.ooni.org contribution,
+https://ping-admin.com/,MISC,Miscelaneous content,2025-12-11,test-lists.ooni.org contribution,
+https://www.speedtest.net/,MISC,Miscelaneous content,2025-12-11,test-lists.ooni.org contribution,blocked by RKN
 https://images.apple.com/,GRP,Social Networking,2025-11-03,test-lists.ooni.org contribution,Apple subdomain that may be blocked
