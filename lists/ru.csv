@@ -6,15 +6,14 @@ https://newsland.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://rutor.org/,FILE,File-sharing,2014-04-15,citizenlab,
 https://www.dishisvobodno.ru/,ENV,Environment,2014-04-15,citizenlab,
 http://www.hateit.ru/,HATE,Hate Speech,2014-04-15,citizenlab,
-https://www.kasparov.ru/,NEWS,News Media,2014-04-15,citizenlab,site of Kremlin's political opponent
+https://www.kasparovru.com/,NEWS,News Media,2014-04-15,citizenlab,site of Kremlin's political opponent
 https://www.ng.ru/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.daymohk.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"blocked, no NILX anylonger - now hosting platform, monitor"
 https://haamash.wordpress.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,"outdated but blocked, monitor"
 https://humanrights-ru.livejournal.com/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://limonka.nbp-info.com/,POLR,Political Criticism,2014-04-15,citizenlab,"blocked, redirects to dead site, monitor"
 http://milli-mejlis.blogspot.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-https://republic.ru/,NEWS,News Media,2014-04-15,citizenlab,
-http://slon.ru/,NEWS,News Media,2014-04-15,citizenlab,"Redirects to new domain, but still blocked"
+https://republicmag.io/,NEWS,News Media,2014-04-15,citizenlab,
 http://www.mashina.org/,NEWS,News Media,2014-04-15,citizenlab,"projects temporarily stopped, keep monitoring"
 http://www.minjust.net/,NEWS,News Media,2014-04-15,citizenlab,dead site but still blocked
 http://www.owl.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,"outdated but generates some traffic, monitor"
@@ -25,7 +24,7 @@ https://www.mhg.ru/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 https://www.putin-itogi.ru/,POLR,Political Criticism,2014-04-15,citizenlab,critical of Putin
 http://fast-die.kiev.ua/,MISC,Miscellaneous content,2014-04-15,citizenlab,
 http://lib.rus.ec/,CULTR,Culture,2014-04-15,citizenlab,Popular book sharing platform
-http://lurkmore.to/,CULTR,Culture,2014-04-15,citizenlab,Russia version of Wikipedia
+https://lurkmore.media/,CULTR,Culture,2014-04-15,citizenlab,Russia version of Wikipedia
 http://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
 http://zhurnal.lib.ru/,CULTR,Culture,2014-04-15,citizenlab,samiizdat journal
 https://genderandaids.unwomen.org/en/,IGO,Intergovernmental Organizations,2014-04-15,citizenlab,
@@ -236,7 +235,6 @@ http://utronews.org/,NEWS,News Media,2019-08-15,Netalitica,Liberal Russian media
 https://15minut.org/,NEWS,News Media,2019-08-15,Netalitica,Tatar minority medium - blocked in Russia
 https://fergana.news/,NEWS,News Media,2019-08-15,Netalitica,Central Asia regional medium
 https://meduza.io/,NEWS,News Media,2019-08-15,Netalitica,Liberal Russian media - blocked in Kazakhstan
-https://kasparov.ru/,POLR,Political Criticism,2019-08-15,Netalitica,Russian opposition leader - blocked in Russia.
 https://vozrojdenie.crimea.ua/,MILX,Terrorism and Militants,2019-08-15,Netalitica,
 https://moscow.craigslist.org/,COMM,E-commerce,2019-11-15,Netalitica,classifieds Moscow
 https://stpetersburg.craigslist.org/,COMM,E-commerce,2019-11-15,Netalitica,classifieds Peterburg
@@ -304,7 +302,6 @@ https://www.1c-bitrix.ru/,COMM,E-commerce,2019-12-09,Netalitica,Software develop
 http://www.forest.ru/,ENV,Environment,2019-12-09,Netalitica,focus on forestry in Russia
 http://www.iucn.ru/,ENV,Environment,2019-12-09,Netalitica,
 https://ecodefense.ru/,ENV,Environment,2019-12-09,Netalitica,green organization
-http://ru.onlinecasinos5.ru/,GMB,Gambling,2019-12-09,Netalitica,
 https://goldfishka68.com/,GMB,Gambling,2019-12-09,Netalitica,
 https://grand-casino0.com/,GMB,Gambling,2019-12-09,Netalitica,
 https://www.goldfishka.ru/,GMB,Gambling,2019-12-09,Netalitica,
@@ -405,7 +402,6 @@ https://www.med2000.ru/,XED,Sex Education,2019-12-09,Netalitica,
 https://www.ucoz.ru/,GRP,Social Networking,2019-12-09,Netalitica,website building service
 http://kavkaz.tv/,MILX,Terrorism and Militants,2019-12-09,Netalitica,
 http://kinobolt.ru/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
-http://tushkan.net/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 https://torrents3d.ru/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 http://alein.org/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
 http://www.lostfilm.tv/,FILE,File-sharing,2019-12-09,Netalitica,Russian torrent-tracker
@@ -545,7 +541,6 @@ https://novayagazeta.eu/,NEWS,News Media,2022-06-11,OONI,
 https://golosinfo.org/,NEWS,News Media,2022-06-11,OONI,
 https://zona.media/,NEWS,News Media,2022-06-11,OONI,
 https://holod.media/,NEWS,News Media,2022-06-11,OONI,
-https://paperpaper.ru/,NEWS,News Media,2022-07-25,OONI,
 https://lentachel.ru/,NEWS,News Media,2022-07-25,OONI,
 https://www.dovod.online/,NEWS,News Media,2022-07-25,OONI,
 https://cherta.media/,NEWS,News Media,2022-07-25,OONI,
@@ -569,7 +564,6 @@ https://kuzpress.ru/,NEWS,News Media,2022-07-25,OONI,
 https://avtozak.info/,NEWS,News Media,2022-07-25,OONI,
 https://newizv.ru/,NEWS,News Media,2022-07-25,OONI,
 https://khakasia.info/,NEWS,News Media,2022-07-25,OONI,
-https://sobesednik.ru/,NEWS,News Media,2022-07-25,OONI,
 https://www.colta.ru/,NEWS,News Media,2022-07-25,OONI,
 https://chernovik.net/,NEWS,News Media,2022-07-25,OONI,
 https://www.yuga.ru/,NEWS,News Media,2022-07-25,OONI,
@@ -586,7 +580,7 @@ https://krymsos.com/,NEWS,News Media,2022-07-25,OONI,
 https://caucasustimes.com/,NEWS,News Media,2022-07-25,OONI,
 https://www.revda-info.ru/,NEWS,News Media,2022-07-25,OONI,
 https://readovka.news/,NEWS,News Media,2022-07-25,OONI,
-https://risk-inform.ru/,NEWS,News Media,2022-07-25,OONI,
+https://risk-inform.com/,NEWS,News Media,2022-07-25,OONI,
 https://snob.ru/,NEWS,News Media,2022-07-25,OONI,
 https://pasmi.ru/,NEWS,News Media,2022-07-25,OONI,
 https://ym-penza.ru/,NEWS,News Media,2022-07-25,OONI,
@@ -641,7 +635,6 @@ https://vlast.kz/,NEWS,News Media,2022-12-16,test-lists.ooni.org contribution,"K
 https://getfinance.ru/,COMM,E-commerce,2023-01-26,OONI,uses Russian root CA
 https://meduza-app.global.ssl.fastly.net/,NEWS,News Media,2023-03-17,OONI,mirror
 https://www.epravda.com.ua/,NEWS,News Media,2023-02-18,OONI,Ukrainian site reportedly blocked in Russia
-https://www.youtube.video.az/,MMED,Media sharing,2023-02-20,test-lists.ooni.org contribution,
 https://nvdaily.ru/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://www.amnesty.org.ru/,HUMR,Human Rights Issues,2023-02-20,test-lists.ooni.org contribution,
 https://sota.vision/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
@@ -657,7 +650,7 @@ https://www.rospres.net/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribu
 https://rusmonitor.com/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://baza.io/,NEWS,News Media,2023-02-20,test-lists.ooni.org contribution,
 https://redkollegia.org/,NEWS,News Media,2023-02-22,test-lists.ooni.org contribution,
-https://mediazona.by/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
+https://mediazonaby.com/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://helpdesk.media/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://thetruestory.news/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,
 https://www.znak.com/,NEWS,News Media,2023-03-10,test-lists.ooni.org contribution,Stopped working in March 2022; keep monitoring
@@ -788,7 +781,6 @@ https://animedub.ru/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,B
 https://animelib.me/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
 https://animevost.tv/,CULTR,Culture,2024-01-19,test-lists.ooni.org contribution,Blocked by RKN for 'LGBT propaganda'
 https://ochevidcy.com/,NEWS,News Media,2024-03-13,RKS,
-https://www.moscowtimes.ru/,NEWS,News Media,2024-03-13,RKS,
 https://baikal-journal.ru/,NEWS,News Media,2024-03-13,RKS,
 https://thenewtab.io/,NEWS,News Media,2024-03-13,RKS,
 https://kosa.media/,NEWS,News Media,2024-03-13,RKS,
@@ -806,7 +798,6 @@ https://golosislama.com/,NEWS,News Media,2024-03-13,RKS,
 https://forklog.com/,NEWS,News Media,2024-03-13,RKS,
 https://marxist.news/,NEWS,News Media,2024-03-13,RKS,
 https://frant.me/,NEWS,News Media,2024-03-13,RKS,
-https://kolezev.ru/,NEWS,News Media,2024-03-13,RKS,
 https://crimea-news.info/,NEWS,News Media,2024-03-13,RKS,
 https://ehorussia.com/,NEWS,News Media,2024-03-13,RKS,
 https://novaya.no/,NEWS,News Media,2024-03-13,RKS,
@@ -973,7 +964,6 @@ https://dron.media/,NEWS,News Media,2024-03-28,RKS,
 https://74.ru/,NEWS,News Media,2024-03-28,RKS,
 https://www.ust-kut24.com/,NEWS,News Media,2024-03-28,RKS,
 https://kafanews.com/,NEWS,News Media,2024-03-28,RKS,
-https://aspektymedia.ru/,NEWS,News Media,2024-03-28,RKS,
 https://eu-objective.online/,NEWS,News Media,2024-03-28,RKS,
 https://thepolitics.ru/,NEWS,News Media,2024-03-28,RKS,
 https://rdo.rs/,NEWS,News Media,2024-03-28,RKS,
@@ -1089,3 +1079,4 @@ https://m.youtube.com/,GRP,Social Networking,2025-08-19,test-lists.ooni.org cont
 https://youtu.be/,GRP,Social Networking,2025-08-19,test-lists.ooni.org contribution,Russian government started to block YouTube so it's useful to check its status 
 https://meet.google.com/,COMT,Communication Tools,2025-08-22,test-lists.ooni.org contribution,
 https://www.journlab.online/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://images.apple.com/,GRP,Social Networking,2025-11-03,test-lists.ooni.org contribution,Apple subdomain that may be blocked

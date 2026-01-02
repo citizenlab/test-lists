@@ -195,7 +195,6 @@ https://www.dpp.org.tw/,POLR,Political Criticism,2019-09-09,Netalitica,"Taiwanes
 http://www.kmt.org.tw/,POLR,Political Criticism,2019-09-09,Netalitica,"Taiwanese political party, pro-unification"
 https://www.sehuatang.net/,PORN,Pornography,2019-09-09,Netalitica,Porn sharing
 https://www.sis001.com/forum/index.php/,PORN,Pornography,2019-09-09,Netalitica,Porn sharing
-https://shiguangpu.com/,COMT,Communication Tools,2019-09-10,Netalitica,"Online chat and call, Chinese version of Skype"
 http://www.goldenhorse.org.tw/,CULTR,Culture,2019-09-10,Netalitica,"Taiwan's major film award, Chinese filmmakers have been forbidden to attend since 2019"
 http://www.bjiff.com/,CULTR,Culture,2019-09-10,Netalitica,Beijing international film festival
 https://www.ctrip.com/,CULTR,Culture,2019-09-10,Netalitica,Hotel and travel booking site
@@ -588,3 +587,5 @@ https://seahorseplanet.net/,NEWS,News Media,2025-03-06,OONI,
 https://www.swissinfo.ch/,NEWS,News Media,2025-03-06,OONI,
 https://ici.radio-canada.ca/,NEWS,News Media,2025-03-06,OONI,
 https://www3.nhk.or.jp/,NEWS,News Media,2025-03-06,OONI,
+https://www.zhihu.com/,CULTR,Culture,2025-12-27,test-lists.ooni.org contribution,Q&A website
+https://www.gov.cn/,GOVT,Government,2025-12-27,test-lists.ooni.org contribution,chinese government website gate
