@@ -1,8 +1,6 @@
 url,category_code,category_description,date_added,source,notes
 http://casino.bet365.com/,GMB,Gambling,2016-10-13,Citizen Lab,
-http://copwatchnord-idf.org/,MILX,Terrorism and Militants,2016-10-13,Citizen Lab,
 http://is0lamanation.blogspot.fr/,HATE,Hate Speech,2016-10-13,Citizen Lab,radical islamism website
-http://t411.me/,FILE,File-sharing,2016-10-13,Citizen Lab,
 http://www.copwatch.org/,MILX,Terrorism and Militants,2016-10-13,Citizen Lab,
 https://fr.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pl.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
@@ -125,3 +123,4 @@ https://www.root-me.org/,HACK,Hacking Tools,2025-07-10,test-lists.ooni.org contr
 https://forbiddenstories.org/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
 https://www.mediapart.fr/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
 https://www.humanite.fr/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
+https://www.yggtorrent.top/,FILE,File-sharing,2025-11-25,test-lists.ooni.org contribution,successor to t411.me and ygg.to
