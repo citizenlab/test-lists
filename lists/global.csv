@@ -1455,3 +1455,7 @@ https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home,FILE,F
 https://addons.opera.com/en/extensions/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://cryptpad.org/instances/,ANON,Anonymization and circumvention tools,2022-09-28,test-lists.ooni.org contribution,Allow to find other CryptPad instances in case one is blocked
 https://freesocks.org/,ANON,Anonymization and circumvention tools,2026-01-02,OONI,Reportedly blocked in some countries
+https://safe2choose.org/,XED,Sex Education,2026-01-21,OONI,Reportedly blocked in Brazil but worth testing globally
+https://womenfirstdigital.org/,XED,Sex Education,2026-01-21,OONI,
+https://www.howtouseabortionpill.org/,XED,Sex Education,2026-01-21,OONI,
+https://findmymethod.org/,XED,Sex Education,2026-01-21,OONI,
