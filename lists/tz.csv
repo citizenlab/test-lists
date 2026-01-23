@@ -119,11 +119,11 @@ https://www.filecloud.com/,FILE,File-sharing,2025-09-09,Netalitica,global servic
 https://panzura.com/,FILE,File-sharing,2025-09-09,Netalitica,global service
 https://www.seafile.com/,FILE,File-sharing,2025-09-09,Netalitica,global service
 https://www.multcloud.com/,FILE,File-sharing,2025-09-09,Netalitica,
-https://www.poaflix.com/movies,FILE,File Sharing,2025-09-05,Netalitica,
-https://teradrop.bluehostechnology.co.tz/en,FILE,File Sharing,2025-09-05,Netalitica,
+https://www.poaflix.com/movies,FILE,File-sharing,2025-09-05,Netalitica,
+https://teradrop.bluehostechnology.co.tz/en,FILE,File-sharing,2025-09-05,Netalitica,
 https://soccerway.com/,GAME,Gaming,2019-07-18,SKM,
-https://tcme.or.tz/,GAME,GAME,2025-09-05,Netalitica,
-https://tonygamingtz.com/,GAME,GAME,2025-09-05,Netalitica,
+https://tcme.or.tz/,GAME,Gaming,2025-09-05,Netalitica,
+https://tonygamingtz.com/,GAME,Gaming,2025-09-05,Netalitica,
 https://m-bet.co.tz/,GMB,Gambling,2019-07-18,SKM,
 https://bet365.com/,GMB,Gambling,2019-07-18,SKM,
 https://goal.com/,GMB,Gambling,2019-07-18,SKM,
@@ -139,7 +139,7 @@ https://betting-tanzania.ac.tz/,GMB,Gambling,2025-09-07,Netalitica,
 https://www.betika.co.tz/,GMB,Gambling,2025-09-07,Netalitica,
 https://www.betpawa.co.tz/,GMB,Gambling,2025-09-07,Netalitica,
 https://helabet.co.tz/en,GMB,Gambling,2025-09-07,Netalitica,
-https://www.nactvet.go.tz,GOVT,Government,2019-07-18,SKM,
+https://www.nactvet.go.tz/,GOVT,Government,2019-07-18,SKM,
 https://ess.utumishi.go.tz/,GOVT,Government,2019-07-18,SKM,
 https://mct.go.tz/,GOVT,Government,2019-07-18,SKM,
 https://heslb.go.tz/,GOVT,Government,2019-07-18,SKM,
@@ -356,7 +356,7 @@ https://www.bbc.com/swahili,NEWS,News Media,2017-07-19,BBC,
 https://ippmedia.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.thecitizen.co.tz/,NEWS,News Media,2014-04-15,citizenlab,
 http://tbc.eganet.go.tz/,NEWS,News Media,2019-09-30,OONI,National Media owned by the Government
-http://zanzibar24.co.tz/ ,NEWS,News Media,2019-09-30,OONI,"offline, but It will likely come back online"
+http://zanzibar24.co.tz/,NEWS,News Media,2019-09-30,OONI,"offline, but It will likely come back online"
 https://tanzaniatimes.net/,NEWS,News Media,2025-09-04,Netalitica,
 https://www.theeastafrican.co.ke/tanzania,NEWS,News Media,2025-09-04,Netalitica,
 https://tanzaniagazette.com/,NEWS,News Media,2025-09-04,Netalitica,
