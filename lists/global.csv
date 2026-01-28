@@ -1460,3 +1460,256 @@ https://safe2choose.org/,XED,Sex Education,2026-01-21,OONI,Reportedly blocked in
 https://womenfirstdigital.org/,XED,Sex Education,2026-01-21,OONI,
 https://www.howtouseabortionpill.org/,XED,Sex Education,2026-01-21,OONI,
 https://findmymethod.org/,XED,Sex Education,2026-01-21,OONI,
+https://chromewebstore.google.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://microsoftedge.microsoft.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://addons.opera.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
+https://z-lib.org/,FILE,File-sharing,2022-10-13,community member,Z-library blocked in few countries
+https://rargb.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,mirror of http://rarbg.to/
+https://yts.mx/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://yts.lt/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://yts.mx/
+https://eztv.re/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://eztv.ag/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://eztv.re/
+https://www.limetorrents.lol/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://limetorrents.pro/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://www.limetorrents.lol/
+https://1337x.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://1337x.st/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://1337x.to/, currently blocked in the Netherlands (2022-10-08)"
+https://x1337x.eu/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://1337x.to/, currently blocked in the Netherlands (2022-10-08)"
+https://kickasstorrents.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
+https://katcr.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://kickasstorrents.to/, currently blocked in the Netherlands (2022-10-08)"
+https://kat.am/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,"mirror of https://kickasstorrents.to/, currently blocked in the Netherlands (2022-10-08)"
+https://totaljerkface.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Graphic web game, might be blocked on school networks"
+https://www.coolmathgames.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"web games collection, might be blocked on school networks"
+https://www.roblox.com/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Popular kids game, might be blocked on school networks or by parental supervision filters"
+https://krunker.io/,GAME,Gaming,2022-10-08,test-lists.ooni.org contribution,"Popular kids game, might be blocked on school networks or by parental supervision filters"
+https://www.timeout.com/,CULTR,Culture,2022-10-13,test-lists.ooni.org contribution,
+https://radiofreel.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://radiofreel.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://www.currenttime.tv/,NEWS,News Media,2022-10-26,test-lists.ooni.org contribution,
+https://www.undp.org/,IGO,Intergovernmental Organizations,2023-02-02,test-lists.ooni.org contribution,
+https://ddosecrets.com/,HUMR,Human Rights Issues,2023-02-20,test-lists.ooni.org contribution,
+http://khilafah.net/,POLR,Political Criticism,2023-02-21,sinarproject,"Right wing Islamic ideology website found blocked in Malaysia, worth tested globally"
+https://chat-gpt.org/,SRCH,Search Engines,2023-03-15,test-lists.ooni.org contribution,
+https://www.westernunion.com/,COMM,E-commerce,2023-03-21,anonymous contribution,
+https://drive.google.com/,FILE,File-sharing,2023-03-19,OONI,
+https://www.ivpn.net/,ANON,Anonymization and circumvention tools,2023-03-19,OONI,
+https://www.benarnews.org/,HUMR,Human Rights Issues,2023-04-12,arky,SE.Asian regional HR issues
+https://sputnikglobe.com/,NEWS,News Media,2023-04-20,OONI,
+https://rtr-planeta.com/,NEWS,News Media,2023-04-20,OONI,
+https://www.ntv.ru/,NEWS,News Media,2023-04-20,OONI,
+https://www.rtarabic.com/,NEWS,News Media,2023-04-20,OONI,
+https://www.gazprombank.ru/,COMM,E-commerce,2023-04-20,OONI,
+https://vgtrk.ru/,NEWS,News Media,2023-04-20,OONI,
+https://ren.tv/,NEWS,News Media,2023-04-24,anonymous,blocked websites EU sanctions
+https://smotrim.ru/,NEWS,News Media,2023-04-24,anonymous,EU sanctions
+https://www.1tv.ru/,NEWS,News Media,2023-04-24,anonymous,EU sanctions
+https://www.tvc.ru/,NEWS,News Media,2023-04-24,anonymous,EU sanctions
+https://isa.gov.ly/,GOVT,Government,2023-05-04,test-lists.ooni.org contribution,
+https://files.pythonhosted.org/,FILE,File-sharing,2023-05-15,OONI,
+https://meet.jit.si/,COMT,Communication Tools,2023-05-16,test-lists.ooni.org contribution,Open source secure video conferencing (in-browser or in-app)
+https://www.njal.la/,ANON,Anonymization and circumvention tools,2023-05-26,gus,
+https://ipfs.io/,COMT,Communication Tools,2023-06-04,willscott,IPFS Gateway
+https://dweb.link/,COMT,Communication Tools,2023-06-26,lidel,IPFS Gateway with Origin per CID (same s ipfs.io)
+https://cid.contact/,COMT,Communication Tools,2023-06-04,willscott,
+https://abortionpillinfo.org/,XED,Sex Education,2023-06-13,gus,
+https://womenhelp.org/,XED,Sex Education,2023-06-13,gus,
+https://www.abortoinfosegura.com/,XED,Sex Education,2023-06-13,gus,
+https://abortion.eu/,XED,Sex Education,2023-06-13,gus,
+https://abortionfunds.org/,XED,Sex Education,2023-06-13,gus,
+https://abortionnetwork.amsterdam/,XED,Sex Education,2023-06-13,gus,
+https://www.plancpills.org/,XED,Sex Education,2023-06-13,gus,
+https://www.reprolegalhelpline.org/,HUMR,Human Rights Issues,2023-06-13,gus,
+https://rumble.com/,MMED,Media sharing,2023-06-15,test-lists.ooni.org contribution,
+http://kremlin.ru/,GOVT,Government,2023-06-24,test-lists.ooni.org contribution,The official website of the President of the Russian Federation
+http://www.fsb.ru/,GOVT,Government,2023-06-24,test-lists.ooni.org contribution,The Federal Security Service of the Russian Federation
+https://ya.ru/,SRCH,Search Engines,2023-06-24,test-lists.ooni.org contribution,Russian search engine
+https://dzen.ru/,HOST,Hosting and Blogging Platforms,2023-06-24,test-lists.ooni.org contribution,Russian blogging and news platform
+https://rutube.ru/,HOST,Hosting and Blogging Platforms,2023-06-24,test-lists.ooni.org contribution,Russian video hosting platform
+https://www.vesti.ru/,NEWS,News Media,2023-06-26,test-lists.ooni.org contribution,
+https://fdroid.tetaneutral.net/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+https://ftp.fau.de/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+https://mirror.cyberbits.eu/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+https://plug-mirror.rcac.purdue.edu/fdroid/repo,FILE,File-sharing,2023-06-28,test-lists.ooni.org contribution,
+https://mail.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
+https://account.proton.me/,COMT,Communication Tools,2023-07-10,test-lists.ooni.org contribution,
+https://gemini.google.com/,SRCH,Search Engines,2023-07-25,test-lists.ooni.org contribution,EngageMedia
+https://cinemata.org/,MMED,Media sharing,2023-07-25,test-lists.ooni.org contribution,EngageMedia
+https://linktr.ee/,MISC,Miscellaneous content,2023-07-26,test-lists.ooni.org contribution,Added by EngageMedia
+https://x.com/,GRP,Social Networking,2023-07-26,test-lists.ooni.org contribution,new domain for Twitter
+https://codeberg.org/,HOST,Hosting and Blogging Platforms,2023-07-05,test-lists.ooni.org contribution,Git Hosting Alternative to GitHub
+https://dn42.dev/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"dn42 network, builds, but not with the goal of privacy and anonymity an overlay network"
+https://openwrt.org/,MISC,Miscellaneous content,2023-07-05,test-lists.ooni.org contribution,Free operating system for embedded devices
+https://www.debian.org/,MISC,Miscellaneous content,2023-07-05,test-lists.ooni.org contribution,Free Linux-based operating system
+https://ubuntu.com/,MISC,Miscellaneous content,2023-07-05,test-lists.ooni.org contribution,Free Linux-based operating system
+https://yggdrasil-network.github.io/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Yggdrasil is a new type of encrypted self-managed overlay network. Among other things, Tor and Telegram proxies are made available in this network."
+https://neilalexander.s3.dualstack.eu-west-2.amazonaws.com/deb/key.txt,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Yggdrasil is a new type of encrypted self-managed overlay network. Among other things, Tor and Telegram proxies are made available in this network. This is a download mirror. Since, if you don't know the exact file, only 403 is returned, here is a test file."
+https://i2pgit.org/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Git hosting of I2P, which contains the source code for almost all I2P projects."
+https://i2pd.website/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,"Website of I2Pd, an alternative I2P implementation."
+https://pulse.internetsociety.org/,IGO,Intergovernmental Organizations,2023-07-05,test-lists.ooni.org contribution,Pulse keeps reporting with #NoExamShutdowns on countries that briefly block the internet to prevent cheating on exams.
+https://proxy.i2phides.me/,ANON,Anonymization and circumvention tools,2023-07-05,test-lists.ooni.org contribution,Popular I2P Inproxy
+https://www.y2mate.com/,MMED,Media sharing,2023-08-08,test-lists.ooni.org contribution,Youtube video download site
+https://intelligence.weforum.org/,IGO,Intergovernmental Organizations,2023-08-12,test-lists.ooni.org contribution,
+https://www.khanacademy.org/,CULTR,Culture,2023-08-12,test-lists.ooni.org contribution,
+https://dartcenter.org/,NEWS,News Media,2023-08-12,test-lists.ooni.org contribution,
+https://ourworldindata.org/,NEWS,News Media,2023-08-12,test-lists.ooni.org contribution,
+https://www.openstreetmap.org/,SRCH,Search Engines,2023-08-12,test-lists.ooni.org contribution,
+https://www.propublica.org/,NEWS,News Media,2023-08-12,test-lists.ooni.org contribution,
+https://moodle.com/,HOST,Hosting and Blogging Platforms,2023-08-12,test-lists.ooni.org contribution,
+https://dl.acm.org/,MMED,Media sharing,2023-08-12,test-lists.ooni.org contribution,
+https://www.hyphanet.org/,ANON,Anonymization and circumvention tools,2023-08-12,test-lists.ooni.org contribution,
+https://cdns.grindr.com/,LGBT,LGBT,2023-08-09,test-lists.ooni.org contribution,one of the www.grindr.com endpoints
+https://dnsleaktest.com/,HACK,Hacking Tools,2023-10-02,test-lists.ooni.org contribution,
+https://test-ipv6.com/,COMT,Communication Tools,2023-10-02,test-lists.ooni.org contribution,
+https://www.internetsociety.org/,ECON,Economics,2023-10-02,test-lists.ooni.org contribution,
+https://www.privacidade.digital/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
+https://www.laquadrature.net/,HUMR,Human Rights Issues,2023-10-02,test-lists.ooni.org contribution,
+https://www.chromium.org/,HACK,Hacking Tools,2023-10-02,test-lists.ooni.org contribution,
+https://arxiv.org/,FILE,File-sharing,2023-10-02,test-lists.ooni.org contribution,
+https://ssd.eff.org/,HUMR,Human Rights Issues,2023-10-02,test-lists.ooni.org contribution,
+https://leap.se/,ANON,Anonymization and circumvention tools,2023-10-02,test-lists.ooni.org contribution,
+https://www.babbel.com/,COMM,E-commerce,2023-10-09,test-lists.ooni.org contribution,
+https://www.videolan.org/,FILE,File-sharing,2023-10-09,test-lists.ooni.org contribution,
+https://obsproject.com/,MMED,Media sharing,2023-10-09,test-lists.ooni.org contribution,
+https://onionshare.org/,ANON,Anonymization and circumvention tools,2023-10-09,test-lists.ooni.org contribution,
+https://dnsviz.net/,HACK,Hacking Tools,2023-10-09,test-lists.ooni.org contribution,
+https://moodle.org/,COMM,E-commerce,2023-10-09,test-lists.ooni.org contribution,
+https://we.riseup.net/,HOST,Hosting and Blogging Platforms,2023-10-09,test-lists.ooni.org contribution,
+https://prism-break.org/,ANON,Anonymization and circumvention tools,2023-10-09,test-lists.ooni.org contribution,
+https://bsky.app/,GRP,Social Networking,2023-10-09,test-lists.ooni.org contribution,
+https://bughunters.google.com/,HACK,Hacking Tools,2023-10-15,test-lists.ooni.org contribution,
+https://toolbox.googleapps.com/,HACK,Hacking Tools,2023-10-15,test-lists.ooni.org contribution,
+https://www.jw.org/,REL,Religion,2023-09-30,test-lists.ooni.org contribution,Official website of Jehovah's Witnesses
+https://kick.com/,MMED,Media sharing,2023-10-04,test-lists.ooni.org contribution,Gaming and livestreaming platform
+https://dlive.tv/,HOST,Hosting and Blogging Platforms,2023-10-04,test-lists.ooni.org contribution,Livestreaming platform
+https://www.jabber.ru/,COMT,Communication Tools,2023-10-31,Contributation over Git,"jabber.ru has been attacked, furthermore some ISPs block Russian sites"
+https://app.simplelogin.io/,COMT,Communication Tools,2023-11-27,test-lists.ooni.org contribution,
+https://www.fsf.org/,CULTR,Culture,2023-11-27,test-lists.ooni.org contribution,
+https://trisquel.info/,HACK,Hacking Tools,2023-11-27,test-lists.ooni.org contribution,
+https://uea.org/,CULTR,Culture,2023-12-10,test-lists.ooni.org contribution,
+https://www.iaru.org/,CULTR,Culture,2023-12-10,test-lists.ooni.org contribution,
+https://www.salvationarmy.org/,REL,Religion,2023-12-10,test-lists.ooni.org contribution,
+https://use-application-dns.net/,CTRL,Control content,2023-12-18,Arturo,firefox DoT canary domain
+https://www.vpnunlimited.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.cyberghostvpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://hide.me/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://zenvpn.net/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.surfeasy.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://1.1.1.1/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://lantern.io/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://orbot.app/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://privatevpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.expressvpn.com/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://trustvpn.me/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.vpngate.net/,ANON,Anonymization and circumvention tools,2024-01-05,OONI,
+https://www.globalgiving.org/,ECON,Economics,2024-01-29,test-lists.ooni.org contribution,
+https://s3.amazonaws.com/ooni-data/archives-raw/yaml_tar_vault.json,CTRL,Control content,2024-03-28,Arturo,aws s3 bucket rumored to be blocked in places
+http://archive.ubuntu.com/,HACK,Hacking Tools,2024-04-23,test-lists.ooni.org contribution,HTTP requests to this host resolving to 91.189.91.83 are currently route blackholed by some Indian ISPs. This URL is used by a relevant share of Ubuntu installations world-wide to retrieve software updates.
+https://allthefallen.moe/,LGBT,LGBT,2024-05-14,test-lists.ooni.org contribution,
+https://lgbtqia.space/,LGBT,LGBT,2024-09-15,test-lists.ooni.org contribution,"mastodon server, blocked in russia"
+https://www.forum18.org/,HUMR,Human Rights Issues,2024-08-22,test-lists.ooni.org contribution,
+https://login.tailscale.com/,FILE,File-sharing,2024-08-08,contribution,
+https://beacondb.net/,HACK,Hacking Tools,2024-10-27,test-lists.ooni.org contribution,
+https://www.privacyguides.org/,ANON,Anonymization and circumvention tools,2024-09-19,test-lists.ooni.org contribution,NGO providing educational resources for improving personal privacy and circumventing censorship
+https://www.techlore.tech/,NEWS,News Media,2024-09-19,test-lists.ooni.org contribution,Independent journalism on cybersecurity and digital rights
+https://triplebit.org/,ANON,Anonymization and circumvention tools,2024-09-19,test-lists.ooni.org contribution,Tor relay association/operator
+https://cloudflare-ech.com/,HOST,Hosting and Blogging Platforms,2024-11-07,test-lists.ooni.org contribution,Domain name used by Cloudflare ECH
+https://simplex.chat/,COMT,Communication Tools,2024-12-16,test-lists.ooni.org contribution,SimpleX Chat is an instant messenger that doesn't require any kind of User IDs
+https://bcc.chat/,COMT,Communication Tools,2024-12-11,test-lists.ooni.org contribution,chatmail server for Delta Chat
+https://support.delta.chat/,COMT,Communication Tools,2024-12-11,test-lists.ooni.org contribution,Support forum for Delta Chat messenger
+https://chika.aangat.lahat.computer/,COMT,Communication Tools,2024-12-11,test-lists.ooni.org contribution,chatmail server for Delta Chat
+https://whrdic.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://gaggaalliance.org/,ENV,Environment,2024-12-03,test-lists.ooni.org contribution,
+https://numun.fund/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://southfeministfutures.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.doriafeministfund.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://justassociates.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.womankind.org.uk/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://urgentactionfund.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://resurj.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.mamacash.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://www.disabilityrightsfund.org/,HUMR,Human Rights Issues,2024-12-03,test-lists.ooni.org contribution,
+https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://root-key-sentinel-is-ta-20326.d2a8n3.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://bogus.d2a8n1.rootcanary.net/,CTRL,Control content,2024-12-17,OONI,Measurement of DNSSec root key changes
+https://www.iwraw-ap.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.womenforwomen.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.genderit.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.iknowpolitics.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.feministfrequency.com/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.girlsnotbrides.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.nwci.ie/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.endfgm.eu/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.womenpeacemakersprogram.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.musalaha.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.rawa.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://www.womenforafghanwomen.org/,HUMR,Human Rights Issues,2024-12-18,test-lists.ooni.org contribution,
+https://catbox.moe/,FILE,File-sharing,2025-01-30,test-lists.ooni.org contribution,Blocked in various countries
+https://www.cnbc.com/,NEWS,News Media,2025-03-27,OONI,
+https://amnezia.org/,ANON,Anonymization and circumvention tools,2025-03-27,OONI,Increasingly used in highly censored countries and blocked in Russia
+https://www.alhurra.com/,NEWS,News Media,2025-03-27,OONI,
+https://www.euronews.com/,NEWS,News Media,2025-03-27,OONI,
+https://www.forbes.com/,NEWS,News Media,2025-03-27,OONI,
+https://chatgpt.com/,COMT,Communication Tools,2025-03-27,OONI,AI tools
+https://claude.ai/,COMT,Communication Tools,2025-03-27,OONI,AI tools
+https://www.perplexity.ai/,COMT,Communication Tools,2025-03-27,OONI,AI tools
+https://openai.com/,COMT,Communication Tools,2025-03-27,OONI,AI 
+https://www.deepseek.com/,COMT,Communication Tools,2025-03-27,OONI,AI
+https://deepseek.ai/,COMT,Communication Tools,2025-03-27,OONI,AI tools
+https://ultravpn.com/,ANON,Anonymization and circumvention tools,2025-03-28,test-lists.ooni.org contribution,
+https://airvpn.org/,ANON,Anonymization and circumvention tools,2025-04-02,test-lists.ooni.org contribution,
+https://www.bitmask.net/,ANON,Anonymization and circumvention tools,2025-04-02,test-lists.ooni.org contribution,
+https://gijn.org/,NEWS,News Media,2025-04-02,test-lists.ooni.org contribution,
+https://queernet-rlp.de/,LGBT,LGBT,2025-04-02,test-lists.ooni.org contribution,
+https://www.fordfoundation.org/,HUMR,Human Rights Issues,2025-04-02,test-lists.ooni.org contribution,
+https://www.reprouncensored.org/,XED,Sex Education,2025-04-07,gus,
+https://www.phpmyadmin.net/,ANON,Anonymization and circumvention tools,2025-04-14,test-lists.ooni.org contribution,Used as domain fronting by snowflake and moat (tor APIs)
+https://www.cgtn.com/,NEWS,News Media,2025-04-16,test-lists.ooni.org contribution,
+https://www.npr.org/,NEWS,News Media,2025-04-25,test-lists.ooni.org contribution,
+https://cpj.org/,NEWS,News Media,2025-04-25,test-lists.ooni.org contribution,
+https://defenddefenders.org/,HUMR,Human Rights Issues,2025-04-25,test-lists.ooni.org contribution,
+https://www.buzzfeed.com/,NEWS,News Media,2025-05-09,test-lists.ooni.org contribution,
+https://www.happn.com/,DATE,Online Dating,2025-05-09,test-lists.ooni.org contribution,
+https://www.resourcematters.org/,ENV,Environment,2025-05-24,OONI,Reportedly blocked in the DRC but worth testing globally
+https://redapes.org/,ENV,Environment,2025-05-24,OONI,Reportedly blocked in the DRC but worth testing globally
+https://globalconservation.org/,ENV,Environment,2025-05-24,OONI,Reportedly blocked in the DRC but worth testing globally
+https://www.minecraft.net/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Minecraft's Official Website!
+https://store.epicgames.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Epic Games Official Website
+https://poki.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Poki Online Games
+https://nemtudo.me/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Jazzghost Quiz! Fanmade Game
+https://www.lastwar.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Android game
+https://albiononline.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,MMORPG Game
+https://tlauncher.org/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Alternative Minecraft Launcher
+https://www.g5.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,G5 Games
+https://www.gog.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Good Old Games
+https://gamersclub.gg/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,gamer club
+https://www.playstation.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,playstation website
+https://vuejs.org/,ANON,Anonymization and circumvention tools,2025-06-17,,Used as domain fronting by tor APIs
+https://annas-archive.org/,CULTR,Culture,2025-07-10,test-lists.ooni.org contribution,The largest truly open library in human history
+https://moscow.rtrs.ru/,NEWS,News Media,2025-07-18,test-lists.ooni.org contribution,"Russian national tv, sanctioned in the EU "
+https://bricspress.live/,NEWS,News Media,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
+https://fondfbr.ru/,POLR,Political Criticism,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
+https://tigerweb.ru/,COMM,E-commerce,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
+https://thereisnoearthb.org/,ENV,Environment,2025-08-04,test-lists.ooni.org contribution,
+https://keys.openpgp.org/,ANON,Anonymization and circumvention tools,2025-08-15,gus,OpenPGP keyserver
+https://abortion-pills.org/,HUMR,Human Rights Issues,2025-08-27,test-lists.ooni.org contribution,
+https://safeabortionpill.org/,HUMR,Human Rights Issues,2025-08-27,test-lists.ooni.org contribution,
+https://safeabortionpills.com/,HUMR,Human Rights Issues,2025-08-27,test-lists.ooni.org contribution,
+https://docs.mvt.re/,HUMR,Human Rights Issues,2025-09-08,test-lists.ooni.org contribution,Amnesty International's Mobile Verification Toolkit.
+https://sniply.io/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://replug.io/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://joturl.com/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://www.rebrandly.com/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://www.bl.ink/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://tiny.cc/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://t2mio.com/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://yourls.org/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://short.io/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://ow.ly/,HOST,Hosting and Blogging Platforms,2025-09-16,test-lists.ooni.org contribution,
+https://api.revenuecat.com/,COMM,E-commerce,2025-11-26,test-lists.ooni.org contribution,"RevenueCat handles subscriptions for mobile apps, and is targeted by some governments to block mobile apps (China, Myanmar, Russia)"
+https://www.404media.co/,NEWS,News Media,2025-11-11,test-lists.ooni.org contribution,"Investigative journalism about hacking, cybersecurity, cybercrime, sex, artificial intelligence, consumer rights, surveillance, privacy, and the democratization of the internet"
+https://transfemscience.org/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contribution,a resource for original informational content on the subject of transfeminine hormone therapy
+https://genderdysphoria.fyi/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contribution,Information about gender dysphoria and trans experiences
+https://www.access-unlocked.org/,ANON,Anonymization and circumvention tools,2025-12-08,OONI,New DW website for censorship circumvention tools
+https://chat.openai.com/,CULTR,Culture,2025-12-13,test-lists.ooni.org contribution,AI-powered content generation platform; may be blocked due to restrictions on AI or online content in some countries. Collateral damage of Cloudflare shutdowns in Spain due to LaLiga.
+https://unredacted.org/,ANON,Anonymization and circumvention tools,2026-01-02,OONI,privacy and circumvention related project
