@@ -1459,6 +1459,20 @@ https://safe2choose.org/,XED,Sex Education,2026-01-21,OONI,Reportedly blocked in
 https://womenfirstdigital.org/,XED,Sex Education,2026-01-21,OONI,
 https://www.howtouseabortionpill.org/,XED,Sex Education,2026-01-21,OONI,
 https://findmymethod.org/,XED,Sex Education,2026-01-21,OONI,
+https://www.plancpills.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.ineedana.com/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.heyjane.com/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://carafem.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://justthepill.com/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://womenhelp.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.redstateaccess.com/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.msichoices.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://janesdueprocess.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.yellowhammerfund.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://fundtexaschoice.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.teafund.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://www.lilithfund.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
+https://fronterafundrgv.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni.org contribution,reproductive rights organization
 https://chromewebstore.google.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://microsoftedge.microsoft.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://addons.opera.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
@@ -1510,12 +1524,10 @@ https://ipfs.io/,COMT,Communication Tools,2023-06-04,willscott,IPFS Gateway
 https://dweb.link/,COMT,Communication Tools,2023-06-26,lidel,IPFS Gateway with Origin per CID (same s ipfs.io)
 https://cid.contact/,COMT,Communication Tools,2023-06-04,willscott,
 https://abortionpillinfo.org/,XED,Sex Education,2023-06-13,gus,
-https://womenhelp.org/,XED,Sex Education,2023-06-13,gus,
 https://www.abortoinfosegura.com/,XED,Sex Education,2023-06-13,gus,
 https://abortion.eu/,XED,Sex Education,2023-06-13,gus,
 https://abortionfunds.org/,XED,Sex Education,2023-06-13,gus,
 https://abortionnetwork.amsterdam/,XED,Sex Education,2023-06-13,gus,
-https://www.plancpills.org/,XED,Sex Education,2023-06-13,gus,
 https://www.reprolegalhelpline.org/,HUMR,Human Rights Issues,2023-06-13,gus,
 https://rumble.com/,MMED,Media sharing,2023-06-15,test-lists.ooni.org contribution,
 http://kremlin.ru/,GOVT,Government,2023-06-24,test-lists.ooni.org contribution,The official website of the President of the Russian Federation
