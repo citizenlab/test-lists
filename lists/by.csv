@@ -1,351 +1,468 @@
 url,category_code,category_description,date_added,source,notes
-https://www.surveymonkey.com/,COMM,E-commerce,2023-11-03,communuty member,survey site blocked by Amazon CloudFront
-https://editor.wix.com/,HOST,Hosting and Blogging Platforms,2023-10-17,communuty member,web-site builder
-https://wix.com/,HOST,Hosting and Blogging Platforms,2023-10-17,communuty member,web-site builder
-https://pnpm.io/,MISC,Miscellaneous content,2022-11-29,communuty member,package manager blocked by CloudFlare
-https://wise.com/,MISC,Miscellaneous content,2022-11-26,communuty member,payment platform blocked by CloudFlare
-https://registry.terraform.io/,MISC,Miscellaneous content,2022-11-25,communuty member,developers site blocked by US trade controls
-https://opensea.io/,MISC,Miscellaneous content,2022-11-25,communuty member,NFT trading platform blocked by CloudFlare
-https://newbelarus.com/,POLR,Political Criticism,2023-02-21,community member,alternative governance
-https://greenbelarus.info/,ENV,Environment,2022-11-11,community member,ecological portal
-https://www.pravda.com.ua/,NEWS,News Media,2022-07-14,community member,Ukraine online media blocked in Belarus
-https://politzek.me/,COMT,Communication Tools,2022-06-22,community member,information about political prisoners
-https://golos2020.org/,POLR,Political Criticism,2021-03-19,community member,alternative voting
-https://pages.github.com/,HOST,Hosting and Blogging Platforms,2021-03-12,community member,software development platform
-https://mediazona.by/,POLR,Political Criticism,2021-03-05,community member,
-https://cet.eurobelarus.info/,POLR,Political Criticism,2021-01-18,community member,policy analytics
-https://zubr.cc/,POLR,Political Criticism,2020-11-30,community member,citizen court monitoring
-https://lurkmore.to/,CULTR,Culture,2019-11-15,community member,
-https://catholic.by/,REL,Religion,2015-04-14,citizenlab,
-http://otzyvy.by/,COMM,E-commerce,2015-04-14,citizenlab,site for providing consumers feedback
-http://www.kryscina.com/,CULTR,Culture,2015-04-14,citizenlab,personal blog
-http://www.allminsk.biz/,ECON,Economics,2015-04-14,citizenlab,
-http://www.radabnr.org/,GOVT,Government,2015-04-14,citizenlab,site of the Belarusian Council
-http://spring96.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
-http://www.un.by/,IGO,Intergovernmental Organizations,2015-04-14,citizenlab,site of UN for Belarus
-https://www.lastrada.by/,NEWS,News Media,2015-04-14,citizenlab,website for immigration
-http://www.vstrecha.by/,PUBH,Public Health,2015-04-14,citizenlab,site about men's health
-http://hram.by/,REL,Religion,2015-04-14,citizenlab,
-https://baptist.by/,REL,Religion,2015-04-14,citizenlab,Baprist church site
-http://www.krinica.org/,REL,Religion,2015-04-14,citizenlab,
-http://www.newlife.by/,REL,Religion,2015-04-14,citizenlab,
-http://freespace.by/,COMM,E-commerce,2015-04-14,citizenlab,former file-sharing platform is now online store
-http://gomel.baptist.by/,REL,Religion,2015-04-14,citizenlab,Site of Baptist church in BY
-http://www.islam.by/,NEWS,News Media,2015-04-14,citizenlab,news related to Islam
-https://en.ehu.lt/,CULTR,Culture,2015-04-14,citizenlab,university website
-http://www.xgay.ru/,LGBT,LGBT,2015-04-14,citizenlab,
-https://www.velcom.by/ru/service-lines,COMM,E-commerce,2015-04-14,citizenlab,site of mobile oparator Velcom
-http://dziejaslou.by/,CULTR,Culture,2015-04-14,citizenlab,
-https://minsk-by.livejournal.com/,NEWS,News Media,2015-04-14,citizenlab,
-https://talks.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://42.tut.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://niva.bialystok.pl/,NEWS,News Media,2015-04-14,citizenlab,
-https://baj.by/be,NEWS,News Media,2015-04-14,citizenlab,
-https://euroradio.by/,NEWS,News Media,2015-04-14,citizenlab,European raido for Belarus based in Poland
-http://www.br.minsk.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://bymedia.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://inosmi.ru/euramost/,NEWS,News Media,2015-04-14,citizenlab,
-https://gomelspring.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://main.itv.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://malady-front.blogspot.com/,NEWS,News Media,2015-04-14,citizenlab,
-http://external.polskieradio.pl/,NEWS,News Media,2015-04-14,citizenlab,
-http://luther.by/,REL,Religion,2015-04-14,citizenlab,
-http://www.ciwr.org/zavadsky_en.html,POLR,Political Criticism,2015-04-14,citizenlab,site of the personal cameraman of Lukashenko
-http://www.leader.ru/,ANON,Anonymization and circumvention tools,2015-04-14,citizenlab,
-http://shaternikart.org/,CULTR,Culture,2015-04-14,citizenlab,
-https://voka.tv/,CULTR,Culture,2015-04-14,citizenlab,
-http://www.pravoby.info/,HUMR,Human Rights Issues,2015-04-14,citizenlab,reposiitory of national and regional laws. Not updated since 2016
-http://bielarus.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://forum.brest.by/,NEWS,News Media,2015-04-14,citizenlab,discussion platform. Temporarily turned off in April 2019
-http://www.belaruspartizan.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.bialorus.pl/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.data.minsk.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://community.livejournal.com/by/,POLR,Political Criticism,2015-04-14,citizenlab,
-http://www.3dway.org/,POLR,Political Criticism,2015-04-14,citizenlab,
-http://www.levonevsky.org/,POLR,Political Criticism,2015-04-14,citizenlab,site of Belarusian political and social activist
-http://www.ourbelarus.org/,POLR,Political Criticism,2015-04-14,citizenlab,
-http://lipkovich.livejournal.com/,NEWS,News Media,2015-04-14,citizenlab,personal blog
-https://vk.com/humanrights_by,HUMR,Human Rights Issues,2015-10-17,igorv,FB channel of critical human rights org
-https://ru-ru.facebook.com/charter97.org/,NEWS,News Media,2015-10-17,igorv,FB channel of critical human rights org
-http://liberaly.org/,POLR,Political Criticism,2019-04-04,Netalitica,Belarusian Liberal Party of Freedom and Progress - opposition
-https://belayarus.by/,GOVT,Government,2019-04-04,Netalitica,Political formation loyal to President Lukashenkko
-http://www.comparty.by/,GOVT,Government,2019-04-04,Netalitica,Communist party of Belarus -  loyal to President Lukashenkko
-http://ldp.by/ru/,GOVT,Government,2019-04-04,Netalitica,Liberal Democratic party of Belarus  -  loyal to President Lukashenkko
-https://rpts.by/,GOVT,Government,2019-04-04,Netalitica,Republican party of Labor and Justice - loyal to President Lukashenko
-https://www.belhelcom.org/be,HUMR,Human Rights Issues,2019-04-04,Netalitica,Belarussian Helsinki Committee
-https://humanrightshouse.org/human-rights-houses/belarus/,HUMR,Human Rights Issues,2019-04-04,Netalitica,Belarusian Human Rights House
-https://bydc.info/,HUMR,Human Rights Issues,2019-04-04,Netalitica,
-https://baj.by/,HUMR,Human Rights Issues,2019-04-04,Netalitica,Belarusian Association of Journalists
-https://vk.com/pyx_by,HUMR,Human Rights Issues,2019-04-04,Netalitica,VK channel of local Human rights organization
-https://vk.com/belaruspartisan,NEWS,News Media,2019-04-04,Netalitica,VK channel of major critical medium
-https://belsat.eu/ru/,NEWS,News Media,2019-04-04,Netalitica,independent TV channel
-https://www.nv-online.info/,NEWS,News Media,2019-04-04,Netalitica,
-https://www.intex-press.by/,NEWS,News Media,2019-04-04,Netalitica,
-https://hramada.org/,POLR,Political Criticism,2019-04-04,Netalitica,Belarusian Social Democratic party - oppposition party
-http://www.narodnaja-partyja.org/,POLR,Political Criticism,2019-04-04,Netalitica,Conservative Christian Party - opposition
-https://belgreens.org/,POLR,Political Criticism,2019-04-04,Netalitica,Green party - opposition
-http://lewoniewski.info/blog/,POLR,Political Criticism,2019-04-04,Netalitica,Blog of political dissident Uladzimir Levaneuski
-http://zvarot.by/ru/,POLR,Political Criticism,2019-04-04,Netalitica,Blocked petitions platform
-https://vk.com/pramenofanarchy,POLR,Political Criticism,2019-04-04,Netalitica,Anarchist group blocked in BY
-https://pramen.io/ru/glavnaya/,POLR,Political Criticism,2019-04-04,Netalitica,Anarchist group blocked in BY
-https://www.sb.by/,NEWS,News Media,2019-04-05,Netalitica,Belarus largest newspaper
-https://www.onliner.by/,NEWS,News Media,2019-04-05,Netalitica,
-https://ok.ru/group/52126350901465,NEWS,News Media,2019-04-05,Netalitica,OK page of RFE/RL BY service
-https://vk.com/radiosvaboda,NEWS,News Media,2019-04-05,Netalitica,VK page of RFE/RL BY service
-https://www.belta.by/,NEWS,News Media,2019-04-05,Netalitica,
-http://tnt-online.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian medium popular in BY
-https://sputnik.by/,NEWS,News Media,2019-04-05,Netalitica,Sputnik service for BY
-https://www.belnovosti.by/,NEWS,News Media,2019-04-05,Netalitica,
-https://gomel.today/,NEWS,News Media,2019-04-05,Netalitica,
-https://www.tvr.by/,NEWS,News Media,2019-04-05,Netalitica,
-https://www.bigmir.net/,NEWS,News Media,2019-04-05,Netalitica,
-https://ont.by/,NEWS,News Media,2019-04-05,Netalitica,site of national TV
-http://www.aif.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
-http://www.21.by/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
-https://www.mk.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
-https://lenta.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
-https://regnum.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-https://sputnikipogrom.com/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-https://eadaily.com/ru/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-http://imperiyanews.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-https://rusnext.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-https://cont.ws/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-https://www.fondsk.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-https://zapadrus.su/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist medium conducting anti-Belarus campaign
-http://noblockme.ru/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,blocked popular anonymizer in BY.
-https://www.4everproxy.com/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,blocked popular anonymizer in BY.
+https://www.legalizer.cc/,ALDR,Alcohol & Drugs,2025-04-30,Netalitica,reportedly blocked
+https://www.pyramidseeds.com/,ALDR,Alcohol & Drugs,2025-04-30,Netalitica,reportedly blocked
+https://www.worldofseeds.com/,ALDR,Alcohol & Drugs,2025-04-30,Netalitica,reportedly blocked
+http://www.kalashnikov-seeds.com/,ALDR,Alcohol & Drugs,2025-04-30,Netalitica,reportedly blocked
+https://zharov-lox.telegramproxy.me/,ANON,Anonymization and circumvention tools,2020-08-24,OONI,Reportedly blocked
+https://cameleo.org/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,blocked popular anonymizer in BY.
+https://zenmate.com/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Reportedly blocked
+https://www.urban-vpn.com/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Recommended for BY users
+https://xeovo.com/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Recommended for BY users
+https://blancvpn.com/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Recommended for BY users
+https://tachyon.eco/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Recommended for BY users
+https://vpnguild.org/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,VPN recommended services
+https://vpngen.org/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Recommended for BY users
+https://vpnlove.org/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,VPN rating and recommended services
+https://papervpn.io/,ANON,Anonymization and circumvention tools,2025-04-30,Netalitica,Recommended for BY users
+https://www.4everproxy.com/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,
 https://browsec.com/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,recommended by liberal BY orgs
-https://unblocksites.xyz/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,blocked popular anonymizer in BY.
-http://cameleo.xyz/,ANON,Anonymization and circumvention tools,2019-04-07,Netalitica,blocked popular anonymizer in BY.
-https://dramaturg.org/,CULTR,Culture,2019-04-07,Netalitica,
-http://love-in.by/ru/search.phtml,DATE,Online Dating,2019-04-07,Netalitica,
-https://www.mamba.ru/landing/ru/belarus-248,DATE,Online Dating,2019-04-07,Netalitica,
-https://2995.polovinka.org/,DATE,Online Dating,2019-04-07,Netalitica,
-https://probusiness.io/,ECON,Economics,2019-04-07,Netalitica,
-https://biznet.by/,ECON,Economics,2019-04-07,Netalitica,
-https://bel.biz/,ECON,Economics,2019-04-07,Netalitica,
-http://www.bk.by/,ECON,Economics,2019-04-07,Netalitica,
-http://bii.by/,ECON,Economics,2019-04-07,Netalitica,
-http://bizshop.by/,ECON,Economics,2019-04-07,Netalitica,
-http://delo.by/,ECON,Economics,2019-04-07,Netalitica,
-https://www.belhelcom.org/,HUMR,Human Rights Issues,2019-04-07,Netalitica,Site of Belarusian Helsinski Committee
-http://ciwr.org/,HUMR,Human Rights Issues,2019-04-07,Netalitica,Organization for protection of rights of political prisionors
-http://belngo.info/,HUMR,Human Rights Issues,2019-04-07,Netalitica,Assembly of Pro-Democratic NGOs of Belarus
-http://www.msd-mh.info/,HUMR,Human Rights Issues,2019-04-07,Netalitica,
-http://studrada.org/,HUMR,Human Rights Issues,2019-04-07,Netalitica,student organization
-https://gender.do.am/,LGBT,LGBT,2019-04-07,Netalitica,
-http://www.parniplus.ru/,LGBT,LGBT,2019-04-07,Netalitica,Russian LGBT organization
-http://lgbt.by/,LGBT,LGBT,2019-04-07,Netalitica,
-https://travesti-diva.io.ua/,LGBT,LGBT,2019-04-07,Netalitica,LGBT activist/artist from BY
-http://sunshine.by/,LGBT,LGBT,2019-04-07,Netalitica,
-http://bluesystem.ru/,LGBT,LGBT,2019-04-07,Netalitica,popular Russian platform blocked in Russia
-http://torrent.by/,MMED,Media sharing,2019-04-07,Netalitica,
-https://www.futurevideo.pro/,MMED,Media sharing,2019-04-07,Netalitica,
-http://nnm-club.me/,MMED,Media sharing,2019-04-07,Netalitica,
-http://kinozal.tv/,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
-https://rutracker.org/forum/index.php,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://rutor.info/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://new-rutor.org/search/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-https://hdreactor.club/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://tapochek.net/index.php,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-https://www.limetorrents.info/,FILE,File-sharing,2019-04-07,Netalitica,
-http://seedoff4.innal.top/,MMED,Media sharing,2019-04-07,Netalitica,
-http://torrent-games.info/,MMED,Media sharing,2019-04-07,Netalitica,
-http://filmpotok.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://films-torrent.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://halyavin.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://torrents3d.ru/,MMED,Media sharing,2019-04-07,Netalitica,Russian platform popular in BY
-http://minda.by/,REL,Religion,2019-04-07,Netalitica,Site of the Minsk Theological academy
-http://www.church.by/,REL,Religion,2019-04-07,Netalitica,site of Belarussian Orthodox church
-http://w2.vatican.va/content/vatican/it.html,REL,Religion,2019-04-07,Netalitica,Vatican site
-http://www.belapc.org/,REL,Religion,2019-04-07,Netalitica,site of Belarusian Autocephalous Orthodox Church
-http://nunciature.catholic.by/,REL,Religion,2019-04-07,Netalitica,
-https://www.winner.com/,GMB,Gambling,2019-04-09,Netalitica,popular in BY.
-https://ru.888casino-game.com/exclusive-mob/double-1500.htm,GMB,Gambling,2019-04-09,Netalitica,
-https://casino.betway.com/ru/,GMB,Gambling,2019-04-09,Netalitica,
-http://www.eaeunion.org/,IGO,Intergovernmental Organizations,2019-04-09,Netalitica,site of the Eurasian Economic Union
-https://odkb-csto.org/,IGO,Intergovernmental Organizations,2019-04-09,Netalitica,site of the Collective Security Treaty Organization
-https://15minut.org/,NEWS,News Media,2019-04-09,Netalitica,Tatar media blocked in Russia- for testing upstream filtering
-https://www.segodnya.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-http://glavcom.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-https://glavnoe.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-http://censor.net.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-https://www.rbc.ua/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-https://myrotvorets.center/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
-https://graniru.org/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
-http://www.ej.ru/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
-http://ej.ru/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
-http://www.kasparov.ru/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
-http://utronews.org/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
-http://vozrojdenie.crimea.ua/index.php,MILX,Terrorism and Militants,2019-04-09,Netalitica,blocked in Russia-for testing upstream filtering
-http://khodorkovsky.ru/,POLR,Political Criticism,2019-04-09,Netalitica,Site of Russian dissident blocked in Russia- for testing upstream filtering
-https://or.team/,HUMR,Human Rights Issues,2019-04-09,Netalitica,HR site blocked in Russia- for testing upstream filtering
-https://openrussia.org/,HUMR,Human Rights Issues,2019-04-09,Netalitica,HR site blocked in Russia- for testing upstream filtering
-https://www.facebook.com/people/Volnae-Hlybokaye/100015141876446,NEWS,News Media,2019-04-04,Netalitica,FB channel of pressured print medium
-https://twitter.com/Pramenofanarchy,POLR,Political Criticism,2019-04-04,Netalitica,Anarchist group blocked in BY
-https://arche.by/,CULTR,Culture,2015-04-14,citizenlab,
-https://aquamber.livejournal.com/,NEWS,News Media,2015-04-14,citizenlab,
-https://dzedzich.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
-https://belapan.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://charter97.livejournal.com/,NEWS,News Media,2015-04-14,citizenlab,
-https://forum.grodno.net/,NEWS,News Media,2015-04-14,citizenlab,discussion forum for Grodno city
-https://news.vitebsk.cc/,NEWS,News Media,2015-04-14,citizenlab,
-https://providers.by/,NEWS,News Media,2015-04-14,citizenlab,news about ISPs
-https://udf.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://belsat.eu/,NEWS,News Media,2015-04-14,citizenlab,
-https://ej.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://ex-press.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://gazetaby.com/,NEWS,News Media,2015-04-14,citizenlab,
-https://www.gs.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://imperiya.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://www.kp.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://naviny.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://nn.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://www.racyja.com/,NEWS,News Media,2015-04-14,citizenlab,
-https://www.svaboda.org/,NEWS,News Media,2015-04-14,citizenlab,RFE/RL
-https://telegraf.by/,NEWS,News Media,2015-04-14,citizenlab,
-https://zapraudu.info/,NEWS,News Media,2015-04-14,citizenlab,site of the Movement for peaceful change
-https://nashaziamlia.org/,POLR,Political Criticism,2015-04-14,citizenlab,
-http://sergechaly.livejournal.com/,POLR,Political Criticism,2015-04-14,citizenlab,personal blog
-https://globalvoices.org/-/world/eastern-central-europe/belarus/,POLR,Political Criticism,2015-04-14,citizenlab,
-https://politoboz.com/,POLR,Political Criticism,2015-04-14,citizenlab,
-https://pyx.by/,HUMR,Human Rights Issues,2015-10-17,igorv,URL without https
-https://belaruspartisan.by/,NEWS,News Media,2016-12-17,OONI,main independent media outlet
-http://knihi.com/,CULTR,Culture,2015-04-14,citizenlab,
-http://ulis.by/,CULTR,Culture,2015-04-14,citizenlab,
-http://www.nobility.by/,CULTR,Culture,2015-04-14,citizenlab,resource about Belarusian nobility
-http://www.info.belreform.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
-http://www.ngo.by/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
-http://www.gayly.ru/,LGBT,LGBT,2015-04-14,citizenlab,
-http://www.lesbi.ru/,LGBT,LGBT,2015-04-14,citizenlab,
-http://34mag.net/,NEWS,News Media,2015-04-14,citizenlab,
-http://bdg.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://belinter.net/,NEWS,News Media,2015-04-14,citizenlab,
-http://budzma.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://electroname.com/,NEWS,News Media,2015-04-14,citizenlab,
-http://generation.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://intex-press.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://minsk-by.livejournal.com/,NEWS,News Media,2015-04-14,citizenlab,bloging platfor for events happening in city Minsk
-http://s13.ru/,NEWS,News Media,2015-04-14,citizenlab,
-http://vitebsk.ws/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.afn.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.belarustoday.info/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.belgazeta.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.belmarket.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.belmy.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.bybanner.com/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.ciwr.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.europeanbelarus.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.hitroe.com/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.iiseps.org/,NEWS,News Media,2015-04-14,citizenlab,Institute for socio-economic studies
-http://www.interfax.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.probelarus.ru/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.zbsb.org/,NEWS,News Media,2015-04-14,citizenlab,
-http://zautra.by/,NEWS,News Media,2015-04-14,citizenlab,
-http://www.bchd.info/,POLR,Political Criticism,2015-04-14,citizenlab,site of Christian democracy movement
-http://www.bielarus.net/,POLR,Political Criticism,2015-04-14,citizenlab,
-http://www.bsdp.org/,POLR,Political Criticism,2015-04-14,citizenlab,Belarusian Social Democratic Party
-https://www.lawtrend.org/,POLR,Political Criticism,2015-04-14,citizenlab,
-http://www.ucpb.org/,POLR,Political Criticism,2015-04-14,citizenlab,site of the United Civil Party
-http://intimby.net/,PROV,Provocative Attire,2015-04-14,citizenlab,
-http://www.sobor.by/,REL,Religion,2015-04-14,citizenlab,
-https://ok.ru/charter97,NEWS,News Media,2015-10-17,igorv,VK channel of critical human rights org
-https://vk.com/charter_97,NEWS,News Media,2015-10-17,igorv,OK channel of critical human rights org
-https://ok.ru/belpartisan,NEWS,News Media,2015-10-17,igorv,OK channel of main critical medium
-http://www.electby.org/,NEWS,News Media,2015-10-17,igorv,Elections monitoring platform
-http://narodny.org/,POLR,Political Criticism,2015-10-17,igorv,Opposition political party
-https://vk.com/stopluka,POLR,Political Criticism,2015-10-17,igorv,popular VK channel critical of Lukashenko
-https://vk.com/l_l_loc,POLR,Political Criticism,2015-10-17,igorv,popular VK channel critical of Lukashenko
+https://current-time.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://svabod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
+https://bizshop.by/ ,COMM,E-commerce,2019-04-07,Netalitica,Business sale marketplace
+https://www.liveu.tv/,COMM,E-commerce,2020-08-24,OONI,
+https://wise.com/ ,COMM,E-commerce,2022-11-26,communuty member,payment platform blocked by CloudFlare
+https://registry.terraform.io/ ,COMM,E-commerce,2022-11-25,communuty member,developers site blocked by US trade controls
+https://opensea.io/ ,COMM,E-commerce,2022-11-25,communuty member,NFT trading platform blocked by CloudFlare
+https://www.lastrada.by/ ,COMM,E-commerce,2015-04-14,citizenlab,
+https://www.a1.by/,COMM,E-commerce,2015-04-14,citizenlab,site of mobile oparator A1
+https://21vek.by/,COMM,E-commerce,2025-04-30,Netalitica,"One of the largest online hypermarkets in Belarus, offering electronics, appliances, and more."
+https://onliner.by/,COMM,E-commerce,2025-04-30,Netalitica,"A multi-functional portal featuring a marketplace, tech news, forums, and reviews."
+https://5element.by/,COMM,E-commerce,2025-04-30,Netalitica,Retail chain and online store for electronics and household appliances.
+https://kufar.by/,COMM,E-commerce,2025-04-30,Netalitica,Popular classified ads platform and marketplace for individuals and businesses.
+https://deal.by/,COMM,E-commerce,2025-04-30,Netalitica,Comprehensive B2C and B2B marketplace offering a wide variety of products.
+https://shop.mts.by/,COMM,E-commerce,2025-04-30,Netalitica,Mobile devices and accessories online store by MTS Belarus.
+https://e-dostavka.by/,COMM,E-commerce,2025-04-30,Netalitica,Online grocery delivery service by Euroopt supermarket chain.
+https://oma.by/,COMM,E-commerce,2025-04-30,Netalitica,DIY and home improvement online store.
+https://xistore.by/,COMM,E-commerce,2025-04-30,Netalitica,Official online store for Xiaomi products in Belarus.
+https://i-store.by/,COMM,E-commerce,2025-04-30,Netalitica,Belarusian online store specializing in Apple products.
+https://i-smart.by/,COMM,E-commerce,2025-04-30,Netalitica,"Online store for smartphones, gadgets, and electronics."
+https://7745.by/,COMM,E-commerce,2025-04-30,Netalitica,Online electronics and home appliance store.
+https://remzona.by/,COMM,E-commerce,2025-04-30,Netalitica,"Online store for auto parts, tools, and accessories."
+https://zap.by/,COMM,E-commerce,2025-04-30,Netalitica,Specialized online store for automotive spare parts.
+https://avtovopros.by/,COMM,E-commerce,2025-05-14,Human Constanta,Platform for buying and selling auto parts and accessories.
+https://autoset.by/,COMM,E-commerce,2025-05-14,Human Constanta,Automotive parts and car goods online store.
+https://goldapple.by/,COMM,E-commerce,2025-05-14,Human Constanta,Online store for cosmetics and perfumes.
+https://avtovelomoto.by/,COMM,E-commerce,2025-05-14,Human Constanta,"Store for motor vehicles, electric transport, and agro machinery."
+https://belbazar24.by/,COMM,E-commerce,2025-05-14,Human Constanta,Online store for clothing and fashion accessories.
+https://otzyvy.by/,COMM,E-commerce,2015-04-14,citizenlab,site for providing consumers feedback
+https://freespace.by/,COMM,E-commerce,2015-04-14,citizenlab,former file-sharing platform is now online store
+https://cock.li/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
+https://catalog-telegram.ru/,COMT,Communication Tools,2020-08-24,OONI,
+https://www.vamtlgrm.com/,COMT,Communication Tools,2020-08-24,OONI,
+https://www.kultura.by/,CULTR,Culture,2025-04-30,Netalitica,"Official portal of the Ministry of Culture of Belarus, covering cultural news and institutions."
+https://livingheritage.by/,CULTR,Culture,2025-04-30,Netalitica,"Platform dedicated to the intangible cultural heritage of Belarus, supported by UNESCO."
+https://www.belarus.by/,CULTR,Culture,2025-04-30,Netalitica,Governmental site with comprehensive information on Belarusian culture.
+https://www.belarusguide.com/,CULTR,Culture,2025-04-30,Netalitica,"Online guide to Belarusian history, art, and traditions."
+https://tuzinfm.by/,CULTR,Culture,2025-04-30,Netalitica,Non-profit platform promoting Belarusian music and musicians.
+https://experty.by/,CULTR,Culture,2025-04-30,Netalitica,Expert reviews and ratings of Belarusian music albums.
+https://afisha.relax.by/,CULTR,Culture,2025-04-30,Netalitica,"Cultural and entertainment guide listing concerts, exhibitions, and events."
+https://artcenter.by/,CULTR,Culture,2025-04-30,Netalitica,Belarusian art and culture project organizing exhibitions and educational programs.
+https://kupalauski.by/,CULTR,Culture,2025-04-30,Netalitica,Website of the Yanka Kupala National Academic Theater.
+https://bolshoibelarus.by/,CULTR,Culture,2025-04-30,Netalitica,Official site of the National Academic Bolshoi Opera and Ballet Theatre.
+https://pawet.net/,CULTR,Culture,2025-04-30,Netalitica,"Digital archive of Belarusian cultural, historical, and religious documents."
+https://planetabelarus.by/,CULTR,Culture,2025-04-30,Netalitica,"Multimedia portal about Belarusian nature, history, and cultural landmarks."
+https://belmovie.by/,CULTR,Culture,2025-04-30,Netalitica,Belarusian national film studio's official website.
+https://arttube.by/,CULTR,Culture,2025-04-30,Netalitica,Platform for Belarusian contemporary art and exhibitions.
+https://kulturnykod.byculture.org/,CULTR,Culture,2025-04-30,Netalitica,project documenting and rethinking Belarusian cultural heritage through multimedia storytelling and public dialogue.
+https://vasminoh.school/,CULTR,Culture,2025-04-30,Netalitica,"creative learning initiative offering educational programs in Belarusian language, art, and culture for children and adults."
+https://mahistrat.byculture.org/,CULTR,Culture,2025-04-30,Netalitica,cultural heritage project exploring historical models of local self-governance and civic participation in Belarus.
+https://bylinguahelp.wixsite.com/belarus/,CULTR,Culture,2025-04-30,Netalitica,Platform offering free language assistance to Belarusians affected by repression.
+https://donar.by/,CULTR,Culture,2025-04-30,Netalitica,Donation platform supporting civil society initiatives in Belarus.
+https://litradio.link/,CULTR,Culture,2025-04-30,Netalitica,Online radio broadcasting Belarusian literary works and independent voices.
+https://rebrest.tilda.ws/,CULTR,Culture,2025-04-30,Netalitica,Digital project about the alternative history and civil resistance in Brest.
+https://www.belarusians.nl/,CULTR,Culture,2025-04-30,Netalitica,Community platform for Belarusians in the Netherlands advocating democratic values.
+https://bellit.info/,CULTR,Culture,2025-04-30,Netalitica,Information portal dedicated to Belarusian literature and literary criticism.
+https://globalbelarus.info/,CULTR,Culture,2025-04-30,Netalitica,Analytical resource covering global perspectives on Belarusian political developments.
+https://bizumstvo.imaguru.co/,CULTR,Culture,2025-04-30,Netalitica,Entrepreneurship support and networking hub for Belarusian startups in exile.
+https://dzietkam.knihi.com/,CULTR,Culture,2025-04-30,Netalitica,Collection of Belarusian books and resources for children and parents.
+https://prajdzisvet.org/,CULTR,Culture,2025-04-30,Netalitica,Literary translation project sharing global literature in Belarusian.
+https://www.lyrikline.org/ru/poety?nav=1&country%5B%5D=BY,CULTR,Culture,2025-04-30,Netalitica,International poetry platform featuring works by Belarusian poets.
+https://belarus-history.com/,CULTR,Culture,2025-04-30,Netalitica,Historical portal focused on Belarusian national identity and past events.
+https://volny-uni.eu/,CULTR,Culture,2025-04-30,Netalitica,Independent university offering free humanities education in Belarusian.
+https://www.vandra.by/,CULTR,Culture,2025-04-30,Netalitica,Interactive guide to Belarusian historical and cultural landmarks.
+http://www.artonist.org/,CULTR,Culture,2025-04-30,Netalitica,Art community and platform promoting Belarusian artists and exhibitions.
+https://belcollegium.com/,CULTR,Culture,2025-04-30,Netalitica,Collegium of Belarusian intellectuals and academics in exile.
+https://www.staronki.space/,CULTR,Culture,2025-04-30,Netalitica,Digital library and cultural space for Belarusian-language publications.
+https://brama.online/,CULTR,Culture,2025-04-30,Netalitica,Collection of Belarusian language videos.
+https://tutaka.org/,CULTR,Culture,2025-04-30,Netalitica,"Platform supporting Belarusian culture, language, and civic engagement."
+https://musicforbelarus.com/,CULTR,Culture,2025-04-30,Netalitica,Global music initiative supporting Belarusian democratic movement.
+https://znichka.space/,CULTR,Culture,2025-04-30,Netalitica,Belarusian-language media platform.
+https://www.radzima.org/,CULTR,Culture,2025-04-30,Netalitica,Portal focused on Belarusian historical sites.
+https://say.by/,CULTR,Culture,2025-04-30,Netalitica,Belarusian-language digital engagement platform.
+https://www.kryscina.com/,CULTR,Culture,2015-04-14,citizenlab,personal blog
+https://dziejaslou.by/,CULTR,Culture,2015-04-14,citizenlab,
+https://shaternikart.org/,CULTR,Culture,2015-04-14,citizenlab,
+https://knihi.com/,CULTR,Culture,2015-04-14,citizenlab,
+https://www.nobility.by/ ,CULTR,Culture,2015-04-14,citizenlab,resource about Belarusian nobility
+https://en.ehu.lt/,CULTR,Culture,2015-04-14,citizenlab,university website
+https://voka.tv/,CULTR,Culture,2015-04-14,citizenlab,
 https://ru.wiktionary.org/,CULTR,Culture,2016-07-18,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://be.wikipedia.org/,CULTR,Culture,2016-07-18,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://be-tarask.wikipedia.org/,CULTR,Culture,2016-07-18,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://pl.wikipedia.org/,CULTR,Culture,2016-07-18,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-http://protivpytok.org/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
-http://www.legin.by/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
-https://praca-by.info/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
-https://humanconstanta.by/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
-https://zona.media/theme/belarus,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://www.tut.by/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://reform.by/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://honestpeople.by/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
-https://zubr.in/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
-https://babariko.vision/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
-https://kyky.org/,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://www.mamba.ru/,DATE,Online Dating,2019-04-07,Netalitica,Popular dating service
+https://www.polovinka.org/,DATE,Online Dating,2019-04-07,Netalitica,
+https://tabor.ru/,DATE,Online Dating,2025-04-30,Netalitica,Popular dating and social networking site used widely in Belarus and Russia.
+https://www.tinder.com/,DATE,Online Dating,2025-04-30,Netalitica,Global swipe-based dating app with a strong user base in Belarus.
+https://www.loveplanet.ru/,DATE,Online Dating,2025-04-30,Netalitica,Russian-language dating site with active users in Belarus.
+https://www.russiancupid.com/,DATE,Online Dating,2025-04-30,Netalitica,Cupid Media site aimed at connecting Russian-speaking singles.
+https://www.teamo.ru/,DATE,Online Dating,2025-04-30,Netalitica,Dating site focused on serious relationships and compatibility matching.
+https://www.beboo.ru/,DATE,Online Dating,2025-04-30,Netalitica,Social network for dating and making new friends across Belarus and beyond.
+https://polovinka.by/,DATE,Online Dating,2025-04-30,Netalitica,Dating agency 
+https://beroc.org/,ECON,Economics,2025-04-30,Netalitica,leading economic academic think-tank in Belarus 
+https://www.research.by/,ECON,Economics,2025-04-30,Netalitica,independent think tank specializing in economic and social research in Belarus
+https://economics.basnet.by/,ECON,Economics,2025-04-30,Netalitica,The Institute of Economics under the National Academy of Sciences of Belarus is the country’s first scientific research organization specializing in economic studies.
+https://economy.gov.by/,ECON,Economics,2025-04-30,Netalitica,The Economy Research Institute of the Ministry of Economy conducts research and analysis to support economic policy-making in Belarus.
+https://www.ictt.by,ECON,Economics,2025-04-30,Netalitica,"The Republican Centre for Technology Transfer promotes cooperation between developers, entrepreneurs, and investors, supporting information databases and technology transfer in Belarus."
+https://bseu.by/,ECON,Economics,2025-04-30,Netalitica,The Department of Economics of Trade and Services at Belarusian State Economic University focuses on education and research in trade and services economics.
+https://www.osw.waw.pl/,ECON,Economics,2025-04-30,Netalitica,"The Centre for Eastern Studies is a Warsaw-based think tank that undertakes independent research on the political, economic, and social situation in Central and Eastern Europe, including Belarus."
+https://www.belcci.by/,ECON,Economics,2025-04-30,Netalitica,The Belarusian Chamber of Commerce and Industry supports business development and international trade relations for Belarusian enterprises.
+https://www.allminsk.biz/ ,ECON,Economics,2015-04-14,citizenlab,Minsk City Union of Entrepreneurs and Employers
+https://www.bk.by/ ,ECON,Economics,2019-04-07,Netalitica,Business and ads magazine
+https://bii.by/ ,ECON,Economics,2019-04-07,Netalitica,Economics and law related content
+https://probusiness.io/ ,ECON,Economics,2019-04-07,Netalitica,Business related outlet
+https://biznet.by/ ,ECON,Economics,2019-04-07,Netalitica,Belarusian business forum
+https://dsae.by/,ENV,Environment,2025-04-30,Netalitica,Website of the Belarusian atomic plant
+https://ecohome.ngo/,ENV,Environment,2025-04-30,Netalitica,"Belarusian NGO promoting sustainable development, democracy, and environmental protection."
+https://belarusgreen.vision/,ENV,Environment,2025-04-30,Netalitica,"Website promoting sustainable development, democracy, and environmental protection."
+https://ecoidea.me/,ENV,Environment,2025-04-30,Netalitica,Online magazine offering practical advice on eco-friendly living and environmental awareness.
+https://bahna.ngo/,ENV,Environment,2025-04-30,Netalitica,Belarusian non-profit wildlife protection
+https://greenbelarus.info/ ,ENV,Environment,2022-11-11,community member,ecological portal. Blocked
+https://pnpm.io/ ,FILE,File-sharing,2022-11-29,communuty member,package manager blocked by CloudFlare
+https://torrent.by/ ,FILE,File-sharing,2019-04-07,Netalitica,Reportedly blocked
+http://new-rutor.org/,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
+https://rutor.info/ ,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
+https://kinozal.tv/,FILE,File-sharing,2025-05-25,Netalitica,"A Russian torrent tracker specializing in movies, TV shows, music, and games."
+https://rutor.org/,FILE,File-sharing,2025-05-25,Netalitica,A Russian torrent site providing a wide range of content without requiring registration.
+https://lib.rus.ec/,FILE,File-sharing,2025-05-25,Netalitica,A Russian digital library providing free access to a vast collection of books in multiple languages.
+https://novafilm.tv/,FILE,File-sharing,2025-05-25,Netalitica,"A Russian site specializing in translated TV series, available for download."
+https://fast-torrent.ru/,FILE,File-sharing,2025-05-25,Netalitica,"A Russian torrent site offering movies, TV shows, and software for download."
+https://torrentbus.com/,FILE,File-sharing,2025-05-25,Netalitica,"A directory listing various Russian torrent sites, including those popular in Belarus."
+https://kinozal.tv/ ,FILE,File-sharing,2019-04-07,Netalitica,Russian platform popular in BY
+https://www.magicpro.info/,GAME,Gaming,2025-04-30,Netalitica,reportedly blocked
+https://gamedev.by/,GAME,Gaming,2025-05-25,Netalitica,"A community portal for Belarusian game developers, featuring news, events, and discussions related to game development."
+https://wargaming.com/,GAME,Gaming,2025-05-25,Netalitica,"Official website of Wargaming, a Belarusian game developer known for titles like World of Tanks."
+https://vizor-games.com/,GAME,Gaming,2025-05-25,Netalitica,"Website of Vizor Games, a Belarusian game development company specializing in social and mobile games."
+https://cyber.sports.ru/,GAME,Gaming,2025-05-25,Netalitica,"A Russian-language portal covering esports news, game updates, and professional gaming scenes, including Belarusian teams and players."
+https://gabestore.ru/,GAME,Gaming,2025-05-25,Netalitica,"An online store and blog offering game sales, reviews, and weekly gaming news in Russian."
+https://ixbt.games/,GAME,Gaming,2025-05-25,Netalitica,"A Russian-language gaming news site providing reviews, industry news, and articles relevant to Belarusian gamers."
+https://openmygame.com/,GAME,Gaming,2025-05-25,Netalitica,"Official website of OpenMyGame, a Belarusian game development studio known for mobile games and publishing under the Malpa Games brand."
+https://vozrojdenie.crimea.ua/,GMB,Gambling,2019-04-09,Netalitica,blocked in Russia-for testing upstream filtering
+https://bymedia.by/,GMB,Gambling,2015-04-14,citizenlab,sports betting
+https://betway.com/,GMB,Gambling,2019-04-09,Netalitica,
+https://legalbet.by/casino/,GMB,Gambling,2025-05-25,Netalitica,"Reviews and ratings of legal online casinos in Belarus, including bonuses and safety information."
+https://www.oct.by/,GMB,Gambling,2025-05-25,Netalitica,Aggregator of top online casinos in Belarus with detailed reviews and bonus offers.
+https://metaratings.by/casino/,GMB,Gambling,2025-05-25,Netalitica,"Provides ratings and analyses of Belarusian online casinos, focusing on legality and user experience."
+https://fonbet.by/casino/,GMB,Gambling,2025-05-25,Netalitica,"Official online casino platform of Fonbet, offering a wide range of games and promotions."
+https://maxline.by/casino/,GMB,Gambling,2025-05-25,Netalitica,Maxline’s online casino section featuring various games and user-friendly interface.
+https://brazino777.by/,GMB,Gambling,2025-05-25,Netalitica,"Licensed Belarusian online casino offering slots, live games, and sports betting."
+https://www.grandcasino.by/,GMB,Gambling,2025-05-25,Netalitica,"First legal online casino in Belarus, providing a broad selection of entertainment options."
+https://betonmobile.by/ratings/,GMB,Gambling,2025-05-25,Netalitica,"Offers ratings and reviews of legal online casinos in Belarus, highlighting bonuses and features."
+https://casino.com/by/,GMB,Gambling,2025-05-25,Netalitica,Expert reviews and comparisons of online casinos available to Belarusian players.
+https://pm.by/,GMB,Gambling,2025-05-25,Netalitica,"Official website of Parimatch Belarus, offering sports betting and casino games."
+https://1xbet.by/,GMB,Gambling,2025-05-25,Netalitica,Online betting platform providing casino games and sports betting options for Belarusian users.
+https://melbet.by/,GMB,Gambling,2025-05-25,Netalitica,Offers a variety of online casino games and sports betting services in Belarus.
+https://marathonbet.by/,GMB,Gambling,2025-05-25,Netalitica,Provides online casino games and sports betting options tailored for Belarusian players.
+https://www.foxsports.com/,GMB,Gambling,2025-05-25,Netalitica,"Reportedly blocked. A major U.S. sports media outlet offering live scores, news, streaming, and coverage across various sports leagues."
+https://www.sbobet.com/,GMB,Gambling,2025-05-25,Netalitica,"Reportedly blocked. An international online gambling site specializing in sports betting, live casino games, and virtual sports."
+https://1br.by/,GOVT,Government,2019-04-04,Netalitica,Political formation loyal to President Lukashenkko
+https://ldpb.by/,GOVT,Government,2019-04-04,Netalitica,Liberal Democratic party of Belarus  -  loyal to President Lukashenkko
+https://lrv.lt/,GOVT,Government,2025-05-25,Netalitica,"Official portal of the Government of Lithuania, providing information on governmental activities and ministries."
+https://www.urm.lt/,GOVT,Government,2025-05-25,Netalitica,"Ministry of Foreign Affairs of Lithuania, handling the country’s international relations and diplomacy."
+https://finmin.lrv.lt/,GOVT,Government,2025-05-25,Netalitica,"Ministry of Finance, responsible for fiscal policy and financial management."
+https://kam.lt/,GOVT,Government,2025-05-25,Netalitica,"Ministry of National Defence, overseeing Lithuania’s defense and military affairs."
+https://vrm.lrv.lt/,GOVT,Government,2025-05-25,Netalitica,"Ministry of the Interior, responsible for internal security and public administration."
+https://www.lrs.lt/,GOVT,Government,2025-05-25,Netalitica,"Seimas of the Republic of Lithuania, the nation’s legislative body."
+https://www.gov.pl/,GOVT,Government,2025-05-25,Netalitica,"Central portal for the Polish government, offering access to various ministries and public services."
+https://www.senat.gov.pl/,GOVT,Government,2025-05-25,Netalitica,"Senate of the Republic of Poland, the upper house of the Polish parliament."
+https://www.kmu.gov.ua/,GOVT,Government,2025-05-25,Netalitica,"Official portal of the Cabinet of Ministers of Ukraine, providing governmental news and information."
+https://mfa.gov.ua/,GOVT,Government,2025-05-25,Netalitica,"Ministry of Foreign Affairs, handling Ukraine’s international relations and diplomacy."
+https://www.president.gov.ua/,GOVT,Government,2025-05-25,Netalitica,"Office of the President of Ukraine, offering news and official statements from the President."
+https://www.rnbo.gov.ua/,GOVT,Government,2025-05-25,Netalitica,"National Security and Defense Council, coordinating national security and defense policies."
+https://ukraine.ua/,GOVT,Government,2025-05-25,Netalitica,"Official website promoting Ukraine’s culture, tourism, and business opportunities."
+https://war.ukraine.ua/,GOVT,Government,2025-05-25,Netalitica,Official platform sharing verified information and stories from Ukraine during wartime.
+https://nazk.gov.ua/,GOVT,Government,2025-05-25,Netalitica,"National Agency on Corruption Prevention, focusing on anti-corruption policies and prevention."
+https://www.usa.gov/,GOVT,Government,2025-05-25,Netalitica,"Official portal of the U.S. government, offering information on federal agencies and services."
+https://www.whitehouse.gov/,GOVT,Government,2025-05-25,Netalitica,"The White House, providing news and information from the President and the executive branch."
+https://www.congress.gov/,GOVT,Government,2025-05-25,Netalitica,"U.S. Congress, offering legislative information and resources."
+https://www.mk.gov.lv/,GOVT,Government,2025-05-25,Netalitica,"Official portal of the Cabinet of Ministers, the highest executive authority in Latvia, providing information on government composition and activities."
+https://www.mfa.gov.lv/,GOVT,Government,2025-05-25,Netalitica,"Ministry of Foreign Affairs, responsible for Latvia’s international relations and diplomatic missions."
+https://www.mod.gov.lv/,GOVT,Government,2025-05-25,Netalitica,"Ministry of Defence, overseeing national defense policy and military coordination."
+https://www.iem.gov.lv/,GOVT,Government,2025-05-25,Netalitica,"Ministry of the Interior, managing internal security, public order, and emergency services."
+https://vdd.gov.lv/,GOVT,Government,2025-05-25,Netalitica,"State Security Service, handling counterintelligence and internal security matters."
+https://comparty.by/,GOVT,Government,2019-04-04,Netalitica,Communist party of Belarus -  loyal to President Lukashenkko
+https://hochuzhit.com/ ,GOVT,Government,2023-10-18,test-lists.ooni.org contribution,Instruction for military personnel of the Russian Federation and the Republic of Belarus upon voluntary surrender
+https://ok.ru/,GRP,Social Networking,2025-05-25,Netalitica,"A Russian social network for connecting with friends and classmates, sharing media, and participating in online communities."
+https://vseti.by/,GRP,Social Networking,2025-05-25,Netalitica,"A Belarusian social networking platform offering features like messaging, blogging, events, and media sharing."
+https://leader.ru/,HACK,Hacking Tools,2015-04-14,citizenlab,Privacy checker
+https://cyberbeaver.help/,HACK,Hacking Tools,2025-04-30,Netalitica,Digital security advice
+https://www.by.cpartisans.org/,HACK,Hacking Tools,2025-04-30,Netalitica,"Digital security advice, ethical hacking"
+https://wotanjugend.info/,HATE,Hate Speech,2025-05-25,Netalitica,"A Russian-language website promoting neo-Nazi ideology, including articles, manifestos, and nationalist music."
+https://militant.zone/,HATE,Hate Speech,2025-05-25,Netalitica,"An online store and media platform offering nationalist-themed music, apparel, and related content."
+https://pn14.info/,HATE,Hate Speech,2025-05-25,Netalitica,A Russian-language news portal focusing on nationalist perspectives and related topics.
+https://volnorez.com/slavic-force/,HATE,Hate Speech,2025-05-25,Netalitica,"An online radio station streaming nationalist and far-right music genres, including NSBM and RAC."
+https://88nsm.com/,HATE,Hate Speech,2025-05-25,Netalitica,"A media portal distributing neo-Nazi and far-right music, including NSBM and RAC genres."
+https://hoster.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,Belarus’s largest domain registrar and cloud hosting provider.
+https://domain.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,"Provides professional SSD hosting, domain registration, and technical support."
+https://besthost.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,Offers optimized hosting solutions for personal and business websites.
+https://hb.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,Professional virtual and VPS hosting with equipment in Minsk.
+https://beltelecom.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,National telecom company offering web hosting and internet services.
+https://support.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,Corporate hosting and data center services in Belarus and Germany.
+https://activecloud.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,Cloud services and scalable IT solutions for businesses.
+https://hostfly.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,Cloud hosting and domain registration for individuals and small businesses.
+https://cloudvps.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,High-quality VPS hosting using proprietary server equipment.
+https://www.kvchosting.net/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,"Hosting in Belarus including unlimited hosting, VPS, and dedicated servers."
+https://login.by/,HOST,Hosting and Blogging Platforms,2025-04-30,Netalitica,UNIX hosting and VDS with high performance and licensed software.
+https://politzek.me/,HUMR,Human Rights Issues,2022-06-22,community member,information about political prisoners
+https://gomelspring.org/ ,HUMR,Human Rights Issues,2015-04-14,citizenlab,Reportedly blocked
+https://www.lawtrend.org/ ,HUMR,Human Rights Issues,2015-04-14,citizenlab,Reportedly blocked
+https://baj.media/be/,HUMR,Human Rights Issues,2019-04-04,Netalitica,Belarusian Association of Journalists
+https://mhramada.org/ ,HUMR,Human Rights Issues,2019-04-07,Netalitica,
+https://dzecikava.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,
+https://legin.info/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
+https://humanconstanta.org/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
+https://www.belhelcom.org/ ,HUMR,Human Rights Issues,2019-04-07,Netalitica,Site of Belarusian Helsinski Committee
+https://www.libereco.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Libereco – Partnership for Human Rights. A German-Swiss NGO supporting human rights in Belarus and Ukraine through advocacy and humanitarian aid.
+https://iapbelarus.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,International Accountability Platform for Belarus (IAPB)
+https://hrf.org/campaign/belarus-solidarity-fund/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarus Solidarity Fund – Human Rights Foundation
+https://penbelarus.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian PEN Centre
+https://www.zbsunion.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian Students’ Association
+https://bkdp.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian Congress of Democratic Trade Unions (BKDP) An umbrella organization for independent trade unions advocating for workers’ rights.
+https://belaruswomen.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian Women’s Foundation
+https://upr-info.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,"NGO, raises awareness and provides capacity-building tools to all UPR stakeholders"
+https://belhumanrights.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian Association of Human Rights Lawyers - Provides legal assistance and defends human rights cases in Belarusian courts.
+https://defendersbelarus.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Initiative promoting legal profession and protecting human rights.
+https://belarus2020.churchby.info/,HUMR,Human Rights Issues,2025-04-30,Netalitica,A faith-based initiative advocating for human rights and democratic values in Belarus.
+https://bysol.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,"Provides financial support to Belarusian political prisoners, activists, and their families."
+https://belhumanrights.house/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian Human Rights House supporting Belarusian human rights defenders in exile.
+https://www.legalhub.help/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Online legal aid platform offering consultations and resources on rights protection in Belarus.
+https://digitalskills.by/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Initiative promoting digital security and skills among Belarusian civil society and activists.
+https://www.bhrs-edu.me/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Belarusian Human Rights School providing human rights education and training.
+https://www.hetabaza.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Youth human rights initiative in Belarus.
+https://eu4belarus.info/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Information portal on European Union support for Belarusian civil society and democratic values.
+https://rada.fm/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Youth organization advocating for student rights and civic engagement in Belarus.
+https://belarus97.pro/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Platform supporting political prisoners.
+https://www.fundacja-rwp.com/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Polish foundation providing assistance to Belarusian civil society and political refugees.
+https://palitviazni.info/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Database and support project dedicated to Belarusian political prisoners.
+https://dissidentby.com/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Platform highlighting the stories and struggles of Belarusian dissidents.
+https://stayrebel.fun/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Platform highlighting the stories and struggles of Belarusian dissidents.
+https://www.ineedhelpby.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Emergency help platform for Belarusians affected by repression.
+https://bymedsol.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Medical solidarity group helping repressed medical workers from Belarus.
+https://doctorsby.com/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Association of independent Belarusian medical professionals in exile.
+https://torturesbelarus2020.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Documentation and advocacy site on torture and ill-treatment in Belarus after 2020 protests.
+https://help.by.social/,HUMR,Human Rights Issues,2025-04-30,Netalitica,Call center for victims of human rights violations
+https://theothersby.org/,HUMR,Human Rights Issues,2025-04-30,Netalitica,NGO focused on anti-discrimination
+https://spring96.org/,HUMR,Human Rights Issues,2015-04-14,citizenlab,"blocked, keep monitoring"
+https://www.ngo.by/ ,HUMR,Human Rights Issues,2015-04-14,citizenlab,Not updating since 2019
+https://protivpytok.org/ ,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
+https://europeanjournalists.org/ ,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
+https://humanrightshouse.org/human-rights-houses/belarus/ ,HUMR,Human Rights Issues,2019-04-04,Netalitica,Belarusian Human Rights House
+https://vitebskspring.org/ ,HUMR,Human Rights Issues,2020-08-24,OONI,Reportedly blocked
+https://belarus.un.org/,IGO,Intergovernmental Organizations,2015-04-14,citizenlab,site of UN for Belarus
+https://www.eaeunion.org/ ,IGO,Intergovernmental Organizations,2019-04-09,Netalitica,site of the Eurasian Economic Union
+https://odkb-csto.org/ ,IGO,Intergovernmental Organizations,2019-04-09,Netalitica,site of the Collective Security Treaty Organization
+https://parniplus.com/,LGBT,LGBT,2019-04-07,Netalitica,Russian LGBT organization
+https://prismatica.community/,LGBT,LGBT,2025-04-30,Netalitica,queer-feminist initiative
+https://gpress.info/,LGBT,LGBT,2025-04-30,Netalitica,"Independent Belarusian media outlet covering LGBTQ+ human rights, repression, and social issues."
+https://makeout.space/,LGBT,LGBT,2025-04-30,Netalitica,Belarusian LGBT+ Rights Group
+https://www.kalinouski.org/,MILX,Terrorism and Militants,2025-04-30,Netalitica,Belarusian volunteer unit within the Ukrainian Armed Forces
+https://seedoff4.innal.top/ ,MMED,Media sharing,2019-04-07,Netalitica,
+https://delo.by/ ,NEWS,News Media,2019-04-07,Netalitica,Business oriented local news outlet
+http://sunshine.by/,NEWS,News Media,2019-04-07,Netalitica,
+https://flagshtok.info/by/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://masheka.by/ ,NEWS,News Media,2020-08-24,OONI,
+https://itv.by/,NEWS,News Media,2015-04-14,citizenlab,
+https://podcasty.polskieradio.pl/,NEWS,News Media,2015-04-14,citizenlab,
+https://ru.belsat.eu/,NEWS,News Media,2019-04-04,Netalitica,independent TV channel
+https://udf.name/,NEWS,News Media,2015-04-14,citizenlab,
+https://ex-press.live/,NEWS,News Media,2015-04-14,citizenlab,
+https://nashaniva.com/ ,NEWS,News Media,2015-04-14,citizenlab,
+https://telegraf.news/,NEWS,News Media,2015-04-14,citizenlab,
+https://bdg.news/,NEWS,News Media,2015-04-14,citizenlab,
+https://zbsb.info/,NEWS,News Media,2015-04-14,citizenlab,
+https://mediazonaby.com/,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://reform.news/,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://media-polesye.com/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
+https://bgmedia.site/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
+https://euroradio.by/,NEWS,News Media,2015-04-14,citizenlab,European raido for Belarus based in Poland
+https://www.intex-press.by/ ,NEWS,News Media,2019-04-04,Netalitica,monitor
+https://gazetaby.com/ ,NEWS,News Media,2015-04-14,citizenlab,monitor
+https://naviny.by/ ,NEWS,News Media,2015-04-14,citizenlab,monitor
+https://www.racyja.com/ ,NEWS,News Media,2015-04-14,citizenlab,monitor
+https://www.svaboda.org/ ,NEWS,News Media,2015-04-14,citizenlab,RFE/RL monitor
+https://belaruspartisan.by/ ,NEWS,News Media,2016-12-17,OONI,main independent media outlet currently abandoned - monitor
+https://orsha.eu/,NEWS,News Media,2025-04-30,Netalitica,Orsha region news platform providing regional news.
+https://charter97.org/,NEWS,News Media,2025-04-30,Netalitica,Opposition news portal covering Belarusian politics and human rights.
+https://citydog.by/,NEWS,News Media,2025-04-30,Netalitica,"Minsk city magazine reporting urban issues, society, and increasingly politics."
+https://the-village.online/,NEWS,News Media,2025-04-30,Netalitica,"Independent city media covering Minsk news, urban culture, and daily life."
+https://pozirk.online/,NEWS,News Media,2025-04-30,Netalitica,News agency by ex-Naviny/BelaPAN journalists reporting unbiased Belarus news.
+https://malanka.media/,NEWS,News Media,2025-04-30,Netalitica,Multimedia platform delivering daily honest news about major events.
+https://nexta.tv/,NEWS,News Media,2025-04-30,Netalitica,Media outlet providing uncensored breaking news and videos.
+https://devby.io/,NEWS,News Media,2025-04-30,Netalitica,Independent IT industry news site covering tech and IT community.
+https://mostmedia.io/,NEWS,News Media,2025-04-30,Netalitica,Community media bridging exiled Belarusians and local stories.
+https://mogilev.media/,NEWS,News Media,2025-04-30,Netalitica,Mogilev region news platform providing regional news.
+https://tuzin.fm/,NEWS,News Media,2025-04-30,Netalitica,Music portal showcasing independent music and alternative arts.
+https://voiceofbelarus.org/,NEWS,News Media,2025-04-30,Netalitica,Volunteer-run platform with daily updates on Belarus.
+https://pressball.by/,NEWS,News Media,2025-04-30,Netalitica,Leading independent sports news outlet in Belarus.
+https://football.by/,NEWS,News Media,2025-04-30,Netalitica,Football news site for Belarusian and international soccer.
+https://www.dw.com/ru/беларусь/s-9500,NEWS,News Media,2025-04-30,Netalitica,Deutsche Welle’s Belarus page with independent news.
+https://mediabrest.by/,NEWS,News Media,2025-04-30,Netalitica,Regional news portal for Brest city and oblast.
+https://newgrodno.by/,NEWS,News Media,2025-04-30,Netalitica,Grodno city information portal with local updates.
+https://brestcity.com/,NEWS,News Media,2025-04-30,Netalitica,Brest city news blog reporting on events and culture.
+https://primepress.by/,NEWS,News Media,2025-04-30,Netalitica,News agency with economic and business news.
+https://zubr.media/,NEWS,News Media,2025-04-30,Netalitica,Civic media center for coverage of civil society activities.
+https://tochka.by/,NEWS,News Media,2025-04-30,Netalitica,News outlet with broad agenda.
+https://tnt-online.ru/ ,NEWS,News Media,2019-04-05,Netalitica,Russian medium popular in BY
+https://aif.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
+https://www.21.by/,NEWS,News Media,2019-04-05,Netalitica,
+https://imperiyanews.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://glavcom.ua/ ,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
+https://censor.net/,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
+https://www.ej.ru/ ,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
+https://www.kasparov.ru/,NEWS,News Media,2019-04-09,Netalitica,Russian media blocked in Russia-for testing upstream filtering
+https://34mag.net/ ,NEWS,News Media,2015-04-14,citizenlab,
+https://budzma.org/ ,NEWS,News Media,2015-04-14,citizenlab,
+https://electroname.com/,NEWS,News Media,2015-04-14,citizenlab,
+https://generation.by/,NEWS,News Media,2015-04-14,citizenlab,
+https://belmy.by/,NEWS,News Media,2015-04-14,citizenlab,
+https://www.bybanner.com/,NEWS,News Media,2015-04-14,citizenlab,
+https://europeanbelarus.org/,NEWS,News Media,2015-04-14,citizenlab,
+https://www.hitroe.com/,NEWS,News Media,2015-04-14,citizenlab,
+https://probelarus.ru/,NEWS,News Media,2015-04-14,citizenlab,
+https://islam.by/,NEWS,News Media,2015-04-14,citizenlab,news related to Islam
+https://www.dwelle.eu/ ,NEWS,News Media,2023-04-14,OONI,
+https://www.pravda.com/,NEWS,News Media,2022-07-14,community member,Ukraine online media blocked in Belarus
+https://www.sb.by/,NEWS,News Media,2019-04-05,Netalitica,Belarus largest newspaper
+https://www.onliner.by/ ,NEWS,News Media,2019-04-05,Netalitica,
+https://www.belta.by/ ,NEWS,News Media,2019-04-05,Netalitica,
+https://sputnik.by/ ,NEWS,News Media,2019-04-05,Netalitica,Sputnik service for BY
+https://www.belnovosti.by/ ,NEWS,News Media,2019-04-05,Netalitica,
+https://www.tvr.by/ ,NEWS,News Media,2019-04-05,Netalitica,
+https://www.bigmir.net/ ,NEWS,News Media,2019-04-05,Netalitica,
+https://ont.by/ ,NEWS,News Media,2019-04-05,Netalitica,site of national TV
+https://www.1tv.ru/ ,NEWS,News Media,2019-04-05,Netalitica,Russian Channel 1 - popular in BY
+https://www.mk.ru/ ,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
+https://lenta.ru/,NEWS,News Media,2019-04-05,Netalitica,Russian news followed in BY
+https://regnum.ru/ ,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://eadaily.com/,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://rusnext.ru/ ,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://cont.ws/ ,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://www.fondsk.ru/ ,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://zapadrus.su/ ,NEWS,News Media,2019-04-05,Netalitica,Russian nationalist media 
+https://glavnoe.ua/ ,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
+https://www.rbc.ua/ ,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
+https://myrotvorets.center/ ,NEWS,News Media,2019-04-09,Netalitica,Ukranian media blocked in Russia-for testing ethnic relations and upstream filtering
+https://providers.by/ ,NEWS,News Media,2015-04-14,citizenlab,news about ISPs
+https://www.gs.by/ ,NEWS,News Media,2015-04-14,citizenlab,
+https://imperiya.by/ ,NEWS,News Media,2015-04-14,citizenlab,
+http://www.afn.by/,NEWS,News Media,2015-04-14,citizenlab,
 https://meduza.io/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://zona.media/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://euroradio.fm/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://www.golos-ameriki.ru/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://news.tut.by/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://rtvi.com/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://officelife.media/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://www.the-village.me/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://tvrain.ru/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://hromadske.ua/,NEWS,News Media,2020-07-24,ifreedombelarus,
-https://novayagazeta.ru/,NEWS,News Media,2020-07-24,ifreedombelarus,
-http://europeanjournalists.org/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
-https://www.ifj.org/,HUMR,Human Rights Issues,2020-07-24,ifreedombelarus,
-https://tsepkalo.by/,POLR,Political Criticism,2020-07-28,ifreedombelarus,
-https://belarus2020.org/,POLR,Political Criticism,2020-07-28,ifreedombelarus,
-https://watch.honestpeople.by/,POLR,Political Criticism,2020-07-28,ifreedombelarus,
-https://honest-people.by/,POLR,Political Criticism,2020-07-28,ifreedombelarus,
-https://primaries.by/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://masheka.by/,SRCH,Search Engines,2020-08-24,OONI,Reportedly blocked
-https://progomel.by/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://virtualbrest.by/,SRCH,Search Engines,2020-08-24,OONI,Reportedly blocked
-https://vkurier.by/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://015.by/search/,SRCH,Search Engines,2020-08-24,OONI,Reportedly blocked
-https://tsepkalo.info/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-http://tsepkalo.com/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://honestby.org/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://agitka2020.com/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://opg.ucoz.net/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-http://vnezakona.net/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://narodny-opros.info/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://statkevich.org/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://belarus.regnum.ru/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://eurobelarus.info/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-http://spring96.org/ru/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://ucpb.info/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-http://svaboda2.net/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://bchd.info/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://belarusinfocus.info/by/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://belprauda.org/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://elections2020.spring96.org/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://flagshtok.info/by/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://mspring.online/ru/tsikhanouskaja-on-top/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://www.politnavigator.net/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://vitebskspring.org/,HUMR,Human Rights Issues,2020-08-24,OONI,Reportedly blocked
-https://vot-tak.tv/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-http://www.moyby.com/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://mediazona.by/chronicle/belvybary,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
-https://by.tribuna.com/,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
-https://cock.li/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-http://txti.es/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://www.liveu.tv/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://mssg.me/proxy/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://zharov-lox.telegramproxy.me/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://catalog-telegram.ru/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-http://telegramproxy.online/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://www.vamtlgrm.com/,COMT,Communication Tools,2020-08-24,OONI,Reportedly blocked
-https://www.zerkalo.io/,NEWS,News Media,2021-08-16,community member,Reportedly blocked
-https://nashaniva.com/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://novychas.online/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://media-polesye.by/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://hrodna.life/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://1reg.org/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://b-g.by/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://orsha.eu/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://vitebsk.cc/,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
-https://current-time.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
-https://current-time.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
-https://svabod.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
-https://svabod.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
-https://www.dwturkce.com/,NEWS,News Media,2023-04-14,OONI,
-https://www.dwelle.eu/,NEWS,News Media,2023-04-14,OONI,
-https://bel.sputnik.by/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
-https://yandex.by/,SRCH,Search Engines,2023-08-14,test-lists.ooni.org contribution,Russian search engine
-https://samizdatonline.org/,NEWS,News Media,2023-10-15,test-lists.ooni.org contribution,News media helping people to tell their stories despite government's censorship
-https://hochuzhit.com/,GOVT,Government,2023-10-18,test-lists.ooni.org contribution,Instruction for military personnel of the Russian Federation and the Republic of Belarus upon voluntary surrender
-https://e-petitions.by/,NEWS,News Media,2024-06-13,anonymous,A platform that allows citizens to create and sign online petitions to influence public policy and government decisions in Belarus
-https://opentenders.tech/,NEWS,News Media,2024-06-13,anonymous,A watchdog platform that focuses on the investigation of the exposure of corruption in the public procurement process
-https://your-money.info/,NEWS,News Media,2024-06-13,anonymous,Reportedly blocked
+https://zona.media/ ,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://www.golos-ameriki.ru/ ,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://rtvi.com/ ,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://officelife.media/ ,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://tvrain.ru/ ,NEWS,News Media,2020-07-24,ifreedombelarus,
+https://hromadske.ua/ ,NEWS,News Media,2020-07-24,ifreedombelarus,Ukranian media. Reportedly blocked
+https://novayagazeta.ru/ ,NEWS,News Media,2020-07-24,ifreedombelarus,reportedly blocked
+https://progomel.by/ ,NEWS,News Media,2020-08-24,OONI,
+https://vkurier.by/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://belprauda.org/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://www.politnavigator.net/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://vot-tak.tv/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+http://www.moyby.com/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://by.tribuna.com/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://www.zerkalo.io/ ,NEWS,News Media,2021-08-16,community member,Reportedly blocked
+https://novychas.online/ ,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
+https://hrodna.life/ ,NEWS,News Media,2022-04-21,anonymous,Reportedly blocked
+https://www.dwturkce.com/ ,NEWS,News Media,2023-04-14,OONI,
+https://bel.sputnik.by/ ,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://samizdatonline.org/ ,NEWS,News Media,2023-10-15,test-lists.ooni.org contribution,News media helping people to tell their stories despite government's censorship
+https://virtualbrest.by/ ,NEWS,News Media,2020-08-24,OONI,Reportedly blocked
+https://e-petitions.by/ ,POLR,Political Criticism,2024-06-13,anonymous,A platform that allows citizens to create and sign online petitions to influence public policy and government decisions in Belarus
+https://opentenders.tech/ ,POLR,Political Criticism,2024-06-13,anonymous,A watchdog platform that focuses on the investigation of the exposure of corruption in the public procurement process
+https://your-money.info/ ,POLR,Political Criticism,2024-06-13,anonymous,
+https://honestby.org/,POLR,Political Criticism,2020-07-24,ifreedombelarus,
+https://rada.vision/,POLR,Political Criticism,2025-04-30,Netalitica,"Official site of the Coordination Council, aiming for peaceful power transition and democratic reforms."
+https://freebelarus.center/,POLR,Political Criticism,2025-04-30,Netalitica,Resource hub supporting democratic movements with updates and activist resources.
+https://belarusnetwork.org/,POLR,Political Criticism,2025-04-30,Netalitica,Civil society network facilitating opposition communication and governance reform.
+https://motolko.help/,POLR,Political Criticism,2025-04-30,Netalitica,"Investigative platform monitoring repressions, military activity, and resistance movements."
+https://belarusdigest.com/,POLR,Political Criticism,2025-04-30,Netalitica,Analytical portal publishing expert views on Belarusian politics and governance.
+https://belarusinfocus.pro/,POLR,Political Criticism,2025-04-30,Netalitica,Media analysis platform exploring Belarus-related issues through a democratic lens.
+https://stachka.org/,POLR,Political Criticism,2025-04-30,Netalitica,Platform coordinating strike committees and worker activism in Belarus.
+https://dze.chat/,POLR,Political Criticism,2025-04-30,Netalitica,Platform for coordinating protest activity and sharing updates.
+https://bypol.org/,POLR,Political Criticism,2025-04-30,Netalitica,Initiative of former law enforcement officers opposing the Lukashenko regime.
+https://nash-dom.info/,POLR,Political Criticism,2025-04-30,Netalitica,Civic initiative promoting local self-governance and democratic activism.
+https://byculture.org/,POLR,Political Criticism,2025-04-30,Netalitica,Independent cultural initiative supporting Belarusian arts and heritage.
+https://www.belarusforum.org/,POLR,Political Criticism,2025-04-30,Netalitica,Forum for democratic Belarusian forces to discuss and strategize joint actions.
+https://www.pubb.uk/,POLR,Political Criticism,2025-04-30,Netalitica,Public policy platform for democratic reform in Belarus.
+https://malady-front.blogspot.com/,POLR,Political Criticism,2025-04-30,Netalitica,Blog of the Belarusian youth nationalist organization Malady Front.
+https://moladzbel.org/,POLR,Political Criticism,2025-04-30,Netalitica,Youth movement supporting democratic change in Belarus.
+https://www.abbabusiness.org/,POLR,Political Criticism,2025-04-30,Netalitica,Belarusian business diaspora platform supporting democratic transformation.
+https://belaruskidom.eu/,POLR,Political Criticism,2025-04-30,Netalitica,Support and coordination center for Belarusian diaspora in Europe.
+https://www.tsikhanouskaya.org/,POLR,Political Criticism,2025-04-30,Netalitica,"Official website of Sviatlana Tsikhanouskaya, Belarusian opposition leader."
+https://pr-belarus.org/,POLR,Political Criticism,2025-04-30,Netalitica,Initiative focused on democratic development and human rights in Belarus.
+https://sympa-by.eu/,POLR,Political Criticism,2025-04-30,Netalitica,Civic education and public participation in Belarus.
+https://belpol.pro/,POLR,Political Criticism,2025-04-30,Netalitica,Community of former Belarusian law enforcement supporting regime change.
+https://www.belarusabroad.org/,POLR,Political Criticism,2025-04-30,Netalitica,Coordination platform for Belarusians abroad advocating for democracy.
+https://www.thisminsk.org/,POLR,Political Criticism,2025-04-30,Netalitica,Community initiative sharing independent perspectives from Minsk.
+https://belarus-nau.org/,POLR,Political Criticism,2025-04-30,Netalitica,Academic platform for Belarusian scholars and scientific diaspora.
+https://nationofleaders.org/,POLR,Political Criticism,2025-04-30,Netalitica,Movement uniting democratic leaders and activists of Belarus.
+https://robim.live/,POLR,Political Criticism,2025-04-30,Netalitica,Belarusian civic live-streaming and protest coverage platform.
+https://wid.org.pl/,POLR,Political Criticism,2025-04-30,Netalitica,Polish foundation supporting civil society and democratic transition in Belarus.
+https://www.abfby.org/,POLR,Political Criticism,2025-04-30,Netalitica,Association supporting Belarusian diaspora and democratic values.
+https://gronka.org/,POLR,Political Criticism,2025-04-30,Netalitica,Crowdfunding platform supporting Belarusian political prisoners and repressed activists.
+https://oeek.pl/,POLR,Political Criticism,2025-04-30,Netalitica,Belarusian civil society NGO.
+https://okdoc.me/,POLR,Political Criticism,2025-04-30,Netalitica,Telehealth and psychological support platform for Belarusians affected by repression.
+https://august2020.info/,POLR,Political Criticism,2025-04-30,Netalitica,Archival and media project documenting the events of Belarus's 2020 protests.
+https://zubr.in/,POLR,Political Criticism,2025-04-30,Netalitica,Platform for coordinating peaceful protest actions and digital resistance in Belarus.
+https://factcheck.by/,POLR,Political Criticism,2025-04-30,Netalitica,Factchecking website
+https://isans.org/,POLR,Political Criticism,2025-04-30,Netalitica,Network providing analysis of Belarus’s political developments.
+https://lewoniewski.info/,POLR,Political Criticism,2019-04-04,Netalitica,Blog of political dissident Uladzimir Levaneuski
+https://bchd.info/,POLR,Political Criticism,2015-04-14,citizenlab,site of Christian democracy movement
+https://www.bielarus.net/,POLR,Political Criticism,2015-04-14,citizenlab,
+https://www.narodnaja-partyja.org/,POLR,Political Criticism,2019-04-04,Netalitica,Conservative Christian Party - opposition
+https://tsepkalo.com/,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
+https://www.radabnr.org/,POLR,Political Criticism,2015-04-14,citizenlab,site of the Council of Belarusian Peoples Republic
+https://newbelarus.com/ ,POLR,Political Criticism,2023-02-21,community member,alternative governance. Reportedly blocked
+https://golos2020.org/ ,POLR,Political Criticism,2021-03-19,community member,alternative voting
+https://zubr.cc/ ,POLR,Political Criticism,2020-11-30,community member,citizen court monitoring
+https://hramada.org/ ,POLR,Political Criticism,2019-04-04,Netalitica,Belarusian Social Democratic party - oppposition party
+https://globalvoices.org/-/world/eastern-central-europe/belarus/,POLR,Political Criticism,2015-04-14,citizenlab,
+https://babariko.vision/ ,POLR,Political Criticism,2020-07-24,ifreedombelarus,reportedly blocked
+https://belarus2020.org/ ,POLR,Political Criticism,2020-07-28,ifreedombelarus,
+https://statkevich.org/ ,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
+https://elections2020.spring96.org/ ,POLR,Political Criticism,2020-08-24,OONI,Reportedly blocked
+https://www.metart.com/,PORN,Pornography,2025-04-30,Netalitica,reportedly blocked
+https://shockmodels.info/,PORN,Pornography,2025-04-30,Netalitica,reportedly blocked
+https://by.entimby.site/,PROV,Provocative Attire,2015-04-14,citizenlab,
+https://www.prostitutkiminsk.org/,PROV,Provocative Attire,2025-04-30,Netalitica,reportedly blocked
+https://minsk.prostitutki-red.in/,PROV,Provocative Attire,2025-04-30,Netalitica,reportedly blocked
+https://girlintim.com/,PROV,Provocative Attire,2025-04-30,Netalitica,reportedly blocked
+https://minzdrav.gov.by/,PUBH,Public Health,2025-05-25,Netalitica,"Official website of the Ministry of Health of Belarus, providing health policies, regulations, and news."
+https://www.belstat.gov.by/,PUBH,Public Health,2025-05-25,Netalitica,National Statistical Committee offering official health and demographic statistics of Belarus.
+http://rsml.med.by/,PUBH,Public Health,2025-05-25,Netalitica,Republican Scientific Medical Library providing access to medical literature and resources.
+https://www.med.by/,PUBH,Public Health,2025-05-25,Netalitica,Health information portal offering resources on medical services and health news in Belarus.
+https://www.healthcare.by/,PUBH,Public Health,2025-05-25,Netalitica,Online directory of healthcare institutions and services across Belarus.
+https://www.who.int/belarus/,PUBH,Public Health,2025-05-25,Netalitica,"WHO’s country office in Belarus, coordinating health initiatives and support."
+https://www.msf.org/belarus/,PUBH,Public Health,2025-05-25,Netalitica,"Médecins Sans Frontières’ activities in Belarus, focusing on tuberculosis treatment and migrant health."
+https://data.unicef.org/country/blr/,PUBH,Public Health,2025-05-25,Netalitica,"UNICEF’s data on Belarus, covering child health, nutrition, and mortality rates."
+https://datacommons.org/place/country/BLR?category=Health,PUBH,Public Health,2025-05-25,Netalitica,"Data Commons’ health statistics for Belarus, covering various health metrics."
+https://www.vstrecha.by/ ,PUBH,Public Health,2015-04-14,citizenlab,"Promoting public health, preventing HIV/AIDS and sexually transmitted infections, tuberculosis"
+http://church.by/,REL,Religion,2019-04-07,Netalitica,site of Belarussian Orthodox church
+https://www.ippforb.com/,REL,Religion,2025-04-30,Netalitica,Platform promoting interfaith dialogue and freedom of religion in Belarus and Eastern Europe.
+https://www.katolik.life/,REL,Religion,2025-04-30,Netalitica,"Catholic media portal providing news, educational content, and spiritual support in Belarusian."
+https://hram.by/ ,REL,Religion,2015-04-14,citizenlab,
+https://www.krinica.org/ ,REL,Religion,2015-04-14,citizenlab,
+https://gomel.baptist.by/ ,REL,Religion,2015-04-14,citizenlab,Site of Baptist church in BY
+https://minda.by/ ,REL,Religion,2019-04-07,Netalitica,Site of the Minsk Theological academy
+https://www.belapc.org/,REL,Religion,2019-04-07,Netalitica,site of Belarusian Autocephalous Orthodox Church
+https://www.sobor.by/,REL,Religion,2015-04-14,citizenlab,
+https://catholic.by/ ,REL,Religion,2015-04-14,citizenlab,
+https://baptist.by/ ,REL,Religion,2015-04-14,citizenlab,Baprist church site
+http://luther.by/,REL,Religion,2015-04-14,citizenlab,
+http://nunciature.catholic.by/,REL,Religion,2019-04-07,Netalitica,
+https://yandex.by/ ,SRCH,Search Engines,2023-08-14,test-lists.ooni.org contribution,Russian search engine
+https://www.pro-life.by/,XED,Sex Education,2025-05-25,Netalitica,"A Belarusian organization advocating for pro-life values, providing information on sexual education from a conservative perspective."
+https://fr.gov.by/services/centre-gigieny/info/pravilnoe-polovoe-vospitanie-podrostkov.html,XED,Sex Education,2025-05-25,Netalitica,Recommendations on proper sexual education for adolescents from the Center for Hygiene and Epidemiology.
+https://gaybelarus.by/,XED,Sex Education,2025-05-25,Netalitica,"A website providing LGBTQ+ information, including educational materials on sexual and gender education. Currently replaced with tourism related content."
+https://dotyk.by/,XED,Sex Education,2025-05-25,Netalitica,"A Belarusian queer culture festival and platform promoting awareness and dialogue on gender, sexuality, and discrimination through various cultural events. Currently replaced with gambling content."
