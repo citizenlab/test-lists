@@ -77,7 +77,6 @@ http://asrararabiya.com/,POLR,Political Criticism,2017-10-15,citizenlab,
 http://islamion.com/,NEWS,News Media,2017-10-15,citizenlab,
 http://mubasher.aljazeera.net/,NEWS,News Media,2017-10-15,citizenlab,
 http://opl-now.org/,NEWS,News Media,2017-10-15,citizenlab,
-https://www.alhurra.com/,NEWS,News Media,2017-10-15,citizenlab,
 http://www.almayadeen.net/,NEWS,News Media,2017-10-15,citizenlab,Mayadeen TV
 http://www.alnour.com.lb/,MILX,Terrorism and Militants,2017-10-15,citizenlab,al-Nour Radio is the official radio station of Hizbollah
 http://www.islamtoday.net/,NEWS,News Media,2017-10-15,citizenlab,Regional news portal from Islamist's point of view
@@ -100,7 +99,6 @@ https://richarddawkins.net/,REL,Religion,2017-10-15,citizenlab,Richard Dawkins
 http://tabee3iil7ad.blogspot.com/,REL,Religion,2017-10-15,citizenlab,Arab atheists
 http://www.al-ketab.net/,REL,Religion,2017-10-15,citizenlab,
 http://www.biblequery.org/,REL,Religion,2017-10-15,citizenlab,
-https://www.facebook.com/ArabAtheistBroadcasting/,REL,Religion,2017-10-15,citizenlab,Arab atheists - keep for control purposes
 http://www.faithfreedom.org/,REL,Religion,2017-10-15,citizenlab,Faith Freedom International - grassroots movement of ex-Muslims
 https://www.il7ad.org/vb/index.php/,REL,Religion,2017-10-15,citizenlab,Arab atheists
 http://www.islamway.com/,REL,Religion,2017-10-15,citizenlab,Islam Way
@@ -167,7 +165,6 @@ https://www.watan.com/,NEWS,News Media,2017-10-15,citizenlab,News portal
 https://www.watanserb.com/,NEWS,News Media,2017-10-15,citizenlab,
 https://carnegie-mec.org/,HUMR,Human Rights Issues,2017-10-15,citizenlab,
 https://www.alarab.qa/,NEWS,News Media,2017-10-15,citizenlab,
-https://neswangy.net/,PORN,Pornography,2017-10-15,citizenlab,
 https://www.thereligionofpeace.com/,REL,Religion,2017-10-15,citizenlab,
 https://www.hrw.org/ar,HUMR,Human Rights Issues,2017-10-15,citizenlab,human rights organization's arabic page
 https://www.un.org/ecosoc/fr/,HUMR,Human Rights Issues,2017-10-15,citizenlab,Women rights
@@ -315,7 +312,6 @@ https://www.unlimitedqatar.com/,HOST,Hosting and Blogging Platforms,2020-03-29,N
 https://orangeqatar.com/,HOST,Hosting and Blogging Platforms,2020-03-29,Netalitica,
 http://www.webhostinginqatar.com/,HOST,Hosting and Blogging Platforms,2020-03-29,Netalitica,
 https://www.qatarwebhost.com/,HOST,Hosting and Blogging Platforms,2020-03-29,Netalitica,
-https://almezmaah.com/,HUMR,Human Rights Issues,2020-03-29,Netalitica,
 https://cihrs.org/,HUMR,Human Rights Issues,2020-03-29,Netalitica,
 https://annhri.org/,HUMR,Human Rights Issues,2020-03-29,Netalitica,
 https://www.anhri.info/,HUMR,Human Rights Issues,2020-03-29,Netalitica,
@@ -473,7 +469,6 @@ https://qatarileaks.com/ar,POLR,Political Criticism,2020-03-29,Netalitica,Also P
 http://aletejahtv.com/,POLR,Political Criticism,2020-03-29,Netalitica,Pro-Hizbullah group
 https://alwelayah.net/,POLR,Political Criticism,2020-03-29,Netalitica,Pro-Hizbullah group
 https://www.islamtimes.org/,POLR,Political Criticism,2020-03-29,Netalitica,Pro-Hizbullah group
-https://ikhwanonline.info/,POLR,Political Criticism,2020-03-29,Netalitica,Muslim Brotherhood
 https://www.ikhwanwiki.com/,POLR,Political Criticism,2020-03-29,Netalitica,Muslim Brotherhood
 https://ikhwansyria.com/,POLR,Political Criticism,2020-03-29,Netalitica,Muslim Brotherhood
 http://www.ikhwanpress.com/,POLR,Political Criticism,2020-03-29,Netalitica,Muslim Brotherhood
@@ -485,9 +480,6 @@ https://against-qatar.com/,POLR,Political Criticism,2020-03-29,Netalitica,"Curre
 https://theqatarinsider.com/,POLR,Political Criticism,2020-03-29,Netalitica,"Currently offline, site should be monitored"
 http://newspaper.albaathmedia.sy/,POLR,Political Criticism,2020-03-29,Netalitica,
 http://hizb-ut-tahrir.info/,POLR,Political Criticism,2020-03-29,Netalitica,
-https://3arabporn.com/,PORN,Pornography,2020-03-29,Netalitica,
-https://b3boos.com/,PORN,Pornography,2020-03-29,Netalitica,
-https://sex4arabxxx.com/,PORN,Pornography,2020-03-29,Netalitica,
 https://sexalarab.com/,PORN,Pornography,2020-03-29,Netalitica,
 https://sexjk.com/,PORN,Pornography,2020-03-29,Netalitica,
 https://sexsaoy.com/,PORN,Pornography,2020-03-29,Netalitica,
@@ -566,3 +558,8 @@ https://www.newsyemen.net/,NEWS,News Media,2020-03-29,Netalitica,Qatar blocks Ye
 https://sputnikarabic.ae/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
 https://arij.net/,NEWS,News Media,2023-08-09,test-lists.ooni.org contribution,Investigative journalism working accross Mena
 https://arabfcn.net/,NEWS,News Media,2023-08-11,test-lists.ooni.org contribution,is a grassroots network that works towards fostering transparent and impartial fact-checking in the Arab region
+https://ijhad.org/,HUMR,Human Rights Issues,2025-05-06,test-lists.ooni.org contribution,
+https://shehabnews.com/,NEWS,News Media,2025-05-13,,
+https://www.alkhanadeq.com/,NEWS,News Media,2025-05-13,,
+https://qudspress.com/,NEWS,News Media,2025-05-13,,
+https://www.meemmagazine.net/,NEWS,News Media,2025-05-13,,

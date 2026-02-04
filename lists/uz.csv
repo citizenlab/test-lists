@@ -1,7 +1,6 @@
 url,category_code,category_description,date_added,source,notes
 http://fast-die.kiev.ua/,MISC,Miscellaneous content,2014-04-15,citizenlab,
 http://www.shram.kiev.ua/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://fei.ru/,PORN,Pornography,2014-04-15,citizenlab,
 https://psyplants.info/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
 https://www.pictureview.com/,MMED,Media sharing,2014-04-15,citizenlab,
 http://abclider.com/,PORN,Pornography,2014-04-15,citizenlab,File-sharing platform for porn
@@ -119,7 +118,6 @@ https://passport.yandex.ru/,COMT,Communication Tools,2019-05-25,Netalitica,
 https://pornoelena.net/,PORN,Pornography,2019-05-25,Netalitica,
 https://proza.ru/,CULTR,Culture,2019-05-25,Netalitica,
 https://regnum.ru/,NEWS,News Media,2019-05-25,Netalitica,
-https://ria.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian media outlet
 https://ru.wikiquote.org/,CULTR,Culture,2019-05-25,Netalitica,
 https://ru.wikisource.org/,CULTR,Culture,2019-05-25,Netalitica,
 https://rus.azathabar.com/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL service for TM
@@ -144,7 +142,6 @@ https://www.azattyq.org/,NEWS,News Media,2019-05-25,Netalitica,RFE/RL Kazakh ser
 https://www.facebook.com/Kasparov.Ru/,NEWS,News Media,2019-05-25,Netalitica,Political dissident -for control purposes
 https://www.gazeta.ru/,NEWS,News Media,2019-05-25,Netalitica,Russian news media
 https://www.google.ru/,SRCH,Search Engines,2019-05-25,Netalitica,
-https://www.jw.org/,REL,Religion,2019-05-25,Netalitica,
 https://www.kavkazcenter.com/,MILX,Terrorism and Militants,2019-05-25,Netalitica,
 https://www.liveinternet.ru/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
 https://www.livejournal.com/community/,HOST,Hosting and Blogging Platforms,2019-05-25,Netalitica,
@@ -239,7 +236,6 @@ http://shaman.aha.ru/,REL,Religion,2019-12-09,Netalitica,
 http://stalinism.ru/,POLR,Political Criticism,2019-12-09,Netalitica,about Stalin
 http://www.bitnet.ru/,PUBH,Public Health,2019-12-09,Netalitica,psychological development focus
 http://www.diary.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,blogs
-http://www.euro.who.int/ru/home/,PUBH,Public Health,2019-12-09,Netalitica,World Health Organiztion - Russian page
 http://www.europaplus.ru/,CULTR,Culture,2019-12-09,Netalitica,online radio stations
 http://www.forest.ru/,ENV,Environment,2019-12-09,Netalitica,focus on forestry in Russia
 http://www.holiday.ru/,DATE,Online Dating,2019-12-09,Netalitica,
@@ -261,7 +257,6 @@ http://www.satanistsite.narod.ru/,REL,Religion,2019-12-09,Netalitica,
 http://www.scepsis.ru/,CULTR,Culture,2019-12-09,Netalitica,
 http://www.softilla.ru/,MMED,Media sharing,2019-12-09,Netalitica,
 http://www.trud.org/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,domain registration
-http://www.who.int/topics/family_planning/ru/,PUBH,Public Health,2019-12-09,Netalitica,WHO - Russian language
 http://wwwoman.ru/,XED,Sex Education,2019-12-09,Netalitica,
 http://wwwoman.ru/bezopasnyi-seks-razlichnye-sredstva-kontratsetsii-755.htm/,XED,Sex Education,2019-12-09,Netalitica,
 https://accounts.google.com/signup/,COMT,Communication Tools,2019-12-09,Netalitica,
@@ -276,7 +271,6 @@ https://elhosting.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,
 https://eurasia.amnesty.org/,HUMR,Human Rights Issues,2019-12-09,Netalitica,Amnesty Eurasia
 https://goldfishka68.com/,GMB,Gambling,2019-12-09,Netalitica,
 https://grand-casino0.com/grand/,GMB,Gambling,2019-12-09,Netalitica,
-https://greenpeace.ru/,ENV,Environment,2019-12-09,Netalitica,Greenpeace Russia
 https://habr.com/ru/,NEWS,News Media,2019-12-09,Netalitica,blogs
 https://hc.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,Hosting services
 https://holmogor.livejournal.com/,POLR,Political Criticism,2019-12-09,Netalitica,Russia focus
@@ -301,7 +295,6 @@ https://rg.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian medium
 https://ru.yahoo.com/,SRCH,Search Engines,2019-12-09,Netalitica,
 https://tass.ru/,NEWS,News Media,2019-12-09,Netalitica,Russian information agency TASS
 https://www.1c-bitrix.ru/,COMM,E-commerce,2019-12-09,Netalitica,
-https://www.1tv.ru/,NEWS,News Media,2019-12-09,Netalitica,1st TV channel - Russia
 https://www.7ya.ru/,PUBH,Public Health,2019-12-09,Netalitica,
 https://www.alexhost.ru/,HOST,Hosting and Blogging Platforms,2019-12-09,Netalitica,hosting
 https://www.bbc.com/russian/,NEWS,News Media,2019-12-09,Netalitica,BBC Russia service
@@ -340,3 +333,7 @@ https://ozodlik.gitlab.io/,ANON,Anonymization and circumvention tools,2022-12-02
 https://ozodlik.github.io/,ANON,Anonymization and circumvention tools,2022-12-02,rayasharbain,
 https://human.uz/,NEWS,News Media,2023-01-30,test-lists.ooni.org contribution,
 https://oz.sputniknews.uz/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
+https://factchecknet.uz/,NEWS,News Media,2024-10-17,test-lists.ooni.org contribution,
+https://hizb-uzbekiston.info/,NEWS,News Media,2025-01-09,test-lists.ooni.org contribution,Included in the registry of extremist materials: https://sud.uz/wp-content/uploads/2025/01/taqiq.pdf
+https://uzryoq.com/,HOST,Hosting and Blogging Platforms,2025-01-09,test-lists.ooni.org contribution,Included in the registry of extremist materials: https://sud.uz/wp-content/uploads/2025/01/taqiq.pdf
+https://www.muhsinlar.net/,MILX,Terrorism and Militants,2025-01-09,test-lists.ooni.org contribution,Included in the registry of extremist materials: https://sud.uz/wp-content/uploads/2025/01/taqiq.pdf

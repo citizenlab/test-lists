@@ -1,301 +1,379 @@
 url,category_code,category_description,date_added,source,notes
-http://234next.com/,NEWS,News Media,2016-06-14,OONI,
-http://dailyindependentnig.com/,NEWS,News Media,2016-06-14,OONI,
-http://newsjournal.com.ng/,NEWS,News Media,2016-06-14,OONI,
-http://newtelegraphonline.com/,NEWS,News Media,2016-06-14,OONI,
-http://nigerianobservernews.com/,NEWS,News Media,2016-06-14,OONI,
-http://pmnewsnigeria.com/,NEWS,News Media,2016-06-14,OONI,
-http://premiumtimesng.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.blackplanet.com/,GRP,Social Networking,2016-06-14,OONI,
-http://www.blueprint.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.businessdayonline.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.championnews.com.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.compassnewspaper.com.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.completesportsnigeria.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.dailytimes.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.guardian.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.hallmarknews.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.leadership.ng/nga/,NEWS,News Media,2016-06-14,OONI,
-http://www.naijaborn.com/,GRP,Social Networking,2016-06-14,OONI,
-http://www.naijapals.com/,GRP,Social Networking,2016-06-14,OONI,
-http://www.naijavideos.com/,MMED,Media sharing,2016-06-14,OONI,
-http://www.nationalmirroronline.net/,NEWS,News Media,2016-06-14,OONI,
-http://www.nationalnetworkonline.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.newswatchdirect.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.osundefender.org/,NEWS,News Media,2016-06-14,OONI,
-http://www.plus.friendite.com/,GRP,Social Networking,2016-06-14,OONI,
-http://www.punchng.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.skilledafricans.com/,GRP,Social Networking,2016-06-14,OONI,
-http://www.sunnewsonline.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.tell.ng/,NEWS,News Media,2016-06-14,OONI,
-http://www.thenationonlineng.net/,NEWS,News Media,2016-06-14,OONI,
-http://www.thetidenewsonline.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.thisdaylive.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.tribuneonlineng.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.vanguardngr.com/,NEWS,News Media,2016-06-14,OONI,
-http://www.bbc.com/hausa/,NEWS,News Media,2017-07-19,BBC,
-http://www.bbchausa.com/,NEWS,News Media,2017-07-19,BBC,
-http://www.igbofocus.co.uk/,CULTR,Culture,2017-11-20,OONI,Reportedly blocked
-http://www.ipobgovernment.org/,HUMR,Human Rights Issues,2017-11-20,OONI,Reportedly blocked
-http://www.biafraland.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://biafraradio.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://biafranet.com/,CULTR,Culture,2017-11-20,OONI,Reportedly blocked
-http://www.thebiafrastars.co/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://www.biafraforum.com/,GRP,Social Networking,2017-11-20,OONI,Reportedly blocked
-http://www.biafrainc.com/,CULTR,Culture,2017-11-20,OONI,Reportedly blocked
-http://www.biafra.info/,GRP,Social Networking,2017-11-20,OONI,Reportedly blocked
-http://www.biafranigeriaworld.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://www.ekwenche.org/,POLR,Political Criticism,2017-11-20,OONI,Reportedly blocked
-http://www.gobiafra.com/,GRP,Social Networking,2017-11-20,OONI,Reportedly blocked
-http://www.ustream.tv/channel/biafra-television,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://www.bafmembers.com/,POLR,Political Criticism,2017-11-20,OONI,Reportedly blocked
-http://www.thebiafrapost.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://www.naij.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
-http://www.thebiafraherald.co/,NEWS,News Media,2017-11-23,OONI,Reportedly blocked
-http://www.biafra.com/,POLR,Political Criticism,2018-01-22,OONI,
-http://www.biafra.net/,POLR,Political Criticism,2018-01-22,OONI,
-http://www.biafra.club/,POLR,Political Criticism,2018-01-22,OONI,
-http://www.freennamdikanu.com/,POLR,Political Criticism,2018-01-22,OONI,
-http://saharareporters.com/,NEWS,News Media,2018-01-22,OONI,
-https://www.islamicmovement.org/,REL,Religion,2018-01-22,OONI,
-http://imnig.org/,REL,Religion,2018-01-22,OONI,
-https://nostringsng.com/,LGBT,LGBT,2018-01-22,OONI,
-http://naijalez.com/,LGBT,LGBT,2018-01-22,OONI,
-http://www.bisialimifoundation.org/,LGBT,LGBT,2018-01-22,OONI,
+https://dhran.ng/,ALDR,Alcohol & Drugs,2025-09-09,Netalitica,
+https://ndleahelpline.com.ng/,ALDR,Alcohol & Drugs,2025-09-09,Netalitica,
+https://nafdac.gov.ng/,ALDR,Alcohol & Drugs,2025-09-09,Netalitica,government resource
+https://disciplines.ng/,ALDR,Alcohol & Drugs,2025-09-20,Netalitica,
+https://drinks.ng/,ALDR,Alcohol & Drugs,2025-09-01,Netalitica,
+https://www.liquoretc.com/,ALDR,Alcohol & Drugs,2025-09-01,Netalitica,
+https://corkspro.ng/,ALDR,Alcohol & Drugs,2025-09-01,Netalitica,
+https://ekulowineworld.com/,ALDR,Alcohol & Drugs,2025-09-01,Netalitica,
+https://naijaliquor.com/,ALDR,Alcohol & Drugs,2025-09-01,Netalitica,
+https://cyphercrescent.com/,ANON,Anonymization and circumvention tools,2025-09-09,Netalitica,
+https://www.konga.com/,COMM,E-commerce,2025-09-01,Netalitica,
+https://jiji.ng/,COMM,E-commerce,2025-09-01,Netalitica,
+https://kara.com.ng/,COMM,E-commerce,2025-09-01,Netalitica,
+https://slot.ng/,COMM,E-commerce,2025-09-01,Netalitica,
+https://www.jumia.com.ng/,COMM,E-commerce,2018-09-04,OONI,
+https://amchat.app/,COMT,Communication Tools,2025-09-02,Netalitica,
+https://www.arkchat.com/,COMT,Communication Tools,2025-09-02,Netalitica,used in Nigeria
+http://www.smslive247.com/,COMT,Communication Tools,2025-09-02,Netalitica,
+https://www.wizkidofficial.com/,CULTR,Culture,2018-09-13,OONI partner,
+https://kissesandhuggs.org/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://www.alakija.com/blog/,CULTR,Culture,2018-09-04,OONI,Stories through photography
+https://www.naijaloaded.com.ng/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers - appears blocked
+https://www.olufamous.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://www.dimmaumeh.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://ladunliadinews.com/,CULTR,Culture,2018-09-04,OONI,
+https://www.ogbongeblog.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
+https://www.skabash.com/,CULTR,Culture,2025-09-14,Netalitica,
+https://ayosanusi.com/,CULTR,Culture,2025-09-15,Netalitica,
+https://www.yaihfoundation.org.ng/,CULTR,Culture,2025-09-18,Netalitica,
+https://www.ileoro.org/,CULTR,Culture,2025-09-18,Netalitica,
+https://historicalnigeria.com/,CULTR,Culture,2025-09-18,Netalitica,
+https://www.yorubaculturalcentre.org/,CULTR,Culture,2025-09-18,Netalitica,
+https://translingua.ng/,CULTR,Culture,2025-09-18,Netalitica,
+https://www.36ng.ng/,CULTR,Culture,2025-09-20,Netalitica,
+https://nasajournal.com.ng/,CULTR,Culture,2025-09-20,Netalitica,Journal of Sociology and Anthropology
+https://tooxclusive.com/,CULTR,Culture,2025-09-02,Netalitica,
+https://afrobeatsglobal.com/,CULTR,Culture,2025-10-09,Netalitica,
+https://irokotv.com/,CULTR,Culture,2025-10-09,Netalitica,
+https://www.kehindebademosi.org/,CULTR,Culture,2018-09-04,OONI,Nigerian LGBT advocate
+https://www.iamdavido.com/,CULTR,Culture,2018-09-13,OONI partner,
+https://www.yemialadeofficial.com/,CULTR,Culture,2018-09-13,OONI partner,
+https://www.naijavibe.net/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://campusportalng.com/,CULTR,Culture,2018-09-04,OONI,Information for Nigerian University students
+https://misspetitenigeria.blogspot.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://goonerdaily.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://ynaija.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
+https://www.writersincharge.com/blog/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers - appears dead - monitor
+https://lailasnews.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://www.jobberman.com/blog/,CULTR,Culture,2018-09-04,OONI,Bloggers
+https://www.lindaikejisblog.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
+https://www.bellanaija.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
+https://notjustok.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
+http://omojuwa.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers. Apperas not accessible - monitor
 https://ig.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
 https://wikimediafoundation.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://www.vanguardngr.com/,NEWS,News Media,2018-09-04,OONI,
-http://dailypost.ng/,NEWS,News Media,2018-09-04,OONI,
-https://punchng.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.premiumtimesng.com/,NEWS,News Media,2018-09-04,OONI,
-https://buzznigeria.com/,NEWS,News Media,2018-09-04,OONI,
-http://guardian.ng/,NEWS,News Media,2018-09-04,OONI,
-https://leadership.ng/,NEWS,News Media,2018-09-04,OONI,
-http://sunnewsonline.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.pmnewsnigeria.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.dailytrust.com.ng/,NEWS,News Media,2018-09-04,OONI,
-https://www.naijanews.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.channelstv.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.nationalmirroronline.net/,NEWS,News Media,2018-09-04,OONI,
-https://www.nairaland.com/,NEWS,News Media,2018-09-04,OONI,Nairaland Forum
-https://www.businessdayonline.com/,NEWS,News Media,2018-09-04,OONI,
-https://nigeriaworld.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.theadvocatengr.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.nigerianobservernews.com/,NEWS,News Media,2018-09-04,OONI,
-http://nigerianpilot.com/,NEWS,News Media,2018-09-04,OONI,
-http://businessnews.com.ng/,NEWS,News Media,2018-09-04,OONI,
-http://www.nationaldailyng.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.theabujainquirer.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.blueprint.ng/,NEWS,News Media,2018-09-04,OONI,
-https://nationalaccordnewspaper.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.naijaturnup.com/,NEWS,News Media,2018-09-04,OONI,
-https://tell.ng/,NEWS,News Media,2018-09-04,OONI,
-http://www.imotrumpeta.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.networkafrica.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.pulse.ng/,NEWS,News Media,2018-09-04,OONI,
-http://informationng.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.thecable.ng/,NEWS,News Media,2018-09-04,OONI,
-https://www.nigerianbulletin.com/,NEWS,News Media,2018-09-04,OONI,
-https://newsrescue.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.nigerianeye.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.onlinenigeria.com/,NEWS,News Media,2018-09-04,OONI,
-https://naijagists.com/,NEWS,News Media,2018-09-04,OONI,
-http://www.ladunliadinews.com/,CULTR,Culture,2018-09-04,OONI,
-https://www.thetrentonline.com/,NEWS,News Media,2018-09-04,OONI,
-https://www.lindaikejisblog.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-http://www.ogbongeblog.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-https://www.bellanaija.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-https://notjustok.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-http://omojuwa.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-https://ynaija.com/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
+https://biafranet.com/,CULTR,Culture,2017-11-20,OONI,Separatist Organazation
+https://mingle2.com/,DATE,Online Dating,2025-09-02,Netalitica,
+https://friendite.ng/,DATE,Online Dating,2025-09-02,Netalitica,
+https://www.afrointroductions.com/,DATE,Online Dating,2025-09-02,Netalitica,
+https://naijaplanet.com/,DATE,Online Dating,2018-09-04,OONI,
+https://nigeriandating.com/,DATE,Online Dating,2018-09-04,OONI,
+https://www.onescene.com/profiles/NG/,DATE,Online Dating,2018-09-04,OONI,LGBT dating
+https://www.nigerianchristiansingles.com/,DATE,Online Dating,2018-09-04,OONI,
+https://www.flirtnaija.ng/,DATE,Online Dating,2018-09-04,OONI,
+https://www.yeidep.org/,ECON,Economics,2025-09-02,Netalitica,
+https://nnfng.org/,ECON,Economics,2025-09-02,Netalitica,
+https://www.giz.de/en/,ECON,Economics,2025-09-02,Netalitica,
+https://nes.org.ng/,ENV,Environment,2018-09-04,OONI,
+https://www.necorng.org/,ENV,Environment,2018-09-04,OONI,Environmental Conservative Organization
+https://wepnigeria.net/,ENV,Environment,2018-09-04,OONI,Environmental NGO with a focus on gender
+https://ncfnigeria.org/,ENV,Environment,2018-09-04,OONI,Nigeria Conservative Foundation
+https://ncfnigeria.org/forest-green-recovery-nigeria/,ENV,Environment,2025-09-22,Netalitica,
+https://climatecouncil.gov.ng/,ENV,Environment,2025-09-22,Netalitica,government resource
+http://www.hedang.org/,ENV,Environment,2025-10-29,Netalitica,
+https://cesda.org.ng/,ENV,Environment,2025-10-29,Netalitica,
+https://www.efdinitiative.org/nigeria,ENV,Environment,2025-10-29,Netalitica,
+https://hedang.org/,ENV,Environment,2025-10-29,Netalitica,
+https://erafoen.org/,ENV,Environment,2025-10-29,Netalitica,
+https://fote.org.ng/,ENV,Environment,2025-10-29,Netalitica,
+https://sppnigeria.org/,ENV,Environment,2025-10-29,Netalitica,
+https://cesda.org.ng/web/,ENV,Environment,2025-10-29,Netalitica,
+https://udushare.com.ng/,FILE,File-sharing,2025-09-02,Netalitica,
+https://www.waploaded.com/,FILE,File-sharing,2025-10-29,Netalitica,
+https://www2.thepiratebay3.co/,FILE,File-sharing,2025-10-29,Netalitica,
+https://www.mpl.ng/,GAME,Gaming,2025-09-02,Netalitica,
+https://next.io/,GAME,Gaming,2025-09-02,Netalitica,
+https://www.maliyo.com/,GAME,Gaming,2025-09-02,Netalitica,
+https://nexalgaming.co/,GAME,Gaming,2025-09-02,Netalitica,
+https://nigeriaonlinecasino.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://www.gamblingblogger.com.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://predictz.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://www.betano.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://sports.bet9ja.com/,GMB,Gambling,2025-09-15,Netalitica,
+https://nla.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://nlrc-gov.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://easywin.ng/,GMB,Gambling,2025-09-15,Netalitica,
+https://www.sportbetting.ng/,GMB,Gambling,2025-09-17,Netalitica,
+https://1xbet.ng/,GMB,Gambling,2025-09-17,Netalitica,
+https://surebet247.com/,GMB,Gambling,2025-09-01,Netalitica,
+https://m.betking.com/,GMB,Gambling,2025-09-01,Netalitica,
+https://www.bet365.com/,GMB,Gambling,2025-09-01,Netalitica,
+https://mid.ru/,GOVT,Government,2025-10-29,Netalitica,Nigeria has concerns over Russia influence over smaller countries in the Sahel region that share boundaries or are in the same region as Nigeria
+https://mil.ru/,GOVT,Government,2025-10-19,Netalitica,Ministry of Defence of Russia
+http://mvd.ru/,GOVT,Government,2025-10-19,Netalitica,Ministry of Internal Affairs of Russia
+https://minobrnauki.gov.ru/,GOVT,Government,2025-10-19,Netalitica,Ministry of Education of Russia
+http://svr.gov.ru/,GOVT,Government,2025-10-19,Netalitica,Foreign Intelligence of Russia
+https://www.gosnadzor.ru/,GOVT,Government,2025-10-19,Netalitica,"Federal Service for Environmental, Technological and Nuclear Supervision of Russia - appears blocked in Georgia"
+http://duma.gov.ru/,GOVT,Government,2025-10-19,Netalitica,The Russian Parliament
+http://government.ru/,GOVT,Government,2025-10-19,Netalitica,Russian government
+http://www.skilledafricans.com/,GRP,Social Networking,2016-06-14,OONI,appears dead - monitor
+https://www.app.letstalk.com.ng/,GRP,Social Networking,2025-09-18,Netalitica,
+https://softtalk.me/,GRP,Social Networking,2025-09-18,Netalitica,
+https://techneo.ng/,HACK,Hacking Tools,2025-09-30,Netalitica,
 https://medium.com/techloy,HACK,Hacking Tools,2018-09-04,OONI,Nigeria's top bloggers
-https://www.writersincharge.com/blog/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-http://www.naijaloaded.com.ng/,CULTR,Culture,2018-09-04,OONI,Nigeria's top bloggers
-http://www.sisiyemmie.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-https://lailasnews.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-http://www.olufamous.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-http://www.dimmaumeh.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-https://www.jobberman.com/blog/,CULTR,Culture,2018-09-04,OONI,Bloggers
-https://www.naijavibe.net/,CULTR,Culture,2018-09-04,OONI,Bloggers
-https://campusportalng.com/,CULTR,Culture,2018-09-04,OONI,Information for Nigerian University students
-http://kissesandhuggs.org/,CULTR,Culture,2018-09-04,OONI,Bloggers
-http://www.infashionrehab.com/,CULTR,Culture,2018-09-04,OONI,Nigerian fashion blog
-https://healthsaveblog.com/,PUBH,Public Health,2018-09-04,OONI,Nigerian blog offering health advice
-https://misspetitenigeria.blogspot.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-http://alakija.com/blog/,CULTR,Culture,2018-09-04,OONI,Stories through photography
-https://darlingtonpeters.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-https://goonerdaily.com/,CULTR,Culture,2018-09-04,OONI,Bloggers
-https://www.thenigerianvoice.com/,NEWS,News Media,2018-09-04,OONI,
-https://nigerianstalk.org/,CULTR,Culture,2018-09-04,OONI,
-https://nigerianpolity.blogspot.com/,POLR,Political Criticism,2018-09-04,OONI,
-http://www.inecnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,National Electoral Commission
-https://www.ifes.org/nigeria,POLR,Political Criticism,2018-09-04,OONI,International Foundation for Electoral Systems
-http://atiku.org/,POLR,Political Criticism,2018-09-04,OONI,Politician
-https://paradigmhq.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://aacparty.com/,POLR,Political Criticism,2018-09-04,OONI,New political party formed by human rights activist
-https://www.anrp.org.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
-https://alliancefornewnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,Political party
-https://apc.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
-http://www.socialistnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,Political party
-http://www.jmpp.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
-https://www.nationalinterestparty.com/,POLR,Political Criticism,2018-09-04,OONI,Political party
-http://peoplesdemocraticparty.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
-https://youthpartyng.com/,POLR,Political Criticism,2018-09-04,OONI,Political party
-http://www.eces.eu/posts/eces-in-nigeria,POLR,Political Criticism,2018-09-04,OONI,European Centre for Electoral Support
-http://www.hurilaws.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
+https://qservers.ng/,HOST,Hosting and Blogging Platforms,2025-09-28,Netalitica,
+https://www.domainking.ng/,HOST,Hosting and Blogging Platforms,2025-09-28,Netalitica,
+https://www.hostafrica.ng/,HOST,Hosting and Blogging Platforms,2025-09-28,Netalitica,
+https://webdesigns.ng/,HOST,Hosting and Blogging Platforms,2025-09-28,Netalitica,
+https://smartweb.com.ng/,HOST,Hosting and Blogging Platforms,2025-09-30,Netalitica,
+https://gitservers.com.ng/,HOST,Hosting and Blogging Platforms,2025-09-30,Netalitica,
+https://www.jadore-fashion.com/,HOST,Hosting and Blogging Platforms,2025-09-30,Netalitica,
+https://www.gistlover.com/,HOST,Hosting and Blogging Platforms,2025-09-30,Netalitica,
+https://sizzle.ng/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+https://hub.opera.com/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+https://truehost.com.ng/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+https://hosting.com/en-ng/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+https://www.whogohost.com/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+https://www.afeeshost.com/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+https://hostnali.ng/,HOST,Hosting and Blogging Platforms,2025-09-02,Netalitica,
+http://yourbudgit.com/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
+https://www.cddwestafrica.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
+https://eserc.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,Economic and Social Empowerment of Rural Communities
+https://fatefoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
+https://www.nigerianbar.org.ng/,HUMR,Human Rights Issues,2018-09-19,OONI partner,Nigerian Bar Association
+https://ledapnigeria.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
+https://fida.org.ng/,HUMR,Human Rights Issues,2018-09-04,OONI,Female Lawyer Organization
+https://eie.ng/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
+https://www.tracka.ng/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
+https://www.ipob.org/,HUMR,Human Rights Issues,2018-09-04,OONI,Reportedly blocked
+https://hurilaws.org/,HUMR,Human Rights Issues,2018-09-04,OONI,Human Right Law Service
+https://primeprogressng.com/,HUMR,Human Rights Issues,2025-09-14,Netalitica,
+https://womenimpactingnigeria.org/,HUMR,Human Rights Issues,2025-09-14,Netalitica,
+https://feminism.ng/,HUMR,Human Rights Issues,2025-09-15,Netalitica,
+https://ng.boell.org/en,HUMR,Human Rights Issues,2025-09-15,Netalitica,
+https://justicegroup.org/,HUMR,Human Rights Issues,2025-09-02,Netalitica,
+https://cfnhri.org/,HUMR,Human Rights Issues,2025-09-02,Netalitica,
+https://www.peaceinsight.org/,HUMR,Human Rights Issues,2025-09-02,Netalitica,
+https://endsars.carrd.co/,HUMR,Human Rights Issues,2023-08-04,test-lists.ooni.org contribution, 
+https://budgit.org/,HUMR,Human Rights Issues,2023-01-27,test-lists.ooni.org contribution,
+https://pindfoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,Foundation for Partnership Initiatives in the Niger Delta
+https://www.salvationarmy.org/ihq/nigeria,HUMR,Human Rights Issues,2018-12-30,OONI partner,
+https://www.mercycorps.org/countries/nigeria,HUMR,Human Rights Issues,2018-12-30,OONI partner,Mercy Corps
+http://nnngo.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,Nigeria Network of NGOs
+https://www.tydanjumafoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
+https://www.kind.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
+https://www.ndpifoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,Niger Delta Partnership Initiative
+http://womenconsortiumofnigeria.org/,HUMR,Human Rights Issues,2018-09-04,OONI,Female gender right group
+https://wrapanigeria.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
+https://www.genderindex.org/country/nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
+https://www.womenforwomen.org/what-we-do/countries/nigeria,HUMR,Human Rights Issues,2018-09-04,OONI,
+https://minorityrights.org/country/nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
 https://www.hrw.org/world-report/2018/country-chapters/nigeria,HUMR,Human Rights Issues,2018-09-04,OONI,
 https://www.hrw.org/africa/nigeria,HUMR,Human Rights Issues,2018-09-04,OONI,
 https://www.amnestyusa.org/countries/nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
 https://www.nigeriarights.gov.ng/,HUMR,Human Rights Issues,2018-09-04,OONI,
 https://www.amnesty.org/en/countries/africa/nigeria/report-nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://wordpress.clarku.edu/id125-womansrightsedu/blog-posts/womens-rights-in-nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://www.wikigender.org/wiki/africa-for-womens-rights-nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://www.genderindex.org/country/nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://www.womenforwomen.org/what-we-do/countries/nigeria,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://minorityrights.org/country/nigeria/,HUMR,Human Rights Issues,2018-09-04,OONI,
-http://www.ipob.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://www.bisialimifoundation.org/,LGBT,LGBT,2018-09-04,OONI,Advocating for LGBT rights in Nigeria
-https://www.onescene.com/profiles/NG/,DATE,Online Dating,2018-09-04,OONI,LGBT dating
-http://the-ipf.com/2016/06/09/homosexuality-nigeria-young-lgbt/,LGBT,LGBT,2018-09-04,OONI,
-http://www.bisialimi.com/,LGBT,LGBT,2018-09-04,OONI,Nigerian LGBT advocate
-https://www.kehindebademosi.org/,CULTR,Culture,2018-09-04,OONI,Nigerian LGBT advocate
-http://www.houseofrainbow.org/,LGBT,LGBT,2018-09-04,OONI,LGBT org founded by gay Nigerian priest
+https://paradigmhq.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
+https://www.fao.org/home/en/,IGO,Intergovernmental Organizations,2025-09-02,Netalitica,
+https://www.undp.org/nigeria,IGO,Intergovernmental Organizations,2025-09-28,Netalitica,
+https://nigeria.un.org/en/sdgs,IGO,Intergovernmental Organizations,2025-09-28,Netalitica,
+https://www.ogpnigeria.gov.ng/,IGO,Intergovernmental Organizations,2025-09-02,Netalitica,
+https://nationalplanning.gov.ng/,IGO,Intergovernmental Organizations,2025-09-02,Netalitica,
+https://ecowas.int/,IGO,Intergovernmental Organizations,2025-10-09,Netalitica,
+https://au.int/,IGO,Intergovernmental Organizations,2025-10-09,Netalitica,
+https://worldbank.org/en/country/nigeria,IGO,Intergovernmental Organizations,2025-10-09,Netalitica,
+https://imf.org/en/Countries/NGA,IGO,Intergovernmental Organizations,2025-10-09,Netalitica,
+https://www.houseofrainbow.org/,LGBT,LGBT,2018-09-04,OONI,LGBT org founded by gay Nigerian priest
+https://bisialimi.com/,LGBT,LGBT,2018-09-04,OONI,Nigerian LGBT advocate
+https://naijalez.com/,LGBT,LGBT,2018-01-22,OONI,Nigerian lesbian forum
+https://bisialimifoundation.org/,LGBT,LGBT,2018-01-22,OONI,
+https://www.icirnigeria.org/lgbtq-walking-the-tightrope-of-social-exclusion-in-nigeria/,LGBT,LGBT,2025-09-13,Netalitica,
+https://gayplanets.com/,LGBT,LGBT,2025-09-13,Netalitica,
+https://ablhingo.org/,LGBT,LGBT,2025-09-14,Netalitica,
+https://www.icarh.org/,LGBT,LGBT,2020-01-29,OONI partner,
+https://theinitiativeforequalrights.org/,LGBT,LGBT,2019-11-18,OutRight International,
 https://queeralliancenigeria.wordpress.com/,LGBT,LGBT,2018-09-04,OONI,
 https://queeralliancenigeria.blogspot.com/,LGBT,LGBT,2018-09-04,OONI,
-http://www.nes.org.ng/,ENV,Environment,2018-09-04,OONI,
-http://www.necorng.org/,ENV,Environment,2018-09-04,OONI,
-http://wepnigeria.net/,ENV,Environment,2018-09-04,OONI,Environmental NGO with a focus on gender
-http://www.ncfnigeria.org/,ENV,Environment,2018-09-04,OONI,
-http://ledapnigeria.org/programmes/women-rights/,HUMR,Human Rights Issues,2018-09-04,OONI,
-http://womenconsortiumofnigeria.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
-http://www.fida.org.ng/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://wrapanigeria.org/,HUMR,Human Rights Issues,2018-09-04,OONI,
-http://www.nigerianorganisationofwomen.com/,HUMR,Human Rights Issues,2018-09-04,OONI,
-https://naijaplanet.com/,DATE,Online Dating,2018-09-04,OONI,
-https://nigeriandating.com/,DATE,Online Dating,2018-09-04,OONI,
-https://www.nigerianchristiansingles.com/,DATE,Online Dating,2018-09-04,OONI,
-http://www.nigerian-dating.com/,DATE,Online Dating,2018-09-04,OONI,
-https://www.flirtnaija.ng/,DATE,Online Dating,2018-09-04,OONI,
-http://www.unaids.org/en/regionscountries/countries/nigeria,PUBH,Public Health,2018-09-04,OONI,
-https://www.aidsmap.com/Nigeria/cat/1348/,PUBH,Public Health,2018-09-04,OONI,
-https://www.apin.org.ng/,PUBH,Public Health,2018-09-04,OONI,
-https://www.unicef.org/nigeria/hiv_aids.html,PUBH,Public Health,2018-09-04,OONI,
-http://ppfn.org/,XED,Sex Education,2018-09-04,OONI,
-https://www.jumia.com.ng/,COMM,E-commerce,2018-09-04,OONI,
-http://reachnaija.com/,NEWS,News Media,2018-09-04,OONI,
-https://punchng.com/the-nigerian-civil-war-in-pictures/,POLR,Political Criticism,2018-09-04,OONI,
+https://nostringsng.com/,LGBT,LGBT,2018-01-22,OONI,
+https://ipobworldwide.org/,MILX,Terrorism and Militants,2025-09-23,Netalitica,
+https://arete-group.com/2023/04/05/terrorism-in-nigeria/,MILX,Terrorism and Militants,2025-09-20,Netalitica,
+https://www.nigerdeltaavengers.org/,MILX,Terrorism and Militants,2018-09-17,OONI partner,
+https://www.boomplay.com/,MMED,Media sharing,2025-09-02,Netalitica,
+https://mdundo.com/ng,MMED,Media sharing,2025-10-09,Netalitica,
 https://ndani.tv/,MMED,Media sharing,2018-09-04,OONI,
 https://www.zeratv.com/,MMED,Media sharing,2018-09-04,OONI,
-https://irokotv.com/,MMED,Media sharing,2018-09-04,OONI,
-https://wabiazo.com/,GRP,Social Networking,2018-09-04,OONI,
-http://www.lagosmeet.com/,GRP,Social Networking,2018-09-04,OONI,
-http://www.wizkidofficial.com/,CULTR,Culture,2018-09-13,OONI partner,
-http://www.starboymusic.com/,CULTR,Culture,2018-09-13,OONI partner,
-https://www.iamdavido.com/,CULTR,Culture,2018-09-13,OONI partner,
-http://www.hknrecords.com/,CULTR,Culture,2018-09-13,OONI partner,
-https://www.yemialadeofficial.com/,CULTR,Culture,2018-09-13,OONI partner,
-https://peoplesdemocraticparty.com.ng/,POLR,Political Criticism,2018-09-14,OONI partner,
-http://eie.ng/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
-http://yourbudgit.com/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
-http://www.tracka.ng/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
-http://procurementmonitor.org/ppdc/,HUMR,Human Rights Issues,2018-09-14,OONI partner,
-http://www.femifanikayode.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://www.renoomokri.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://www.channelstv.com/,NEWS,News Media,2018-09-17,OONI partner,
-https://gidifeed.com/,NEWS,News Media,2018-09-17,OONI partner,
-http://www.bringbackourgirls.ng/,HUMR,Human Rights Issues,2018-09-17,OONI partner,
-http://situationroom.placng.org/,HUMR,Human Rights Issues,2018-09-17,OONI partner,
-http://radiobiafra.co/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://www.biafratv.co/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://biafranigeriaworld.com/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://www.waado.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://www.nigerdeltaavengers.org/,MILX,Terrorism and Militants,2018-09-17,OONI partner,
-https://www.lnctoday.com/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://www.actionallianceng.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://sowore2019.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://nationinprogress.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://adcparty.org.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
-https://www.adp.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://www.nlcng.org/,POLR,Political Criticism,2018-09-17,OONI partner,
-http://www.nigerianbar.org.ng/,HUMR,Human Rights Issues,2018-09-19,OONI partner,
-http://tundebakare.com/,POLR,Political Criticism,2018-09-19,OONI partner,
-http://www.femiaribisala.com/,REL,Religion,2018-09-19,OONI partner,
-https://www.icirnigeria.org/,NEWS,News Media,2018-09-19,OONI partner,
-http://atiku.org/aa/,POLR,Political Criticism,2018-09-21,OONI partner,
-http://www.atikuabubakar2019.org/,POLR,Political Criticism,2018-09-21,OONI partner,
-http://www.reubenabati.com.ng/,NEWS,News Media,2018-09-22,OONI partner,
-http://www.abubakarbukolasaraki.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://thepolitico.com.ng/,NEWS,News Media,2018-09-22,OONI partner,
-http://legacypartyofnigeria.blogspot.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://feladurotoye.net/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://kingsleycmoghalu.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://www.nrm.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://www.wailersng.com/,POLR,Political Criticism,2018-09-22,OONI partner,
-http://www.pppnigeria.org/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://prp.com.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://election.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,
-https://www.mercycorps.org/countries/nigeria,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-http://www.nnngo.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-https://www.tydanjumafoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-http://ccgnigeria.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-http://www.cddwestafrica.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-https://www.legit.ng/,NEWS,News Media,2018-12-30,OONI partner,
-https://hausa.legit.ng/,NEWS,News Media,2018-12-30,OONI partner,
-http://www.eserc.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-https://fatefoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-https://www.kind.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-https://www.ndpifoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-https://pindfoundation.org/,HUMR,Human Rights Issues,2018-12-30,OONI partner,
-http://www.tiwalola.org/,POLR,Political Criticism,2018-12-30,OONI partner,
-http://www.yorubafoundation.org.uk/,POLR,Political Criticism,2018-12-30,OONI partner,
-http://ohanezendigboenugu.org/,POLR,Political Criticism,2018-12-30,OONI partner,
-http://obindigbo.com.ng/,POLR,Political Criticism,2018-12-30,OONI partner,
-https://www.salvationarmy.org/ihq/nigeria,HUMR,Human Rights Issues,2018-12-30,OONI partner, 
-https://www.elevatenews.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://www.nigerianmonitor.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://thesun.ng/,NEWS,News Media,2018-09-04,OONI,
+https://dailytrust.com/,NEWS,News Media,2018-09-04,OONI,
+https://advocatengr.com/,NEWS,News Media,2018-09-04,OONI,
+https://naija247news.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://porscheclassy.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://www.galaxytvonline.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://silverbirdtv.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://www.nigerianeye.com/,NEWS,News Media,2018-09-04,OONI,
+https://nationaldailyng.com/,NEWS,News Media,2018-09-04,OONI,
+https://theabujainquirer.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.informationng.com/,NEWS,News Media,2018-09-04,OONI,
+https://pmnewsnigeria.com/,NEWS,News Media,2018-09-04,OONI,
+https://nigerianpilot.com/,NEWS,News Media,2018-09-04,OONI,
+https://businessnews.com.ng/,NEWS,News Media,2018-09-04,OONI,
+https://dailypost.ng/,NEWS,News Media,2018-09-04,OONI,
+https://www.thebiafraherald.co/,NEWS,News Media,2017-11-23,OONI,Reportedly blocked
+https://www.legit.ng/,NEWS,News Media,2017-11-20,OONI,
+https://biafraradio.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
+https://www.bbc.com/hausa,NEWS,News Media,2017-07-19,BBC,
+https://punchng.com/,NEWS,News Media,2016-06-14,OONI,National Dailly
+https://www.tell.ng/,NEWS,News Media,2016-06-14,OONI,National dailly
+https://thenationonlineng.net/,NEWS,News Media,2016-06-14,OONI,National Dailly
+https://www.thetidenewsonline.com/,NEWS,News Media,2016-06-14,OONI,National Dailly
+https://www.thisdaylive.com/,NEWS,News Media,2016-06-14,OONI,National Dailly
+https://nationalnetworkonline.com/,NEWS,News Media,2016-06-14,OONI,South South based media publication
+https://championnews.com.ng/,NEWS,News Media,2016-06-14,OONI,
+https://www.completesports.com/,NEWS,News Media,2016-06-14,OONI,
+https://guardian.ng/,NEWS,News Media,2016-06-14,OONI,
+https://hallmarknews.com/,NEWS,News Media,2016-06-14,OONI,
+https://leadership.ng/nga/,NEWS,News Media,2016-06-14,OONI,
+https://234next.com/,NEWS,News Media,2016-06-14,OONI,
+https://dailyindependentnig.com/,NEWS,News Media,2016-06-14,OONI,
+https://www.premiumtimesng.com/,NEWS,News Media,2016-06-14,OONI,
+https://gidifeed.com/,NEWS,News Media,2018-09-17,OONI partner,appears dead - monitor
+http://www.nationalmirroronline.net/,NEWS,News Media,2016-06-14,OONI,appears dead - monitor
+https://spotlightafricamedia.com/,NEWS,News Media,2025-09-09,Netalitica,
+https://www.ripplesnigeria.com/,NEWS,News Media,2025-09-09,Netalitica,
+https://thewhistler.ng/,NEWS,News Media,2025-09-09,Netalitica,
+https://www.withinnigeria.com/,NEWS,News Media,2025-09-11,Netalitica,
+https://allafrica.com/,NEWS,News Media,2025-10-09,Netalitica,
+https://thenet.ng/,NEWS,News Media,2025-10-09,Netalitica,
+https://techcabal.com/,NEWS,News Media,2025-10-09,Netalitica,
+https://thedailypage.ng/,NEWS,News Media,2025-09-11,Netalitica,
+https://www.tori.ng/,NEWS,News Media,2025-09-11,Netalitica,
+https://inquirer.ng/,NEWS,News Media,2025-09-13,Netalitica,
+https://easternears.ng/,NEWS,News Media,2025-09-20,Netalitica,
+https://wikkitimes.com/,NEWS,News Media,2024-04-27,test-lists.ooni.org contribution,
+https://fij.ng/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,Foundation for Investigative Journalism
+https://www.gazettengr.com/,NEWS,News Media,2021-02-05,OONI, 
+https://newsflash.ng/,NEWS,News Media,2018-12-30,OONI partner,
+https://persecondnews.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://nigeriannet.com/,NEWS,News Media,2018-12-30,OONI partner,
+https://www.codewit.com/,NEWS,News Media,2018-12-30,OONI partner,
+http://freshangleng.com/,NEWS,News Media,2018-12-30,OONI partner,
 https://www.tribuneonlineng.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://porscheclassy.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://www.aitonline.tv/,NEWS,News Media,2018-12-30,OONI partner,
-http://www.galaxytvonline.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://silverbirdtv.com/,NEWS,News Media,2018-12-30,OONI partner,
 https://prnigeria.com/,NEWS,News Media,2018-12-30,OONI partner,
 https://www.concisenews.global/,NEWS,News Media,2018-12-30,OONI partner,
-https://nigerianpilot.com/,NEWS,News Media,2018-12-30,OONI partner,
 https://www.today.ng/,NEWS,News Media,2018-12-30,OONI partner,
 http://www.informationng.com/,NEWS,News Media,2018-12-30,OONI partner,
 https://thewillnigeria.com/news/,NEWS,News Media,2018-12-30,OONI partner,
 https://odili.net/,NEWS,News Media,2018-12-30,OONI partner,
-https://1push.ng/,NEWS,News Media,2018-12-30,OONI partner,
 http://pointblanknews.com/pbn/,NEWS,News Media,2018-12-30,OONI partner,
-https://bounce.ng/,NEWS,News Media,2018-12-30,OONI partner,
-http://www.cnsng.org/,NEWS,News Media,2018-12-30,OONI partner,
-https://newsflash.ng/,NEWS,News Media,2018-12-30,OONI partner,
-https://persecondnews.com/,NEWS,News Media,2018-12-30,OONI partner,
-https://nigeriannet.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://naija247news.com/,NEWS,News Media,2018-12-30,OONI partner,
-https://www.newsheadlines.com.ng/,NEWS,News Media,2018-12-30,OONI partner,
-https://www.codewit.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://desertherald.com/,NEWS,News Media,2018-12-30,OONI partner,
-https://ereporternews.com/,NEWS,News Media,2018-12-30,OONI partner,
-http://freshangleng.com/,NEWS,News Media,2018-12-30,OONI partner,
-https://ionigeria.com/,NEWS,News Media,2018-12-30,OONI partner,
-https://elombah.com/,NEWS,News Media,2018-12-30,OONI partner,
-https://theinitiativeforequalrights.org/,LGBT,LGBT,2019-11-18,OutRight International,
-https://www.icarh.org/,LGBT,LGBT,2020-01-29,OONI partner,
-https://lovemattersafrica.com/,XED,Sex Education,2020-01-29,OONI partner,
-http://standtoendrape.org/,XED,Sex Education,2020-01-29,OONI partner,
-http://www.theequalityhub.com/,LGBT,LGBT,2020-01-29,OONI partner,
-https://feministcoalition2020.com/,HUMR,Human Rights Issues,2020-11-30,OONI,Reportedly blocked
-https://endsars.com/,HUMR,Human Rights Issues,2020-12-15,OONI,Reportedly blocked
-https://radioisiaq.com/,POLR,Political Criticism,2020-12-15,OONI,Reportedly blocked
-https://www.peoplesgazette.com/,NEWS,News Media,2021-02-05,OONI,Reportedly blocked
-https://www.gazettengr.com/,NEWS,News Media,2021-02-05,OONI,Reportedly blocked
-https://fij.ng/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,
-https://techcabal.com/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,
-https://saharareporters.com/,NEWS,News Media,2023-01-27,test-lists.ooni.org contribution,
-https://budgit.org/,HUMR,Human Rights Issues,2023-01-27,test-lists.ooni.org contribution,
+https://hausa.legit.ng/,NEWS,News Media,2018-12-30,OONI partner,
+http://www.reubenabati.com.ng/,NEWS,News Media,2018-09-22,OONI partner,
+https://www.icirnigeria.org/,NEWS,News Media,2018-09-19,OONI partner,International Centre for Investigative Reporting
+https://www.channelstv.com/,NEWS,News Media,2018-09-17,OONI partner,
+https://www.thenigerianvoice.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.thecable.ng/,NEWS,News Media,2018-09-04,OONI,
+https://www.nigerianbulletin.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.onlinenigeria.com/,NEWS,News Media,2018-09-04,OONI,
+https://naijagists.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.thetrentonline.com/,NEWS,News Media,2018-09-04,OONI,
+https://nationalaccordnewspaper.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.naijaturnup.com/,NEWS,News Media,2018-09-04,OONI,
+https://tell.ng/,NEWS,News Media,2018-09-04,OONI,
+https://www.imotrumpeta.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.networkafrica.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.pulse.ng/,NEWS,News Media,2018-09-04,OONI,
+https://www.naijanews.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.nairaland.com/,NEWS,News Media,2018-09-04,OONI,Nairaland Forum
+https://www.businessdayonline.com/,NEWS,News Media,2018-09-04,OONI,
+https://nigeriaworld.com/,NEWS,News Media,2018-09-04,OONI,
+https://www.vanguardngr.com/,NEWS,News Media,2018-09-04,OONI,
+https://buzznigeria.com/,NEWS,News Media,2018-09-04,OONI,
+https://leadership.ng/,NEWS,News Media,2018-09-04,OONI,
+https://saharareporters.com/,NEWS,News Media,2018-01-22,OONI,
+http://www.thebiafrapost.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked
+http://www.biafraland.com/,NEWS,News Media,2017-11-20,OONI,Reportedly blocked. Last publication from 2009
+https://blueprint.ng/,NEWS,News Media,2016-06-14,OONI,
+https://www.yorubafoundation.org.uk/,POLR,Political Criticism,2018-12-30,OONI partner,
+https://abubakarbukolasaraki.com/,POLR,Political Criticism,2018-09-22,OONI partner,
+https://www.pppnigeria.org/,POLR,Political Criticism,2018-09-22,OONI partner,Peoples Progressive Party
+https://www.nlcng.org/,POLR,Political Criticism,2018-09-17,OONI partner,Nigeria Labour Congress
+https://femifanikayode.org/,POLR,Political Criticism,2018-09-17,OONI partner,under maintenanse - monitor
+https://radiobiafra.co/,POLR,Political Criticism,2018-09-17,OONI partner,critical medium
+https://peoplesdemocraticparty.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
+https://www.eces.eu/en/posts/eces-in-nigeria/,POLR,Political Criticism,2018-09-04,OONI,European Centre for Electoral Support
+https://www.socialistnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,Political party
+https://www.inecnigeria.org/,POLR,Political Criticism,2018-09-04,OONI,National Electoral Commission
+https://www.freennamdikanu.com/,POLR,Political Criticism,2018-01-22,OONI,
+https://www.ekwenche.org/,POLR,Political Criticism,2017-11-20,OONI,Igbo socoicultural Organization
+https://kingsleycmoghalu.com/,POLR,Political Criticism,2018-09-22,OONI partner,appears dead - monitor
+https://election.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,appears dead - monitor
+http://www.biafratv.co/,POLR,Political Criticism,2018-09-17,OONI partner,appears dead - monitor
+https://www.biafrarepublicgov.org/,POLR,Political Criticism,2025-09-09,Netalitica,
+https://whatnextafterendsars.com/,POLR,Political Criticism,2025-09-11,Netalitica,
+https://nigeria.actionaid.org/women,POLR,Political Criticism,2025-09-11,Netalitica,
+https://www.ndr.org.ng/,POLR,Political Criticism,2025-09-17,Netalitica,
+https://intersociety-ng.org/,POLR,Political Criticism,2025-09-22,Netalitica,
+https://cleen.org/,POLR,Political Criticism,2025-09-23,Netalitica,
+https://inquirer.ng/2024/11/22/nigerias-anti-corruption-drive-progress-and-challenges/,POLR,Political Criticism,2025-09-23,Netalitica,
+https://www.opinionnigeria.com/,POLR,Political Criticism,2025-09-02,Netalitica,
 https://peterobisupportnetwork.com/,POLR,Political Criticism,2023-01-27,test-lists.ooni.org contribution,
-https://www.obidatticampaign.com/,POLR,Political Criticism,2023-01-27,test-lists.ooni.org contribution,
-https://endsars.carrd.co/,HUMR,Human Rights Issues,2023-08-04,test-lists.ooni.org contribution,Reportedly blocked
+http://legacypartyofnigeria.blogspot.com/,POLR,Political Criticism,2018-09-22,OONI partner,Legacy Party Of Nigeria
+https://feladurotoye.net/,POLR,Political Criticism,2018-09-22,OONI partner,
+https://www.nrm.org.ng/,POLR,Political Criticism,2018-09-22,OONI partner,National Rescue Movement
+https://www.actionallianceng.org/,POLR,Political Criticism,2018-09-17,OONI partner,
+https://www.adp.ng/,POLR,Political Criticism,2018-09-17,OONI partner,
+http://www.waado.org/,POLR,Political Criticism,2018-09-17,OONI partner,
+https://www.nationalinterestparty.com/,POLR,Political Criticism,2018-09-04,OONI,Political party
+https://youthpartyng.com/,POLR,Political Criticism,2018-09-04,OONI,Political party
+https://www.ifes.org/nigeria,POLR,Political Criticism,2018-09-04,OONI,International Foundation for Electoral Systems
+https://aacparty.com/,POLR,Political Criticism,2018-09-04,OONI,New political party formed by human rights activist
+https://apc.com.ng/,POLR,Political Criticism,2018-09-04,OONI,Political party
+https://nigerianpolity.blogspot.com/,POLR,Political Criticism,2018-09-04,OONI,Political Blog
+https://darknaija.com/,PORN,Pornography,2025-09-13,Netalitica,
+https://www.letsemjoy.com/,PORN,Pornography,2025-09-25,Netalitica,
+https://naijauncut.com/,PORN,Pornography,2025-09-27,Netalitica,
+https://naijaxx.com/,PORN,Pornography,2025-09-27,Netalitica,
+https://pornnigeria.com/,PORN,Pornography,2025-09-27,Netalitica,
+https://nacknaija.com/,PORN,Pornography,2025-09-02,Netalitica,
+https://www.naijatape.com/,PORN,Pornography,2025-09-02,Netalitica,
+https://stellaplus.xyz/,PORN,Pornography,2025-09-02,Netalitica,
+https://nollyporn.com/,PORN,Pornography,2025-09-02,Netalitica,
+https://totoleak.com/,PORN,Pornography,2025-09-02,Netalitica,
+https://faphouse.com/,PORN,Pornography,2025-09-02,Netalitica,
+https://www.thumbzilla.com/,PORN,Pornography,2025-09-02,Netalitica,
+https://lululingerie.ng/,PROV,Provocative Attire,2025-10-29,Netalitica,
+https://tlc.com.ng/,PROV,Provocative Attire,2025-10-29,Netalitica,
+https://marketplace.anka.africa/,PROV,Provocative Attire,2025-10-29,Netalitica,
+https://www.unaids.org/en/regionscountries/countries/nigeria/,PUBH,Public Health,2018-09-04,OONI,
+https://nigeriahealthwatch.com/,PUBH,Public Health,2025-09-02,Netalitica,
+https://ncdc.gov.ng/,PUBH,Public Health,2025-09-02,Netalitica,
+https://health.gov.ng/,PUBH,Public Health,2025-09-02,Netalitica,
+https://www.publichealth-edu.org/,PUBH,Public Health,2025-09-02,Netalitica,
+https://phepcon.org.ng/,PUBH,Public Health,2025-09-02,Netalitica,
+https://www.tnhjph.com/,PUBH,Public Health,2025-09-02,Netalitica,
+https://afenet.net/,PUBH,Public Health,2025-09-02,Netalitica,
+https://www.apin.org.ng/,PUBH,Public Health,2018-09-04,OONI,
+https://www.unicef.org/nigeria/hiv_aids.html,PUBH,Public Health,2018-09-04,OONI,
+https://naijasermons.com.ng/,REL,Religion,2025-09-27,Netalitica,
+https://www.nigeriacatholicnetwork.com/,REL,Religion,2025-09-27,Netalitica,
+https://mpac-ng.org/,REL,Religion,2025-09-28,Netalitica,
+https://nscia.com.ng/,REL,Religion,2025-09-28,Netalitica,
+https://faithtabernacle.org.ng/,REL,Religion,2025-09-01,Netalitica,
+https://www.rccg.org/,REL,Religion,2025-09-01,Netalitica,
+https://www.daystarng.org/,REL,Religion,2025-09-01,Netalitica,
+https://dclm.org/,REL,Religion,2025-09-01,Netalitica,
+https://canng.org/,REL,Religion,2025-09-01,Netalitica,
+https://foursquare.org.ng/,REL,Religion,2025-09-01,Netalitica,
+https://www.globalrize.org/ng/,REL,Religion,2025-09-01,Netalitica,
+https://www.biblesociety-nigeria.org/,REL,Religion,2025-09-01,Netalitica,
+https://www.nirec.org.ng/,REL,Religion,2025-09-01,Netalitica,
+https://iwf.com.ng/,REL,Religion,2025-09-01,Netalitica,
+https://www.islamicmovement.org/,REL,Religion,2018-01-22,OONI,
+https://www.finelib.com/,SRCH,Search Engines,2025-09-02,Netalitica,
+https://vcon.com.ng/,SRCH,Search Engines,2025-09-02,Netalitica,
+https://bizfinder.com.ng/,SRCH,Search Engines,2025-09-02,Netalitica,
+https://www.naijoo.com/,SRCH,Search Engines,2025-09-02,Netalitica,
+https://standtoendrape.org/,XED,Sex Education,2020-01-29,OONI partner,
+https://www.ppfn.org/,XED,Sex Education,2018-09-04,OONI,
+https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004685,XED,Sex Education,2025-09-23,Netalitica,
+https://nimedhealth.com.ng/,XED,Sex Education,2025-09-23,Netalitica,
+https://journals.lww.com/npmj/Fulltext/2023/30010/Contraceptive_Use_and_Fertility_Control_in_Rural.5.aspx,XED,Sex Education,2025-09-23,Netalitica,
+https://articles.nigeriahealthwatch.com/,XED,Sex Education,2025-09-23,Netalitica,
+https://www.gynaecologyjournal.com/articles/845/5-1-24-462.pdf,XED,Sex Education,2025-09-25,Netalitica,
+https://lovematters.ng/,XED,Sex Education,2025-09-25,Netalitica,
+https://nationalqoc.fmohconnect.gov.ng/,XED,Sex Education,2025-09-25,Netalitica,government source
+https://intersexnigeria.org/,XED,Sex Education,2025-09-02,Netalitica,
+https://arfh-ng.org/,XED,Sex Education,2025-09-02,Netalitica,
+https://lovemattersafrica.com/,XED,Sex Education,2020-01-29,OONI partner,

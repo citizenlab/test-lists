@@ -1,283 +1,512 @@
 url,category_code,category_description,date_added,source,notes
-https://24banglanewsblog.wordpress.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://amarbangladesh-online.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://amardesh.com/,NEWS,News Media,2016-03-24,OONI,
-http://amrabnp.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://archive.thedailystar.net/2007/05/21/d7052101107.htm,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://bangladeshpolitico.blogspot.de/,POLR,Political Criticism,2016-03-28,OONI,
-http://bangladeshwarcrimes.blogspot.de/,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://bangladeshwatchdog.blogspot.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://bangladeshwatchdog.blogspot.com/2007_04_01_archive.html,POLR,Political Criticism,2014-04-15,citizenlab,
-http://bangladoot.org/,GOVT,Government,2014-04-15,citizenlab,
-http://bangladoot.org/Foreign%20Relations-Bangladesh%20and%20Outside%20world11oct02.doc,GOVT,Government,2014-04-15,citizenlab,
-http://banglapedia.search.com.bd/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://banglapost24.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://bd.singlescrowd.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://bdnews24.com/bangladesh/2014/01/10/temple-ornaments-stolen,NEWS,News Media,2016-03-24,OONI,
-http://bdpod.com/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://bdpolitics.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://bhorerkagoj.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://borbodhu.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://chersonandmolschky.com/2015/06/27/bangladesh-history-muslim-persecution-hindus/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://counterterrorismblog.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://counterterrorismblog.org/2007/03/bangladesh_executes_jmb_milita_1.php,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://counterterrorismblog.org/2007/03/bangladesh_thousands_militants.php,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://counterterrorismblog.org/2007/03/saudi_money_funding_islamists.php,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://counterterrorismblog.org/2007/04/islamic_militant_kicks_off_rev.php,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://counterterrorismblog.org/2007/05/bangladesh_terror_deja_vu_1.php,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://cpj.org/,NEWS,News Media,2014-04-15,citizenlab,
-http://cpj.org/attacks06/asia06/bang06.html,NEWS,News Media,2014-04-15,citizenlab,
-http://dakbangla.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://deshivoice.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://deshivoice.blogspot.com/2007/07/bangladeshs-political-reform.html,POLR,Political Criticism,2014-04-15,citizenlab,
-http://dhakashohor.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://dinkalonline.net/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://hinduexistence.org/category/bangladeshi-hindus/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://hrcbm.org/,GOVT,Government,2014-04-15,citizenlab,
-http://hrcbmdfw.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://hrcbmdfw.org/blogs/bangladesh/archive/2006/01/02/70.aspx,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://hrtribune.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://hrtribune.com/News/gang_rape_chuadanga.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://hrw.org/english/docs/2005/06/16/bangla11139.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://hrw.org/english/docs/2006/06/07/bangla13518.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://hrw.org/reports/2005/bangladesh0605/4.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://in.rediff.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://in.rediff.com/news/2005/dec/21bspec.htm,HATE,Hate Speech,2014-04-15,citizenlab,
-http://jamestown.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://jamestown.org/terrorism/news/article.php?articleid=2369724&printthis=1,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://jugantor.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://kothachat.com/,GRP,Social Networking,2014-04-15,citizenlab,
-http://mynewsbd.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://nation.ittefaq.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://natunerdak.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://natunsokal.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://newagebd.net/43141/the-list-grows-longer/,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://news.bbc.co.uk/2/hi/south_asia/6596775.stm,POLR,Political Criticism,2014-04-15,citizenlab,
-http://odhikar.org/arrest-and-enforced-disappearance-of-mohammad-anwarul-islam-by-rapid-action-battalion-rab-members/,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://onb24.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://ourbangla.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://ourbangla.com/efriends/,GRP,Social Networking,2014-04-15,citizenlab,
-http://parstoday.com/en,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://rikhan.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://rtnews24.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://sachalayatan.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://salamdhaka.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-https://sarabangla.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://seclists.org/isn/2006/Sep/0059.html,HACK,Hacking Tools,2014-04-15,citizenlab,
-http://somoybangla.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://taslimanasrin.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://tpoi.blogspot.com/,CULTR,Culture,2014-04-15,citizenlab,
-http://web.bizbangladesh.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://weeklysonarbangla.net/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://world.time.com/2014/01/14/the-hindus-of-bangladesh-are-fearing-for-their-future/,NEWS,News Media,2016-03-24,OONI,
-http://www.ahsaniamission.org/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://www.ajkerkagoj.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.albd.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.amadershomoy.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.amardeshbd.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.amardeshonline.com/,NEWS,News Media,2016-03-24,OONI,
-http://www.amnesty.org/en/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/countries/asia-and-the-pacific/bangladesh/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2013/09/bangladesh-death-sentence-without-right-judicial-appeal-defies-human-rights-law/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2013/10/bangladesh-mp-war-crimes-death-penalty/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2013/11/bangladesh-death-sentences-mutineers-amount-flawed-justice/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2014/09/bangladesh-disturbing-increase-disappearances-clampdown-press-freedom/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2014/10/bangladesh-death-penalty-will-not-bring-justice-crimes-during-independence-war/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2014/11/bangladesh-fresh-death-sentences-show-urgent-need-end-executions/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/01/bangladesh-excessive-police-force-not-answer-horrific-petrol-bomb-attacks/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/01/bangladesh-must-investigate-deaths-and-release-prisoners-held-opposition-crackdown/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/03/bangladesh-horrifying-murder-of-blogger-must-be-wake-up-call/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/05/bangladesh-authorities-must-deliver-justice-as-third-blogger-is-hacked-to-death,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/08/bangladesh-savage-killing-of-blogger-must-not-go-unpunished,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/10/bangladesh-horrific-pattern-of-violence-against-freedom-of-expression/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/latest/news/2015/10/bangladesh-imminent-executions/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.amnesty.org/en/press-releases/2013/03/bangladesh-wave-violent-attacks-against-hindu-minority/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.asiamedia.ucla.edu/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.asiamedia.ucla.edu/article-southasia.asp?parentid=8262,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.asiantribune.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.asiantribune.com/index.php?q=node/3748,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.bandhu-bd.org/lgbt.html,LGBT,LGBT,2016-03-28,OONI,
-http://www.bangla2000.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.banglacafe.com/,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.bangladesh-web.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.bangladesh.net/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.bangladeshdir.com/,SRCH,Search Engines,2014-04-15,citizenlab,
-http://www.bangladeshdir.com/webs/catalog/660/index.html,MMED,Media sharing,2014-04-15,citizenlab,
-http://www.bangladeshjournal.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.bangladeshjournal.com/article/Bangladesh/144/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.bangladeshobserveronline.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.banglarights.net/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.banglarights.net/news_and_issues.php?story_id=221&offset=0,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.banglatorrents.com/,MMED,Media sharing,2014-04-15,citizenlab,
-http://www.bbc.com/bengali/news/2014/01/140107_mrk_bangladesh_minority_hindu_attack_election_.shtml,NEWS,News Media,2016-03-24,OONI,
-http://www.bbc.com/bengali/news/2014/01/140108_fa_sg_bjp_conf.shtml,NEWS,News Media,2016-03-24,OONI,
-http://www.bbc.com/bengali/news/2014/01/140110_mrk_bangladesh_hindu_violence_minority.shtml,NEWS,News Media,2016-03-24,OONI,
-http://www.bcdjc.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.bdbangla.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.bdmilitary.com/,GOVT,Government,2014-04-15,citizenlab,
-http://www.bdnews24.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.beautybangla.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.bengaliguru.com/,MMED,Media sharing,2014-04-15,citizenlab,
-http://www.blogcharm.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.blogcharm.com/blogbangla/725/Shaikh+Abdur+Rahman&%2339%3Bs+arrest+in+West+Bengal+shrouded+in+mystery.html,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.bnnrc.net/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.boysofbangladesh.org/,LGBT,LGBT,2016-03-28,OONI,
-http://www.bssnews.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.comminit.com/,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.comminit.com/experiences/pds2006/experiences-3770.html,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.crimebdnews24.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.daily-dinkal.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dailydeshbangla.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dailyinqilab.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dailyjanakantha.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dailynayadiganta.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dailysangram.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.dailytimes24.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.demcoalition.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.demcoalition.org/pdf/A_Bangladesh.pdf,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.deshbideshweb.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.deshilove.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.deshimarriage.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.dhakatribune.com/bangladesh/2014/jan/10/attacks-hindu-communities-continue,NEWS,News Media,2016-03-24,OONI,
-http://www.drishtipat.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.economist.com/countries/Bangladesh/profile.cfm?folder=Profile%2DPolitical%20Forces,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.equalrightstrust.org/taxonomy/term/127,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://www.expressindia.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.faithfreedom.org/,REL,Religion,2014-04-15,citizenlab,
-http://www.faithfreedom.org/oped/JafforUllah40301.htm,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.fhi.org/en/RH/Pubs/wsp/fctshts/Bangladesh1.htm,XED,Sex Education,2014-04-15,citizenlab,
-http://www.fiercevoip.com/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.fiercevoip.com/story/bangladesh-isps-ask-for-voip-licenses/2007-02-27,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.globalvoicesonline.org/-/world/south-asia/bangladesh/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.greenpeace.org/international/en/,ENV,Environment,2016-03-24,OONI,
-http://www.greenpeace.org/international/en/news/Blogs/makingwaves/fashion-revolution-who-made-my-clothes/blog/52680/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.hafsite.org/media/pr/genocide-and-ethnic-cleansing-hindus-bangladesh,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.himalmag.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.himalmag.com/2007/june/cover_feature_bangladesh.htm,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.host4bd.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.hrcbm.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.hrcbm.org/NEWLOOK/bargmara_10_212003.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.hrcbm.org/images/manik_murder.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.hrcbm.org/news/extremism.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.hrdc.net/sahrdc/hrfeatures/HRF48.htm,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.hrtribune.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.hrw.org/world-report/2012/country-chapters/bangladesh,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://www.ifex.org/en/content/view/full/85787,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.ifj.org/default.asp?index=4934&Language=EN,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.iht.com/articles/2007/03/30/news/bangla.php,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.ipetitions.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.ipetitions.com/petition/bangladeshjustice/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.islam-bd.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.ittefaq.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jaijaidin.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.jordomedia.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.khilafat.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.love4bd.com/,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.manabzamin.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.mayerdak.com/,HUMR,Human Rights Issues,2016-03-24,OONI,
-http://www.minesandcommunities.org/,ECON,Economics,2014-04-15,citizenlab,
-http://www.mohfw.gov.bd/,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.mukto-mona.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.mukto-mona.com/human_rights/minority/report.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.newagebd.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.newagebd.com/2005/dec/19/fb.html,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.nowzuwan.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.odhikar.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.onnojogot24.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.pinr.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.pinr.com/report.php?ac=view_report&report_id=334&language_id=1,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.planetbangladesh.com/,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.popcouncil.org/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.prb.org/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.prothom-alo.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.prothom-news.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.real-timenews.com/bangla/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.restlessbeings.org/projects/rohingya,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://www.rhiya.org/,XED,Sex Education,2014-04-15,citizenlab,
-http://www.rhiya.org/bangladesh_LL04.html,XED,Sex Education,2014-04-15,citizenlab,
-http://www.rsf.org/article.php3?id_article=10747&Valider=OK,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.saag.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.saag.org/%5Cpapers23%5Cpaper2248.html,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.sachalayatan.com/,HOST,Hosting and Blogging Platforms,2016-03-24,OONI,
-http://www.sajeeb.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.salganyc.org/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.satp.org/satporgtp/countries/bangladesh/terroristoutfits/Huj.htm,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.satp.org/satporgtp/countries/bangladesh/terroristoutfits/index.html,MILX,Terrorism and Militants,2014-04-15,citizenlab,
-http://www.satrang.org/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.sdc-health.ch/,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.sdc-health.ch/priority_countries/south_asia/bangladesh,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.searo.who.int/,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.shadeshi-bondhu.tk/,GRP,Social Networking,2014-04-15,citizenlab,
-http://www.shamokal.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.sheershakhobor.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.sheershanewsbd.com/,NEWS,News Media,2016-08-05,OONI,Ordered blocking
-http://www.sonarcourier.net/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.southasianmedia.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.southasianmedia.net/profile/Bangladesh/bangladesh_environment.cfm,ENV,Environment,2014-04-15,citizenlab,
-http://www.state.gov/g/drl/rls/hrrpt/2002/18309.htm,NEWS,News Media,2014-04-15,citizenlab,
-http://www.tasneemkhalil.com/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.thedailystar.net/,NEWS,News Media,2014-04-15,citizenlab,
-http://www.thedailystar.net/2006/03/20/d6032001086.htm,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.thedailystar.net/police-cite-160-attacks-on-hindus-12578,NEWS,News Media,2016-03-24,OONI,
-http://www.thepersecution.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.thepersecution.org/world/bangladesh/2004/10/ds041003law.html,HUMR,Human Rights Issues,2014-04-15,citizenlab,
-http://www.ti-bangladesh.org/,POLR,Political Criticism,2014-04-15,citizenlab,
-http://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,
-http://www.unpo.org/article.php?id=1984,HUMR,Human Rights Issues,2016-03-28,OONI,
-http://www.velki.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.virtualbangladesh.com/,COMM,E-commerce,2014-04-15,citizenlab,
-http://www.voip-list.com/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.voip-list.com/voip_billing_software/voip_billing_software_289.html,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.voipproviderslist.com/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.voipproviderslist.com/voip-provider/1linkbd/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.voipproviderslist.com/voip-provider/3s%20consulting/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.voipproviderslist.com/voip-provider/pacific%20communications/,COMT,Communication Tools,2014-04-15,citizenlab,
-http://www.web-bangla.com/,MMED,Media sharing,2014-04-15,citizenlab,
-http://www.webbangladesh.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.webbangladesh.com/cgi-bin/nav.cgi?&cat=Family+%26+Relationships+%2F+E-Friends&start=0,DATE,Online Dating,2014-04-15,citizenlab,
-http://www.webbangladesh.com/health/your_health.htm,PUBH,Public Health,2014-04-15,citizenlab,
-http://www.webhosting.info/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.webhosting.info/webhosts/tophosts/Country/BD,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,
-http://www.who.int/reproductive-health/publications/towards_adulthood/30.pdf,XED,Sex Education,2014-04-15,citizenlab,
-http://www.who.int/substance_abuse/publications/en/bangladesh.pdf,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,
-http://www.wluml.org/english/pubs/pdf/wsf/11.pdf,NEWS,News Media,2014-04-15,citizenlab,
-http://www.youtube.com/watch?v=YJBWCLeOEaM&bpctr=1458851928,MMED,Media sharing,2016-03-24,OONI,
-https://bn.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://en.wiktionary.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://meta.wikimedia.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://bn.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,URLs provided by wikipedia based on the most popular language domains per country
-https://bdpolitico.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://bnpnews24.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://www.prothombangladesh.net/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://dnn.news/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://www.rbn24.co.uk/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.sangbad247.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.analysisbd.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://www.awaazbd.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://bnponlinewing.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.atv24bd.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://www.banglastatus.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://sheershanews24.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://shibir.org.bd/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.justnewsbd.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://newsbd71.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.expressnewsbd.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://dailybdtimes.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.muldharabd.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://www.potryka.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://dawahilallah.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-http://gazwah.net/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://bangladeshdefence.blogspot.com/,NEWS,News Media,2018-12-13,citizenlab,Reported to be blocked
-https://lookeast.in/,NEWS,News Media,2018-12-13,OONI,Reported to be blocked
-https://womenchapter.com/,HUMR,Human Rights Issues,2018-12-13,OONI,Reported to be blocked
-https://issuu.com/,MISC,Miscellaneous content,2021-08-30,OONI,Reported to be blocked
-https://ff.garena.com/,GAME,Gaming,2021-09-16,OONI,Reported to be blocked
-https://pubg.com/,GAME,Gaming,2021-09-16,OONI,Reported to be blocked
-http://iptvbd.net/,NEWS,News Media,2021-09-20,OONI,Reported to be blocked IPTV website
-https://istishon.com/,HOST,Hosting and Blogging Platforms,2022-01-28,,
-https://istishon.blog/,HOST,Hosting and Blogging Platforms,2022-01-28,,
-https://statewatch.net/,NEWS,News Media,2022-01-28,,
-https://video4change.org/,HUMR,Human Rights Issues,2022-01-28,,
-https://netra.news/,NEWS,News Media,2023-07-09,test-lists.ooni.org contribution,https://www.newagebd.net/article/95471/bangladesh-blocks-sweden-based-netra-news
-https://thewire.in/,NEWS,News Media,2023-07-10,test-lists.ooni.org contribution,https://thewire.in/external-affairs/bangladesh-government-blocks-wire
+https://www.daraz.com.bd/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.pickaboo.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.rokomari.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://chaldal.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://othoba.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://bikroy.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.bdstall.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://sindabad.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.startech.com.bd/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.arogga.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.clickbd.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.banglashoppers.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.electronics.com.bd/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.bdshop.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.boibazar.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://swap.com.bd/,COMM,E-commerce,2025-11-19,Netalitica,
+https://evaly.com.bd/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.techlandbd.com/,COMM,E-commerce,2025-11-19,Netalitica,
+https://www.muldharabd.com/,CULTR,Culture,2018-12-13,citizenlab,Political and cultural article site
+https://bengalfoundation.org/,CULTR,Culture,2025-11-20,Netalitica,
+https://shadhona.org/,CULTR,Culture,2025-11-20,Netalitica,
+https://www.banglanatak.com/,CULTR,Culture,2025-11-20,Netalitica,
+http://shilpakala.gov.bd/,CULTR,Culture,2025-11-20,Netalitica,
+https://bangladeshiheritage.com/,CULTR,Culture,2025-11-20,Netalitica,
+http://bangladeshmuseum.gov.bd/,CULTR,Culture,2025-11-20,Netalitica,
+https://tpoi.blogspot.com/,CULTR,Culture,2014-04-15,citizenlab,Bengali culture and religious critic blog site
+https://bn.wikipedia.org/,CULTR,Culture,2018-07-06,Wikimedia,Wikipedia Bengali language sub-domain
+https://bn.wikisource.org/,CULTR,Culture,2018-07-06,Wikimedia,WikiSource Bengali sub domain
+https://en.wikibooks.org/,CULTR,Culture,2018-07-06,Wikimedia,Wiki Books main site
+https://www.lovehabibi.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://mingle2.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://bumble.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://www.datememe.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://www.loveawake.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://boo.world/,DATE,Online Dating,2025-11-17,Netalitica,
+https://www.sentimente.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://bd.datingbuzz.com/,DATE,Online Dating,2025-11-17,Netalitica,
+https://sanemnet.org/,ECON,Economics,2025-11-19,Netalitica,
+https://bea-bd.org/,ECON,Economics,2025-11-19,Netalitica,
+https://www.investbangladesh.gov.bd/,ECON,Economics,2025-11-19,Netalitica,
+https://bepza.gov.bd/,ECON,Economics,2025-11-19,Netalitica,
+https://erfbd.com/,ECON,Economics,2025-11-19,Netalitica,
+https://www.minesandcommunities.org/,ECON,Economics,2014-04-15,citizenlab,Global site for mining news and articles
+https://www.bedsbd.org/,ENV,Environment,2025-11-19,Netalitica,
+https://belabangla.org/,ENV,Environment,2025-11-19,Netalitica,
+https://cnrs.org.bd/,ENV,Environment,2025-11-19,Netalitica,
+https://www.shakti.org.bd/,ENV,Environment,2025-11-19,Netalitica,
+https://greentech.org.bd/,ENV,Environment,2025-11-19,Netalitica,
+https://www.bapa.org.bd/,ENV,Environment,2025-11-19,Netalitica,
+https://works4greenbd.org/,ENV,Environment,2025-11-19,Netalitica,
+https://ff.garena.com/,GAME,Gaming,2021-09-16,OONI,It was blocked but open now
+https://www.allvelkibaajiagentlist.com/,GMB,Gambling,2014-04-15,citizenlab,Online gambling site
+https://nagad88bd.com/,GMB,Gambling,2025-11-17,Netalitica,
+https://www.nagad88a.com/,GMB,Gambling,2025-11-17,Netalitica,
+https://krikyabet.com/,GMB,Gambling,2025-11-17,Netalitica,
+https://www.krikya11.club/,GMB,Gambling,2025-11-17,Netalitica,
+https://krikyabd.com/,GMB,Gambling,2025-11-17,Netalitica,
+https://babu88.gold/,GMB,Gambling,2025-11-19,Netalitica,
+https://1xbet.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://mostbet.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://melbet.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://betwinner.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://dafabet.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://megapari.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://22bet.com/,GMB,Gambling,2025-11-20,Netalitica,
+https://www.mea.gov.in/,GOVT,Government,2025-11-19,Netalitica,Ministry of foreign affairs of India
+https://sansad.in/,GOVT,Government,2025-11-20,Netalitica,Parliament of India
+https://mod.gov.in/,GOVT,Government,2025-11-20,Netalitica,Ministry of defence of India
+https://www.mha.gov.in/,GOVT,Government,2025-11-20,Netalitica,Ministry of home affairs of India
+https://www.education.gov.in/en,GOVT,Government,2025-11-20,Netalitica,Ministry of education of India
+https://www.ecs.gov.bd/,GOVT,Government,2023-11-29,OONI,Bangladesh Election commission website  
+https://parrotsec.org/,HACK,Hacking Tools,2025-11-19,Netalitica,
+https://www.metasploit.com/,HACK,Hacking Tools,2025-11-19,Netalitica,
+https://portswigger.net/burp/,HACK,Hacking Tools,2025-11-19,Netalitica,
+https://bcsbd.org.bd/,HACK,Hacking Tools,2025-11-19,Netalitica,
+https://www.virtualbangladesh.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,General information site about Bangaldesh
+https://home.muktomona.com/bn/index.html,HOST,Hosting and Blogging Platforms,2024-03-13,Digitally Right Limited,Bengali comunity blog
+https://www.somewhereinblog.net/,HOST,Hosting and Blogging Platforms,2025-11-19,Netalitica,
+https://www.techtunes.io/,HOST,Hosting and Blogging Platforms,2025-11-19,Netalitica,
+http://www.sachalayatan.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Bengali comunity blog website. Currently read-only.
+https://www.taslimanasrin.com/,HOST,Hosting and Blogging Platforms,2014-04-15,citizenlab,Personal blog site of a Bengali feminist activist
+https://www.hrcbm.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,US NGO focused on BD human rights issue
+https://www.ahsaniamission.org.bd/,HUMR,Human Rights Issues,2014-04-15,citizenlab,NGO working for human rights
+https://hinduexistence.org/,HUMR,Human Rights Issues,2016-03-24,OONI,Hindu religious site
+https://www.hinduamerican.org/,HUMR,Human Rights Issues,2016-03-24,OONI,Hindu religious site
+https://hrdc.net/,HUMR,Human Rights Issues,2016-03-24,OONI,South and southeast asian human rights documentation site
+http://mayerdak.com/,HUMR,Human Rights Issues,2016-03-24,OONI,Hindu religious site
+https://bangladeshwarcrimes.blogspot.com/,HUMR,Human Rights Issues,2016-03-28,OONI,BD war crime news article site
+https://odhikar.org/,HUMR,Human Rights Issues,2016-03-28,OONI,NGO working for human rights
+https://womenchapter.com/,HUMR,Human Rights Issues,2018-12-13,OONI,Bengali online portal of feminist activists. Was blocked but open now
+https://video4change.org/,HUMR,Human Rights Issues,2022-01-28,,Social issue documentary site
+https://activaterights.org/,HUMR,Human Rights Issues,2023-10-31,test-lists.ooni.org contribution,Youth collectives
+https://www.askbd.org/,HUMR,Human Rights Issues,2023-11-29,OONI,Legal aid organization
+https://www.fortifyrights.org/,HUMR,Human Rights Issues,2023-11-29,OONI,HUMR collectives
+https://mindfulrights.rf.gd/,HUMR,Human Rights Issues,2024-10-24,test-lists.ooni.org contribution,Mental and digital wellbeing site
+https://redress.org/,HUMR,Human Rights Issues,2025-03-26,test-lists.ooni.org contribution,The website of anti-torture human rights organization.
+https://thecommonwealth.org/,IGO,Intergovernmental Organizations,2025-11-20,Netalitica,
+https://www.iom.int/,IGO,Intergovernmental Organizations,2025-11-20,Netalitica,
+https://www.saarc-sec.org/,IGO,Intergovernmental Organizations,2025-11-20,Netalitica,
+https://bimstec.org/,IGO,Intergovernmental Organizations,2025-11-20,Netalitica,
+http://www.bandhu-bd.org/lgbt.html,LGBT,LGBT,2025-10-02,Netalitica,Gender rights NGO
+http://www.boysofbangladesh.org/,LGBT,LGBT,2025-10-02,Netalitica,Gender rights NGO
+https://www.satrang.org/,LGBT,LGBT,2014-04-15,citizenlab,South Asian LGBTQ community
+https://www.trikone.org/,LGBT,LGBT,2014-04-15,citizenlab,LGBTQ org registered in US
+https://atu.police.gov.bd/,MILX,Terrorism and Militants,2025-11-20,Netalitica,
+https://cttcdmp.gov.bd/,MILX,Terrorism and Militants,2025-11-20,Netalitica,
+https://counterterrorismblog.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Counterterrorism Blog now read-only
+https://hrcb.org/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Terrorism and attack news site
+https://in.rediff.com/,MILX,Terrorism and Militants,2014-04-15,citizenlab,Indian subdomain of rediff site
+https://bongobd.com/,MMED,Media sharing,2025-11-20,Netalitica,
+https://toffeelive.com/,MMED,Media sharing,2025-11-20,Netalitica,
+https://kotha.app/,MMED,Media sharing,2025-11-20,Netalitica,
+https://archive.thedailystar.net/,NEWS,News Media,2016-03-28,OONI,Leading english daily in BD
+http://www.bdmilitary.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://bhorerkagoj.net/,NEWS,News Media,2025-10-02,Netalitica,
+http://jugantor.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.ajkerkagoj.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.amadershomoy.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.amardeshbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.amardeshonline.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.expressindia.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.globalvoicesonline.org/-/world/south-asia/bangladesh/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.ittefaq.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.jaijaidin.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.manabzamin.net/,NEWS,News Media,2025-10-02,Netalitica,
+http://www.prothom-alo.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://dailybdtimes.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://bdpolitico.com/,NEWS,News Media,2025-10-02,Netalitica,
+http://banglamail71.info/,NEWS,News Media,2025-10-02,Netalitica,
+https://www.benarnews.org/bengali/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailytribunal24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://lakhokantho.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bangladeshkantha.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailybangladesheralo.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailyamarsomoy.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://alokitoprotidin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ajkerdarpon.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dinparibarton.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://gonosurja.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainiksangbadpratidin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://amaderkantha.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikbanglarnabokantha.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ajkerawazbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://shubhodin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bhorerdarpan.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://desherkantha.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://thedailymorningglory.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://epaper.prothomalo.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sorejominbarta.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bd-bulletin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://amaderorthoneeti.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://onnodhara.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://matribhumirkhobor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bortomankotha.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailysokalersomoy.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://agrasor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikamaderbangla.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailypollibangla.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://epaper.thedailystar.net/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikchitro.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://shomoyeralo.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailynabochatona.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ajkerbangladesh.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://jaijaikal.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://thesouthasiantimesbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailyganomukti.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://janobani.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://unnayanebangladesh.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://amarbanglabd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailyvorerakash.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikpurbatara.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://purbanchal.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikporibesh.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ajkerparibartan.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailysunshine.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://doinikbarta.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://hongkar.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailydeshtottoh.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailykalersrot.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailyghagot.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikkushtia.net/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainiksubarnogram.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailyprobaha.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://dokhinersomoy.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://madhukar.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikjananetra.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailyamadercoxsbazar.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://thedailytouristbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://chatgarsangbad.net/,NEWS,News Media,2025-10-02,Netalitica,
+https://somoyerchitra.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dhakadiplomat.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://themailbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://timebanglanews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://latestbdnews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sharenews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bd24live.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sukhabor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://redtimes.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://newsgardenbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://joynewsbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailylokaloy.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://cnibd.net/,NEWS,News Media,2025-10-02,Netalitica,
+https://bangladeshbulletin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://somoyerkonthosor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://eyenews.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://sobuzbangladesh.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://news2narayanganj.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://newturn24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://newsg24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://corporatesangbad.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://pollinews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://torrongonews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ajkersylhet.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://lawyersclubbangladesh.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://abcbarta.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dhakareport24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://report71.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://diamondnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bangladhara.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sharebusiness24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://jatvbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://boishakhinews24.net/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailymagura.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ulipur.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://digitalkhobor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bnanews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bdmorning.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://barta71.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sheershasangbad.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailychakori.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://banglahour.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://deshshamachar.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://politicsnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sylhetview24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://saradin.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://artnews.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://parbattanews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dhakaprokash24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://voiceoftiger.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://cvoice24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://padmatimes24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://kingsnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sonalinews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://newsnow24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://orthosongbad.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://chattogram24.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://globalnews.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://businessnews24bd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://spn-bd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://biniyougbarta.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://nnb.com.bd/,NEWS,News Media,2025-10-02,Netalitica,
+https://parishadbarta.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://newszonebd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://durbin.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://greenbanglaonline24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://mtnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://deshnewsbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://visionnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://lawnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bengalnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dhakawatch24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://slogannews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://inbnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sarakhon.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://lastnewsbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://priyobangladesh.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://sunbd24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bdsomoy24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://shadhinbanglanews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://hellobangla.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://ajkerarban.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://peoplesnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://arthosuchak.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://bartomankhobor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://thenewse.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://somoyerkotha24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://aparadhchokh24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://oporazoya24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://deshsangbad.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://therisingcampus.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://satyakantho.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://nantvbd.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://chatganews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://banglarjanata.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://nnn.media/,NEWS,News Media,2025-10-02,Netalitica,
+https://notunkotha.news/,NEWS,News Media,2025-10-02,Netalitica,
+https://dailykhabor24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://tajakhabor.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://banglarchithi.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://thepeoplesnews24.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://desherkhobor.net/,NEWS,News Media,2025-10-02,Netalitica,
+https://rajneete.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://naradbarta.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://dainikeidin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://mkprotidin.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://magicbanglatv.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://simecnews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://shadhinalo.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://ctgnews.com/,NEWS,News Media,2025-10-02,Netalitica,
+https://banglavision.tv/,NEWS,News Media,2025-10-02,Netalitica,
+https://rtvnews.tv/,NEWS,News Media,2025-10-02,Netalitica,
+https://www.bhorerkagoj.com/,NEWS,News Media,2014-04-15,citizenlab,Top Bengali News Media
+https://www.jugantor.com/,NEWS,News Media,2014-04-15,citizenlab,Top Bengali News Media
+https://www.bdnews24.com/,NEWS,News Media,2014-04-15,citizenlab,Top Bengali online news portal
+https://www.bssnews.net/,NEWS,News Media,2014-04-15,citizenlab,Official site of Bengaladesh Sangbad Sangstha
+https://dailyinqilab.com/,NEWS,News Media,2014-04-15,citizenlab,Top news portal
+https://www.dailyjanakantha.com/,NEWS,News Media,2014-04-15,citizenlab,Top news portal
+https://www.dailysangram.com/,NEWS,News Media,2014-04-15,citizenlab,Top news portal
+https://indianexpress.com/,NEWS,News Media,2014-04-15,citizenlab,Indian english news media
+https://www.ittefaq.com.bd/,NEWS,News Media,2014-04-15,citizenlab,Top news portal
+https://www.jaijaidinbd.com/,NEWS,News Media,2014-04-15,citizenlab,Top news portal
+https://mzamin.com/,NEWS,News Media,2014-04-15,citizenlab,Top news portal
+https://www.prothomalo.com/,NEWS,News Media,2014-04-15,citizenlab,Largest print and online news Media in BD
+https://samakal.com/,NEWS,News Media,2014-04-15,citizenlab,One of the most visited news site
+https://www.thedailystar.net/,NEWS,News Media,2014-04-15,citizenlab,Most popular English daily
+https://www.webbangladesh.com/,NEWS,News Media,2014-04-15,citizenlab,Online news portal
+https://www.dhakatribune.com/,NEWS,News Media,2016-03-24,OONI,Top english news media
+https://newagebd.net/,NEWS,News Media,2016-03-28,OONI,Top Bengali News Media
+https://24banglanewsblog.wordpress.com/,NEWS,News Media,2016-08-05,OONI,Crticism of ALBD
+https://rtnews24.com/,NEWS,News Media,2016-08-05,OONI,Online news portal
+https://sarabangla.net/,NEWS,News Media,2016-08-05,OONI,Top Bengali News Media
+https://weeklysonarbangla.net/,NEWS,News Media,2016-08-05,OONI,Weekly news portal
+https://www.prothombangladesh.net/,NEWS,News Media,2018-12-13,citizenlab,Politics focused news media
+https://www.bdanalysis.net/,NEWS,News Media,2018-12-13,citizenlab,Online news portal
+https://www.atv24bd.com/,NEWS,News Media,2018-12-13,citizenlab,online news portal
+https://sheershanews24.com/,NEWS,News Media,2018-12-13,citizenlab,online news portal (not updated in 2 years)
+https://www.justnewsbd.com/,NEWS,News Media,2018-12-13,citizenlab,online news portal
+https://bangladeshdefence.blogspot.com/,NEWS,News Media,2018-12-13,citizenlab,Military and defence news
+https://lookeast.in/,NEWS,News Media,2018-12-13,OONI,Indian news portal
+https://statewatch.net/,NEWS,News Media,2022-01-28,,Bangladeshi newsportal operating from exile
+https://netra.news/,NEWS,News Media,2023-07-09,test-lists.ooni.org contribution,One of the top investigative news portal in bangladesh
+https://thewire.in/,NEWS,News Media,2023-07-10,test-lists.ooni.org contribution,Indian news portal
+https://www.bangla.24livenewspaper.com/,NEWS,News Media,2023-11-29,OONI,Online news portal
+https://www.kalerkantho.com/,NEWS,News Media,2023-11-29,OONI,News portal
+https://www.bd-pratidin.com/,NEWS,News Media,2023-11-29,OONI,Online portal of print media
+https://protidinerbangladesh.com/,NEWS,News Media,2023-11-29,OONI,News portal
+https://www.ajkerpatrika.com/,NEWS,News Media,2023-11-29,OONI,News portal
+https://www.kalbela.com/,NEWS,News Media,2023-11-29,OONI,News portal
+https://www.dailynayadiganta.com/,NEWS,News Media,2023-11-29,OONI,Online portal of print media
+https://akhonsamoy.com/,NEWS,News Media,2023-11-29,OONI,Online news portal
+https://amaderprotidin.com/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://chakarianews.com/,NEWS,News Media,2023-11-29,OONI,Local news portal
+https://www.dainikbangla.com.bd/,NEWS,News Media,2023-11-29,OONI,Online news portal
+https://sangbad.net.bd/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://www.bd-journal.com/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://bartabazar.com/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://unb.com.bd/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://dailyfulki.com/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://amadernotunshomoy.com/,NEWS,News Media,2023-11-29,OONI,online news portal
+https://banglareport.net/,NEWS,News Media,2023-12-22,Digitally Right Limited,
+https://dismislab.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://en.dismislab.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://rumorscanner.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://www.fact-watch.org/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://www.boombd.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://factcheck.afp.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://www.jachai.org/,NEWS,News Media,2023-12-22,Digitally Right Limited,Fact-checking website
+https://www.risingbd.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Blocked on many ISP (can access with VPN)
+https://www.bnpnewsbd.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Online news portal from political party
+https://www.thereport.live/,NEWS,News Media,2023-12-22,Digitally Right Limited,online news portal
+https://bn.thereport.live/,NEWS,News Media,2023-12-22,Digitally Right Limited,online news portal
+https://bangladeshmoments.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,
+https://www.dhakapost.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,
+https://dainikamadershomoy.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,Online portal of print media
+https://thefinancialexpress.com.bd/,NEWS,News Media,2023-12-22,Digitally Right Limited,largest financial news media
+https://www.deshrupantor.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,online news portal
+https://bn.mtnews24.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,oonline news portal
+https://www.ekusheysangbad.com/,NEWS,News Media,2023-12-22,Digitally Right Limited,online news portal
+https://www.voabangla.com/,NEWS,News Media,2024-01-07,test-lists.ooni.org contribution,VOA bangla portal
+https://jamuna.tv/,NEWS,News Media,2024-01-07,test-lists.ooni.org contribution,News portal from TV channel
+https://www.manobkantha.com.bd/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.protidinersangbad.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+http://www.bangladesherkhabor.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.alokitobangladesh.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dailybhorerdak.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dhakaprotidin.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://bonikbarta.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.kholakagojbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.gonokantho.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dhakatimes24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dailyamarsomoy.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.amarbarta.com.bd/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.sangbadsarabela.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal (blocked on a few ISP)
+https://dailyasianage.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://bangladeshpost.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://thebangladeshtoday.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.observerbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.daily-sun.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.edainikazadi.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://dainikpurbokone.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://new.dailypurbodesh.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://esuprobhat.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,E-paper of print media
+https://ctgpratidin.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local online news portal
+https://dailysonardesh.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://sonalisangbad.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.doinikbarta.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news poratl
+https://sylheterdak.com.bd/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://dailyjalalabad.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news prtal from print media
+https://www.shyamalsylhet.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://shubhoprotidin24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://www.itvbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of TV channel
+https://deshkalbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://dailybartoman.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://rupalibangladesh.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Online news portal
+https://dailysamachar.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,Online news portal
+https://sharebiz.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,Stock market news
+https://www.tbsnews.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,Online news portal
+https://dainikshahamanat.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal (blocked on few ISP)
+https://www.ajkerdarpon.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.shubhodin.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.thefinancialpostbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://dakhinanchal.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://dainikkalyan.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://dailyainbarta.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://ctgkhobor.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://www.comillarkagoj.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://www.dailykaratoa.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+http://www.dailyamadercoxsbazar.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://amaderbrahmanbaria.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://banijjoprotidin.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,bnusiness news portal
+https://www.meherpurpratidin.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://www.gramerkagoj.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dailypeoplestime.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.channelionline.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://www.channel24bd.tv/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://www.ntvbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://nagorik.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://www.somoynews.tv/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://dbcnews.tv/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://ekattor.tv/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://www.bvnews24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://boishakhionline.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://www.news24bd.tv/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://www.desh.tv/,NEWS,News Media,2024-04-23,Digitally Right Limited,News portal of tv channel
+https://sangbadprotidin24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://ep-bd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Energy and power news
+https://www.barta71.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.newsjournal24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://ournewsbd.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.womeneye24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://greenwatchbd.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://cnewsvoice.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.banglatribune.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,one of the largest online news portal
+https://www.bangladesh24online.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://jugobarta.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.jagonews24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.bbarta24.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://zoombangla.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.banglanews24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,one of the largest online news portal
+https://www.ekusheypatrika.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dhakanews24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://barta24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://bhawalnews24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.energybangla.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,energy and power news
+https://www.news24bd.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,
+https://haorbarta24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://maguraprotidin.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Local news portal
+https://thedailycampus.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Campus news portal
+https://mpnews.com.bd/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://chattogramnews.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,local news portal
+https://www.newsbangla24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://techshohor.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,Technology news (blocked on many ISP)
+https://www.sylhetprothidin24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,local news portal
+https://www.ulipur.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,local news portal
+https://dhakatoday.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.sheershasangbad.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.cvoice24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.dhakaprokash24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.durbin.news/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://bahumatrik.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://campustimes.press/,NEWS,News Media,2024-04-23,Digitally Right Limited,Online news portal (blocked on many ISP)
+https://www.newsnow24.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://odhikarpatra.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://www.deshshamachar.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online news portal
+https://dainiksylhet.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,local news portal
+https://barishalnews.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,local news portal
+https://www.arthosuchak.com/,NEWS,News Media,2024-04-23,Digitally Right Limited,online business news portal
+https://ipnewsbd.net/,NEWS,News Media,2024-04-23,Digitally Right Limited,local news portal
+https://www.banglaoutlook.net/,NEWS,News Media,2024-07-17,test-lists.ooni.org contribution,Blocked on most of the ISP (can be accessed with VPN)
+https://albd.org/,POLR,Political Criticism,2023-11-29,OONI,"Official website of Bangladesh Awami League. Also, blocked ATM"
+https://bangladeshwatchdog.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,Bangladesh and neighboring country watchdog
+https://deshivoice.blogspot.com/,POLR,Political Criticism,2014-04-15,citizenlab,political blog
+https://www.himalmag.com/,POLR,Political Criticism,2014-04-15,citizenlab,Regional magazine
+https://www.ti-bangladesh.org/,POLR,Political Criticism,2014-04-15,citizenlab,Trasparency internation BD
+https://bangladeshpolitico.blogspot.com/,POLR,Political Criticism,2016-03-28,OONI,political blog
+https://www.jamaat-e-islami.org/,POLR,Political Criticism,2023-09-20,test-lists.ooni.org contribution,Political party website
+https://shibir.org.bd/,POLR,Political Criticism,2023-09-20,test-lists.ooni.org contribution,Student wing of Jamat e islami party
+https://www.wpbd71.org/,POLR,Political Criticism,2023-11-29,OONI,Political party website
+https://www.bnpbd.org/,POLR,Political Criticism,2023-11-29,OONI,Political party website
+https://www.jatiyoparty.org.bd/,POLR,Political Criticism,2023-11-29,OONI,Political party website
+https://trinomulbnp.org/,POLR,Political Criticism,2023-11-29,OONI,Political party website
+https://cpbbd.org/,POLR,Political Criticism,2023-11-29,OONI,Political party website
+https://spbm.org/,POLR,Political Criticism,2023-11-29,OONI,Political party website
+https://www.tariquerahman.info/,POLR,Political Criticism,2023-12-22,Digitally Right Limited,Website of the son of BNP chairperson
+https://xvideos.com/,PORN,Pornography,2025-11-20,Netalitica,
+https://brazzers.com/,PORN,Pornography,2025-11-20,Netalitica,
+https://www.aliexpress.com/,PROV,Provocative Attire,2025-11-20,Netalitica,
+https://www.selaie.com/,PROV,Provocative Attire,2025-11-20,Netalitica,
+https://manobika.com/,PROV,Provocative Attire,2025-11-20,Netalitica,
+https://unishopz.com/,PROV,Provocative Attire,2025-11-20,Netalitica,
+https://innerworldbd.com/,PROV,Provocative Attire,2025-11-20,Netalitica,
+https://milanobd.com/,PROV,Provocative Attire,2025-11-20,Netalitica,
+https://www.icddrb.org/,PUBH,Public Health,2025-11-20,Netalitica,
+https://www.brac.net/,PUBH,Public Health,2025-11-20,Netalitica,
+https://publichealthfoundation.org.bd/,PUBH,Public Health,2025-11-20,Netalitica,
+https://www.iedcr.gov.bd/,PUBH,Public Health,2025-11-20,Netalitica,
+http://hinduexistence.org/category/bangladeshi-hindus/,REL,Religion,2025-10-02,Netalitica,News about hindu minority in bangladesh
+https://dawahilallah.com/,REL,Religion,2018-12-13,citizenlab,Islamic group website
+https://gazwah.net/,REL,Religion,2018-12-13,citizenlab,Islamic group website
+https://popcouncil.org/,XED,Sex Education,2014-04-15,citizenlab,Reproductive helth and data website
+https://www.prb.org/,XED,Sex Education,2014-04-15,citizenlab,Reproductive helth and data website
