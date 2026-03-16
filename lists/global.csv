@@ -1497,7 +1497,6 @@ https://radiofreel.gitlab.io/,ANON,Anonymization and circumvention tools,2022-10
 https://radiofreel.github.io/,ANON,Anonymization and circumvention tools,2022-10-13,rayasharbain,
 https://www.currenttime.tv/,NEWS,News Media,2022-10-26,test-lists.ooni.org contribution,
 https://www.undp.org/,IGO,Intergovernmental Organizations,2023-02-02,test-lists.ooni.org contribution,
-https://ddosecrets.com/,HUMR,Human Rights Issues,2023-02-20,test-lists.ooni.org contribution,
 http://khilafah.net/,POLR,Political Criticism,2023-02-21,sinarproject,"Right wing Islamic ideology website found blocked in Malaysia, worth tested globally"
 https://chat-gpt.org/,SRCH,Search Engines,2023-03-15,test-lists.ooni.org contribution,
 https://www.westernunion.com/,COMM,E-commerce,2023-03-21,anonymous contribution,
@@ -1722,3 +1721,8 @@ https://genderdysphoria.fyi/,LGBT,LGBT,2025-11-11,test-lists.ooni.org contributi
 https://www.access-unlocked.org/,ANON,Anonymization and circumvention tools,2025-12-08,OONI,New DW website for censorship circumvention tools
 https://chat.openai.com/,CULTR,Culture,2025-12-13,test-lists.ooni.org contribution,AI-powered content generation platform; may be blocked due to restrictions on AI or online content in some countries. Collateral damage of Cloudflare shutdowns in Spain due to LaLiga.
 https://unredacted.org/,ANON,Anonymization and circumvention tools,2026-01-02,OONI,privacy and circumvention related project
+https://www.gov.il/en/,GOVT,Government,2026-02-03,test-lists.ooni.org contribution,Website of the israeli government 
+https://www.i24news.tv/,NEWS,News Media,2026-02-03,test-lists.ooni.org contribution,Israel News Site
+https://www.whitehouse.gov/,GOVT,Government,2026-02-03,test-lists.ooni.org contribution,US government 
+https://tailscale.com/,ANON,Anonymization and circumvention tools,2026-02-03,test-lists.ooni.org contribution,VPN tool
+https://www.twingate.com/,ANON,Anonymization and circumvention tools,2026-02-03,test-lists.ooni.org contribution,VPN tool
