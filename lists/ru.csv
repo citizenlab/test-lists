@@ -1083,3 +1083,13 @@ https://images.apple.com/,GRP,Social Networking,2025-11-03,test-lists.ooni.org c
 https://scripts.google.com/,SRCH,Search Engines,2026-03-16,test-lists.ooni.org contribution,
 https://www.shantdigitaltv.com/,NEWS,News Media,2026-04-28,OONI,Armenian TV channel reportedly blocked in Russia
 https://golive.shantdigitaltv.com/,NEWS,News Media,2026-04-28,OONI,Armenian TV channel reportedly blocked in Russia
+https://us16.campaign-archive.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 304)
+https://us16.campaign-archive.com/?u=5116eb9353d7dbf91ea2390dc&id=0e489dda63,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia
+https://us.list-manage.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 404)
+https://us.list-manage.com/7YZ5oggcgQJtA22nHkOA_h,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia
+https://mcusercontent.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 404)
+https://mcusercontent.com/5116eb9353d7dbf91ea2390dc/images/8323807e-2fe4-a641-5fb8-fa2605b2be12.png,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia
+https://cdn-images.mailchimp.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 403)
+https://cdn-images.mailchimp.com/template_images/email/02e89d02fa76f31fd037d1a51/images/06f8306e-0eae-ad92-006a-50d31be86f42.jpeg,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia
+https://mailchi.mp/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 301)
+https://mailchi.mp/c8a6cc2afd82/which-domains-do-you-use-for-tracking-and-content-delivery,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia
