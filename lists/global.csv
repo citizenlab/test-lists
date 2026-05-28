@@ -1724,3 +1724,6 @@ https://chat.openai.com/,CULTR,Culture,2025-12-13,test-lists.ooni.org contributi
 https://unredacted.org/,ANON,Anonymization and circumvention tools,2026-01-02,OONI,privacy and circumvention related project
 https://vpn-api.proton.me/,ANON,Anonymization and circumvention tools,2026-04-21,OONI,
 https://www.inaturalist.org/,ENV,Environment,2026-04-28,OONI,Reportedly blocked in Russia but worth testing globally
+https://m.site.naver.com/1XlPl,FILE,File-sharing,2026-05-25,test-lists.ooni.org contribution,
+https://www.ipsifly.com/bbs_sub_play_list.php?tb=board_listen&bbs_num=40&key_id=09%ED%9A%8C+2023%ED%95%99%EB%85%84%EB%8F%84+6%EC%9B%94,FILE,File-sharing,2026-05-25,test-lists.ooni.org contribution,
+https://www.ipsifly.com/bbs_detail.php?bbs_num=40&tb=board_listen&id&pg=1&menu_number=582&number,FILE,File-sharing,2026-05-25,test-lists.ooni.org contribution,
