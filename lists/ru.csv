@@ -1083,3 +1083,10 @@ https://images.apple.com/,GRP,Social Networking,2025-11-03,test-lists.ooni.org c
 https://scripts.google.com/,SRCH,Search Engines,2026-03-16,test-lists.ooni.org contribution,
 https://www.shantdigitaltv.com/,NEWS,News Media,2026-04-28,OONI,Armenian TV channel reportedly blocked in Russia
 https://golive.shantdigitaltv.com/,NEWS,News Media,2026-04-28,OONI,Armenian TV channel reportedly blocked in Russia
+https://substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community with sometimes dissenting opinions
+https://open.substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 302)
+https://email.mg-d1.substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 404)
+https://email.mg-d1.substack.com/o/eJxEkNGq6yAQRb-mvt2gjjHmwW8JE5200miCjr3k7w9tD5zXtWGx2AGZ7ke9_Hk0FtHDvEoXrCCvJuvmUQIYQRnTvtypUEWmuCD_rWBGJR5-s9psUtltgm0EsGqcolEKjCXp5qBE8lpqK5WWGqQe3QCDNQq1meUayakwy5uR-f4vqqH1tTGG5xCOLFJbtkqfBM-1k3iXLthjohLIH2W_lhNT_PIUvXKjBiOn-Uv4OskX-t92YqYqzr4u4ci5l8TXQgXXneKvua97CsjpKB-RGUFZK6rPWAPtNyO3VBvHihsPmWJC0foaj4yp-AeV5wsLtSb4-2ZvVN8eAHDGgQXx8vonAAD__x2UeNs,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community
+https://substackcdn.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 403)
+https://substackcdn.com/image/fetch/$s_!PeVs!,w_36,c_scale,f_png,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficon%2FLucideHeart%3Fv%3D4%26height%3D36%26fill%3Dnone%26stroke%3D%2523808080%26strokeWidth%3D2,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community
+https://eotrx.substackcdn.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community
