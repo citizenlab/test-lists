@@ -1726,3 +1726,4 @@ https://vpn-api.proton.me/,ANON,Anonymization and circumvention tools,2026-04-21
 https://www.inaturalist.org/,ENV,Environment,2026-04-28,OONI,Reportedly blocked in Russia but worth testing globally
 https://wetransfer.com/,FILE,File-sharing,2026-05-29,test-lists.ooni.org contribution,send your files around the world without an account
 https://www.file.io/,FILE,File-sharing,2026-05-29,test-lists.ooni.org contribution,"Share files quickly, easily and worry-free"
+https://temp.sh/,FILE,File-sharing,2026-05-29,test-lists.ooni.org contribution,Temporary file hosting
