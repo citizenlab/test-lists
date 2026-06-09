@@ -589,3 +589,8 @@ https://ici.radio-canada.ca/,NEWS,News Media,2025-03-06,OONI,
 https://www3.nhk.or.jp/,NEWS,News Media,2025-03-06,OONI,
 https://www.zhihu.com/,CULTR,Culture,2025-12-27,test-lists.ooni.org contribution,Q&A website
 https://www.gov.cn/,GOVT,Government,2025-12-27,test-lists.ooni.org contribution,chinese government website gate
+https://substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community with sometimes dissenting opinions
+https://open.substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 302)
+https://email.mg-d1.substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 404)
+https://substackcdn.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 403)
+https://eotrx.substackcdn.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community
