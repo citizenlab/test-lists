@@ -178,7 +178,6 @@ https://riseup.net/,ANON,Anonymization and circumvention tools,2014-04-15,citize
 https://rsf.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,Updated by OONI on 2022-09-12
 http://russia.tv/,NEWS,News Media,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://sakhr.com/,COMT,Communication Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
-https://sci-hub.se/,FILE,File-sharing,2019-09-27,Community Member,New sci-hub domain
 https://search.aol.com/,SRCH,Search Engines,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://seclists.org/,HACK,Hacking Tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 https://secfirst.org/,HUMR,Human Rights Issues,2018-07-05,Security First,
@@ -1171,19 +1170,7 @@ https://yt4.ggpht.com/a-/AOh14GhOiUxI-RcMC-Vfl2i15v3xewMr8bt2yNXTfw=s480-c-k-c0x
 https://i.ytimg.com/vi/JBRf3nEqfZ8/hq720.jpg,HOST,Hosting and Blogging Platforms,2021-01-11,Chelchela,
 https://messagevortex.net/,ANON,Anonymization and circumvention tools,2021-01-11,,Site providing a software to anonymize asynchronous messages such as Emails
 https://www.namecoin.org/,ANON,Anonymization and circumvention tools,2021-02-04,Namecoin,Blockchain-based DNS-like naming system; reported to be blocked in Belarus in January 2021
-http://libgen.rs/,FILE,File-sharing,2021-02-09,Library Genesis,
-https://libgen.is/,FILE,File-sharing,2021-02-09,Library Genesis,
-http://libgen.st/,FILE,File-sharing,2021-02-09,Library Genesis,
-http://libgen.gs/,FILE,File-sharing,2021-02-09,Library Genesis,
-http://libgen.lc/,FILE,File-sharing,2021-02-09,Library Genesis,
 http://libgen.li/,FILE,File-sharing,2021-02-09,Library Genesis,
-https://libgen.fun/,FILE,File-sharing,2021-02-09,Library Genesis,
-https://libgen.me/,FILE,File-sharing,2021-02-09,Library Genesis,
-https://www.libgen.tw/,FILE,File-sharing,2022-09-26,Library Genesis,
-https://libgen.space/,FILE,File-sharing,2021-02-09,Library Genesis,
-https://libgen.xyz/,FILE,File-sharing,2021-02-09,Library Genesis,
-https://forum.mhut.org/,FILE,File-sharing,2021-02-09,Library Genesis forums,
-https://libgen.life/,FILE,File-sharing,2021-02-09,Library Genesis forums,
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Generic_Camera_Icon.svg/100px-Generic_Camera_Icon.svg.png,CULTR,Culture,2021-02-22,Wikimedia,URL provided by Wikimedia based on recent traffic events
 https://www.joinclubhouse.com/,GRP,Social Networking,2021-03-03,OONI,Reportedly blocked in UAE but worth testing globally
 https://nordvpn.com/,ANON,Anonymization and circumvention tools,2021-03-05,OONI,Appears to be blocked in Myanmar but worth testing globally
@@ -1474,7 +1461,6 @@ https://fronterafundrgv.org/,HUMR,Human Rights Issues,2026-01-26,test-lists.ooni
 https://chromewebstore.google.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://microsoftedge.microsoft.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
 https://addons.opera.com/,FILE,File-sharing,2022-09-28,OONI,Reportedly blocked in Iran but worth testing globally
-https://z-lib.org/,FILE,File-sharing,2022-10-13,community member,Z-library blocked in few countries
 https://rargb.to/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,mirror of http://rarbg.to/
 https://yts.mx/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,currently blocked in the Netherlands (2022-10-08)
 https://yts.lt/,FILE,File-sharing,2022-10-08,test-lists.ooni.org contribution,redirect to https://yts.mx/
@@ -1694,7 +1680,6 @@ https://www.gog.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,Goo
 https://gamersclub.gg/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,gamer club
 https://www.playstation.com/,GAME,Gaming,2025-06-21,test-lists.ooni.org contribution,playstation website
 https://vuejs.org/,ANON,Anonymization and circumvention tools,2025-06-17,,Used as domain fronting by tor APIs
-https://annas-archive.org/,CULTR,Culture,2025-07-10,test-lists.ooni.org contribution,The largest truly open library in human history
 https://moscow.rtrs.ru/,NEWS,News Media,2025-07-18,test-lists.ooni.org contribution,"Russian national tv, sanctioned in the EU "
 https://bricspress.live/,NEWS,News Media,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
 https://fondfbr.ru/,POLR,Political Criticism,2025-07-18,test-lists.ooni.org contribution, sanctioned in the EU 
@@ -1725,3 +1710,21 @@ https://unredacted.org/,ANON,Anonymization and circumvention tools,2026-01-02,OO
 https://vpn-api.proton.me/,ANON,Anonymization and circumvention tools,2026-04-21,OONI,
 https://www.inaturalist.org/,ENV,Environment,2026-04-28,OONI,Reportedly blocked in Russia but worth testing globally
 https://www.azattyqasia.org/,NEWS,News Media,2026-06-09,OONI,New Russian-language news platform focused on Central Asia which is reportedly blocked in Kazakhstan
+https://libgen.bz/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Library Genesis
+https://libgen.la/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Library Genesis
+https://libgen.gl/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Library Genesis
+https://libgen.vg/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Library Genesis
+https://z-library.sk/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Z-Library
+https://1lib.sk/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Z-Library
+https://z-lib.gl/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Z-Library
+https://go-to-library.sk/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Z-Library
+https://library-access.sk/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Z-Library
+https://annas-archive.gl/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Anna's Archive
+https://annas-archive.pk/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Anna's Archive
+https://annas-archive.gd/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Anna's Archive
+https://sci-hub.ru/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Sci-Hub
+https://sci-hub.su/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Sci-Hub
+https://sci-hub.st/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Sci-Hub
+https://sci-hub.red/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Sci-Hub
+https://sci-hub.box/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Sci-Hub
+https://sci-net.xyz/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Sci-Hub
