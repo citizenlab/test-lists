@@ -1725,3 +1725,4 @@ https://unredacted.org/,ANON,Anonymization and circumvention tools,2026-01-02,OO
 https://vpn-api.proton.me/,ANON,Anonymization and circumvention tools,2026-04-21,OONI,
 https://www.inaturalist.org/,ENV,Environment,2026-04-28,OONI,Reportedly blocked in Russia but worth testing globally
 https://www.azattyqasia.org/,NEWS,News Media,2026-06-09,OONI,New Russian-language news platform focused on Central Asia which is reportedly blocked in Kazakhstan
+https://libgen.bz/,FILE,File-sharing,2026-06-12,test-lists.ooni.org contribution,Library Genesis
