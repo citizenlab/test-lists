@@ -1083,3 +1083,12 @@ https://images.apple.com/,GRP,Social Networking,2025-11-03,test-lists.ooni.org c
 https://scripts.google.com/,SRCH,Search Engines,2026-03-16,test-lists.ooni.org contribution,
 https://www.shantdigitaltv.com/,NEWS,News Media,2026-04-28,OONI,Armenian TV channel reportedly blocked in Russia
 https://golive.shantdigitaltv.com/,NEWS,News Media,2026-04-28,OONI,Armenian TV channel reportedly blocked in Russia
+https://open.substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 302)
+https://email.mg-d1.substack.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 404)
+https://substackcdn.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community (expect 403)
+https://eotrx.substackcdn.com/,HOST,Hosting and Blogging Platforms,2026-05-28,451 Labs,Email newsletter and blogging community
+https://us16.campaign-archive.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 304)
+https://us.list-manage.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 404)
+https://mcusercontent.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 404)
+https://cdn-images.mailchimp.com/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 403)
+https://mailchi.mp/,COMT,Communication Tools,2026-05-11,451 Labs,Transactional and marketing email provider (Mailchimp) CDN or tracking domain reportedly blocked in Russia (expect 301)
