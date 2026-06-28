@@ -1721,3 +1721,4 @@ https://vpn-api.proton.me/,ANON,Anonymization and circumvention tools,2026-04-21
 https://www.inaturalist.org/,ENV,Environment,2026-04-28,OONI,Reportedly blocked in Russia but worth testing globally
 https://www.azattyqasia.org/,NEWS,News Media,2026-06-09,OONI,New Russian-language news platform focused on Central Asia which is reportedly blocked in Kazakhstan
 https://www.shodan.io/,SRCH,Search Engines,2026-06-28,test-lists.ooni.org contribution,search engine used for OSINT (can also be listed as hacking tool ?) 
+https://haveibeenpwned.com/,CTRL,Control content,2026-06-28,test-lists.ooni.org contribution,
