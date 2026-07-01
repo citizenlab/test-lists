@@ -6,7 +6,6 @@ http://webneveshteha.com/weblog/,POLR,Political Criticism,2014-04-15,citizenlab,
 http://www.albainah.net/,REL,Religion,2014-04-15,citizenlab,blocked with 503 error code. Language is Arabic
 http://www.alburhan.com/,REL,Religion,2014-04-15,citizenlab,blocked
 http://www.almeshkat.net/,REL,Religion,2014-04-15,citizenlab,blocked. Language is Arabic
-http://www.alserdaab.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code. Language is Arabic
 http://www.arvand.net/,POLR,Political Criticism,2014-04-15,citizenlab,blocked. Login page only
 http://www.avairan.com/,POLR,Political Criticism,2014-04-15,citizenlab,blocked with 503 error code; as of March 2024 redirects to YouTube page: https://www.youtube.com/@avairan/videos
 http://www.chekhabar.com/,NEWS,News Media,2014-04-15,citizenlab,blocked with 503 error code.
@@ -18,7 +17,6 @@ https://www.hambastegi.org/,POLR,Political Criticism,2014-04-15,citizenlab,block
 http://www.heineken.com/,ALDR,Alcohol & Drugs,2014-04-15,citizenlab,blocked with 503 error code.
 https://www.hemid.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,
 http://www.homa.org/,HUMR,Human Rights Issues,2014-04-15,citizenlab,blocked with 503 error code. Redirected to http://www.go-stuttgart-hotels.com/en/homa.html
-http://www.iran-newspaper.com/,NEWS,News Media,2014-04-15,citizenlab,
 https://www.islamport.com/,HUMR,Human Rights Issues,2014-04-15,citizenlab,language is Arabic
 http://www.jebhemelli.net/,MILX,Terrorism and Militants,2014-04-15,citizenlab,blocked
 http://www.kasr-alsanam.com/,GMB,Gambling,2014-04-15,citizenlab,blocked with 503 error code.
@@ -32,8 +30,6 @@ https://www.pyknet.net/,NEWS,News Media,2014-04-15,citizenlab,blocked
 http://www.rahavard.com/,POLR,Political Criticism,2014-04-15,citizenlab,blocked
 https://www.samaa.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked with 503 error code. POLR-REL
 http://www.toufan.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked.
-http://www.wsu-iran.org/,POLR,Political Criticism,2014-04-15,citizenlab,blocked
-https://www.stupidcensorship.com/,ANON,Anonymization and circumvention tools,2014-04-15,citizenlab,Updated by OONI on 2017-02-14
 http://footballitarin.com/,CULTR,Culture,2015-03-20,OONI,Blocked. Sport news
 https://biladi-sa.com/,NEWS,News Media,2016-04-20,citizenlab,language is Arabic
 https://tabuk-news.com/,NEWS,News Media,2016-04-20,citizenlab,blocked. Language is Arabic
@@ -54,7 +50,6 @@ https://yanbu-news.com/news/,NEWS,News Media,2016-04-20,citizenlab,Language is A
 https://www.zarinpal.com/,COMM,E-commerce,2016-05-12,berkman,
 https://asl19.org/,HUMR,Human Rights Issues,2016-07-16,ICLab,ASL 19. blocked with RST injection: ERR_CONNECTION_RESET
 https://www.iranhumanrights.org/,HUMR,Human Rights Issues,2016-07-16,ICLab,International Campaign for Human Rights in Iran. blocked with RST injection: ERR_CONNECTION_RESET
-https://aharvesal.ir/,NEWS,News Media,2017-05-16,ASL19,
 https://arcgis.com/,FILE,File-sharing,2017-05-16,ASL19,look like blocked Iranian ip. Site about something like google maps.
 https://asre-nou.net/,POLR,Political Criticism,2017-05-16,ASL19,
 http://berooztarinha.com/,CULTR,Culture,2017-05-16,ASL19,
