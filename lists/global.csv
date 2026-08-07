@@ -1725,3 +1725,6 @@ https://onlyfans.com/,PROV,Provocative Attire,2026-07-30,OONI,
 https://envirodatagov.org/,ENV,Environment,2026-07-30,OONI,
 https://www.kakaocorp.com/,COMT,Communication Tools,2026-07-30,OONI,Blocked in China and reportedly blocked in Russia too
 https://bip.com/,COMT,Communication Tools,2026-07-30,OONI,Reportedly blocked in Russia but worth testing globally
+https://www.vpngate.net/en/,ANON,Anonymization and circumvention tools,2026-08-01,test-lists.ooni.org contribution,
+https://ur.gov.iq/,GOVT,Government,2026-08-01,test-lists.ooni.org contribution,
+https://alasfoorgroup.org/,PUBH,Public Health,2026-08-01,test-lists.ooni.org contribution,
