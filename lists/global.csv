@@ -1724,3 +1724,7 @@ https://onlyfans.com/,PROV,Provocative Attire,2026-07-30,OONI,
 https://envirodatagov.org/,ENV,Environment,2026-07-30,OONI,
 https://www.kakaocorp.com/,COMT,Communication Tools,2026-07-30,OONI,Blocked in China and reportedly blocked in Russia too
 https://bip.com/,COMT,Communication Tools,2026-07-30,OONI,Reportedly blocked in Russia but worth testing globally
+https://lb.download.kiwix.org/zim/,CULTR,Culture,2026-08-27,https://github.com/kiwix/overview/issues/174,
+https://browse.library.kiwix.org/,CULTR,Culture,2026-08-27,https://github.com/kiwix/overview/issues/174,
+https://mirror.download.kiwix.org/,CULTR,Culture,2026-08-27,https://github.com/kiwix/overview/issues/174,
+https://kiwix.org/,CULTR,Culture,2026-08-27,https://github.com/kiwix/overview/issues/174,
