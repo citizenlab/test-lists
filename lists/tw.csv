@@ -391,3 +391,77 @@ https://ici.radio-canada.ca/,NEWS,News Media,2025-03-06,OONI,
 https://www3.nhk.or.jp/,NEWS,News Media,2025-03-06,OONI,
 https://newbloommag.net/,NEWS,News Media,2025-09-03,test-lists.ooni.org contribution,
 https://www.xiaohongshu.com/,GRP,Social Networking,2025-12-10,test-lists.ooni.org contribution,The Ministry of Internal Affairs of the Republic of China announced since 2025/12/03 blocked XiaoHongShu for one year for anti-fraud reasons.
+https://www.dpp.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Democratic Progressive Party
+https://www.kmt.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Kuomintang
+https://www.tpp.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Taiwan People Party
+https://newpowerparty.tw/,POLR,Political Criticism,2026-09-12,anoni.net,New Power Party
+https://statebuilding.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Taiwan Statebuilding Party
+https://www.sdp.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Social Democratic Party
+https://np.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,New Party
+https://watchout.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Watchout - legislative monitoring and political commentary
+https://ccw.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Citizen Congress Watch
+https://www.thinkingtaiwan.net/,POLR,Political Criticism,2026-09-12,anoni.net,Thinking Taiwan Forum - political commentary
+https://voicettank.org/,POLR,Political Criticism,2026-09-12,anoni.net,Voicettank - policy and political commentary
+https://whogovernstw.org/,POLR,Political Criticism,2026-09-12,anoni.net,Who Governs TW - political science commentary
+https://taronews.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Taro News - political commentary
+https://g0v.tw/,POLR,Political Criticism,2026-09-12,anoni.net,g0v - civic tech community working on government transparency
+https://tfc-taiwan.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Taiwan FactCheck Center
+https://cofacts.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Cofacts - crowdsourced fact-checking. Returns 403 to non-browser clients
+https://www.mygopen.com/,POLR,Political Criticism,2026-09-12,anoni.net,MyGoPen - fact-checking
+https://www.twaea.org.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Economic Democracy Union
+https://www.dcard.tw/,GRP,Social Networking,2026-09-12,anoni.net,Dcard - major Taiwanese forum. Returns 403 to non-browser clients
+https://www.plurk.com/,GRP,Social Networking,2026-09-12,anoni.net,Plurk - microblogging platform with a large Taiwanese user base
+https://www.mobile01.com/,GRP,Social Networking,2026-09-12,anoni.net,Mobile01 - major Taiwanese forum. Returns 403 to non-browser clients
+https://vocus.cc/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,vocus - Taiwanese publishing platform
+https://hackmd.io/,COMT,Communication Tools,2026-09-12,anoni.net,HackMD - collaborative notes developed in Taiwan and widely used by local communities
+https://equallove.tw/,LGBT,LGBT,2026-09-12,anoni.net,Taiwan Equality Campaign
+https://twpride.org/,LGBT,LGBT,2026-09-12,anoni.net,Taiwan LGBT Pride
+https://www.lgbtfamily.org.tw/,LGBT,LGBT,2026-09-12,anoni.net,Taiwan LGBT Family Rights Advocacy
+https://www.lourdes.org.tw/,PUBH,Public Health,2026-09-12,anoni.net,Lourdes Association - HIV support services
+https://www.taiwanaids.org.tw/,PUBH,Public Health,2026-09-12,anoni.net,Taiwan Red Ribbon Foundation
+https://www.tsos.org.tw/,PUBH,Public Health,2026-09-12,anoni.net,Taiwanese Society of Suicidology
+https://anoni.net/,ANON,Anonymization and circumvention tools,2026-09-12,anoni.net,anoni.net - Taiwanese anonymity network community. Submitted by the same community and disclosed in the PR
+https://cofacts.ai/,POLR,Political Criticism,2026-09-12,anoni.net,Cofacts AI - AI assisted fact-checking front end of the Cofacts project. An application without dated content
+https://www.fgs.org.tw/,REL,Religion,2026-09-12,anoni.net,Fo Guang Shan - Buddhist order
+https://www.tzuchi.org.tw/,REL,Religion,2026-09-12,anoni.net,Tzu Chi Foundation - Buddhist charity
+https://www.ddm.org.tw/,REL,Religion,2026-09-12,anoni.net,Dharma Drum Mountain - Buddhist order
+https://www.catholic.org.tw/,REL,Religion,2026-09-12,anoni.net,Chinese Regional Bishops Conference - Catholic church in Taiwan
+https://www.tjc.org.tw/,REL,Religion,2026-09-12,anoni.net,True Jesus Church in Taiwan
+https://falundafa.org.tw/,REL,Religion,2026-09-12,anoni.net,Falun Dafa Association of Taiwan
+https://home.gamer.com.tw/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,Bahamut personal pages - blogging on a major Taiwanese community site
+https://ithelp.ithome.com.tw/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,iThome Help - Taiwanese technical community and blogging platform
+https://www.potatomedia.co/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,Potato Media - Taiwanese publishing platform
+https://tw.yahoo.com/,SRCH,Search Engines,2026-09-12,anoni.net,Yahoo Taiwan portal and search
+https://www.pchome.com.tw/,SRCH,Search Engines,2026-09-12,anoni.net,PChome portal and search
+https://webmail.hinet.net/,COMT,Communication Tools,2026-09-12,anoni.net,HiNet webmail - mail service of the largest Taiwanese ISP
+https://hamivideo.hinet.net/,MMED,Media sharing,2026-09-12,anoni.net,Hami Video - streaming service of Chunghwa Telecom
+https://www.litv.tv/,MMED,Media sharing,2026-09-12,anoni.net,LiTV - Taiwanese streaming service
+https://www.myvideo.net.tw/,MMED,Media sharing,2026-09-12,anoni.net,myVideo - streaming service of Taiwan Mobile
+https://www.hpa.gov.tw/,PUBH,Public Health,2026-09-12,anoni.net,Health Promotion Administration
+https://www.npm.gov.tw/,CULTR,Culture,2026-09-12,anoni.net,National Palace Museum
+https://www.tfam.museum/,CULTR,Culture,2026-09-12,anoni.net,Taipei Fine Arts Museum
+https://www.openbook.org.tw/,CULTR,Culture,2026-09-12,anoni.net,Openbook - Taiwanese book review magazine
+https://opinion.cw.com.tw/,POLR,Political Criticism,2026-09-12,anoni.net,Independent Opinion @CommonWealth - commentary platform. Returns 403 to non-browser clients
+https://ani.gamer.com.tw/,MMED,Media sharing,2026-09-12,anoni.net,Bahamut Anime Crazy - major Taiwanese streaming service
+https://www.eyny.com/,GRP,Social Networking,2026-09-12,anoni.net,Eyny - long running Taiwanese forum
+https://tw.mail.yahoo.com/,COMT,Communication Tools,2026-09-12,anoni.net,Yahoo Mail Taiwan
+https://www.sexedu.org.tw/,XED,Sex Education,2026-09-12,anoni.net,Taiwan Association of Sex Education
+https://tian-jian.org/,NEWS,News Media,2026-09-12,anoni.net,Tian Jian - publication covering Chinese language media and press freedom. Returns 403 to non-browser clients
+https://www.breadoflife.taipei/,REL,Religion,2026-09-12,anoni.net,Bread of Life Christian Church in Taipei
+https://tcnn.org.tw/,REL,Religion,2026-09-12,anoni.net,Taiwan Church News Network - Presbyterian church news
+https://www.ct.org.tw/,REL,Religion,2026-09-12,anoni.net,Christian Tribune - Chinese language Christian newspaper
+https://www.cosmiccare.org/,REL,Religion,2026-09-12,anoni.net,Cosmic Light Holistic Care Organization
+https://www.baoan.org.tw/,REL,Religion,2026-09-12,anoni.net,Dalongdong Baoan Temple - folk religion
+https://www.blisswisdom.org/,REL,Religion,2026-09-12,anoni.net,Bliss and Wisdom - Buddhist order
+https://www.enlighten.org.tw/,REL,Religion,2026-09-12,anoni.net,True Enlightenment Practitioners Association - Buddhist group
+https://www.taipeimosque.org.tw/,REL,Religion,2026-09-12,anoni.net,Taipei Grand Mosque
+https://www.tienti.org/,REL,Religion,2026-09-12,anoni.net,The Lord of Universe Church - Taiwanese new religious movement
+https://mypaper.pchome.com.tw/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,PChome Personal News Station - long running blogging platform
+https://firstory.me/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,Firstory - Taiwanese podcast hosting platform
+https://www.net-chinese.com.tw/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,Net-Chinese - Taiwanese domain registrar and hosting provider
+https://www.mitake.com.tw/,COMT,Communication Tools,2026-09-12,anoni.net,Mitake - Taiwanese SMS gateway provider
+https://www.twrf.org.tw/,HUMR,Human Rights Issues,2026-09-12,anoni.net,Taipei Women Rescue Foundation - gender violence and trafficking
+https://www.38.org.tw/,HUMR,Human Rights Issues,2026-09-12,anoni.net,Modern Women Foundation - domestic and sexual violence prevention
+https://www.goodshepherd.org.tw/,HUMR,Human Rights Issues,2026-09-12,anoni.net,Good Shepherd Social Welfare Foundation - services for women and children
+https://www.twh.org.tw/,XED,Sex Education,2026-09-12,anoni.net,Taiwan Womens Health Network - reproductive and womens health information
+https://cloud.hinet.net/,HOST,Hosting and Blogging Platforms,2026-09-12,anoni.net,HiNet Cloud - cloud hosting service of Chunghwa Telecom
