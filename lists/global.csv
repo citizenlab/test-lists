@@ -1729,3 +1729,4 @@ https://youtubei.googleapis.com/,MMED,Media sharing,2026-09-24,test-lists.ooni.o
 https://redirector.googlevideo.com/robots.txt,MMED,Media sharing,2026-09-24,test-lists.ooni.org contribution,Video delivery servers used by the YouTube app and website
 https://api.x.com/robots.txt.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,API server of the X mobile app
 https://api.twitter.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Legacy API server still used by X (Twitter) clients
+https://graph.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,Graph API used by the Facebook and Messenger apps
