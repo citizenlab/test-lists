@@ -1731,3 +1731,4 @@ https://api.x.com/robots.txt.txt,GRP,Social Networking,2026-09-24,test-lists.oon
 https://api.twitter.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Legacy API server still used by X (Twitter) clients
 https://graph.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,Graph API used by the Facebook and Messenger apps
 https://edge-mqtt.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Real-time messaging endpoint of the Facebook and Messenger apps
+https://graph.instagram.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,API server used by the Instagram app
