@@ -1726,3 +1726,4 @@ https://www.kakaocorp.com/,COMT,Communication Tools,2026-07-30,OONI,Blocked in C
 https://bip.com/,COMT,Communication Tools,2026-07-30,OONI,Reportedly blocked in Russia but worth testing globally
 https://rightscon.summit.tc/,GRP,Social Networking,2026-09-09,test-lists.ooni.org contribution,
 https://youtubei.googleapis.com/,MMED,Media sharing,2026-09-24,test-lists.ooni.org contribution,API server of the YouTube mobile app
+https://redirector.googlevideo.com/robots.txt,MMED,Media sharing,2026-09-24,test-lists.ooni.org contribution,Video delivery servers used by the YouTube app and website
