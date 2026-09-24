@@ -1732,3 +1732,4 @@ https://api.twitter.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.o
 https://graph.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,Graph API used by the Facebook and Messenger apps
 https://edge-mqtt.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Real-time messaging endpoint of the Facebook and Messenger apps
 https://graph.instagram.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,API server used by the Instagram app
+https://api16-normal-c-useast1a.tiktokv.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, API server of the TikTok mobile app
