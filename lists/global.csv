@@ -1725,3 +1725,12 @@ https://envirodatagov.org/,ENV,Environment,2026-07-30,OONI,
 https://www.kakaocorp.com/,COMT,Communication Tools,2026-07-30,OONI,Blocked in China and reportedly blocked in Russia too
 https://bip.com/,COMT,Communication Tools,2026-07-30,OONI,Reportedly blocked in Russia but worth testing globally
 https://rightscon.summit.tc/,GRP,Social Networking,2026-09-09,test-lists.ooni.org contribution,
+https://youtubei.googleapis.com/,MMED,Media sharing,2026-09-24,test-lists.ooni.org contribution,API server of the YouTube mobile app
+https://redirector.googlevideo.com/robots.txt,MMED,Media sharing,2026-09-24,test-lists.ooni.org contribution,Video delivery servers used by the YouTube app and website
+https://api.x.com/robots.txt.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,API server of the X mobile app
+https://api.twitter.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Legacy API server still used by X (Twitter) clients
+https://graph.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,Graph API used by the Facebook and Messenger apps
+https://edge-mqtt.facebook.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Real-time messaging endpoint of the Facebook and Messenger apps
+https://graph.instagram.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution,API server used by the Instagram app
+https://api16-normal-c-useast1a.tiktokv.com/robots.txt,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, API server of the TikTok mobile app
+https://p16-sign-va.tiktokcdn.com/,GRP,Social Networking,2026-09-24,test-lists.ooni.org contribution, Image and video CDN of the TikTok mobile app
