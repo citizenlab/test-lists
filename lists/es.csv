@@ -208,3 +208,5 @@ https://uacrisis.org/,POLR,Political Criticism,2026-05-07,User contribution,Ukra
 https://senate.gov.au/,GOVT,Government,2026-05-07,User contribution,Official Australian Senate website
 https://kalshi.com/,GMB,Gambling,2026-05-26,test-lists.ooni.org contribution,Recently ordered to be blocked by authorities 2026-05-26 – CSL
 https://polymarket.com/,GMB,Gambling,2026-05-26,test-lists.ooni.org contribution,Recently ordered to be blocked by authorities 2026-05-26 – CSL
+http://example.com/,MISC,Miscelaneous content,2026-10-01,test-lists.ooni.org contribution,"Seems to be blocked nationwide by Orange, investigating if this happens on other ISPs"
+https://example.com/,MISC,Miscelaneous content,2026-10-01,test-lists.ooni.org contribution,"Seems to be blocked nationwide by Orange, investigating if this happens on other ISPs"
