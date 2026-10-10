@@ -152,13 +152,13 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
             continue
         with open(csv_path, 'r', encoding='utf-8') as in_file:
             reader = csv.reader(in_file, delimiter=',')
+            errors = []
             first_line = next(reader)
             if first_line != header:
                 errors.append(
                     InvalidHeader(csv_path, 0)
                 )
             urls_bag = set()
-            errors = []
             rows = []
             duplicates = 0
             without_slash = 0
