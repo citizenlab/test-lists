@@ -1726,3 +1726,10 @@ https://www.kakaocorp.com/,COMT,Communication Tools,2026-07-30,OONI,Blocked in C
 https://bip.com/,COMT,Communication Tools,2026-07-30,OONI,Reportedly blocked in Russia but worth testing globally
 https://rightscon.summit.tc/,HUMR,Human Rights Issues,2026-09-09,test-lists.ooni.org contribution,
 https://www.senate.gov/,GOVT,Government,2026-10-29,test-lists.ooni.org contribution,United States Senate
+https://kryfo.app/,COMT,Communication Tools,2026-11-08,Kryfo,Website of the Kryfo messenger (Tor by default with automatic bridges)
+https://kryfo.app/download,COMT,Communication Tools,2026-11-08,Kryfo,Download page of the Kryfo messenger
+https://relay.kryfo.app/,COMT,Communication Tools,2026-11-08,Kryfo,Nostr relay used by the Kryfo messenger (websocket) and its handle registry
+https://relay2.kryfo.app/,COMT,Communication Tools,2026-11-08,Kryfo,Second Nostr relay used by the Kryfo messenger (websocket)
+https://github.com/GnosiWorks/Kryfo/releases/,HOST,Hosting and Blogging Platforms,2026-11-08,Kryfo,Release downloads of the Kryfo messenger
+https://release-assets.githubusercontent.com/,HOST,Hosting and Blogging Platforms,2026-11-08,Kryfo,Host that serves GitHub release downloads (many circumvention tools ship this way)
+https://f-droid.org/packages/app.kryfo/,FILE,File-sharing,2026-11-08,Kryfo,F-Droid page of the Kryfo messenger
