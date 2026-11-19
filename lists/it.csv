@@ -259,3 +259,5 @@ https://sanctioned-suicide.org/,PUBH,Public Health,2021-06-07,OONI,Blocked in It
 https://www.cb01.in/,FILE,File-sharing,2023-02-02,test-lists.ooni.org contribution,
 https://it.sputniknews.com/,NEWS,News Media,2023-04-24,test-lists.ooni.org contribution,
 https://audiomack.com/,MMED,Media sharing,2024-02-08,test-lists.ooni.org contribution,"officially removed from the AGCOM blocked URL list on 6 February 2024, however still blocked by Italian ISP/Telcos"
+https://polymarket.com/,GMB,Gambling,2026-11-03,Vultax Research,ADM decision 427985 of 10 Jul 2026 ordered ISP blocking from 27 Jul 2026; TAR Lazio refused suspension on 5 Aug 2026; record: vultax.com/research/prediction-markets-europe-regulation-tracker
+https://kalshi.com/,GMB,Gambling,2026-11-03,Vultax Research,On the ADM list of blocked gambling sites by 18 Jan 2026 (archived copy); record: vultax.com/research/prediction-markets-europe-regulation-tracker
