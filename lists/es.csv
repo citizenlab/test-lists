@@ -208,3 +208,14 @@ https://uacrisis.org/,POLR,Political Criticism,2026-05-07,User contribution,Ukra
 https://senate.gov.au/,GOVT,Government,2026-05-07,User contribution,Official Australian Senate website
 https://kalshi.com/,GMB,Gambling,2026-05-26,test-lists.ooni.org contribution,Recently ordered to be blocked by authorities 2026-05-26 – CSL
 https://polymarket.com/,GMB,Gambling,2026-05-26,test-lists.ooni.org contribution,Recently ordered to be blocked by authorities 2026-05-26 – CSL
+https://29neleccionesgenerales.es/,GOVT,Government,2026-11-19,OONI,Official general election results site of the Ministry of Home Affairs (uses Cloudflare)
+https://resultados-elecciones.rtve.es/,NEWS,News Media,2026-11-19,OONI,RTVE general election results
+https://www.juntaelectoralcentral.es/,GOVT,Government,2026-11-19,OONI,Central Electoral Board
+https://www.correos.es/,GOVT,Government,2026-11-19,OONI,Postal service (postal voting)
+https://sede.ine.gob.es/ce-mesas/presentacion,GOVT,Government,2026-11-19,OONI,INE polling station lookup
+https://www.lamoncloa.gob.es/,GOVT,Government,2026-11-19,OONI,Official government announcements
+https://www.rtve.es/noticias/verificartve/,NEWS,News Media,2026-11-19,OONI,RTVE fact-checking
+https://www.newtral.es/,NEWS,News Media,2026-11-19,OONI,Fact-checking
+https://maldita.es/,NEWS,News Media,2026-11-19,OONI,Fact-checking
+https://elpais.com/,NEWS,News Media,2026-11-19,OONI,
+https://www.elmundo.es/,NEWS,News Media,2026-11-19,OONI,
