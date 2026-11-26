@@ -94,6 +94,9 @@ class InvalidDate(TestListErrorWithValue):
 class DuplicateURLWithGlobalList(TestListErrorWithValue):
     name = "Duplicate URL between Local List and Global List"
 
+class InconsistentCategoryCode(TestListErrorWithValue):
+    name = "Inconsistent Category Code across lists"
+
 def get_legacy_description_code(row):
     return row[1], row[0]
 
@@ -133,8 +136,11 @@ def check(url):
         return ERR_NOSLASH
 
 
-def main(lists_path, fix_duplicates=False, fix_slash=False):
+def main(lists_path, fix_duplicates=False, fix_slash=False,
+         check_category_consistency=False):
     all_errors = []
+    # url -> list of (category_code, csv_path, line_number)
+    url_categories = {}
     total_urls = 0
     total_countries = 0
     CATEGORY_CODES = load_categories(
@@ -145,7 +151,7 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
               'date_added', 'source', 'notes']
     # preload the global list to check against looking for dupes
     global_urls_bag = load_global_list(os.path.join(lists_path, "global.csv"))
-    for csv_path in glob(os.path.join(lists_path, "*")):
+    for csv_path in sorted(glob(os.path.join(lists_path, "*"))):
         if os.path.basename(csv_path).startswith('00-'):
             continue
         if not csv_path.endswith('.csv'):
@@ -217,6 +223,9 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
                         InvalidSource(source, csv_path, idx+2)
                     )
                 urls_bag.add(url)
+                url_categories.setdefault(url, []).append(
+                    (cat_code, csv_path, idx+2)
+                )
                 rows.append(row)
             print('* {}'.format(csv_path))
             print('  {} URLs'.format(idx+1))
@@ -242,6 +251,22 @@ def main(lists_path, fix_duplicates=False, fix_slash=False):
             print('Sorting %s - Found %d duplicates' % (csv_path, duplicates))
             os.rename(csv_path + '.fixed', csv_path)
 
+    if check_category_consistency:
+        for url in sorted(url_categories):
+            occurrences = url_categories[url]
+            if len(set(code for code, _, _ in occurrences)) < 2:
+                continue
+            _, first_path, first_line = occurrences[0]
+            all_errors.append(
+                InconsistentCategoryCode(
+                    url, first_path, first_line,
+                    details=', '.join(
+                        '{} in {} line {}'.format(code, os.path.basename(path), line)
+                        for code, path, line in occurrences
+                    )
+                )
+            )
+
     print('----------')
     print('Analyzed {} URLs in {} countries'.format(total_urls, total_countries))
     if len(all_errors) == 0:
@@ -258,6 +283,11 @@ if __name__ == "__main__":
     parser.add_argument('lists_path', metavar='LISTS_PATH', help='path to the test list')
     parser.add_argument('--fix-duplicates', action='store_true')
     parser.add_argument('--fix-slash', action='store_true')
+    parser.add_argument('--check-category-consistency', action='store_true',
+                        help='also report URLs that have a different category '
+                             'code in different lists (see '
+                             'fix-dupe-categories.py to fix them)')
 
     args = parser.parse_args()
-    main(args.lists_path, fix_duplicates=args.fix_duplicates, fix_slash=args.fix_slash)
+    main(args.lists_path, fix_duplicates=args.fix_duplicates, fix_slash=args.fix_slash,
+         check_category_consistency=args.check_category_consistency)
